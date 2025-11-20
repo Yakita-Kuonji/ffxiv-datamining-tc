@@ -19,7 +19,7 @@ int32,str,str
 14,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_001_002","購買公寓內的房間後，
 即可將其作為自己的私人空間使用。
 盡情用傢俱或壁紙裝飾自己的房間吧。"
-15,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_003","在房間中也可自由設定盆栽、管絃樂琴、
+15,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_003","在房間中也可自由設定盆栽、管弦樂琴、
 傳喚鈴、美容師傳喚鈴、收藏櫃、僱傭人員等便利的機能。"
 16,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_004","還可以使用配備的陸行鳥廄
 培養陸行鳥、改變陸行鳥羽毛的顏色等。
@@ -31,9 +31,9 @@ int32,str,str
 19,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_002","此外，所屬黑渦團的情況下，軍銜需在「少甲士」以上，
 所屬雙蛇黨的情況下，軍銜需在「少牙士」以上，
 所屬不滅隊的情況下，軍銜需在「少鬥士」以上。"
-20,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_003","要想購買公寓「紅梅御殿」的房間，
+20,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_003","若想購買公寓「紅梅御殿」的房間，
 需要先完成主線任務「乘風破浪」。"
-21,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_004","要想購買公寓「皓天爐舍」的房間，
+21,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_004","若想購買公寓「皓天爐舍」的房間，
 需要先完成主線任務「絕命怒嚎」。"
 22,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_003_001","在拆除房間前，
 需要先撤除房間內的所有傢俱。"
@@ -74,7 +74,7 @@ int32,str,str
 40,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_001","購買房間"
 41,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_002","詢問有關公寓的事情"
 42,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_002_003","取消"
-43,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_003_000","要想購買公寓的房間，必須有足夠的Gil繳納費用，
+43,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_003_000","若想購買公寓的房間，必須有足夠的Gil繳納費用，
 還要將任意職業升至50級。"
 44,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_003_001","此外，所屬黑渦團的情況下，軍銜需在「少甲士」以上，
 所屬雙蛇黨的情況下，軍銜需在「少牙士」以上，
@@ -94,14 +94,14 @@ int32,str,str
 現在我們正在努力準備中。"
 53,"TEXT_HOUFIXMANSIONOFFICER_00363_KUGANE_NOT_OPENED_2","紅梅御殿現還處於售前展示狀態。
 在土地正式對外銷售前，請您耐心等待。"
-54,"TEXT_HOUFIXMANSIONOFFICER_00363_KUGANE_NOT_ARROWED_TO_BUY","要想購買公寓「紅梅御殿」的房間，
+54,"TEXT_HOUFIXMANSIONOFFICER_00363_KUGANE_NOT_ARROWED_TO_BUY","若想購買公寓「紅梅御殿」的房間，
 需要先完成主線任務「乘風破浪」。"
 55,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_1","歡迎來到皓天爐舍！
 為了正式向廣大冒險者開放，
 現在這裡正緊鑼密鼓地進行著準備工作。"
 56,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_2","皓天爐舍現還處於售前展示狀態。
 在土地正式對外銷售前，請您耐心等待。"
-57,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_ARROWED_TO_BUY","要想購買公寓「皓天爐舍」的房間，
+57,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_ARROWED_TO_BUY","若想購買公寓「皓天爐舍」的房間，
 需要先完成主線任務「絕命怒嚎」。"
 58,"TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_1","歡迎來到公寓「<Switch(IntegerParameter(1))><Case(1)>中桅塔</Case><Case(2)>百合嶺</Case><Case(3)>娜娜莫大風車</Case><Case(4)>紅梅御殿</Case><Case(5)>皓天爐舍</Case></Switch>」
 目前正在進行準備作業，以便日後開放給各位冒險者們。"

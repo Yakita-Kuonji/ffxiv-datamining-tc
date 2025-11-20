@@ -5,7 +5,7 @@ int32,str,str
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
 A4調查平臺的斯提格瑪四正在尋求用於淨化土壤的素材。"
-1,"TEXT_BANOMI128_04634_SEQ_01","將委託物品交給治理土壤污染型歐米克隆"
+1,"TEXT_BANOMI128_04634_SEQ_01","將委託物品交給治理土壤污染型奧密克戎"
 2,"TEXT_BANOMI128_04634_SEQ_02","向斯提格瑪四報告"
 3,"TEXT_BANOMI128_04634_SEQ_03",""
 4,"TEXT_BANOMI128_04634_SEQ_04",""
@@ -28,7 +28,7 @@ A4調查平臺的斯提格瑪四正在尋求用於淨化土壤的素材。"
 21,"TEXT_BANOMI128_04634_SEQ_21",""
 22,"TEXT_BANOMI128_04634_SEQ_22",""
 23,"TEXT_BANOMI128_04634_SEQ_23",""
-24,"TEXT_BANOMI128_04634_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採掘<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給治理土壤污染型歐米克隆</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給治理土壤污染型歐米克隆</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給治理土壤污染型歐米克隆</If><Else/></If></If></If>"
+24,"TEXT_BANOMI128_04634_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採掘<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給治理土壤污染型奧密克戎</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給治理土壤污染型奧密克戎</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給治理土壤污染型奧密克戎</If><Else/></If></If></If>"
 25,"TEXT_BANOMI128_04634_TODO_01","向斯提格瑪四報告"
 26,"TEXT_BANOMI128_04634_TODO_02",""
 27,"TEXT_BANOMI128_04634_TODO_03",""
@@ -66,7 +66,7 @@ A4調查平臺的斯提格瑪四正在尋求用於淨化土壤的素材。"
 捕獲時推薦使用<Sheet(Item,36588,0)/>。"
 53,"TEXT_BANOMI128_04634_STIGMA4_100_006","由於採集對象是其他星球的未知物資，本機暫時無法進行重現。
 為了方便解析及土壤淨化的研究，請同盟者到手後，
-儘快交給歐米克隆基地的治理土壤污染型歐米克隆。"
+儘快交給奧密克戎基地的治理土壤污染型奧密克戎。"
 54,"TEXT_BANOMI128_04634_OMICRON04632_100_007","沙沙沙……污染淨化程式
 已完成了整體的5.29%……
 目前正在等待所需素材的到來。"
@@ -74,7 +74,7 @@ A4調查平臺的斯提格瑪四正在尋求用於淨化土壤的素材。"
 56,"TEXT_BANOMI128_04634_OMICRON04632_100_009","沙沙、沙沙沙……確認素材已交納。
 接下來將進入成分解析及藥劑產生階段。
 請同盟者從斯提格瑪四那裡領取報酬。"
-57,"TEXT_BANOMI128_04634_STIGMA4_100_010","本機已通過通訊領取了所需素材的交納報告。
+57,"TEXT_BANOMI128_04634_STIGMA4_100_010","本機已透過通訊領取了所需素材的交納報告。
 對同盟者此次的表現給予高度評價。"
 58,"TEXT_BANOMI128_04634_STIGMA4_100_011","不過土壤污染的淨化率處於極低的水準……
 與安排的工作量相比，獲得的成果卻很有限，

@@ -53,7 +53,7 @@ int32,str,str
 46,"TEXT_AKTKMK101_04735_TODO_22",""
 47,"TEXT_AKTKMK101_04735_TODO_23",""
 48,"TEXT_AKTKMK101_04735_VARSHAHN_000_000","<Highlight>ObjectParameter(1)</Highlight>，你來得正好。
-我正想要確認大家的情況來著。"
+我正想要確認大家的情況。"
 49,"TEXT_AKTKMK101_04735_VARSHAHN_000_001","為了研究前往虛無界的新手段，
 雅·修朵拉他們去了舊薩雷安……
 到目前為止還沒有發來聯絡。"
@@ -72,12 +72,12 @@ int32,str,str
 58,"TEXT_AKTKMK101_04735_MYSTERIOUSPERSON_000_008","……你們要一起來嗎？"
 59,"TEXT_AKTKMK101_04735_VARSHAHN_000_009","這可是零第一次邀請我，
 要是拒絕了可不合適。"
-60,"TEXT_AKTKMK101_04735_VARSHAHN_000_010","我也正想去城裡轉轉，
+60,"TEXT_AKTKMK101_04735_VARSHAHN_000_010","我也正想去城裡逛逛，
 很樂意與你同行。"
 61,"TEXT_AKTKMK101_04735_VARSHAHN_000_011","<Highlight>ObjectParameter(1)</Highlight>，你也會去吧？"
 62,"TEXT_AKTKMK101_04735_MYSTERIOUSPERSON_000_012","那我們就快點出發吧。
 不過在那之前，得先去一趟大巴扎那邊。"
-63,"TEXT_AKTKMK101_04735_VARSHAHN_000_020","要想了解拉札漢的經濟情況，
+63,"TEXT_AKTKMK101_04735_VARSHAHN_000_020","若想了解拉札漢的經濟情況，
 得到大巴扎觀察人們的神情和言行……
 這是阿希旺等歷代總督教給我的方法。"
 64,"TEXT_AKTKMK101_04735_SPICEMERCHANT04735_000_025","哦？是零小姐的朋友嗎？
@@ -153,7 +153,7 @@ int32,str,str
 105,"TEXT_AKTKMK101_04735_MYSTERIOUSPERSON_000_125","吃得好舒服……"
 106,"TEXT_AKTKMK101_04735_MEHRYDE_000_130","托各位的福，才有了這麼一場很棒的活動。
 要是特製咖哩能成為人們熱議的話題，
-沒準會有更多的客人來店呢。"
+說不定會有更多的客人來店呢。"
 107,"TEXT_AKTKMK101_04735_MIHLEEL_000_135","那個咖哩感覺真不錯！
 看著零小姐吃得那麼津津有味，
 我也想請梅麗德小姐為我做一份嚐嚐了！"

@@ -21,9 +21,9 @@ int32,str,str
 這樣隨著它的成長，慢慢地增加訓練量是最好的。"
 10,"TEXT_CMNGSCCHOCOBORACETRAININGTALK_00234_GUIDE_A1_000_04","訓練的時候需要專用的飼料來餵食競賽陸行鳥。
 因為飼料有許多品種，
-在進行訓練前最好先去陸行鳥用品商那裡瞭解一下。"
+在進行訓練前最好先去陸行鳥用品商那裡了解一下。"
 11,"TEXT_CMNGSCCHOCOBORACETRAININGTALK_00234_GUIDE_A2_000_01","為了在激烈的比賽中脫穎而出，
-知彼先知己，瞭解有關的屬性是十分重要的！"
+知彼先知己，了解有關的屬性是十分重要的！"
 12,"TEXT_CMNGSCCHOCOBORACETRAININGTALK_00234_GUIDE_A2_000_02","「最高速度」
 這項屬性越高，競賽陸行鳥就能跑出越快的速度。"
 13,"TEXT_CMNGSCCHOCOBORACETRAININGTALK_00234_GUIDE_A2_000_03","「加速力」
@@ -56,7 +56,7 @@ int32,str,str
 23,"TEXT_CMNGSCCHOCOBORACETRAININGTALK_00234_GUIDEMENU_A4_000_7","這種學會的競賽能力就是「後天性競賽能力」！
 想要讓競賽陸行鳥學習或是忘記後天性競賽能力的時候，
 來找我就可以啦！"
-24,"TEXT_CMNGSCCHOCOBORACETRAININGTALK_00234_GUIDE_A3_000_01","競賽陸行鳥的能力上限是生來註定的……
+24,"TEXT_CMNGSCCHOCOBORACETRAININGTALK_00234_GUIDE_A3_000_01","競賽陸行鳥的能力上限是生來注定的……
 一旦能力達到極限，就再也無法成長了。
 這個時候辦理「退役」，就可以讓競賽陸行鳥回到故鄉休養。"
 25,"TEXT_CMNGSCCHOCOBORACETRAININGTALK_00234_GUIDE_A3_000_02","退役的競賽陸行鳥就不能再次登記為競賽陸行鳥了。

@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ309_01801_SEQ_00","不潔三塔的特·伊斯拉很在意冒險者。"
-1,"TEXT_HEAVNZ309_01801_SEQ_01","特·伊斯拉很好奇人類的食物。前往龍堡參天高地的陸行鳥之森，和萊奧尼爾夫談談。"
+1,"TEXT_HEAVNZ309_01801_SEQ_01","特·伊斯拉很好奇人類的食物。前往德拉瓦尼亞山麓地的陸行鳥之森，和萊奧尼爾夫談談。"
 2,"TEXT_HEAVNZ309_01801_SEQ_02","萊奧尼爾夫委託冒險者去收集肉。從陸行鳥之森的<Sheet(BNpcName,3564,0)/>身上獲取<Sheet(EventItem,2001625,0)/>。"
 3,"TEXT_HEAVNZ309_01801_SEQ_03","獲得了<Sheet(EventItem,2001625,0)/>。將<Sheet(EventItem,2001625,0)/>交給陸行鳥之森的萊奧尼爾夫。"
 4,"TEXT_HEAVNZ309_01801_SEQ_04","將<Sheet(EventItem,2001625,0)/>交給了萊奧尼爾夫。作為謝禮，他說可以拿走<Sheet(EventItem,2001626,0)/>。在陸行鳥之森獲取<Sheet(EventItem,2001626,0)/>。"

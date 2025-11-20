@@ -3,12 +3,12 @@
 int32,str,str
 0,"TEXT_CLSWDK600_02001_SEQ_00","雲霧街的巴爾托維厄又輸給了狐蛇飛龍。
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>要製作為完成本任務所需的物品，需要習得木工秘籍第三卷。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>要製作為完成本任務所需的物品，需要習得木工秘笈第三卷。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 1,"TEXT_CLSWDK600_02001_SEQ_01","據巴爾托維厄所說，壞掉的陷阱裡可能有關於狐蛇飛龍弱點的線索。前往庫爾札斯西部高地的聖菲內雅連隊露營地，和怕冷的騎兵談談。"
 2,"TEXT_CLSWDK600_02001_SEQ_02","雖然壞掉的陷阱被怕冷的騎兵當木柴燒掉了，但留下了一個插在上面的<Sheet(EventItem,2001682,0)/>。將<Sheet(EventItem,2001682,0)/>交給雲霧街的巴爾托維厄。"
-3,"TEXT_CLSWDK600_02001_SEQ_03","將<Sheet(EventItem,2001682,0)/>交給了巴爾托維厄。瞭解到父親是和狐蛇飛龍戰鬥時犧牲的巴爾托維厄，決定拿起槍來戰鬥。製作<Sheet(ItemHQ,10609,0)/>，交給雲霧街的巴爾托維厄。
+3,"TEXT_CLSWDK600_02001_SEQ_03","將<Sheet(EventItem,2001682,0)/>交給了巴爾托維厄。了解到父親是和狐蛇飛龍戰鬥時犧牲的巴爾托維厄，決定拿起槍來戰鬥。製作<Sheet(ItemHQ,10609,0)/>，交給雲霧街的巴爾托維厄。
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>要製作<Sheet(ItemHQ,10609,0)/>，需要習得木工秘籍第三卷。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>要製作<Sheet(ItemHQ,10609,0)/>，需要習得木工秘笈第三卷。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 4,"TEXT_CLSWDK600_02001_SEQ_04","將<Sheet(ItemHQ,10609,0)/>交給了巴爾托維厄。巴爾托維厄想讓冒險者幫他轉告菲利帕萊，他要為父而戰。和伊修加爾德聖大鳥房附近的菲利帕萊談談。"
 5,"TEXT_CLSWDK600_02001_SEQ_05","和菲利帕萊進行了交談。為了和菲利帕萊一起觀戰，前往聖菲內雅連隊露營地的北邊，和巴爾托維厄會合。"
 6,"TEXT_CLSWDK600_02001_SEQ_06","巴爾托維厄成功打倒了狐蛇飛龍。在聖菲內雅連隊露營地的北邊和巴爾托維厄談談。"
@@ -98,7 +98,7 @@ int32,str,str
 在它從黑衣森林上空飛過的時候，槍柄掉了下來……
 而槍尖則一直留在它的身上。"
 64,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_035","這一切都是命運的安排……
-掉落的槍柄將我們倆聯繫到了一起，
+掉落的槍柄將我們倆連繫到了一起，
 而槍尖則告訴了我狐蛇飛龍的弱點……"
 65,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_036","那傢伙的弱點……就是父親給他留下的那個傷痕！
 槍尖是最近才從它身上掉落的，
@@ -120,17 +120,17 @@ int32,str,str
 71,"TEXT_CLSWDK600_02001_PHILIPALLAIS_000_042","騙人！我不信！"
 72,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_043","……雖然對不起那孩子，但我已經決定要拿起槍了。
 父親的槍尖是用皇都特製的戰神鋼製成的。
-精金鋼製的槍尖強度要更勝一籌。"
+堅鋼鋼製的槍尖強度要更勝一籌。"
 73,"TEXT_CLSWDK600_02001_BARTHOVIEU_100_000","我想拜託你製作<Sheet(ItemHQ,10609,0)/>。
 我不會讓你白做的，我已經打算拿出老本了……
 我必須要為父親報仇，為父親洗刷污名！"
 74,"TEXT_CLSWDK600_02001_SYSTEM_900_000","要製作<Sheet(ItemHQ,10609,0)/>，
-需要習得木工秘籍第三卷。"
+需要習得木工秘笈第三卷。"
 75,"TEXT_CLSWDK600_02001_BARTHOVIEU_100_010","我想拜託你製作<Sheet(ItemHQ,10609,0)/>。
 我不會讓你白做的，我已經打算拿出老本了……
 我必須要為父親報仇，為父親洗刷污名！"
 76,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_050","了不起……這真是把好槍。
-精金鋼製的槍尖鋒利無比，
+堅鋼鋼製的槍尖鋒利無比，
 而槍柄卻很輕，而且用起來極為順手。"
 77,"TEXT_CLSWDK600_02001_BARTHOVIEU_000_051","雖然狐蛇飛龍身上有傷口，但我必須要比父親刺得更深，
 這樣才能給予它致命一擊。

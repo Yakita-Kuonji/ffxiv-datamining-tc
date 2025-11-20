@@ -40,7 +40,7 @@ int32,str,str
 19,"TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_103","尼姆吉吉！
 你要的資料我都已經找齊了，
 不過，那些真的都是解開水晶之謎所必需的資料嗎？"
-20,"TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_104","其中還有«水生生物的生態»和«各地的不死鳥傳說»等論文，
+20,"TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_104","其中還有«水生生物的生態»和«各地的鳳凰傳說»等論文，
 都是和萬魔殿的創造生物有關的資料啊。"
 21,"TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_105","創造生物不是都已經被<Highlight>ObjectParameter(1)</Highlight>打倒、重新封印起來了嗎？
 沒必要再深入調查了吧……"
@@ -53,7 +53,7 @@ int32,str,str
 下次就拜託你自己收集了哦？"
 25,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_110","好了，我們言歸正傳。
 就請你講講那些十分危險的對手吧！"
-26,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_111","對了，變身後的艾里克特翁尼亞斯
+26,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_111","對了，變身後的艾里克托尼奧斯
 和化身為半神的獄卒長也拜託你一起講一下。
 這些都是很有趣……不，是令人興趣頗深的現象。"
 27,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_112","嗯嗯，謝謝你願意給我講這些。
@@ -64,7 +64,7 @@ int32,str,str
 然後一起寫進記錄之中當作參考吧。"
 29,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_114","你知道嗎，現代的水生生物中，
 有的物種成年後能長到幼體的數十倍之大！"
-30,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_115","你遇到的魚尾海馬怪說不定也只是幼體，
+30,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_115","你遇到的馬頭魚尾怪說不定也只是幼體，
 還遠遠沒有長大呢！"
 31,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_116","哎呀，沒想到你會這麼吃驚……
 在尚未確定創造生物是否會成長之前，
@@ -78,16 +78,16 @@ int32,str,str
 36,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_120","嘿嘿嘿，推測的內容我會標註上「待檢驗」的！
 來吧，<Highlight>ObjectParameter(1)</Highlight>，和我一起展開想像的翅膀！"
 37,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_140","<Highlight>ObjectParameter(1)</Highlight>，可以再佔用你一點時間嗎？
-方便的話，可以給我講講你在鍊凈之獄和絕地之獄的戰鬥詳情嗎？"
+方便的話，可以給我講講你在煉淨之獄和絕地之獄的戰鬥詳情嗎？"
 38,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_141","雖然富爾什諾大人要求的事件概略的報告已經提交上去了，
 但我想盡可能地留下更詳細的記錄。"
 39,"TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_143","你啊……根本就是想滿足自己的好奇心吧？
-別以為我不知道，你前一陣還從所思大書院
+別以為我不知道，你前一陣子還從所思大書院
 借閱了不少魔法生物和樹狀生物的論文。"
 40,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_144","哎呀，想要滿足自己好奇心這一點我不否認。
 但這也是為了克勞狄恩老師的研究嘛。
 我想<Highlight>ObjectParameter(1)</Highlight>一定也能理解的。"
-41,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_145","嗯嗯……在鍊凈之獄遇到的魔法生物
+41,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_145","嗯嗯……在煉淨之獄遇到的魔法生物
 居然和巴術士的卡邦庫爾有共通點……
 或者說魔法生物這一概念也許就是從古代流傳下來的？"
 42,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_146","還有將樹狀生物與人融合……
@@ -100,7 +100,7 @@ int32,str,str
 半神的肉體特徵和戰鬥能力……
 感覺可以推測出很多東西！"
 46,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_100_150","比如說，赫淮斯托斯也許就在自己身上融入了
-「菲尼克司」所擁有的再生和不死的概念……
+「鳳凰」所擁有的再生和不死的概念……
 呵呵呵，我腦子裡的妄想快要停不下來了！"
 47,"TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_151","我不阻止你妄想，
 但這份記錄也是要作為報告提交給富爾什諾大人的。
@@ -119,7 +119,7 @@ int32,str,str
 55,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_165","好了，接下來我就把從你這聽到的情報
 加上我自己的推測一起整理出一份記錄。"
 56,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_166","我會充分發揮想像力……然後等待推測被證實的那一天！
-來，<Highlight>ObjectParameter(1)</Highlight>也來一起暢想吧！"
+來，<Highlight>ObjectParameter(1)</Highlight>也來一起構想吧！"
 57,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_200","<Highlight>ObjectParameter(1)</Highlight>，可以佔用你一點時間嗎？
 我想請你說一說你在星海出現的萬魔殿中的戰鬥。"
 58,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_201","雖然我也經歷了其中一些場面，
@@ -169,7 +169,7 @@ int32,str,str
 只報告了最低限度的內容。"
 77,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_401","畢竟還不知道萬魔殿發生的事件會對現代造成什麼影響，
 所以也不方便做詳細報告。"
-78,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_402","我們和萬魔殿之間唯一的聯繫就是那個封印著記憶的水晶了……
+78,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_402","我們和萬魔殿之間唯一的連繫就是那個封印著記憶的水晶了……
 但是很可惜，你從中感知到的思念自那之後就再也沒出現過了。"
 79,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_403","雖然已經收集了靈魂水晶等封印著記憶的結晶進行比較，
 但目前還沒有得到任何成果……"

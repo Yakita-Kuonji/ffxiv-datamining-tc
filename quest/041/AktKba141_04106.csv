@@ -190,7 +190,7 @@ int32,str,str
 125,"TEXT_AKTKBA141_04106_ELEMENTALS_000_171","(-森林大聖靈-)我能感覺到……"
 126,"TEXT_AKTKBA141_04106_ELEMENTALS_000_172","(-森林大聖靈-)污濁已去……新綠癒合了森林的傷口……"
 127,"TEXT_AKTKBA141_04106_ELEMENTALS_000_173","(-森林大聖靈-)人類的友愛之舉平息了我們的恐慌……"
-128,"TEXT_AKTKBA141_04106_KEEPEROFTHEENTWINEDSERPENTS_000_174","森林大聖靈居然在通過嘉恩·艾大人說話……"
+128,"TEXT_AKTKBA141_04106_KEEPEROFTHEENTWINEDSERPENTS_000_174","森林大聖靈居然在透過嘉恩·艾大人說話……"
 129,"TEXT_AKTKBA141_04106_KEEPEROFTHEENTWINEDSERPENTS_100_174","我們模仿約林的傳說是對的！聖靈們聽見了！"
 130,"TEXT_AKTKBA141_04106_Q1_000_000","要說什麼？"
 131,"TEXT_AKTKBA141_04106_A1_000_001","問題還沒解決"
@@ -200,7 +200,7 @@ int32,str,str
 134,"TEXT_AKTKBA141_04106_ELEMENTALS_000_176","(-森林大聖靈-)淨化其毒瓦斯需要莫大的力量……
 即便折下長老樹的樹枝，也不知能否成就……"
 135,"TEXT_AKTKBA141_04106_KEEPEROFTHEENTWINEDSERPENTS_000_177","您難道要在人類有難時袖手旁觀嗎！
-嘉恩·艾大人這些年來不停地迴應著您的請求，從未懈怠過！"
+嘉恩·艾大人這些年來不停地回應著您的請求，從未懈怠過！"
 136,"TEXT_AKTKBA141_04106_KEEPEROFTHEENTWINEDSERPENTS_000_178","這次也一樣……
 她身負所有眾人的期望，拼了命想讓您聽到她的呼喊！"
 137,"TEXT_AKTKBA141_04106_KEEPEROFTHEENTWINEDSERPENTS_000_179","黑衣森林的人們已無力面對偽神獸帶來的毒瓦斯，
@@ -211,7 +211,7 @@ int32,str,str
 140,"TEXT_AKTKBA141_04106_REFUGEEMAN3_000_182","我們這些普通人事事都要依靠角尊的庇護，
 還總在背後抱怨來抱怨去……"
 141,"TEXT_AKTKBA141_04106_HYRSTMILLBOTANIST_000_183","但看到嘉恩·艾大人如此為我們奔走，
-如今我們也醒悟了，不通過自己之口求救，
+如今我們也醒悟了，不透過自己之口求救，
 只是一個勁地催角尊努力的人沒臉活在森林裡！"
 142,"TEXT_AKTKBA141_04106_WOODWAILER1_000_184","所以我們一路保護著彼此，
 就是為了來這裡讓大聖靈聽聽我們的聲音！"
@@ -229,7 +229,7 @@ int32,str,str
 149,"TEXT_AKTKBA141_04106_KANESENNA_000_191","我太過重視角尊的使命，
 沒想到還有人類和聖靈直接對話這種可能……"
 150,"TEXT_AKTKBA141_04106_KANESENNA_000_192","謝謝大家將真心傳達給大聖靈，為黑衣森林開闢了新的未來！"
-151,"TEXT_AKTKBA141_04106_KANESENNA_000_193","非常抱歉現在沒法向各位詳細說明，能否各再幫我一個忙？
+151,"TEXT_AKTKBA141_04106_KANESENNA_000_193","非常抱歉現在無法向各位詳細說明，能否各再幫我一個忙？
 請各位按照大聖靈的指示將這些樹枝送去森林的各地，
 為展開結界做準備。"
 152,"TEXT_AKTKBA141_04106_HYRSTMILLBOTANIST_000_194","交給我們吧！
@@ -237,11 +237,11 @@ int32,str,str
 153,"TEXT_AKTKBA141_04106_KANESENNA_000_195","當嫁接全部完成之時，我將開始淨化森林，
 恐怕那時格萊普尼爾會發動最後的襲擊。
 我們先回雙蛇黨統合司令部，為決戰做準備吧。"
-154,"TEXT_AKTKBA141_04106_KEEPEROFTHEENTWINEDSERPENTS_000_200","沒想到大聖靈居然能通過嘉恩·艾大人和我們直接對話。
+154,"TEXT_AKTKBA141_04106_KEEPEROFTHEENTWINEDSERPENTS_000_200","沒想到大聖靈居然能透過嘉恩·艾大人和我們直接對話。
 她太謙虛了，打動了人和聖靈之心的正是她的真心。"
 155,"TEXT_AKTKBA141_04106_KEEPEROFTHEENTWINEDSERPENTS_100_200","對了，關於聖靈告訴我們的淨化方法，
 嘉恩·艾大人還有一些自己的想法。
-這個想法是否可行，她還在通過聖靈評議會進行確認。"
+這個想法是否可行，她還在透過聖靈評議會進行確認。"
 156,"TEXT_AKTKBA141_04106_KEEPEROFTHEENTWINEDSERPENTS_000_201","在此期間，現在我們就等待森林各地的居民們完成嫁接吧。"
 157,"TEXT_AKTKBA141_04106_KEEPEROFTHEENTWINEDSERPENTS_000_202","如果我們能順利借助大聖靈之力，展開結界淨化毒瓦斯……
 一定會再面格萊普尼爾！"

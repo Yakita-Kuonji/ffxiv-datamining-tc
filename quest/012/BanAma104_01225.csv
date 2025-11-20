@@ -64,8 +64,8 @@ int32,str,str
 然後把<Sheet(BNpcName,2360,0)/>引出來！"
 53,"TEXT_BANAMA104_01225_FIBUBBGAH_000_021","你成功討伐了<Sheet(BNpcName,2360,0)/>，幹得漂亮！
 <Sheet(BNpcName,2511,0)/>增殖起來沒個完。
-但只要打倒了<Sheet(BNpcName,2360,0)/>，它們也會消停一陣子吧。"
-54,"TEXT_BANAMA104_01225_FIBUBBGAH_000_022","……患生所忽，說不定什麼時候它們又會成群出現。
+但只要打倒了<Sheet(BNpcName,2360,0)/>，它們也會停止一陣子吧。"
+54,"TEXT_BANAMA104_01225_FIBUBBGAH_000_022","……不可掉以輕心，說不定什麼時候它們又會成群出現。
 下次再有機會，這項任務也交給你了。"
 55,"TEXT_BANAMA104_01225_TORTOISE_BALLOON_001","<Sheet(BNpcName,2360,0)/>出現了！"
 56,"TEXT_BANAMA104_01225_POP_MESSAGE","察覺到了敵人的氣息！"

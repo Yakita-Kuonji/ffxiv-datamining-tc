@@ -35,7 +35,7 @@ int32,str,str
 我們也可以稍微緩一口氣了。
 所以我覺得是時候找點新的冒險了。"
 16,"TEXT_VOICEMAN_04100_000160_ARENVALD","我現在手上有個不錯的情報，
-叫上阿爾菲諾，我們三個人去試試吧！"
+找來阿爾菲諾，我們三個人去試試吧！"
 17,"TEXT_VOICEMAN_04100_Q7_000_001_NONE_VOICE","要開始新的冒險嗎？"
 18,"TEXT_VOICEMAN_04100_A7_000_001_NONE_VOICE","這提議不錯，我答應了！"
 19,"TEXT_VOICEMAN_04100_A7_000_002_NONE_VOICE","那就勉為其難陪你們走一趟吧……"
@@ -51,7 +51,7 @@ int32,str,str
 他們被暴君所害，變成了現在的怪物……"
 26,"TEXT_VOICEMAN_04100_000230_ARENVALD","不過風險也有相應的回報，
 我說得沒錯吧！"
-27,"TEXT_VOICEMAN_04100_000240_ALPHINAUD","十二神在上……
+27,"TEXT_VOICEMAN_04100_000240_ALPHINAUD","說的也是……
 這些財寶，比我想像的還要多……"
 28,"TEXT_VOICEMAN_04100_000250_ARENVALD","莉瑟他們一定會很高興！
 我們這次的冒險非常成功！"
@@ -76,7 +76,7 @@ int32,str,str
 39,"TEXT_VOICEMAN_04100_000360_ALAMHIGANCITIZEN3","沒錯！還有我老爹的命！"
 40,"TEXT_VOICEMAN_04100_000370_ALAMHIGANCITIZEN1","她就是個魔女！是個賣國賊！
 你們解放軍不也有很多人被殺了嗎？！
-為什麼還要袒護她？！"
+為什麼還要保護她？！"
 41,"TEXT_VOICEMAN_04100_000380_RAUBAHN","(-？？？？-)我還想為什麼鬧得這麼大……"
 42,"TEXT_VOICEMAN_04100_000390_RAUBAHN","各位阿拉米格的同胞們！"
 43,"TEXT_VOICEMAN_04100_000400_ALAMHIGANCITIZEN1","誰？是誰？"
@@ -154,7 +154,7 @@ int32,str,str
 怎麼會有空管你們這些下等人的事。"
 82,"TEXT_VOICEMAN_04100_000770_FORDOLAMOTHER","可、可我們是有市民權的！"
 83,"TEXT_VOICEMAN_04100_000780_FORDOLAFATHER","呃！"
-84,"TEXT_VOICEMAN_04100_000790_FORDOLA","爸爸……我怕……"
+84,"TEXT_VOICEMAN_04100_000790_FORDOLA","爸爸……好可怕……"
 85,"TEXT_VOICEMAN_04100_000800_FORDOLAFATHER","沒關係……沒關係……
 總有一天他們會明白的……
 要活下來只有這一條路……"
@@ -177,7 +177,7 @@ int32,str,str
 94,"TEXT_VOICEMAN_04100_000890_FORDOLA","所以，我決定要參軍。
 我要向上爬，爬到足夠得到尊敬的地位。
 不會再走上爸爸的老路……"
-95,"TEXT_VOICEMAN_04100_000900_FORDOLA","安瑟弗裡特、福德爾夫、艾梅利恩！
+95,"TEXT_VOICEMAN_04100_000900_FORDOLA","安瑟弗里特、福德爾夫、艾梅利恩！
 做好準備了吧！"
 96,"TEXT_VOICEMAN_04100_000910_FORDOLA","今後會很苦……但是我們要堅持下去……
 即使有人犧牲，剩下的人也要踩著屍體繼續前進！
@@ -197,7 +197,7 @@ int32,str,str
 你們看到的，只不過是我……
 是我們的一部分記憶而已！"
 104,"TEXT_VOICEMAN_04100_000990_FORDOLA","不要用一副很明白的樣子說出那些話！
-你們根本一點都不瞭解我！"
+你們根本一點都不了解我！"
 105,"TEXT_VOICEMAN_04100_001000_FORDOLA","我所做的一切，只不過是為了報復而已！
 那些殺害了我父親的人，那些拋棄了我父親的人，
 我要讓他們付出代價！"
@@ -222,18 +222,18 @@ int32,str,str
 118,"TEXT_VOICEMAN_04100_001080_NANAMOULNAMO","阿拉米格已經成功解放了，
 所以朕有事想要與你商量。"
 119,"TEXT_VOICEMAN_04100_001090_NANAMOULNAMO","關於勞班的事……"
-120,"TEXT_VOICEMAN_04100_001100_NANAMOULNAMO","他是砂蠍眾的一員，同時也是不滅隊的總帥，
+120,"TEXT_VOICEMAN_04100_001100_NANAMOULNAMO","他是沙蠍眾的一員，同時也是不滅隊的總帥，
 他應該也把烏爾達哈當成自己的家鄉吧……
 可所有人都知道，他生於阿拉米格。"
 121,"TEXT_VOICEMAN_04100_001110_NANAMOULNAMO","現在阿拉米格從加雷馬帝國的統治下解放了出來，
 朕本以為他辭官回國，大概也只是時間的問題了。"
 122,"TEXT_VOICEMAN_04100_001120_NANAMOULNAMO","可出乎朕意料的是，
 他竟然說當阿拉米格安定後就回到烏爾達哈來，
-仿佛一切都很理所當然。"
+彷彿一切都很理所當然。"
 123,"TEXT_VOICEMAN_04100_001130_NANAMOULNAMO","對朕來說，
 勞班是比任何人都值得信賴的重臣，
 同時也是最重要的朋友。"
-124,"TEXT_VOICEMAN_04100_001140_NANAMOULNAMO","正因為認識久了，朕很瞭解他的想法。
+124,"TEXT_VOICEMAN_04100_001140_NANAMOULNAMO","正因為認識久了，朕很了解他的想法。
 可能只有朕才能從他的眼中看到迷惘吧……"
 125,"TEXT_VOICEMAN_04100_001150_NANAMOULNAMO","是留在烏爾達哈，還是返回阿拉米格……
 朕希望他能夠做出明確的選擇，
@@ -241,8 +241,8 @@ int32,str,str
 126,"TEXT_VOICEMAN_04100_001160_NANAMOULNAMO","如果朕一直無法自立，
 他也不會真的遵從內心想法去行動吧。"
 127,"TEXT_VOICEMAN_04100_001170_NANAMOULNAMO","所以朕必須成為合格的女王，
-用自己的眼睛和耳朵去瞭解朕的國家，
-瞭解外面的世界。"
+用自己的眼睛和耳朵去了解朕的國家，
+了解外面的世界。"
 128,"TEXT_VOICEMAN_04100_001180_NANAMOULNAMO","朕可以佔用你一點冒險的時間嗎？"
 129,"TEXT_VOICEMAN_04100_001190_NANAMOULNAMO","很好。"
 130,"TEXT_VOICEMAN_04100_001191_NANAMOULNAMO","朕先去更衣，我們在外面見。"
@@ -263,7 +263,7 @@ int32,str,str
 145,"TEXT_VOICEMAN_04100_001240_RAUBAHN","啟稟陛下，臣做到了。"
 146,"TEXT_VOICEMAN_04100_001250_NANAMOULNAMO","很好，該朕履行自己的許諾了。"
 147,"TEXT_VOICEMAN_04100_001260_NANAMOULNAMO","獲勝的獎金，已經讓你成為全國最富有的人之一……"
-148,"TEXT_VOICEMAN_04100_001270_NANAMOULNAMO","你為自己贏得了砂蠍眾的席位！"
+148,"TEXT_VOICEMAN_04100_001270_NANAMOULNAMO","你為自己贏得了沙蠍眾的席位！"
 149,"TEXT_VOICEMAN_04100_001280_RAUBAHN","臣深感榮幸，從今以後，
 臣甘願為陛下赴湯蹈火，在所不辭。"
 150,"TEXT_VOICEMAN_04100_001290_RAUBAHN","陛下萬歲！烏爾達哈萬歲！"
@@ -272,7 +272,7 @@ int32,str,str
 不過如果是暗殺我可就幫不上忙了。"
 152,"TEXT_VOICEMAN_04100_001310_LOLORITO","呵呵呵呵呵……"
 153,"TEXT_VOICEMAN_04100_001320_LOLORITO","這可真是被擺了一道。"
-154,"TEXT_VOICEMAN_04100_001330_LOLORITO","我現在多少有些瞭解，
+154,"TEXT_VOICEMAN_04100_001330_LOLORITO","我現在多少有些了解，
 面對戴著面具的商談對手，
 是什麼樣的感受了。"
 155,"TEXT_VOICEMAN_04100_001340_LOLORITO","陛下現在感覺好些了嗎？
@@ -301,7 +301,7 @@ int32,str,str
 165,"TEXT_VOICEMAN_04100_001440_NANAMOULNAMO","不愧是烏爾達哈的頭號商人，
 我確實還沒有考慮更具體的方案。"
 166,"TEXT_VOICEMAN_04100_001450_NANAMOULNAMO","你在基拉巴尼亞征戰時一定去過了很多地方吧。
-在我們之中你應該是最瞭解那邊情況的人。"
+在我們之中你應該是最了解那邊情況的人。"
 167,"TEXT_VOICEMAN_04100_001460_NANAMOULNAMO","你覺得哪個地方更加符合我們計畫的需求呢？
 要既能收留難民，還擁有能夠振興的潛力產業。"
 168,"TEXT_VOICEMAN_04100_Q2_000_001_NONE_VOICE","哪個地方擁有能夠振興的潛力產業？"
@@ -324,9 +324,9 @@ int32,str,str
 作為中轉地，驛站的重要性肯定會增加。
 但是那裡現在無法接受更多居民了吧。"
 183,"TEXT_VOICEMAN_04100_001490_LOLORITO","哦？在鹽湖湖畔的那個小村子？"
-184,"TEXT_VOICEMAN_04100_001500_LOLORITO","那裡的制鹽工坊確實不錯，鹽湖的鹽味道很獨特。
+184,"TEXT_VOICEMAN_04100_001500_LOLORITO","那裡的製鹽工坊確實不錯，鹽湖的鹽味道很獨特。
 在被加雷馬帝國佔領後，鹽湖鹽就停止生產了，
-這讓很多美食家歎息不已啊，我當時也感到很遺憾。"
+這讓很多美食家嘆息不已啊，我當時也感到很遺憾。"
 185,"TEXT_VOICEMAN_04100_001510_LOLORITO","鹽是食物最重要的調味料，
 而且可以做成各種形式的衍生商品……
 看起來能夠賺上一筆大錢啊。"
@@ -359,7 +359,7 @@ int32,str,str
 198,"TEXT_VOICEMAN_04100_Q6_000_001_NONE_VOICE","要如何處置尤尤哈塞和勞倫修斯？"
 199,"TEXT_VOICEMAN_04100_A6_000_001_NONE_VOICE","必須處以極刑"
 200,"TEXT_VOICEMAN_04100_A6_000_002_NONE_VOICE","還是饒他們一條性命……"
-201,"TEXT_VOICEMAN_04100_001640_RAUBAHN","你也這麼想麼……
+201,"TEXT_VOICEMAN_04100_001640_RAUBAHN","你也這麼想嗎……
 他們甚至動用魔導兵器去殺害勇猛的戰士們，
 實在是罪無可赦。"
 202,"TEXT_VOICEMAN_04100_001650_RAUBAHN","竟然要放他們一條生路？
@@ -442,7 +442,7 @@ int32,str,str
 241,"TEXT_VOICEMAN_04100_002010_RAUBAHN","這些傢伙想讓所有代表都被美神精煉……"
 242,"TEXT_VOICEMAN_04100_002020_LYSE","我們的光之戰士和阿雷恩瓦爾德還在後面對抗美神！"
 243,"TEXT_VOICEMAN_04100_002030_RAUBAHN","但是要保護這麼多人，
-誰都沒法專心戰鬥……"
+誰都無法專心戰鬥……"
 244,"TEXT_VOICEMAN_04100_002040_LYSE","我有個主意！
 總帥！請你儘量拖延時間保護他們！
 我馬上帶援軍回來！"
@@ -485,7 +485,7 @@ int32,str,str
 267,"TEXT_VOICEMAN_04100_002260_RAUBAHN","怎麼了？忘了什麼東西？"
 268,"TEXT_VOICEMAN_04100_002270_RAUBAHN","陛下？！您為什麼會在這裡……"
 269,"TEXT_VOICEMAN_04100_002280_NANAMOULNAMO","勞班·阿爾丁！
-朕宣佈，即日起解除你不滅隊總帥和砂蠍眾的職務！"
+朕宣佈，即日起解除你不滅隊總帥和沙蠍眾的職務！"
 270,"TEXT_VOICEMAN_04100_002290_RAUBAHN","陛下？您……"
 271,"TEXT_VOICEMAN_04100_002300_NANAMOULNAMO","勞班！朕已經不再是個孩子了！"
 272,"TEXT_VOICEMAN_04100_002301_NANAMOULNAMO","你應該留在這裡！
@@ -543,12 +543,12 @@ int32,str,str
 295,"TEXT_VOICEMAN_04100_002530_NANAMOULNAMO","不用那麼緊張，朕只是開個玩笑。"
 296,"TEXT_VOICEMAN_04100_002540_NANAMOULNAMO","勞班，你不是有話要對各位說嗎？"
 297,"TEXT_VOICEMAN_04100_002550_RAUBAHN","咳咳。"
-298,"TEXT_VOICEMAN_04100_002551_RAUBAHN","在昨晚，我被解除了不滅隊總帥和砂蠍眾的職務。"
+298,"TEXT_VOICEMAN_04100_002551_RAUBAHN","在昨晚，我被解除了不滅隊總帥和沙蠍眾的職務。"
 299,"TEXT_VOICEMAN_04100_002560_PIPIN","父親的職務暫時由我代理。
 看來我還需要一段時間來適應背上這把沉重的咒劍。"
 300,"TEXT_VOICEMAN_04100_002570_RAUBAHN","那，我現在已經是個無業遊民了。
 我打算在阿拉米格找個傭兵的工作，
-你們有人能幫我介紹一下麼？"
+你們有人能幫我介紹一下嗎？"
 301,"TEXT_VOICEMAN_04100_002580_PIPIN","雖然歲數有點大了，
 不過當年也是聲名顯赫的千勝劍鬥士，
 還請你們多多擔待。"

@@ -8,7 +8,7 @@ int32,str,str
 　季節活動結束後無法進行，敬請注意。
 　詳情請參閱官方網站。
 
-從快活的彩蛋收集師那裡聽取了說明。對在格里達尼亞舊城區滾動的<Sheet(BNpcName,4793,0)/>使用<Sheet(EventItem,2001970,0)/>，獲取<Sheet(EventItem,2001971,0)/>。"
+從快活的彩蛋收集師那裡聽取了說明。對在格里達尼亞舊街滾動的<Sheet(BNpcName,4793,0)/>使用<Sheet(EventItem,2001970,0)/>，獲取<Sheet(EventItem,2001971,0)/>。"
 2,"TEXT_FESEST203_02130_SEQ_02","從<Sheet(BNpcName,4793,0)/>上獲取了<Sheet(EventItem,2001971,0)/>。將<Sheet(EventItem,2001971,0)/>交給米·凱特露天劇場，快活的彩蛋收集師。"
 3,"TEXT_FESEST203_02130_SEQ_03","將<Sheet(EventItem,2001971,0)/>交給了快活的彩蛋收集師。繼續參加「追著蛋！」活動或其他活動，使場面熱鬧起來。"
 4,"TEXT_FESEST203_02130_SEQ_04",""

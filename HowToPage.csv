@@ -132,15 +132,15 @@ int32,byte,byte,Image,byte,str,str,str
 38,0,0,0,0,"","",""
 39,0,0,0,0,"","",""
 40,1,0,150221,0,"
-與城內的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>郵差莫古利<UIGlow>01</UIGlow><UIForeground>01</UIForeground>對話，或者查看自己住宅庭院中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>莫古信箱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，都可以開啟<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>莫古利速遞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的服務。
+與城內的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>郵差莫古利<UIGlow>01</UIGlow><UIForeground>01</UIForeground>對話，或者查看自己住宅庭院中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>莫古信箱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，都可以開啟<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>莫古利信件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的服務。
 
-利用莫古利速遞，可以方便快捷地向登錄到好友名單中的朋友發送郵件。","",""
+利用莫古利信件，可以方便的向登錄到好友名單中的朋友發送郵件。","",""
 41,1,0,150222,0,"
-點擊莫古利速遞視窗右上的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>寫新郵件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕，可以打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>編寫新郵件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的視窗並寫入郵件內容。
+點擊莫古利信箱視窗右上的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>寫新郵件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕，可以打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>編寫新郵件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的視窗並寫入郵件內容。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>道具<UIGlow>01</UIGlow><UIForeground>01</UIForeground>及<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Gil<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等物品也可以以附件的形式隨文本一起發送給對方。","",""
 42,1,0,150222,0,"
-選擇莫古利速遞視窗右上的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>寫新郵件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕，可以打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>編寫新郵件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的視窗並寫入郵件內容。
+選擇莫古利信箱視窗右上的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>寫新郵件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按鈕，可以打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>編寫新郵件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的視窗並寫入郵件內容。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>道具<UIGlow>01</UIGlow><UIForeground>01</UIForeground>及<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Gil<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等物品也可以以附件的形式隨文本一起發送給對方。","",""
 43,0,0,0,0,"","",""
@@ -177,7 +177,7 @@ int32,byte,byte,Image,byte,str,str,str
 60,1,1,150031,0,"
 接受任務之後，可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>目的清單<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中查看當前的任務進行狀況。
 
-清單中最多可以顯示5個任務，可以很直觀地看到接下來的任務要求。","",""
+清單中將會顯示5個任務，可以很清楚的看到接下來的任務要求。","",""
 61,1,1,150032,0,"
 點擊目的清單中顯示的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務標題<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以快速打開該任務的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>日誌<UIGlow>01</UIGlow><UIForeground>01</UIForeground>視窗。
 
@@ -195,7 +195,7 @@ int32,byte,byte,Image,byte,str,str,str
 66,1,1,150051,0,"
 在執行部分任務時，會遇到需要使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務道具<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的情況。
 
-選中任務目標會打開任務道具視窗，之後對相應道具打開次級指令功能表並選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>即可發動效果。","",""
+選中任務目標會打開任務道具視窗，之後對相應道具打開子選單功能表並選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>即可發動效果。","",""
 67,0,0,0,0,"","",""
 68,0,0,0,0,"","",""
 69,0,0,0,0,"","",""
@@ -230,9 +230,9 @@ int32,byte,byte,Image,byte,str,str,str
 
 現在就來試試吧，請選中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>茱莉安娜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，並作出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>歡迎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的動作。"
 82,1,1,150383,0,"
-情感動作也能夠設置到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>快捷鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>裡，這樣就可以隨時方便快捷地表達自己的情緒了。
+情感動作也能夠設置到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>快速鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>裡，這樣就可以隨時方便快捷地表達自己的情緒了。
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※另外，道具和巨集指令也可以設置到快捷鍵裡。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※另外，道具和巨集指令也可以設置到快速鍵裡。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 83,1,1,150382,1,"
 打開情感動作視窗之後會列出很多種表情以及動作，根據時機和場合做出合適的選擇會令遊戲增添很多樂趣。
 
@@ -250,7 +250,7 @@ int32,byte,byte,Image,byte,str,str,str
 88,0,0,0,0,"","",""
 89,0,0,0,0,"","",""
 90,1,0,150161,0,"
-體力變為0時會陷入<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無法戰鬥<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態。
+HP變為0時會陷入<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無法戰鬥<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態。
 
 此時無法進行任何操作，只能回到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>返回點<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或任務中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開始地點<UIGlow>01</UIGlow><UIForeground>01</UIForeground>重新開始。
 
@@ -329,7 +329,7 @@ int32,byte,byte,Image,byte,str,str,str
 125,1,0,150801,0,"
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>重要任務<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是指和遊戲的故事有關聯的關鍵任務，這類任務的圖示會與其他任務有所區別。
 
-追隨關鍵任務，便可以一直瞭解到更多主線劇情上的發展。","",""
+追隨關鍵任務，便可以一直了解到更多主線劇情上的發展。","",""
 126,1,0,150802,0,"
 而這個樣子的圖示，則表示是在完成這一系列任務的過程中，會開放新的內容或功能。
 
@@ -384,11 +384,11 @@ int32,byte,byte,Image,byte,str,str,str
 
 同時在目標的頭上還會出現相應的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>自動攻擊圖示<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 151,1,0,150082,0,"
-在畫面下方的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>快捷鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中可以設置各種對戰鬥有利的相關指令。
+在畫面下方的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>快速鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中可以設置各種對戰鬥有利的相關指令。
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按一下<UIGlow>01</UIGlow><UIForeground>01</UIForeground>各個技能欄上設置的指令，或者直接按下鍵盤上對應的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>快速鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，便可以發動對應的技能。　　","",""
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按一下<UIGlow>01</UIGlow><UIForeground>01</UIForeground>各個技能欄上設置的指令，或者直接按下鍵盤上對應的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>快捷鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，便可以發動對應的技能。　　","",""
 152,1,0,150083,0,"
-發動技能需要消耗相應的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>魔力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，並且發動之後還需要經過一段時間（<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>複唱時間<UIGlow>01</UIGlow><UIForeground>01</UIForeground>）才可以再次發動。
+發動技能需要消耗相應的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>MP<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，並且發動之後還需要經過一段時間（<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>複唱時間<UIGlow>01</UIGlow><UIForeground>01</UIForeground>）才可以再次發動。
 
 選中設置好的技能時可以看到該技能的詳細效果。","",""
 153,1,0,150084,0,"
@@ -451,9 +451,9 @@ int32,byte,byte,Image,byte,str,str,str
 182,1,0,150902,0,"
 加入小隊之後，畫面左上會顯示出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊清單<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-通過清單可以直觀地確認隊員們的情況。另外也可以通過點擊列表中的名字來選中隊友，這樣一來幫助同伴恢復體力時就可以免去很多複雜的操作了。","",""
+透過清單可以直覺得確認隊員們的情況。另外也可以透過點擊列表中的名字來選擇隊友，這樣一來幫助同伴恢復HP時就可以免去很多複雜的操作了。","",""
 183,1,0,150904,0,"
-另外，加入小隊時，還會根據當前隊伍成員的職業情況獲得<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>組隊加成<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的效果，能夠提升全體隊員的各種能力參數。
+另外，加入小隊時，還會根據目前隊伍成員的職業情況獲得<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>組隊加成<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的效果，能夠提升全體隊員的各種能力參數。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※只要和隊友在同一區域內，組隊加成的效果就不會消失。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※從設定選單“小隊”的“小隊隊員”中可以進行確認。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
@@ -466,7 +466,7 @@ int32,byte,byte,Image,byte,str,str,str
 185,1,0,150902,0,"
 加入小隊之後，畫面左上會顯示出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊清單<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-通過清單可以直觀地確認隊員們的情況。另外也可以<If(Equal(PlayerParameter(106),99))>方向鍵<Else/>方向鍵</If>的上下來選中隊友，這樣一來幫助同伴恢復體力時就可以免去很多複雜的操作了。","",""
+透過清單可以直覺的確認隊員們的情況。另外也可以<If(Equal(PlayerParameter(106),99))>方向鍵<Else/>方向鍵</If>的上下來選擇隊友，這樣一來幫助同伴恢復HP時就可以免去很多複雜的操作了。","",""
 186,0,0,0,0,"","",""
 187,0,0,0,0,"","",""
 188,0,0,0,0,"","",""
@@ -478,16 +478,16 @@ int32,byte,byte,Image,byte,str,str,str
 
 同時在目標的頭上還會出現相應的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>自動攻擊圖示<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 191,1,0,150932,0,"
-在畫面下方的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>十字快捷鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中可以設置各種對戰鬥有利的相關指令。","",""
+在畫面下方的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>十字快速鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中可以設置各種對戰鬥有利的相關指令。","",""
 192,1,0,150933,0,"
-設置在十字快捷鍵中的技能需要通過複合鍵來發動。
+設置在十字快速鍵中的技能需要通過複合鍵來發動。
 按住<Gui(14)/>或<Gui(15)/>鍵的同時按下四個<If(Equal(PlayerParameter(106),99))>方向鍵<Else/>方向鍵</If>或<Gui(11)/><Gui(8)/><Gui(9)/><Gui(10)/>可以發動對應位置的技能。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※新學會的技能會自動添加到技能欄中。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 193,1,0,150934,0,"
-發動技能需要消耗相應的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>魔力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，並且發動之後還需要經過一段時間（<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>複唱時間<UIGlow>01</UIGlow><UIForeground>01</UIForeground>）才可以再次發動。
+發動技能需要消耗相應的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>MP<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，並且發動之後還需要經過一段時間（<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>複唱時間<UIGlow>01</UIGlow><UIForeground>01</UIForeground>）才可以再次發動。
 
-戰鬥時一定要時刻注意自己當前的魔力，以免出現緊急關頭不足的情況。","",""
+戰鬥時一定要時刻注意自己目前的MP，以免出現緊急關頭不足的情況。","",""
 194,0,0,0,0,"","",""
 195,0,0,0,0,"","",""
 196,0,0,0,0,"","",""
@@ -501,7 +501,7 @@ int32,byte,byte,Image,byte,str,str,str
 201,1,0,150922,0,"
 某些任務中會出現交易特定道具的要求。此時畫面中會顯示出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務需求<UIGlow>01</UIGlow><UIForeground>01</UIForeground>列表。
 
-選中所需的道具，並從次級指令中選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>遞交<UIGlow>01</UIGlow><UIForeground>01</UIForeground>即可完成任務需求。","",""
+選中所需的道具，並從子選單中選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>遞交<UIGlow>01</UIGlow><UIForeground>01</UIForeground>即可完成任務需求。","",""
 202,0,0,0,0,"","",""
 203,0,0,0,0,"","",""
 204,0,0,0,0,"","",""
@@ -521,19 +521,19 @@ int32,byte,byte,Image,byte,str,str,str
 212,1,0,150633,0,"
 玩家搜索功能可以查看各個玩家的個人資訊。而自己的資訊可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搜索情報<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中進行編輯。
 
-通過快速選單打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>專案下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊隊員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>視窗，之後用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>滑鼠右鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>點擊自己的名字，之後選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>編輯資訊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，即可打開個人資訊視窗進行編輯。","",""
+通過快速選單打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>項目下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊隊員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>視窗，之後用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>滑鼠右鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>點擊自己的名字，之後選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>編輯資訊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，即可打開個人資訊視窗進行編輯。","",""
 213,1,0,150634,0,"
 搜索情報中還可以編輯線上狀態和個性簽名。
 
 職業和等級雖然會按照當前的職業為主，不過也可以自行編輯<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>希望組隊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>時的職業，這樣在他人搜索時同樣也會作為目標物件顯示在清單中。","",""
 214,1,0,150635,0,"
-線上狀態為“希望組隊”時可以選擇多個職業作為搜索物件，按一下一次為選中，再按一下一次會取消選中狀態。
+線上狀態為“希望組隊”時可以選擇多個職業作為搜索物件，按一下為選中，再按一下會取消選中狀態。
 
 不過如果線上狀態不是“希望組隊”，即使選中了多個職業也不會起到任何作用，只會將自己當前的職業作為搜索對象。","",""
 215,1,0,150633,0,"
 玩家搜索功能可以查看各個玩家的個人資訊。而自己的資訊可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搜索情報<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中進行編輯。
 
-通過設定選單打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>專案下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊隊員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>視窗，之後選中自己的名字並在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>右鍵選單<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>編輯資訊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，即可打開個人資訊視窗進行編輯。","",""
+通過設定選單打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>項目下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊隊員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>視窗，之後選中自己的名字並在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>子選單<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>編輯資訊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，即可打開個人資訊視窗進行編輯。","",""
 216,1,0,150635,0,"
 線上狀態為“希望組隊”時可以選擇多個職業作為搜索物件，按一次確認鍵為選中，再按一次確認鍵會取消選中狀態。
 
@@ -564,13 +564,13 @@ int32,byte,byte,Image,byte,str,str,str
 240,1,0,150971,0,"
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>極限爆發<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是集結小隊全體隊員的力量發動的集體必殺技。
 
-當小隊人數達到4人以上時，隊員列表的上方的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>極限槽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>會開始進行積蓄。積蓄一定量之後就可以發動極限爆發了。","",""
+當小隊人數達到4人以上時，隊員列表的上方的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>極限槽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>會開始進行累積。累積一定量之後就可以發動極限爆發了。","",""
 241,1,0,150972,0,"
-整個小隊共用同一個極限槽，在小隊進行戰鬥時，極限槽會隨之進行積蓄。
+整個小隊共用同一個極限槽，在小隊進行戰鬥時，極限槽會隨之進行累積。
 
-對瀕死的同伴進行治療，阻止敵人的危險攻擊等行為會增加極限槽的積蓄量。","",""
+對瀕死的同伴進行治療，阻止敵人的危險攻擊等行為會增加極限槽的累積量。","",""
 242,1,0,150973,0,"
-極限爆發指令在技能功能表的“共通技能”分類下，設置到快捷鍵及十字快捷鍵上便可隨時使用。
+極限爆發指令在技能功能表的“共通技能”分類下，設置到快速鍵及十字快速鍵上便可隨時使用。
 
 技能共有四種效果，分別是：單體攻擊、範圍攻擊、防禦、治療。具體發動哪種類型的技能則由發動者的職業決定。","",""
 243,1,0,150974,0,"
@@ -642,13 +642,13 @@ int32,byte,byte,Image,byte,str,str,str
 281,1,0,151062,0,"
 部分道具也有著<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>複唱時間<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的設定，在使用這類道具之後，一定時間內無法使用所有道具。
 
-將常用道具也設置到快捷鍵上可以更加方便地判斷使用時間。
+將常用道具也設置到快速鍵上可以更加方便地判斷使用時間。
 ","",""
 282,0,0,0,0,"","",""
 283,1,0,151064,0,"
 部分道具也有著<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>複唱時間<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的設定，在使用這類道具之後，一定時間內無法使用所有道具。
 
-將常用道具也設置到十字快捷鍵上可以更加方便地判斷使用時間。
+將常用道具也設置到十字快速鍵上可以更加方便地判斷使用時間。
 ","",""
 284,0,0,0,0,"","",""
 285,0,0,0,0,"","",""
@@ -694,12 +694,12 @@ int32,byte,byte,Image,byte,str,str,str
 310,1,0,150831,0,"
 騎乘狀態下在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>狀態效果<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中會顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>騎乘圖示<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。圖示上的數位為這次租借的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>剩餘時間<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-執行特殊快捷鍵中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>跳下<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以自己主動下鳥。
+執行特殊快速鍵中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>跳下<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以自己主動下鳥。
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※要注意的是下鳥後所騎的陸行鳥也會自動離開。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 311,1,0,150831,0,"
 騎乘狀態下在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>狀態效果<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中會顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>騎乘圖示<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。圖示上的數位為這次租借的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>剩餘時間<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-執行特殊快捷鍵中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>跳下<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以自己主動下鳥
+執行特殊快速鍵中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>跳下<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以自己主動下鳥
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※要注意的是下鳥後所騎的陸行鳥也會自動離開。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 312,0,0,0,0,"","",""
 313,0,0,0,0,"","",""
@@ -725,12 +725,12 @@ int32,byte,byte,Image,byte,str,str,str
 330,1,0,150851,0,"
 騎乘狀態下在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>狀態效果<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中會顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>騎乘圖示<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-執行特殊快捷鍵中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>跳下<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以自己主動從運輸坐騎上下來。
+執行特殊快速鍵中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>跳下<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以自己主動從運輸坐騎上下來。
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※要注意的是下來後所騎的運輸坐騎也會自動離開。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 331,1,0,150851,0,"
 騎乘狀態下在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>狀態效果<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中會顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>騎乘圖示<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-執行特殊快捷鍵中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>跳下<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以自己主動從運輸坐騎上下來。
+執行特殊快速鍵中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>跳下<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以自己主動從運輸坐騎上下來。
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※要注意的是下來後所騎的運輸坐騎也會自動離開。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 332,0,0,0,0,"","",""
 333,0,0,0,0,"","",""
@@ -745,7 +745,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>陸行鳥笛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以學會召喚專屬陸行鳥的技能。專屬陸行鳥與租借的陸行鳥不同，召喚出來之後沒有任何時間限制。不過要注意的是，城內與迷宮內這種封閉的場所無法召喚專屬陸行鳥。","",""
 341,1,0,150862,0,"
-召喚專屬陸行鳥的技能追加到了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>坐騎一覽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中。這類技能同樣可以設置在快捷鍵上隨時使用。
+召喚專屬陸行鳥的技能追加到了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>坐騎一覽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中。這類技能同樣可以設置在快速鍵上隨時使用。
 
 以後可以隨時騎著自己的陸行鳥馳騁在艾奧傑亞大地上了。","",""
 342,0,0,0,0,"","",""
@@ -783,9 +783,9 @@ int32,byte,byte,Image,byte,str,str,str
 如果是跟與你有著相似實力的敵人進行戰鬥的話，
 陸行鳥或許能夠更有效率地獲得成長。","",""
 361,1,0,151152,0,"
-想讓陸行鳥參加戰鬥時需要用到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>基砂爾野菜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，這是它們最喜歡的食物。
+想讓陸行鳥參加戰鬥時需要用到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>基沙爾野菜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，這是它們最喜歡的食物。
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>基砂爾野菜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以在商店中購買。在野外使用便可以召喚出陸行鳥一起戰鬥。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>基沙爾野菜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以在商店中購買。在野外使用便可以召喚出陸行鳥一起戰鬥。
 
 冒險路上有夥伴相伴，旅途中一定會更加熱鬧！","",""
 362,0,0,0,0,"","",""
@@ -805,7 +805,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 戰鬥結束後可以通過<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>離開<UIGlow>01</UIGlow><UIForeground>01</UIForeground>命令來令陸行鳥離開現場回巢休息。","",""
 372,1,0,151163,0,"
-要再次召喚陸行鳥出來戰鬥時需要重新消耗<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>基砂爾野菜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+要再次召喚陸行鳥出來戰鬥時需要重新消耗<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>基沙爾野菜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 與好搭檔一起迎戰強敵吧！","",""
 373,0,0,0,0,"","",""
@@ -826,7 +826,7 @@ int32,byte,byte,Image,byte,str,str,str
 382,1,0,151463,0,"
 學會進攻類技能之後可以執行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“進攻戰術”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的指令，陸行鳥會發出各種強力的攻擊。
 
-學會治療類技能之後可以執行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“治療戰術”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的指令，陸行鳥會治療玩家的體力。","",""
+學會治療類技能之後可以執行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“治療戰術”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的指令，陸行鳥會治療玩家的HP。","",""
 383,1,0,151464,0,"
 陸行鳥的成長方向完全由玩家來決定。
 
@@ -967,7 +967,7 @@ int32,byte,byte,Image,byte,str,str,str
 463,1,0,151134,0,"
 成員的各種行動會為整個公會累積<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>公會經驗<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，累積到一定程度後會提升<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>公會等級<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-公會等級提升之後不但可以由玩家自己設計<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>會徽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，還能夠使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>房屋系統<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的功能創建公會的根據地。","",""
+公會等級提升之後不但可以由玩家自己設計<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>徽章<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，還能夠使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>房屋系統<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的功能創建公會的根據地。","",""
 464,0,0,0,0,"","",""
 465,0,0,0,0,"","",""
 466,0,0,0,0,"","",""
@@ -993,12 +993,12 @@ int32,byte,byte,Image,byte,str,str,str
 480,1,0,151371,0,"
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“公會徽章”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以說是一個公會的標誌。
 
-與大國防聯軍總部的公會會徽負責人對話可以對會徽進行設計和修改。不過需要當前所在階級擁有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“編輯會徽”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的許可權才行。","",""
+與大國防聯軍總部的公會徽章負責人對話可以對會徽進行設計和修改。不過需要當前所在階級擁有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“編輯徽章”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的許可權才行。","",""
 481,1,0,151372,0,"
-當公會等級提升到一定級別時，還可以將設計好的會徽裝飾到一部分裝備上。
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※可以在裝備的詳細情報界面查看是否可以裝飾。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+當公會等級提升到一定級別時，還可以將設計好的徽章裝飾到一部分裝備上。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※可以在裝備的詳細情報介面查看是否可以裝飾。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-設計出來漂亮的會徽，和戰友們一起裝飾上吧！","",""
+設計出來漂亮的徽章，和戰友們一起裝飾上吧！","",""
 482,0,0,0,0,"","",""
 483,0,0,0,0,"","",""
 484,0,0,0,0,"","",""
@@ -1141,7 +1141,7 @@ int32,byte,byte,Image,byte,str,str,str
 568,0,0,0,0,"","",""
 569,0,0,0,0,"","",""
 570,1,0,150681,0,"
-與委託人交談會打開交易視窗，將目標道具從背包<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>拖拽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>到交易視窗裡，或右鍵點擊道具再選擇“遞交”，之後點擊視窗中的“遞交”按鈕便可以完成任務。
+與委託人交談會打開交易視窗，將目標道具從背包<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>拖曳<UIGlow>01</UIGlow><UIForeground>01</UIForeground>到交易視窗裡，或右鍵點擊道具再選擇“遞交”，之後點擊視窗中的“遞交”按鈕便可以完成任務。
 
 能工巧匠在交納優質道具後還可以領取到額外的追加報酬。","",""
 571,1,0,150682,0,"
@@ -1252,7 +1252,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 631,1,0,150712,0,"
 可以執行的任務會隨著玩家的任務完成情況以及成長情況逐漸增加。
 
-利用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“任務搜尋器”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以非常方便地參加各種任務。在正式參與到團隊作戰之前，先利用行會令來鍛煉一下身手吧！","",""
+利用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“任務搜尋器”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以非常方便地參加各種任務。在正式參與到團隊作戰之前，先利用行會令來鍛鍊一下身手吧！","",""
 632,0,0,0,0,"","",""
 633,0,0,0,0,"","",""
 634,0,0,0,0,"","",""
@@ -1338,7 +1338,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 698,0,0,0,0,"","",""
 699,0,0,0,0,"","",""
 700,1,0,150281,0,"
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>能工巧匠<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的手中都有著一份<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>製作筆記<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。筆記中記錄著所有制作配方，進行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>製作作業<UIGlow>01</UIGlow><UIForeground>01</UIForeground>時可以直接從筆記中進行選擇。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>能工巧匠<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的手中都有著一份<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>製作筆記<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。筆記中記錄著所有製作配方，進行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>製作作業<UIGlow>01</UIGlow><UIForeground>01</UIForeground>時可以直接從筆記中進行選擇。
 
 在快速選單的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>手冊管理<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分類中選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>製作筆記<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以進行查看。","",""
 701,1,0,150282,0,"
@@ -1384,13 +1384,13 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 721,1,0,150302,0,"
 利用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>加工<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能可以提高道具的品質。不過要注意的是，<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>加工<UIGlow>01</UIGlow><UIForeground>01</UIForeground>也會令道具損耗耐久度。
 
-發動<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>加工<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能時需要消耗相應的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>製作力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
+發動<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>加工<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能時需要消耗相應的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>CP<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 722,1,0,150303,0,"
 製作中對製品品質提升得越多，成功後得到的經驗值也越多。所以製作時也要時刻注意品質的問題。","",""
 723,1,0,150304,0,"
 利用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>加工<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能可以提高道具的品質。不過要注意的是，<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>加工<UIGlow>01</UIGlow><UIForeground>01</UIForeground>也會令道具損耗耐久度。
 
-發動<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>加工<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能時需要消耗相應的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>製作力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
+發動<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>加工<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能時需要消耗相應的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>CP<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 724,0,0,0,0,"","",""
 725,0,0,0,0,"","",""
 726,0,0,0,0,"","",""
@@ -1745,7 +1745,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 941,1,0,150462,0,"
 召喚寵物的技能追加到了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>寵物一覽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中。
 
-將已經學會的召喚寵物技能設置到快捷鍵上，就可以隨時召喚出小寵物了。","",""
+將已經學會的召喚寵物技能設置到快速鍵上，就可以隨時召喚出小寵物了。","",""
 942,1,0,150463,0,"
 已經召喚出寵物的狀態下再次發動同樣的技能會令寵物離開。
 
@@ -1757,7 +1757,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 944,1,0,150465,0,"
 召喚寵物的技能追加到了技能選單下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>寵物一覽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中。
 
-將已經學會的召喚寵物技能設置到十字快捷鍵上，就可以隨時召喚出小寵物了。","",""
+將已經學會的召喚寵物技能設置到十字快速鍵上，就可以隨時召喚出小寵物了。","",""
 945,1,0,150466,0,"
 已經召喚出寵物的狀態下再次發動同樣的技能會令寵物離開。
 
@@ -1773,7 +1773,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 951,1,0,151002,0,"
 進行染色時可以在技能列表中選擇“染色”指令。
 
-顏色完全由染劑的顏色決定，只要染劑有保證，那麼同一個物品無論多少次都可以不斷反復染色。","",""
+顏色完全由染劑的顏色決定，只要染劑有保證，那麼同一個物品無論多少次都可以不斷反覆染色。","",""
 952,1,0,151003,0,"
 此外，在完成特定任務之前，
 部分道具無法進行染色。
@@ -1782,7 +1782,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 完成相應的任務就可以進行染色了。","",""
 953,1,0,151004,0,"
 想要為傢俱染色時，
-可以在背包中打開道具的次級指令選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“染色”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
+可以在背包中打開道具的子選單選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“染色”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
 也可以在房屋功能表中選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“染色”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 為傢俱染上自己喜歡的顏色，試著搭配出時尚的房屋吧！","",""
@@ -1804,7 +1804,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 962,1,0,151023,0,"
 要將魔晶石鑲嵌到裝備上，需要成為工匠掌握一種特殊的技術，或者是委託各城邦的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“魔晶石師傅”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-已鑲嵌的魔晶石可以通過裝備次級指令中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“回收魔晶石”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>將魔晶石摘除回收。","",""
+已鑲嵌的魔晶石可以通過裝備子選單中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“回收魔晶石”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>將魔晶石摘除回收。","",""
 963,0,0,0,0,"","",""
 964,0,0,0,0,"","",""
 965,0,0,0,0,"","",""
@@ -1819,7 +1819,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 971,1,0,151032,0,"
 選中想要強化的裝備，再選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>鑲嵌魔晶石<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以把魔晶石鑲嵌到裝備上。根據魔晶石的不同，裝備所提高的性能也有所區別。
 
-已鑲嵌的魔晶石可以通過裝備次級指令中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“回收魔晶石”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>將魔晶石摘除回收。","",""
+已鑲嵌的魔晶石可以通過裝備子選單中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“回收魔晶石”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>將魔晶石摘除回收。","",""
 972,0,0,0,0,"","",""
 973,0,0,0,0,"","",""
 974,0,0,0,0,"","",""
@@ -1869,7 +1869,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 
 未知的採集地點並不常見，只有在限定的時間段內才會出現。","",""
 1001,1,0,151222,0,"
-未知的採集地點無法通過“大地勘察”和“樹木之聲”發現。
+未知的採集地點無法通過“大地勘查”和“樹木之聲”發現。
 
 發動<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“山岳之相”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“叢林之相”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>後，會在未知的採集地點出現時，自動表示在導航地圖上。","",""
 1002,1,0,151223,0,"
@@ -1969,7 +1969,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1061,1,0,151262,0,"
 擬餌有著很多的種類，基本上每種都會對特定種類的魚發揮出較高的效果。
 
-更多地瞭解艾奧傑亞的自然情況，才能更快地熟悉每種擬餌更適合在什麼條件下使用。","",""
+更多地了解艾奧傑亞的自然情況，才能更快地熟悉每種擬餌更適合在什麼條件下使用。","",""
 1062,0,0,0,0,"","",""
 1063,0,0,0,0,"","",""
 1064,0,0,0,0,"","",""
@@ -1995,11 +1995,11 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1078,0,0,0,0,"","",""
 1079,0,0,0,0,"","",""
 1080,1,0,151281,0,"
-在艾奧傑亞，釣魚的地點不僅只有水邊，還有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“砂海”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“雲海”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>這種特殊的釣場，裡面的魚都是非常罕見的品種。
+在艾奧傑亞，釣魚的地點不僅只有水邊，還有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“沙海”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“雲海”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>這種特殊的釣場，裡面的魚都是非常罕見的品種。
 
-在領悟<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“砂海垂釣”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的特性之後，便可以在被人們稱為“砂海”的砂漠地區進行釣魚作業了。","",""
+在領悟<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“沙海垂釣”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的特性之後，便可以在被人們稱為“沙海”的沙漠地區進行釣魚作業了。","",""
 1081,1,0,151282,0,"
-傳統的活餌和擬餌只能用來釣水中的魚，到了砂海中就沒有作用了。
+傳統的活餌和擬餌只能用來釣水中的魚，到了沙海中就沒有作用了。
 
 所以在這種特殊的釣場，一定要準備專用的釣餌才行！","",""
 1082,0,0,0,0,"","",""
@@ -2180,13 +2180,13 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1211,1,0,151402,0,"
 通過連擊系統聯繫到一起的技能，在幫助說明中會記有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“連擊條件”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的內容。
 
-先發動條件中記載的戰技，再發動後續戰技，便會令説明說明中記載的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“連擊效果”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>生效。","",""
+先發動條件中記載的戰技，再發動後續戰技，在技能說明中記載的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“連擊效果”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>將會生效。","",""
 1212,1,0,151403,0,"
 還有一些戰技會隨攻擊的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>方向<UIGlow>01</UIGlow><UIForeground>01</UIForeground>引發額外的效果。
 
 這種戰技只有按照指定的方向進行攻擊才會令威力上升。","",""
 1213,1,0,151404,0,"
-連擊條件成立的時候，快捷鍵上會出現一閃一閃的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“強調提示”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+連擊條件成立的時候，快速鍵上會出現一閃一閃的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“強調提示”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 戰鬥中首先要培養注意強調提示的意識。這樣才能效率更高地發動連擊令戰鬥形勢更加有利！","",""
 1214,0,0,0,0,"","",""
@@ -2196,17 +2196,17 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1218,0,0,0,0,"","",""
 1219,0,0,0,0,"","",""
 1220,1,0,151411,0,"
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“星極火”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>與<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“靈極冰”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是咒術士的兩種截然相反的屬性狀態，而且這兩種狀態對魔力的影響也是天地之差。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“星極火”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>與<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“靈極冰”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是咒術士的兩種截然相反的屬性狀態，而且這兩種狀態對MP的影響也是天地之差。
 
-合理管理傷害量與魔力是魔法職業的重中之重。","",""
+合理管理傷害量與MP是魔法職業的關鍵。","",""
 1221,1,0,151412,0,"
-使用火屬性魔法時，玩家會自動附加上星極火的狀態。這種狀態下火屬性魔法的攻擊力會大幅提高，不過同時魔力的消耗也會大幅增加，而且魔力不會自然恢復，也無法獲得持續恢復魔力的狀態帶來的效果。
+使用火屬性魔法時，玩家會自動附加上星極火的狀態。這種狀態下火屬性魔法的攻擊力會大幅提高，不過同時MP的消耗也會大幅增加，而且MP不會自然恢復，也無法獲得持續恢復MP的狀態帶來的效果。
 
-另外，這種狀態下冰屬性魔法的威力與消耗魔力會降低。","",""
+另外，這種狀態下冰屬性魔法的威力與消耗MP會降低。","",""
 1222,1,0,151413,0,"
-使用冰屬性魔法時，玩家會自動附加上靈極冰的狀態。這種狀態下冰屬性魔法的消耗魔力降低，冰屬性魔法命中時恢復魔力。
+使用冰屬性魔法時，玩家會自動附加上靈極冰的狀態。這種狀態下冰屬性魔法的消耗MP降低，冰屬性魔法命中時恢復MP。
 
-另外，這種狀態下火屬性魔法的威力與消耗魔力會降低。","",""
+另外，這種狀態下火屬性魔法的威力與消耗MP會降低。","",""
 1223,1,0,151414,0,"
 玩家的等級提高之後，會學會提升屬性狀態最大等級的特性。屬性狀態等級越高，實際戰鬥中的效果也會越大，靈活切換屬性狀態是咒術士在戰鬥中至關重要的技術。","",""
 1224,0,0,0,0,"","",""
@@ -2233,7 +2233,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 　⇒“盜龍身形”戰技
 　　⇒“猛虎身形”戰技
 
-在此迴圈中會獲得戰技威力上升或特定的追加效果。","",""
+在此循環中會獲得戰技威力上升或特定的追加效果。","",""
 1233,1,0,151424,0,"
 根據不同情況使用不同的戰技，
 如行雲流水般對敵人進行連綿不絕地打擊，
@@ -2249,20 +2249,20 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 
 可以召喚出召喚獸來共同行動了。","",""
 1241,1,0,151432,0,"
-召喚獸出現之後，螢幕上會出現一條專用的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特殊快捷鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+召喚獸出現之後，螢幕上會出現一條專用的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特殊快速鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-通過特殊快捷鍵中的指令可以對召喚獸下達各種命令。","",""
+透過特殊快速鍵中的指令可以對召喚獸下達各種命令。","",""
 1242,1,0,151433,0,"
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“截擊”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>命令可以令召喚獸與召喚者共同戰鬥，在攻擊敵人或被敵人攻擊之後會自動做出行動。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“等待指示”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>會令召喚獸在召喚者手動下達具體命令之前不會採取任何行動。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“回收”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>則會收回已經召喚出的召喚獸。","",""
 1243,0,0,0,0,"","",""
 1244,1,0,151435,0,"
-這些指令還可以從技能功能表<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>行動指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>召喚獸<UIGlow>01</UIGlow><UIForeground>01</UIForeground>直接設置到通常的快捷鍵裡。","",""
+這些指令還可以從技能功能表<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>行動指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>召喚獸<UIGlow>01</UIGlow><UIForeground>01</UIForeground>直接設置到通常的快速鍵裡。","",""
 1245,1,0,151436,0,"
-召喚獸出現之後，通過<CommandIcon(13)/>鍵可以切換到專用的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特殊十字快捷鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+召喚獸出現之後，通過<CommandIcon(13)/>鍵可以切換到專用的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特殊十字快速鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-通過特殊十字快捷鍵中的指令可以對召喚獸下達各種命令。","",""
+通過特殊十字快速鍵中的指令可以對召喚獸下達各種命令。","",""
 1246,0,0,0,0,"","",""
 1247,0,0,0,0,"","",""
 1248,0,0,0,0,"","",""
@@ -2390,13 +2390,13 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1320,1,0,151521,0,"
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>收藏櫃<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以收藏特定種類的物品。
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※可以在物品的詳細情報界面查看能否被收藏。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※可以在物品的詳細情報介面查看能否被收藏。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 例如<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特職專用裝備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>季節活動裝備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等限定裝備。","",""
 1321,1,0,151522,0,"
 想要放入收藏櫃內的裝備必須保證<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>耐久度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>為<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>100%<UIGlow>01</UIGlow><UIForeground>01</UIForeground>以上。
 
-收藏之後的裝備其<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>精煉度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>會變回<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>0%<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，同時染色和會徽等自己進行的調整也會被取消。","",""
+收藏之後的裝備其<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>精煉度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>會變回<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>0%<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，同時染色和徽章等自己進行的調整也會被取消。","",""
 1322,0,0,0,0,"","",""
 1323,0,0,0,0,"","",""
 1324,0,0,0,0,"","",""
@@ -2484,7 +2484,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 
 團隊由三個Full Party組合而成，其戰鬥規模要遠超過4人的Light Party和8人的Full Party。","",""
 1371,1,0,151572,0,"
-加入團隊時可以在隊員列表下方看到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>團隊隊員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的職業圖示及當前體力。
+加入團隊時可以在隊員列表下方看到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>團隊隊員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的職業圖示及目前HP。
 
 與團隊隊友一同奮戰，體會一下多人內容的樂趣吧。","",""
 1372,0,0,0,0,"","",""
@@ -2589,7 +2589,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1430,1,0,151631,0,"
 使用任務道具<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“寶物地圖”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以查看寶物的埋藏地點。
 
-之後就需要根據地圖來嘗試尋找具體的位置了。","",""
+之後就需要根據地圖來嚐試尋找具體的位置了。","",""
 1431,1,0,151632,0,"
 到達推定地點之後使用共通技能<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“挖掘”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以嘗試尋找是否埋藏著寶物。
 
@@ -2612,7 +2612,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1442,1,0,151643,0,"
 與各個友好部族的友好度及友好關係等級可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“角色”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“評價”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一欄中查看。
 
-友好關係等級越高，對友好部族的生活和習性也會瞭解得更多。","",""
+友好關係等級越高，對友好部族的生活和習性也會了解得更多。","",""
 1443,0,0,0,0,"","",""
 1444,0,0,0,0,"","",""
 1445,0,0,0,0,"","",""
@@ -2666,11 +2666,11 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1478,0,0,0,0,"","",""
 1479,0,0,0,0,"","",""
 1480,1,0,151681,0,"
-乘上特殊坐騎時會顯示出特殊快捷鍵。此時特殊快捷鍵上會有特殊的技能。
+乘上特殊坐騎時會顯示出特殊快速鍵。此時特殊快速鍵上會有特殊的技能。
 
 使用這些特殊的技能可以完成一些特定的任務。","",""
 1481,1,0,151682,0,"
-乘上特殊坐騎時會顯示出特殊十字快捷鍵。此時特殊十字快捷鍵上會有特殊的技能。
+乘上特殊坐騎時會顯示出特殊十字快速鍵。此時特殊十字快速鍵上會有特殊的技能。
 
 使用這些特殊的技能可以完成一些特定的任務。","",""
 1482,0,0,0,0,"","",""
@@ -2752,7 +2752,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1528,0,0,0,0,"","",""
 1529,0,0,0,0,"","",""
 1530,1,0,151731,0,"
-在查看公會資訊時可以向該公會發送入隊申請。
+在查看公會資訊時可以向該公會發送入會申請。
 
 公會資訊中會標明該公會正在招募的職業、主要的活動內容和時間。
 
@@ -2787,7 +2787,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1542,1,0,151742,0,"
 目標達成一定數量之後還會得到相應的額外獎勵。
 
-隨著角色的成長和劇情的推進，筆記中的專案也會越來越多。","",""
+隨著角色的成長和劇情的推進，筆記中的項目也會越來越多。","",""
 1543,0,0,0,0,"","",""
 1544,0,0,0,0,"","",""
 1545,0,0,0,0,"","",""
@@ -2933,7 +2933,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1632,1,0,151832,0,"
 在對話欄輸入文字時，按下<CommandIcon(13)/>鍵會自動顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“指定文字候選詞視窗”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 1633,1,0,151833,0,"
-在指定文字候選詞窗口中按照<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>2:【問候語】→3:你好！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的順序選擇之後，對話方塊中會出現<Gui(54)/><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>你好！<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Gui(55)/>這樣帶有特殊括弧的文字。","",""
+在指定文字候選詞視窗中按照<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>2:【問候語】→3:你好！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的順序選擇之後，對話方塊中會出現<Gui(54)/><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>你好！<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Gui(55)/>這樣帶有特殊括弧的文字。","",""
 1634,1,0,151834,0,"
 使用這種功能可以很快速地打出一些遊戲中常用的短語和用詞。","",""
 1635,1,0,151835,0,"
@@ -3002,7 +3002,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※嵌寫後魔晶石會消失。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※最多只能嵌寫5種魔晶石。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1672,1,0,151873,0,"
-天球書卷在積蓄的魔力較低時只可以使用魔晶石壹型進行嵌寫，隨著魔力的增加，貳型、三型、肆型的魔晶石也可以用來嵌寫。另外，各種屬性的提升有上限值，無法無限制地提升。","",""
+天球書卷在累積的魔力較低時只可以使用魔晶石壹型進行嵌寫，隨著魔力的增加，貳型、參型、肆型的魔晶石也可以用來嵌寫。另外，各種屬性的提升有上限值，無法無限制地提升。","",""
 1673,1,0,151874,0,"
 嵌寫魔晶石的時候需要一種叫做<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“星光變石”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的觸媒。通過解讀<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“神秘地圖”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以挖掘到這種觸媒。
 
@@ -3010,7 +3010,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1674,1,0,151875,0,"
 另外，裝備<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“上古武器·魂靈”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>到各地參加F.A.T.E.，也會有較低的機率直接獲得星光變石。
 
-當天球書卷積蓄了足夠的魔力之後，便可以和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“上古武器·魂靈”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一起交給林場水車的加爾贊。他會用天球書卷來對上古武器進行強化。","",""
+當天球書卷累積了足夠的魔力之後，便可以和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“上古武器·魂靈”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一起交給林場水車的加爾贊。他會用天球書卷來對上古武器進行強化。","",""
 1675,0,0,0,0,"","",""
 1676,0,0,0,0,"","",""
 1677,0,0,0,0,"","",""
@@ -3073,7 +3073,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1711,1,0,151912,0,"
 在大國防聯軍內部，每天會張貼一份<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“怪物通緝令”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，每週會張貼一份<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“危險標的怪物通緝令”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。接下這些通緝令並成功討伐通緝的敵人，也能夠得到同盟徽章。
 
-將收集到的同盟徽章交給各個組織視窗處的狩獵任務負責人，可以交換到各種各樣的物品。","",""
+將收集到的同盟徽章交給各個組織窗口處的狩獵任務負責人，可以交換到各種各樣的物品。","",""
 1712,0,0,0,0,"","",""
 1713,0,0,0,0,"","",""
 1714,0,0,0,0,"","",""
@@ -3096,9 +3096,9 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1728,0,0,0,0,"","",""
 1729,0,0,0,0,"","",""
 1730,1,0,151921,0,"
-選擇砲臺之後會顯示出專用的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特殊快捷鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
+選擇砲臺之後會顯示出專用的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特殊快速鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 1731,1,0,151922,0,"
-選擇特殊快捷鍵上的技能之後，地面上會出現有效的瞄準範圍，瞄準敵人便可以發動強力的砲擊。","",""
+選擇特殊快速鍵上的技能之後，地面上會出現有效的瞄準範圍，瞄準敵人便可以發動強力的砲擊。","",""
 1732,0,0,0,0,"","",""
 1733,0,0,0,0,"","",""
 1734,0,0,0,0,"","",""
@@ -3124,7 +3124,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1750,1,0,151951,0,"
 現在可以使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“道具分解”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能將裝備等道具分解成各種各樣的素材了。
 
-要使用這項技能首先需要將道具對應的職業升到30級以上，之後便可以在次級指令中選擇“道具分解”這項指令。","",""
+要使用這項技能首先需要將道具對應的職業升到30級以上，之後便可以在子選單中選擇“道具分解”這項指令。","",""
 1751,1,0,151952,0,"
 每個職業都有其專用的分解技能值，每次進行分解時都能稍微提升這項數值。
 
@@ -3147,7 +3147,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※公寓裡已設置供居民使用的陸行鳥廄。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1761,1,0,151962,0,"
-對鳥房中的陸行鳥進行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“訓練”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，可以讓陸行鳥取得相應的經驗值。
+對鳥廄中的陸行鳥進行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“訓練”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，可以讓陸行鳥取得相應的經驗值。
 
 而訓練之後一定要記得給努力的愛鳥一些獎勵啊，根據獎勵的情況陸行鳥還會出現進一步的成長。","",""
 1762,1,0,151963,0,"
@@ -3176,13 +3176,13 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 
 在任務中獲得的重要物品會追加至這裡。
 
-既有能瞭解故事背景的物品，也有使用後能發揮效果的物品。如果獲得了新的“重要物品”，請務必使用一下看看！","",""
+既有能了解故事背景的物品，也有使用後能發揮效果的物品。如果獲得了新的“重要物品”，請務必使用一下看看！","",""
 1771,1,0,152812,0,"
 可以使用快速選單中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“重要物品”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>了。
 
 在任務中獲得的重要物品會追加至這裡。
 
-既有能瞭解故事背景的物品，也有使用後能發揮效果的物品。如果獲得了新的“重要物品”，請務必使用一下看看！","",""
+既有能了解故事背景的物品，也有使用後能發揮效果的物品。如果獲得了新的“重要物品”，請務必使用一下看看！","",""
 1772,0,0,0,0,"","",""
 1773,0,0,0,0,"","",""
 1774,0,0,0,0,"","",""
@@ -3264,9 +3264,9 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1853,1,0,152024,0,"
 通過完成特職任務可習得更多的結印，隨之可發動的忍術種類也會有所增加。
 
-根據戰鬥情況活用忍術，成為一流的忍者！","",""
+根據戰鬥情況善用忍術，成為一流的忍者！","",""
 1860,1,0,152031,0,"
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“永結同心”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是命中註定的二人在眾神面前許下的一種永不分離的誓言。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“永結同心”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是命中注定的二人在眾神面前許下的一種永不分離的誓言。
 
 通過進行特殊任務，可以為舉辦<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>永結同心典禮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>做準備。","",""
 1861,1,0,152032,0,"
@@ -3327,7 +3327,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 習得了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>競賽能力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>！
 
 競賽能力分為兩類，
-一類可以設置到快捷鍵隨時使用，
+一類可以設置到快速鍵隨時使用，
 一類無需使用即可獲得持續性效果。
 
 競賽能力可以令競賽時的局勢更加有利。","",""
@@ -3356,7 +3356,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 
 雖然募集來的陸行鳥擁有怎樣的特徵完全是看運氣，但先慢慢通過配種將血統等級提升上去為佳。","",""
 1920,1,0,152111,0,"
-使用獲得的卡片，將卡片收錄進幻卡清單後，可以打開設定選單裡的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>金碟遊樂園<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>卡組一覽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>編輯對局用卡組。
+使用獲得的卡片，將卡片收錄進幻卡列表後，可以打開設定選單裡的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>金碟遊樂園<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>卡組一覽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>編輯對局用卡組。
 
 在卡組編輯、對局規則方面有任何疑問，都可以向幻卡大師進行諮詢。","",""
 1921,1,0,152112,0,"
@@ -3376,9 +3376,9 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1940,1,0,152131,0,"
 歡迎來到神奇的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>曼德維爾金碟遊樂園<UIGlow>01</UIGlow><UIForeground>01</UIForeground>！
 
-金碟遊樂園為各位來場嘉賓準備了各種服務專案。","",""
+金碟遊樂園為各位來場嘉賓準備了各種服務項目。","",""
 1941,1,0,152132,0,"
- 利用各服務專案時需要用到的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>金碟幣<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以在入口廣場以1金碟幣比10Gil的兌換率同<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>金碟幣兌換員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>進行兌換。
+ 利用各服務項目時需要用到的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>金碟幣<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以在入口廣場以1金碟幣比10Gil的兌換率同<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>金碟幣兌換員<UIGlow>01</UIGlow><UIForeground>01</UIForeground>進行兌換。
 
  <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※當手中的金碟幣不到500時，可以使用Gil兌換至500， 當手中的金碟幣達到500或以上時，無法使用Gil兌換。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1942,1,0,152133,0,"
@@ -3474,7 +3474,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 2031,1,0,152222,0,"
 通過學會新的職業特性，能夠發現隱藏特殊性質了。
 
-雖然不能經常發現隱藏特殊性質，不過一旦發現了請活用技能，不要放過這個好機會！","",""
+雖然不能經常發現隱藏特殊性質，不過一旦發現了請善用技能，不要放過這個好機會！","",""
 2040,0,0,0,0,"","",""
 2041,0,0,0,0,"","",""
 2050,1,0,152241,0,"
@@ -3572,10 +3572,10 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 通過萌寵之王遊戲機就可與其他冒險者進行對戰。
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※也有可以單人磨練技術的模式！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 2171,1,0,152342,0,"
-戰鬥中通常使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“寵物快捷鍵”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>召喚寵物。
+戰鬥中通常使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“寵物快速鍵”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>召喚寵物。
 
-可以從快速選單<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“金碟遊樂園”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“萌寵之王”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>選項中選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“編輯寵物快捷鍵”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，在裡面將寵物設置到快捷鍵中。
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※不設置寵物快捷鍵同樣可以進行召喚。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+可以從快速選單<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“金碟遊樂園”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“萌寵之王”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>選項中選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“編輯寵物快速鍵”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，在裡面將寵物設置到快速鍵中。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※不設置寵物快速鍵同樣可以進行召喚。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 2172,1,0,152343,0,"
 在萌寵之王中，<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“績點”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>體現著你的強弱。
 績點只會在與其他PvP時才會出現增減。
@@ -3622,7 +3622,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 2183,1,0,152354,0,"
 除了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“種類”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>外，部分寵物還有著能對特定設施造成更多傷害的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“設施特效”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-寵物的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“種類”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“設施特效”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“編輯寵物快捷鍵”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或戰鬥中開啟的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“萌寵之王列表”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>上進行確認。","",""
+寵物的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“種類”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“設施特效”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“編輯寵物快速鍵”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或戰鬥中開啟的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“萌寵之王列表”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>上進行確認。","",""
 2190,1,0,152361,0,"
 在對戰中，場上的一些設施會產生支援效果。
 
@@ -3640,7 +3640,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>·“萌寵之門”：介紹1<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　它是用來召喚寵物的設施，
 　我方寵物進入本方萌寵之門內可以恢復
-　體力。
+　HP。
 
 　遭到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“破壞”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>後雖然不影響寵物召喚，
 　但將會無法讓寵物在此門進出。","",""
@@ -3688,7 +3688,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 ·播放：選擇試聽中的曲名
 ·停止：選擇播放中的曲名
 
-也可以從曲名的次級指令來進行歌曲的試聽、播放、停止操作。","",""
+也可以從曲名的子選單來進行歌曲的試聽、播放、停止操作。","",""
 2223,1,0,152414,0,"
 房屋內的管弦樂琴除可進行樂曲的試聽、播放、停止外，還可以通過<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“編輯播放清單”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>在播放清單中加入或刪除曲目，或者改變曲目順序。
 
@@ -3696,9 +3696,9 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 2224,1,0,152415,0,"
 順序播放：按清單順序播放加入的曲目
 隨機播放：隨機播放清單中的曲目
-單曲播放：迴圈播放選擇的曲目
+單曲播放：循環播放選擇的曲目
 
-可以通過樂曲的次級指令或介面下方的按鍵改變播放模式。
+可以通過樂曲的子選單或介面下方的按鍵改變播放模式。
 
 此外，也可以點擊<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“選擇樂曲”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，從樂譜集中選擇一首樂曲進行播放。這樣可以在不影響播放清單的情況下播放樂曲。","",""
 2230,1,0,152421,0,"
@@ -3770,9 +3770,9 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※若不指定外貌，則可以使召喚獸恢復原狀。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 2262,1,0,152453,0,"
 輸入指令的示例
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>/召喚獸投影 卡邦庫爾 伊弗利特·艾基<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>/召喚獸投影 卡邦庫爾 伊弗利特 艾基<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-執行該指令後詠唱“卡邦庫爾召喚”，就可以將卡邦庫爾以伊弗利特·艾基的模樣召喚出來。
+執行該指令後詠唱“卡邦庫爾召喚”，就可以將卡邦庫爾以伊弗利特 艾基的模樣召喚出來。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※使用下列文本指令後可查看能夠選擇的外貌種類
 /? /召喚獸投影。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
@@ -3818,13 +3818,13 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※潛水時也可以召喚出飛行坐騎。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 2311,1,0,152502,0,"
-要想從水面潛入水中，需要執行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“下降”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>操作。
+若想從水面潛入水中，需要執行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“下降”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>操作。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※點擊“Ctrl＋空白鍵”可以執行下降操作。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 另外，在騎乘飛行坐騎時，以一定角度接觸水面可以自動潛入水中。","",""
 2312,1,0,152503,0,"
-要想從水面潛入水中，需要執行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“下降”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>操作。
+若想從水面潛入水中，需要執行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“下降”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>操作。
 
 角色處於水面時按<CommandIcon(9)/>鍵可以執行下降操作。
 
@@ -3840,7 +3840,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 2321,1,0,152513,0,"
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“任務指令”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是只能在進行的任務或戰鬥時使用的專用指令。
 
-可以在啟用十字快捷鍵（按下<CommandIcon(14)/><CommandIcon(15)/>鍵）的狀態下按<CommandIcon(17)/>鍵來執行指令。","",""
+可以在啟用十字快速鍵（按下<CommandIcon(14)/><CommandIcon(15)/>鍵）的狀態下按<CommandIcon(17)/>鍵來執行指令。","",""
 2322,1,0,152512,0,"
 有一些任務指令是存在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>使用次數<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的。
 
@@ -3854,11 +3854,11 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 2340,1,0,152521,0,"
 開放了“刺魚”。
 
-刺魚時需要在副手上裝備漁師的副工具“漁叉”。
+刺魚時需要在副手上裝備漁師的副工具“魚叉”。
 
 漁師的副工具可以在商店內買到。","",""
 2350,1,0,152531,0,"
-漁師可以在水中刺下漁叉來採集道具。
+漁師可以在水中刺下魚叉來採集道具。
 
 通常，漁師們將進行作業的目標地點稱為<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>漁場<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 2351,1,0,152532,0,"
@@ -3876,7 +3876,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 2371,1,0,152552,0,"
 可以從設定選單的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能選單<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-可以在技能功能表中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“職能技能”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>專案中查看已經習得的職能技能。","",""
+可以在技能功能表中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“職能技能”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>項目中查看已經習得的職能技能。","",""
 2372,0,0,0,0,"","",""
 2373,0,0,0,0,"","",""
 2374,0,0,0,0,"","",""
@@ -3920,7 +3920,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 
 放入的裝備將會幻影化，記錄進<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>投影範本<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※可以在物品的詳細情報界面查看能否被幻影化。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※可以在物品的詳細情報介面查看能否被幻影化。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 收集喜愛的裝備進行搭配，享受時尚樂趣吧！","",""
 2420,1,0,152611,0,"
@@ -3946,7 +3946,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 
 強化屬性值能提高對魔物攻擊的防禦力和自己的攻擊力。
 
-可拜訪<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>調查隊的技師<UIGlow>01</UIGlow><UIForeground>01</UIForeground>瞭解詳情。","",""
+可拜訪<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>調查隊的技師<UIGlow>01</UIGlow><UIForeground>01</UIForeground>了解詳情。","",""
 2450,1,0,152641,0,"
 可以讓專屬陸行鳥幫忙背道具的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>陸行鳥鞍囊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>開放！
 
@@ -4062,7 +4062,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>三顆鑽石<UIGlow>01</UIGlow><UIForeground>01</UIForeground>圖案代表中級怪物，
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>發光鑽石<UIGlow>01</UIGlow><UIForeground>01</UIForeground>圖案代表上級怪物。
 
-如果運氣不好遇到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>阿托莫斯<UIGlow>01</UIGlow><UIForeground>01</UIForeground>圖案，則會被驅逐出寶物庫……","",""
+如果運氣不好遇到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>亞特蒙斯<UIGlow>01</UIGlow><UIForeground>01</UIForeground>圖案，則會被驅逐出寶物庫……","",""
 2492,1,0,152714,0,"
 圖案還有著某些<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>未知的效果<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 不過具體是怎樣的效果，就需要冒險者您親自去確認了。
@@ -4082,7 +4082,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 只能親自來找服裝模特購買。
 
 在市場佈告板搜索時可以開啟相關篩選，
-從次級指令中可以向賣家發送悄悄話聯繫。","",""
+從子選單中可以向賣家發送悄悄話聯繫。","",""
 2495,1,0,152723,0,"
 不按整套出售的話，買家從市場佈告板就可以直接購買。
 
@@ -4114,7 +4114,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 2501,1,0,152751,0,"
 得到了可以和小隊隊員共同騎乘的坐騎！
 
-在你騎乘該坐騎時，小隊隊員可以通過選中你，從次級指令中選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共同騎乘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>來乘上你的坐騎。
+在你騎乘該坐騎時，小隊隊員可以通過選中你，從子選單中選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共同騎乘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>來乘上你的坐騎。
 
 和同伴一起愉快地踏上冒險之旅吧！","",""
 2502,1,0,152771,0,"
@@ -4126,10 +4126,10 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 2503,1,0,152772,0,"
 成功學到的技能會化為<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>收錄進<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法書<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中。
 
-想要使用學會的青魔法，需要打開青魔法書將青魔法設置到快捷鍵上。
+想要使用學會的青魔法，需要打開青魔法書將青魔法設置到快速鍵上。
 青魔法書可以通過設定選單中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法書<UIGlow>01</UIGlow><UIForeground>01</UIForeground>選項開啟。","",""
 2504,1,0,152773,0,"
-開啟青魔法書後，可以通過勾選選出能設置到快捷鍵的有效技能。
+開啟青魔法書後，可以通過勾選選出能設置到快速鍵的有效技能。
 有效技能的上限為青魔法24種。","",""
 2505,1,0,152774,0,"
 在青魔法書中可以確認到青魔法的詳細效果和解說，以及主要的學習地點等資訊。
@@ -4155,7 +4155,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 2509,1,0,152776,0,"
 成功學到的技能會化為<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>收錄進<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法書<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中。
 
-想要使用學會的青魔法，需要打開青魔法書將青魔法設置到快捷鍵上。
+想要使用學會的青魔法，需要打開青魔法書將青魔法設置到快速鍵上。
 青魔法書可以通過快速選單中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法書<UIGlow>01</UIGlow><UIForeground>01</UIForeground>選項開啟。","",""
 2510,1,0,152781,0,"
 “雙色寶石”是完成特定區域的F.A.T.E.任務時獲得的寶石。
@@ -4194,13 +4194,13 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 2540,1,0,152841,0,"
 學會了時尚配飾！
 
-撐傘的技能在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>時尚配飾<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中，增加到快捷鍵後便可以使用。
+撐傘的技能在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>時尚配飾<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中，增加到快速鍵後便可以使用。
 
 先試著使用一下技能，撐起傘吧。","",""
 2541,1,0,152842,0,"
 如果想要收起裝備狀態中的時尚配飾
 除了再次使用時尚配飾以外，
-還可以從特殊快捷鍵中選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“收回”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+還可以從特殊快速鍵中選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“收回”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※不論使用多少次，
 時尚配飾均不會被消耗。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
@@ -4241,7 +4241,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 再前往採集地點吧！","",""
 2555,1,0,152891,0,"
 刺魚是一種漁師專用的
-用漁叉瞄準左右遊動魚類的小遊戲。
+用魚叉瞄準左右游動魚類的小遊戲。
 
 魚的弱點會以<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>命中框<UIGlow>01</UIGlow><UIForeground>01</UIForeground>表示。
 使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>刺魚<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能刺中框內便可獲取該魚。
@@ -4286,7 +4286,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 否則即便是進展到最後也有可能失敗。
 
 可以從製作筆記中確認完成製作所需的品質。
-活用“加工”等技能努力提高品質完成製作吧！","",""
+善用“加工”等技能努力提高品質完成製作吧！","",""
 2567,1,0,152931,0,"
 收藏品當中存在具有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“不定性”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>性質的物品。
 
@@ -4325,9 +4325,9 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 技能選單中有一項是職能技能，
 可以在此確認習得的技能。
 
-將想要使用的技能添加到快捷鍵，
+將想要使用的技能添加到快速鍵，
 出發去尋找採集地點吧！","",""
-2573,1,0,152454,0,"要想改變召喚獸的外貌，
+2573,1,0,152454,0,"若想改變召喚獸的外貌，
 需要完成對應任務。
 召喚士需要完成任務“召喚獸變形”
 學者需要完成任務“小仙女變形”
@@ -4364,16 +4364,16 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 比如部分任務或玩法的專用道具、家具等內容就屬於特殊配方。","",""
 2579,1,0,152972,0,"
 部分特殊配方不可記錄，
-因此也不會獲得首次制作的獎勵。
+因此也不會獲得首次製作的獎勵。
 
-可以通過制作筆記的篩選功能，
+可以通過製作筆記的篩選功能，
 篩選出可被記錄的配方。","",""
 2580,1,0,151752,0,"
-雖然可以制作強大的武器和防具，
+雖然可以製作強大的武器和防具，
 又或是強效的食物等道具。
 但難度要比同等級的其他配方更高。
 
-請靈活運用制作練習，
+請靈活運用製作練習，
 積極挑戰高難度的配方吧！","",""
 2581,0,0,0,0,"","",""
 2582,0,0,0,0,"","",""

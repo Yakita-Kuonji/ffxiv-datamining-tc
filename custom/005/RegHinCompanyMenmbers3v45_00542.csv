@@ -15,7 +15,7 @@ int32,str,str
 4,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_004","哎呀，看我都說了些什麼多餘的話。
 我這可真是太失禮了！"
 5,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_050","維艾拉族啊……
-我聽說當年達瑪斯卡併入帝國版圖成為一個行省時，
+我聽說當年達瑪斯卡併入帝國版圖成為一個屬州時，
 維艾拉族也沒有選擇離開他們的故鄉。"
 6,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_051","當時也有一部分維艾拉族被抓到了帝都，
 給我們留下的感覺就是這個民族非常少見吧。
@@ -24,7 +24,7 @@ int32,str,str
 很多有錢人不惜代價想將這些充滿異域風情的美貌佳人擁入懷中。"
 8,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_053","你說的那個芙蘭小姐不知道會不會加入我們劇團啊？
 如果加入的話，她肯定能成為我們最火的女演員！
-啊，她是反抗軍的幹部來著？"
+啊，她是反抗軍的幹部吧？"
 9,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_054","那肯定沒戲了，
 她只會把我們當成敵人看待。
 這可真是失禮了。"
@@ -43,8 +43,8 @@ int32,str,str
 真正的英雄指的就是像你這樣的強者吧！
 實在是太令人感動了！！"
 15,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_120","「我們都是平等的人？呵，別做夢了！
-你們這些賤民從出生就註定要為我們貴族服務！」"
-16,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_121","「所以說，其實你們從出生就註定了是我們貴族的家畜啊！！」"
+你們這些賤民從出生就注定要為我們貴族服務！」"
+16,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_121","「所以說，其實你們從出生就注定了是我們貴族的牲畜啊！！」"
 17,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_GOODLOOKINGMEMBER_000_122","呃，好惡劣的臺詞啊，念得我都想吐了。
 不過這也說明臺詞寫得確實到位，充分凸顯了角色的性格。
 可是話說回來，為什麼要讓我演阿加斯啊？"
@@ -160,7 +160,7 @@ int32,str,str
 但實際上自命只有加雷馬族才是優秀人種的思想早已根深蒂固。"
 64,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_051","雖然也有很多像傑諾米先生一樣不抱有這樣的偏見，
 甚至努力在摒棄這種傲慢的加雷馬族人存在，
-但在各行省，潛在的種族歧視還是很嚴重的。"
+但在各屬州，潛在的種族歧視還是很嚴重的。"
 65,"TEXT_REGHINCOMPANYMENMBERS3V45_00542_PERFORMANCEMEMBER_000_052","舊達瑪斯卡王國曾經是一個多種族共同繁榮，國民們有著平等的
 權利與義務的國家。而維艾拉族自譽森林的守護者、心中有著
 自己的驕傲，與藐視其他種族的加雷馬人肯定是合不來的……"

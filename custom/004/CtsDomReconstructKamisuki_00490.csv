@@ -39,7 +39,7 @@ int32,str,str
 15,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_032","所以以前多瑪的造紙業是很繁盛的。
 工匠們一張一張造出的紙張，
 雖然很薄但富有韌性，而且非常美觀。"
-16,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_033","以至於不僅是在多瑪很受歡迎，
+16,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_033","以致於不僅是在多瑪很受歡迎，
 即使是出口，也能在外國擁有很高的人氣。"
 17,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_034","……話說回來，小櫻。
 車前會是為了滿足日常需要才重開撈紙的，
@@ -65,7 +65,7 @@ int32,str,str
 但令人意外的是，有時候上好的紙張會比柔滑的絲綢更吸引人哦。"
 26,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_060","辛苦你了。
 多虧你的慷慨，幫了我大忙了。
-不過現在還是沒法開工啊。"
+不過現在還是無法開工啊。"
 27,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_070","你又來了啊，<Highlight>ObjectParameter(1)</Highlight>。"
 28,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_071","很遺憾，現在還在進行建築物的建設工作。
 只要完成撈紙箱的製作，
@@ -97,7 +97,7 @@ int32,str,str
 39,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_HOZAN_000_082","沒有想到的是，有一家大商會居然伸出了援手……
 如果是那個人的話大概……
 不，那個人一定會達成雙贏的貿易吧。"
-40,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_083","呵，這可是個好訊息啊。
+40,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_083","呵，這可是個好消息啊。
 話說回來到底是哪一家啊？
 如果是大商會的話，<Highlight>ObjectParameter(1)</Highlight>你應該是知道的吧？"
 41,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_HOZAN_000_084","羅……"
@@ -116,7 +116,7 @@ int32,str,str
 49,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_HOZAN_000_092","不管怎麼說，牽扯到將東西供給到最需要的地方，
 在這方面應該是沒有比她更厲害的商人了。
 至少趁她還站在我們這邊的時候，可沒有誰能比她更加可靠了。"
-50,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_093","……我是沒弄明白你們說的什麼，
+50,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_093","……我是沒搞清楚你們說的什麼，
 不過大致的意思就是你們給我們製作的紙張找到了批發商是吧？"
 51,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_094","這樣的話，那我這邊只要趕快把工坊建起來，
 快速、有效率地進行製作就好了。
@@ -141,7 +141,7 @@ int32,str,str
 59,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_123","將成型後的紙漿進行壓榨、烘乾、裁剪成合適大小……
 就能做出可以直接販賣的紙張，
 也可以造出製作工藝品的材料用紙。"
-60,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_124","幸好木匠們也開始幹活了，
+60,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_124","幸好工匠們也開始幹活了，
 而用木材與紙張製作出來的工藝品
 是多瑪與遠東之國還有周邊各國共同發展出來的一門藝術。"
 61,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_125","……難得有機會，你來看看完成後的商品吧？
@@ -169,8 +169,8 @@ int32,str,str
 72,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_KOZAKURA_000_136","真是太好了……已經沒問題了……
 一想到這裡，我就忍不住……"
 73,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_ARARAGI_000_137","……抬起頭來，小櫻。
-車前會的計劃還遠遠沒有完成呢吧？
-要是你一直哭的話，計劃可沒法進行下去呀。"
+車前會的計劃還遠遠沒有完成吧？
+要是你一直哭的話，計劃可無法進行下去呀。"
 74,"TEXT_CTSDOMRECONSTRUCTKAMISUKI_00490_TSURANUKI_000_138","說的對啊！
 小櫻你們今後要更加打起精神，
 加快多瑪飛地的發展才行啊！"

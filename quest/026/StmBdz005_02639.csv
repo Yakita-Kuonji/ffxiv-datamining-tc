@@ -64,7 +64,7 @@ int32,str,str
 那麼事不宜遲，我來向你說明暴走無人兵器的相關事宜……
 我們已確認上述機體是使用了新型裝甲材料的試驗機。"
 53,"TEXT_STMBDZ005_02639_GNIBNPHA_000_011","因此，普通兵器的攻擊想必很難奏效吧。
-所以我們在加隆德鍊鐵廠的協助下，
+所以我們在加隆德煉鐵廠的協助下，
 準備了能夠燒斷無人駕駛機關的特殊能量彈。"
 54,"TEXT_STMBDZ005_02639_GNIBNPHA_000_012","我們已將這種對抗無人兵器的武器配備到繳獲的魔導裝甲上了，
 <Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If><Else/></If><Else/></If>
@@ -85,9 +85,9 @@ int32,str,str
 正好在這裡真是得救了……
 這片區域恐怕會成為今後的難題。"
 60,"TEXT_STMBDZ005_02639_LOEZKIRZ_000_022","不過話說回來，帝國還真是製造出了麻煩的東西。
-在巴艾薩長城那裡好像還有一些已經停止了活動的無人兵器，
+在巴埃薩長城那裡好像還有一些已經停止了活動的無人兵器，
 說不定還會出現暴走的情況。"
-61,"TEXT_STMBDZ005_02639_LOEZKIRZ_000_023","我們會和加隆德鍊鐵廠聯手，
+61,"TEXT_STMBDZ005_02639_LOEZKIRZ_000_023","我們會和加隆德煉鐵廠聯手，
 繼續慎重地調查下去。"
 62,"TEXT_STMBDZ005_02639_GNIBNPHA_000_024","你成功破壞了無人兵器啊。
 請去向魯茲奇厄茲大甲士報告！"

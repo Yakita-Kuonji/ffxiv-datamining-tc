@@ -1,11 +1,11 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_GAIUSB912_00935_SEQ_00","白雲崖前哨的治療師砂爾米娜想為病重的患者做些事情。"
+0,"TEXT_GAIUSB912_00935_SEQ_00","白雲崖前哨的治療師沙爾米娜想為病重的患者做些事情。"
 1,"TEXT_GAIUSB912_00935_SEQ_01","患者已經撐不了太久了。患者的戀人勞倫斯被關押在獄中，將患者的病情轉告給他。"
 2,"TEXT_GAIUSB912_00935_SEQ_02","勞倫斯有東西想要交給自己的戀人。按照他所說的，在東南方的森林中進行調查。"
-3,"TEXT_GAIUSB912_00935_SEQ_03","獲得了<Sheet(EventItem,2000731,0)/>。將其交給白雲崖前哨的砂爾米娜。"
-4,"TEXT_GAIUSB912_00935_SEQ_04","將<Sheet(EventItem,2000731,0)/>交給了砂爾米娜。砂爾米娜說有了冒險者送來的藥，患者有可能能夠獲救……"
+3,"TEXT_GAIUSB912_00935_SEQ_03","獲得了<Sheet(EventItem,2000731,0)/>。將其交給白雲崖前哨的沙爾米娜。"
+4,"TEXT_GAIUSB912_00935_SEQ_04","將<Sheet(EventItem,2000731,0)/>交給了沙爾米娜。沙爾米娜說有了冒險者送來的藥，患者有可能能夠獲救……"
 5,"TEXT_GAIUSB912_00935_SEQ_05",""
 6,"TEXT_GAIUSB912_00935_SEQ_06",""
 7,"TEXT_GAIUSB912_00935_SEQ_07",""
@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_GAIUSB912_00935_SEQ_23",""
 24,"TEXT_GAIUSB912_00935_TODO_00","和勞倫斯對話"
 25,"TEXT_GAIUSB912_00935_TODO_01","在森林中進行調查"
-26,"TEXT_GAIUSB912_00935_TODO_02","將<Sheet(EventItem,2000731,0)/>交給砂爾米娜"
+26,"TEXT_GAIUSB912_00935_TODO_02","將<Sheet(EventItem,2000731,0)/>交給沙爾米娜"
 27,"TEXT_GAIUSB912_00935_TODO_03",""
 28,"TEXT_GAIUSB912_00935_TODO_04",""
 29,"TEXT_GAIUSB912_00935_TODO_05",""

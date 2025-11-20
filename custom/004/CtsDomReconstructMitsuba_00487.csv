@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_000","要想重建城市，
+0,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_000","若想重建城市，
 首先需要讓大家都能吃飽才行！
 只靠著毫無變化的配給食物，大家都會厭煩的！"
 1,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_010","如果你能為百貨市場的發展出一份力的話，那就太好了。
@@ -11,9 +11,9 @@ int32,str,str
 謝謝你！"
 3,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_021","雖然現在還只是在組建骨架，
 今後將在那裡建一間像樣的廚房和食品店。"
-4,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_022","目前的問題是可以陳列的商品也就只有大米和蔬菜……
+4,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_022","目前的問題是可以陳列的商品也就只有稻米和蔬菜……
 還有一些河魚之類的……"
-5,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_023","這裡的大米非常美味，
+5,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_023","這裡的稻米非常美味，
 只是要是做法能再多些花樣的話就好了，
 那樣的話大家的身心也一定會感到更滿足喜悅的。"
 6,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_024","其實以前我們會去山野裡狩獵，
@@ -131,9 +131,9 @@ int32,str,str
 56,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_114","等、等一下！
 小櫻你這就有點不對了。"
 57,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_115","在這種香味的環繞下，僅僅是愣在這裡就行？別開玩笑了！
-要想表達謝意，首先要吃一頓才行啊。"
+若想表達謝意，首先要吃一頓才行啊。"
 58,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_116","……所以呢，你們就坐在外面的椅子上等一下！
-我會讓你們把所有名菜都嘗一遍，
+我會讓你們把所有名菜都嚐一遍，
 準備好你的胃吧！"
 59,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_117","呼……
 連我都承蒙款待了……
@@ -150,7 +150,7 @@ int32,str,str
 小櫻能跟你商量一下工作的話題嗎？"
 64,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_122","其實啊，包括在這個市場使用的鍋、窯之類在內的鐵器，
 全都有些毛病了。"
-65,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_123","多瑪曾經是行省的時候，
+65,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_123","多瑪曾經是屬州的時候，
 不是在帝國的主導下，從他國引進過廉價的鐵器嗎？
 所以不論是修理還是重新購買，都是問題……"
 66,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_124","說的也是……
@@ -158,7 +158,7 @@ int32,str,str
 目前有2個解決方案。"
 67,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_125","一個是在國內建設工坊，
 讓多瑪人民重新開始製造物品……"
-68,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_126","另一個是通過貿易賺取外匯，
+68,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_126","另一個是透過貿易賺取外匯，
 用來購買難以製作的物品。"
 69,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_KOZAKURA_000_127","不論哪種方案都有各自的優缺點，
 我覺得同時實施比較合適……"
@@ -166,7 +166,7 @@ int32,str,str
 你說的怎麼這麼沒骨氣啊，小櫻！
 當然是要選擇自己製作啊！"
 71,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_TSURANUKI_000_129","喲，小櫻還有<Highlight>ObjectParameter(1)</Highlight>。
-是我呀，我是參加過攻打多瑪城作戰的鍛造匠貫啊！"
+是我呀，我是參加過攻打多瑪城作戰的鍛造師貫啊！"
 72,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_TSURANUKI_000_130","看到你們建好了一個不錯的市場，我就是來喝一杯的，
 但讓我聽到了不能置之不理的話題啊，
 ……害得我跟麻煩的男人撞上了。"
@@ -197,7 +197,7 @@ int32,str,str
 83,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_150","多虧匠人街的建設完成了，我們這邊廚具的問題也解決了。
 就算現在有再多的食材送到這裡，
 我們也能輕鬆地處理給你看！"
-84,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_160","在農耕地種出的大米當然也會賣到我這裡。
+84,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_160","在農耕地種出的稻米當然也會賣到我這裡。
 而且這種米好吃的讓人慾罷不能啊！
 不僅適合用來做壽司，做出的飯糰、蓋飯什麼的全都好吃！"
 85,"TEXT_CTSDOMRECONSTRUCTMITSUBA_00487_MITSUBA_000_170","這裡的人們幹活很賣力所以胃口就很好。

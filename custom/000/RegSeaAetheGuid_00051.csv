@@ -24,12 +24,12 @@ int32,str,str
 11,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_20","「乙太之光」是使用傳送魔法時的輔助裝置。"
 12,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_21","它是由結晶的乙太……
 也就是「水晶」做成的。"
-13,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_22","雖然單純通過「地脈」的流動會比較簡單，
+13,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_22","雖然單純透過「地脈」的流動會比較簡單，
 但那種做法如同投身於波濤洶湧的大海，
 其中激流暗湧，會有無法返回的風險。"
 14,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_23","而乙太之光如同這股激流中的燈塔，
 會指明出口的所在位置。"
-15,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_24","通過將乙太之光設定在「地脈」的流匯點，
+15,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_24","透過將乙太之光設定在「地脈」的流匯點，
 乙太之光才作為傳送的目的地得以利用。"
 16,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_25","不過，使用傳送魔法能夠到達的地方，
 只有接觸過並進行了「共鳴」的乙太之光。
@@ -38,7 +38,7 @@ int32,str,str
 其中最簡單的是返回。"
 18,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_31","返回造成的精神負擔較小，
 需要的時候放心用就好了。"
-19,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_32","但這種魔法與乙太之光的聯繫會更加緊密，
+19,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_32","但這種魔法與乙太之光的連繫會更加緊密，
 所以只能傳送到既定的返回點。"
 20,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_33","傳送則不同，只要是共鳴過的乙太之光，
 都可以使用傳送到達。"

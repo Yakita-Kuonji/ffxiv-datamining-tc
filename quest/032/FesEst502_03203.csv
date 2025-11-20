@@ -79,7 +79,7 @@ int32,str,str
 58,"TEXT_FESEST502_03203_NONOTTA_000_003","（★未使用／削除予定★）"
 59,"TEXT_FESEST502_03203_JIHLIALIAPOH_000_004","好的！
 一起加油吧，<Highlight>ObjectParameter(1)</Highlight>！"
-60,"TEXT_FESEST502_03203_NONOTTA_000_005","首先，要想解開紙上寫著的謎題，
+60,"TEXT_FESEST502_03203_NONOTTA_000_005","首先，若想解開紙上寫著的謎題，
 請先去找新街的3隻魔蛋精談談吧！"
 61,"TEXT_FESEST502_03203_JIHLIALIAPOH_000_006","那就趕快出發吧！
 等收集完情報，我們就在這裡會合吧！"
@@ -165,7 +165,7 @@ int32,str,str
 105,"TEXT_FESEST502_03203_JIHLIALIAPOH_000_215","嗯……
 把數字試著填上去了……"
 106,"TEXT_FESEST502_03203_JIHLIALIAPOH_000_220","可是這些數字到底有著什麼意義啊。
-光是這樣的話看來沒法找到答案呢。
+光是這樣的話看來無法找到答案呢。
 不過，要是這樣的話……"
 107,"TEXT_FESEST502_03203_Q4_000_000","要繼續聽吉莉·阿里亞珀的推理嗎？"
 108,"TEXT_FESEST502_03203_JIHLIALIAPOH_000_230","要是光寫在地圖上還是弄不清的話，

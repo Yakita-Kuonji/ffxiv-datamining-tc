@@ -23,7 +23,7 @@ int32,str,str
 12,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_020","申請將這傢伙登記成危險標的怪物的，
 是建在高臺上的友好村的村民。"
 13,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_021","根據他們的說法，
-不屈號是古格家族的矮人制造的採礦用自走人偶。
+不屈號是古格家族的矮人製造的採礦用自走人偶。
 現在它不知道出了什麼故障，見到會動的東西就會發起攻擊。"
 14,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_022","矮人分成兩個派系，互相之間一直在進行毫無意義的爭鬥。
 我猜他們多半是想製造個人偶妨礙對立陣營採礦，結果沒能成功。"
@@ -31,7 +31,7 @@ int32,str,str
 16,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_031","大哥布林雖然有一定的智慧懂得使用工具，
 但缺少耕地勞作的毅力，
 只會偷偷搶搶做一些強盜之舉。"
-17,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_032","善於騙人的「妖精小殺手」是他們當中非常凶惡的一個。
+17,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_032","擅於騙人的「妖精小殺手」是他們當中非常凶惡的一個。
 據說他會用花言巧語將人騙進陷阱，然後將對方身上的所有
 東西全都搶走。有這麼高的智慧，為什麼就不能用在好地方呢……"
 18,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_040","你見過遊末邦蘭吉特將軍操控的羽蛇嗎？
@@ -49,6 +49,6 @@ int32,str,str
 23,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_052","結果你懂的……
 不知從何時起，這位女魔道士的故鄉珂露西亞島上
 出現了一個和她長得很像的食罪靈。"
-24,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_053","據說這名魔道士最擅長的是一種通過織線來影響他人命運的魔法。
+24,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_VROIREEQ_000_053","據說這名魔道士最擅長的是一種透過織線來影響他人命運的魔法。
 如果這個食罪靈真的是她所變，不知道會織出什麼樣的線來。"
 25,"TEXT_CTSHNT50RISKYMOBKHOLUSIA_00615_TALK_ACTOR","（★未使用／削除予定★）"

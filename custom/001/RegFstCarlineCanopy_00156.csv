@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_REGFSTCARLINECANOPY_00156_MIOUNNE_000_000","歡迎來到「魔女咖啡館」。
-彙集在森林之都格里達尼亞的冒險者們都會來這裡休養生息。"
+匯集在森林之都格里達尼亞的冒險者們都會來這裡休養生息。"
 1,"TEXT_REGFSTCARLINECANOPY_00156_MIOUNNE_000_001","為了使遭受第七靈災破壞的森林恢復原來的樣子，
 格里達尼亞很需要你們這樣的冒險者。
 請務必助我們一臂之力。"
@@ -15,7 +15,7 @@ int32,str,str
 期待人們提起你的名字。
 以後，肯定每天都會聽人們提到你的名字吧！"
 5,"TEXT_REGFSTCARLINECANOPY_00156_MIOUNNE_000_020","歡迎來到「魔女咖啡館」。
-彙集在森林之都格里達尼亞的冒險者們都會來這裡休養生息。"
+匯集在森林之都格里達尼亞的冒險者們都會來這裡休養生息。"
 6,"TEXT_REGFSTCARLINECANOPY_00156_MIOUNNE_000_021","歡迎來到格里達尼亞。
 請飲用我特製的茶水，好好放鬆一下吧。
 希望你能為這個國家出一份力。"
@@ -25,12 +25,12 @@ int32,str,str
 大家都很期待你精彩的冒險故事呢！"
 9,"TEXT_REGFSTCARLINECANOPY_00156_MIOUNNE_000_040","哎呀，<Highlight>ObjectParameter(1)</Highlight>，
 歡迎來到我的咖啡館。
-這裡彙集了許多人的思念，這對於我來說是十分寶貴的。"
+這裡匯集了許多人的思念，這對於我來說是十分寶貴的。"
 10,"TEXT_REGFSTCARLINECANOPY_00156_MIOUNNE_000_041","因為我們決定要接納更多的冒險者了，所以忙得不可開交。
-托你的福，每天都會有很多人來到這裡，可熱鬧了。
-我彷彿可以看到斐加加他們的笑顏呢。"
+托你的福，每天都會有很多人來到這裡，非常熱鬧。
+我彷彿可以看到斐加加他們的笑容呢。"
 11,"TEXT_REGFSTCARLINECANOPY_00156_MIOUNNE_000_050","<Highlight>ObjectParameter(1)</Highlight>，你平安無事就好！
-烏爾達哈的事我多少也有所瞭解。"
+烏爾達哈的事我多少也有所了解。"
 12,"TEXT_REGFSTCARLINECANOPY_00156_MIOUNNE_000_051","放心，格里達尼亞認識你的人都相信你是清白的，
 不會讓人在城邦內對你出手的。"
 13,"TEXT_REGFSTCARLINECANOPY_00156_MIOUNNE_000_052","冒險者行會也正在尋找能夠協助你們的方法。
@@ -54,4 +54,4 @@ int32,str,str
 20,"TEXT_REGFSTCARLINECANOPY_00156_MIOUNNE_000_110","<Highlight>ObjectParameter(1)</Highlight>，我很感謝你拯救了我們的星球。
 但其實，你的平安歸還，才是最令我高興的事情。"
 21,"TEXT_REGFSTCARLINECANOPY_00156_MIOUNNE_000_111","怎麼樣，坐下來喝杯茶如何？
-大家全都盼星星盼月亮，期待著你的冒險故事呢！"
+大家都期盼許久，期待著你的冒險故事呢！"

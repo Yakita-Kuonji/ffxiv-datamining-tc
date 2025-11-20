@@ -118,7 +118,7 @@ int32,str,str
 76,"TEXT_STMBDZ417_02740_GYORIN_000_026","真、真的會付錢嗎？
 真的可以相信嗎……"
 77,"TEXT_STMBDZ417_02740_GYORIN_000_027","原來如此，試用一下，
-就可以瞭解武器，增加購買的機會吧？
+就可以了解武器，增加購買的機會吧？
 哎呀，沒想到<Highlight>ObjectParameter(1)</Highlight>還有經商的才能啊！"
 78,"TEXT_STMBDZ417_02740_GYORIN_000_028","明白了！
 看在摯友<Highlight>ObjectParameter(1)</Highlight>的面子上，就借給你們了！
@@ -149,7 +149,7 @@ int32,str,str
 90,"TEXT_STMBDZ417_02740_KUROBANA_000_048","呀，暴發戶的鯰魚精老闆啊……
 多虧有你的火槍，如你所見，我成功討伐了魔物。
 謝謝你借給我！"
-91,"TEXT_STMBDZ417_02740_GYORIN_000_049","你瞭解這些武器的優異效能了嗎？
+91,"TEXT_STMBDZ417_02740_GYORIN_000_049","你了解這些武器的優異效能了嗎？
 能讓你中意就再好不過了。"
 92,"TEXT_STMBDZ417_02740_GYORIN_000_050","那麼……
 就開始商議價格吧！

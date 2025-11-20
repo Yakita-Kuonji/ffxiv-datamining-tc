@@ -54,7 +54,7 @@ int32,str,str
 48,"TEXT_KINGBA411_04837_CEETOLJA_000_000","<Highlight>ObjectParameter(1)</Highlight>，你來了！
 其實我正想和你聊聊偷走祭器的盜賊團呢……
 最近我聽到了一些很讓人在意的傳聞。"
-49,"TEXT_KINGBA411_04837_CEETOLJA_000_001","我這就去找告訴我這事的戰士，
+49,"TEXT_KINGBA411_04837_CEETOLJA_000_001","我這就去找告訴我這件事的戰士，
 你在這裡等我一下！"
 50,"TEXT_KINGBA411_04837_CEETOLJA_100_001","我回來了，<Highlight>ObjectParameter(1)</Highlight>！"
 51,"TEXT_KINGBA411_04837_RESISTANCEA04837_000_002","什麼，給西托加提供幫助的人，
@@ -98,7 +98,7 @@ int32,str,str
 這一帶的地形我已經跟戰士請教過了，放心吧！"
 68,"TEXT_KINGBA411_04837_CEETOLJA_000_020","就是她吧？"
 69,"TEXT_KINGBA411_04837_RESISTANCEB04837_000_030","你們就是自發追捕盜賊團的人吧？
-事情的經過我都已經瞭解過了。"
+事情的經過我都已經了解過了。"
 70,"TEXT_KINGBA411_04837_RESISTANCEB04837_000_031","確實有人目擊到了疑似沙爾托菲特盜賊團的集團，
 甚至最近有巡邏的士兵遭到了襲擊……"
 71,"TEXT_KINGBA411_04837_RESISTANCEB04837_000_032","根據報告，盜賊們見到士兵後，
@@ -126,7 +126,7 @@ int32,str,str
 我不能放任普通人前往那種危險的地方。"
 82,"TEXT_KINGBA411_04837_CEETOLJA_000_042","抱歉，我的身手確實很爛……
 那能麻煩<Highlight>ObjectParameter(1)</Highlight>你去看看嘛？"
-83,"TEXT_KINGBA411_04837_CEETOLJA_000_043","我會在這裡繼續跟他們打聽訊息！
+83,"TEXT_KINGBA411_04837_CEETOLJA_000_043","我會在這裡繼續跟他們打聽消息！
 拜託了！"
 84,"TEXT_KINGBA411_04837_CHALTEAUFITE_000_044","(-貧嘴的商人-)你們來給這位冒險者帶路吧。"
 85,"TEXT_KINGBA411_04837_AVENEL_000_045","好、好的……"
@@ -136,7 +136,7 @@ int32,str,str
 88,"TEXT_KINGBA411_04837_CHALTEAUFITE_000_048","(-貧嘴的商人-)什麼？
 平常都靠我，你們搞不定？！
 我說你們偶爾也出點力行不行啊？"
-89,"TEXT_KINGBA411_04837_CEETOLJA_000_050","我會繼續和他們打聽訊息，
+89,"TEXT_KINGBA411_04837_CEETOLJA_000_050","我會繼續和他們打聽消息，
 麻煩你去盜賊出現的地方確認一下！
 路上一定要小心一些！"
 90,"TEXT_KINGBA411_04837_RESISTANCEB04837_000_055","如果遇到盜賊請直接將他們打倒，
@@ -161,7 +161,7 @@ int32,str,str
 100,"TEXT_KINGBA411_04837_AVENEL_000_110","啊？你、你把盜賊打倒了？！
 全都打倒了？！"
 101,"TEXT_KINGBA411_04837_AVENEL_000_111","那、那個……那我！
-我能聯繫一下留在天營門的領隊嗎？"
+我能聯絡一下留在天營門的領隊嗎？"
 102,"TEXT_KINGBA411_04837_AVENEL_000_112","你的同伴還有軍官應該也和他在一起，
 可以先說說情況……"
 103,"TEXT_KINGBA411_04837_AVENEL_000_113","那個……就……護衛贏了……

@@ -40,7 +40,7 @@ int32,str,str
 27,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_140","府邸內有恐怖的奇妙鬼怪遊蕩！
 比如說有著巨大眼球的鬼怪<Sheet(BNpcName,5212,0)/>
 和散發著奇異光芒的鬼魂<Sheet(BNpcName,5213,0)/>……"
-28,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_141","小惡精靈・阿里曼能將進入它視線的一切生物變成南瓜！
+28,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_141","小惡精靈·阿里曼能將進入它視線的一切生物變成南瓜！
 請小心不要被它們看到了！"
 29,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_142","妖火則對聲音極其敏感！
 如果它們察覺到了你發出的聲音，就會把你變成南瓜！
@@ -57,7 +57,7 @@ int32,str,str
 39,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_200","「南瓜頭狩獵」是找出藏在府邸的6個<Sheet(EObj,2007385,0)/>的小遊戲！"
 40,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_201","你能否在限制時間內找出全部<Sheet(EObj,2007385,0)/>呢？！"
 41,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_210","「金庫小偷」是找出藏在府邸某處的<Sheet(EObj,2007413,0)/>，
-併成功打開它的小遊戲！"
+並成功打開它的小遊戲！"
 42,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_211","但是，金庫被魔法鎖鎖著。
 不過，只要你對著金庫說出5位數字的密碼，它就會自己打開！"
 43,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_212","府邸內藏有寫著密碼的紙條，
@@ -94,7 +94,7 @@ int32,str,str
 59,"TEXT_HALLOWEENENTRANCE_SYSTEM_000_254","打開錯誤的<Sheet(EObj,2007547,0)/>的話，會降低心智值。
 請仔細確認紙條上的提示再打開箱子吧。"
 60,"TEXT_HALLOWEENENTRANCE_SYSTEM_000_255","另外，只有拿到紙條的人才知道上面的內容，
-請通過聊天頻道等方式共享。"
+請透過聊天頻道等方式共享。"
 61,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_260","「換膚小頑童」小遊戲，
 要找出府邸內唯一一個小頑童變身的<Sheet(EObj,2007548,0)/>！"
 62,"TEXT_HALLOWEENENTRANCE_MEMBERC01548_000_261","對府邸內的南瓜使用<Sheet(EventItem,2002005,0)/>，

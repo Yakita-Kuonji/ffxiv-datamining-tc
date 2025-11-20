@@ -35,7 +35,7 @@ int32,str,str
 22,"TEXT_FESHLW2018ENTRANCE_00540_MEMBERC01548_000_140","府邸內有恐怖的奇妙鬼怪遊蕩！
 比如說有著巨大眼球的鬼怪<Sheet(BNpcName,5212,0)/>
 和散發著奇異光芒的鬼魂<Sheet(BNpcName,5213,0)/>……"
-23,"TEXT_FESHLW2018ENTRANCE_00540_MEMBERC01548_000_141","小惡精靈・阿里曼能將進入它視線的一切生物變成南瓜！
+23,"TEXT_FESHLW2018ENTRANCE_00540_MEMBERC01548_000_141","小惡精靈·阿里曼能將進入它視線的一切生物變成南瓜！
 請小心不要被它們看到了！"
 24,"TEXT_FESHLW2018ENTRANCE_00540_MEMBERC01548_000_142","妖火則對聲音極其敏感！
 如果它們察覺到了你發出的聲音，就會把你變成南瓜！
@@ -52,7 +52,7 @@ int32,str,str
 34,"TEXT_FESHLW2018ENTRANCE_00540_MEMBERC01548_000_200","「南瓜頭狩獵」是找出藏在府邸的6個<Sheet(EObj,2007385,0)/>的小遊戲！"
 35,"TEXT_FESHLW2018ENTRANCE_00540_MEMBERC01548_000_201","你能否在限制時間內找出全部<Sheet(EObj,2007385,0)/>呢？"
 36,"TEXT_FESHLW2018ENTRANCE_00540_MEMBERC01548_000_210","「金庫小偷」是找出藏在府邸某處的<Sheet(EObj,2007413,0)/>，
-併成功打開它的小遊戲！"
+並成功打開它的小遊戲！"
 37,"TEXT_FESHLW2018ENTRANCE_00540_MEMBERC01548_000_211","但是，金庫被魔法鎖鎖著。
 不過，只要你對著金庫說出5位數字的密碼，它就會自己打開！"
 38,"TEXT_FESHLW2018ENTRANCE_00540_MEMBERC01548_000_212","府邸內藏有寫著密碼的紙條，

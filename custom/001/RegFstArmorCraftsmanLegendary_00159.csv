@@ -18,14 +18,14 @@ int32,str,str
 9,"TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_GEROLT_000_020","竟然讓我為你製造了那麼多武器，你可真是個不簡單的<If(PlayerParameter(4))>女人<Else/>男人</If>啊。
 我不知道你到底在和什麼東西戰鬥，也不知道你有什麼樣的原因。
 不過……你也別太勉強自己了，偶爾放鬆好好休息下吧。"
-10,"TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_GEROLT_000_030","那個從異國來的奇怪老頭是叫加爾贊還是賈阿壯來著？
+10,"TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_GEROLT_000_030","那個從異國來的奇怪老頭是叫加爾贊還是賈阿壯？
 我才不管那麼多，反正那老頭就交給你對付了。
 我還要忙著做水壺呢！"
 11,"TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_GEROLT_000_040","啥？魂晶？那是什麼東西？
 那種東西又付不了酒館的酒菜錢！"
 12,"TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_GEROLT_000_050","你這次又要給上古武器鑲嵌大量的魔晶石？
 那可是我精心打造的武器啊，竟敢隨便改造！
-……嘁，愛怎麼著怎麼著吧！"
+……嘁，愛怎樣就怎樣吧！"
 13,"TEXT_REGFSTARMORCRAFTSMANLEGENDARY_00159_GEROLT_000_060","加爾贊分給了我一些特製的鍊金藥。
 沒想到那個怪老頭帶的鍊金藥還不錯。
 慢著……要是把這塗在壺上，那我的靈魂不會被壺給吸收了吧？！"

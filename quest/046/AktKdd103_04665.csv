@@ -73,7 +73,7 @@ int32,str,str
 58,"TEXT_AKTKDD103_04665_KOHRABNTAH_000_014","這個被大家藏匿起來的「無名的優雷卡之神」
 以能榨乾數條地脈的大量乙太為代價，
 創造出了一件擁有特殊力量的武器……"
-59,"TEXT_AKTKDD103_04665_KOHRABNTAH_000_015","哎呀，這樣下去就變成了在這裡乾站著聊天了。
+59,"TEXT_AKTKDD103_04665_KOHRABNTAH_000_015","哎呀，這樣下去就變成了在這裡光站著聊天了。
 去散散步吧，到前庭的外頭再聊。"
 60,"TEXT_AKTKDD103_04665_KOHRABNTAH_000_020","那麼繼續吧……
 剛才說的那個優雷卡之神傾盡全力，
@@ -158,7 +158,7 @@ int32,str,str
 93,"TEXT_AKTKDD103_04665_KOHRABNTAH_000_060","不要走！求你……不要走！諾亞！"
 94,"TEXT_AKTKDD103_04665_NOAHSSOUL_000_061","(-諾亞的靈魂-)珂爾……你……"
 95,"TEXT_AKTKDD103_04665_KOHRABNTAH_000_062","你不是想要把你弟子的努力告訴大家嗎？
-那你別隻是告訴<Highlight>ObjectParameter(1)</Highlight>，
+那你別只是告訴<Highlight>ObjectParameter(1)</Highlight>，
 也講給我聽聽不好嗎！"
 96,"TEXT_AKTKDD103_04665_KOHRABNTAH_000_063","除此以外，還有其他很多事情……
 關於亞拉戈文明，關於你，

@@ -5,8 +5,8 @@ int32,str,str
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
 A4調查平臺的斯提格瑪四想找人幫忙籌備食材。"
-1,"TEXT_BANOMI114_04620_SEQ_01","和調查型歐米克隆對話"
-2,"TEXT_BANOMI114_04620_SEQ_02","將委託物品交給調查型歐米克隆"
+1,"TEXT_BANOMI114_04620_SEQ_01","和調查型奧密克戎對話"
+2,"TEXT_BANOMI114_04620_SEQ_02","將委託物品交給調查型奧密克戎"
 3,"TEXT_BANOMI114_04620_SEQ_03","向斯提格瑪四報告"
 4,"TEXT_BANOMI114_04620_SEQ_04",""
 5,"TEXT_BANOMI114_04620_SEQ_05",""
@@ -28,8 +28,8 @@ A4調查平臺的斯提格瑪四想找人幫忙籌備食材。"
 21,"TEXT_BANOMI114_04620_SEQ_21",""
 22,"TEXT_BANOMI114_04620_SEQ_22",""
 23,"TEXT_BANOMI114_04620_SEQ_23",""
-24,"TEXT_BANOMI114_04620_TODO_00","前往至福樂土海洋區和調查型歐米克隆對話"
-25,"TEXT_BANOMI114_04620_TODO_01","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土海洋區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給調查型歐米克隆</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土海洋區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給調查型歐米克隆</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土海洋區釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給調查型歐米克隆</If><Else/></If></If></If>"
+24,"TEXT_BANOMI114_04620_TODO_00","前往至福樂土海洋區和調查型奧密克戎對話"
+25,"TEXT_BANOMI114_04620_TODO_01","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土海洋區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給調查型奧密克戎</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土海洋區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給調查型奧密克戎</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土海洋區釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給調查型奧密克戎</If><Else/></If></If></If>"
 26,"TEXT_BANOMI114_04620_TODO_02","向斯提格瑪四報告"
 27,"TEXT_BANOMI114_04620_TODO_03",""
 28,"TEXT_BANOMI114_04620_TODO_04",""
@@ -58,7 +58,7 @@ A4調查平臺的斯提格瑪四想找人幫忙籌備食材。"
 為卡列連人提供菜品。
 因此請求同盟者幫忙籌備所需食材。"
 50,"TEXT_BANOMI114_04620_STIGMA4_000_003","以上為作戰概要……同盟者，
-請遵從被派往當地的調查型歐米克隆的指示，
+請遵從被派往當地的調查型奧密克戎的指示，
 儘快完成任務。"
 51,"TEXT_BANOMI114_04620_OMICRON04620_000_004","沙沙沙……確認為同盟者<Highlight>ObjectParameter(1)</Highlight>。
 你是來執行海洋區的籌備食材任務的吧。
@@ -90,7 +90,7 @@ A4調查平臺的斯提格瑪四想找人幫忙籌備食材。"
 62,"TEXT_BANOMI114_04620_OMICRON04620_000_015","沙沙、沙沙沙……已完成對該物品的掃瞄，確定為指定物品。
 接下來將向斯提格瑪四進行通訊報告。
 同盟者辛苦了……請前往A4調查平臺領取報酬。"
-63,"TEXT_BANOMI114_04620_STIGMA4_000_016","已收到來自調查型歐米克隆的關於任務完成的通訊報告。
+63,"TEXT_BANOMI114_04620_STIGMA4_000_016","已收到來自調查型奧密克戎的關於任務完成的通訊報告。
 對同盟者的表現給予高度評價。"
 64,"TEXT_BANOMI114_04620_STIGMA4_000_017","這樣一來全身毛絨絨的咖啡廳老闆推出的
 面向卡列連人的新菜單開發工作就可以正常進行了。"

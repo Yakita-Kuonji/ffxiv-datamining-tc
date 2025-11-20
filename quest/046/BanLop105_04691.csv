@@ -57,7 +57,7 @@ int32,str,str
 49,"TEXT_BANLOP105_04691_MANAGINGWAY_000_001","因此我想推進新商品的開發工作。
 於是就有人提議發售刻有你名字的紀念品。
 畢竟<Highlight>ObjectParameter(1)</Highlight>大人在月球這邊也是位名人嘛。"
-50,"TEXT_BANLOP105_04691_MANAGINGWAY_000_002","之前請<Highlight>ObjectParameter(1)</Highlight>大人制作的<Sheet(Item,38859,0)/>深受好評，
+50,"TEXT_BANLOP105_04691_MANAGINGWAY_000_002","之前請<Highlight>ObjectParameter(1)</Highlight>大人製作的<Sheet(Item,38859,0)/>深受好評，
 一經發售就全部賣光了！"
 51,"TEXT_BANLOP105_04691_MANAGINGWAY_000_003","所以為了招攬更多的顧客，
 我想請你生產更多的紀念品！"

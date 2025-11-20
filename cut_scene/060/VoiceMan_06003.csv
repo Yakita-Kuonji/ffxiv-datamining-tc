@@ -50,7 +50,7 @@ int32,str,str
 不過我也因此看到了一個結論。"
 33,"TEXT_VOICEMAN_06003_000340_YSHTOLA","它們沒有乙太。在我的眼中它們都是一片空白。"
 34,"TEXT_VOICEMAN_06003_000350_ALPHINAUD","這是什麼意思……"
-35,"TEXT_VOICEMAN_06003_000360_YSHTOLA","你們還記得月面監視者說過的話嗎？古代人認為星球是從天脈迴圈不暢的地方開始枯萎的。"
+35,"TEXT_VOICEMAN_06003_000360_YSHTOLA","你們還記得月面監視者說過的話嗎？古代人認為星球是從天脈循環不暢的地方開始枯萎的。"
 36,"TEXT_VOICEMAN_06003_000370_YSHTOLA","現在的情況十分符合古代人的理論，
 從人變成獸的那一刻起，他們的乙太便枯萎了。"
 37,"TEXT_VOICEMAN_06003_000380_YSHTOLA","所以那些野獸在死亡時，
@@ -65,7 +65,7 @@ int32,str,str
 恐怕無論用什麼辦法，都無法讓他們還原。"
 43,"TEXT_VOICEMAN_06003_000440_GRAHATIA","那他們甚至無法回歸星海……"
 44,"TEXT_VOICEMAN_06003_000450_VRITRA","異形野獸威勢不減……"
-45,"TEXT_VOICEMAN_06003_000460_VRITRA","本以為打倒了偽神獸，就能夠削弱這些野獸的勢頭，
+45,"TEXT_VOICEMAN_06003_000460_VRITRA","本以為打倒了偽神獸，就能夠削弱這些野獸的氣勢，
 看來偽神獸並不是它們的首領……"
 46,"TEXT_VOICEMAN_06003_000470_VRITRA","這些全是我薩維奈的子民！
 而現在我卻不得不以獠牙相向！"
@@ -96,7 +96,7 @@ int32,str,str
 61,"TEXT_VOICEMAN_06003_000620_THANCRED","這是拂曉的通訊珠。
 你之前一直嫌麻煩不想要。"
 62,"TEXT_VOICEMAN_06003_000630_THANCRED","既然弗里多拉要單獨行動，總得有個聯絡手段吧？
-你帶上這個，就能隨時和我們聯繫了。"
+你帶上這個，就能隨時與我們聯絡了。"
 63,"TEXT_VOICEMAN_06003_000640_ESTINIEN","呵"
 64,"TEXT_VOICEMAN_06003_000650_ESTINIEN","聽見了嗎，總督大人？
 這就是拂曉的決定。"
@@ -197,7 +197,7 @@ int32,str,str
 125,"TEXT_VOICEMAN_06003_001244_AWAHEEN","呀"
 126,"TEXT_VOICEMAN_06003_001246_AWAHEEN","唔啊"
 127,"TEXT_VOICEMAN_06003_001250_AWAHEEN","弗里多拉大人……還有拉札漢……就拜託你了！"
-128,"TEXT_VOICEMAN_06003_001260_HANNISHMANA","我、我、我的兒子……把總督大人……"
+128,"TEXT_VOICEMAN_06003_001260_HANNISHMANA","我、我、我的兒子……總督大人……"
 129,"TEXT_VOICEMAN_06003_001270_GRAHATIA","快跑！就算為了他們倆，你也要活下去！"
 130,"TEXT_VOICEMAN_06003_001275_HANNISHMANA","呼……"
 131,"TEXT_VOICEMAN_06003_001280_GRAHATIA","已經沒事了，不要害怕……"
@@ -230,7 +230,7 @@ int32,str,str
 已經派了一些人過去了。"
 152,"TEXT_VOICEMAN_06003_001490_ESTINIEN","另外他們猜測，
 人之所以會獸化是有條件的，那就是……"
-153,"TEXT_VOICEMAN_06003_001500_VRITRA","恐怖和絕望會令人變成再也無法蘇醒的野獸……
+153,"TEXT_VOICEMAN_06003_001500_VRITRA","恐怖和絕望會令人變成再也無法甦醒的野獸……
 簡直像惡夢一樣。"
 154,"TEXT_VOICEMAN_06003_001510_VRITRA","薩維奈的子民到底犯了什麼滔天大罪，
 需到遭到如此殘忍的懲罰！"
@@ -272,7 +272,7 @@ int32,str,str
 弗里多拉，我們上！"
 174,"TEXT_VOICEMAN_06003_001710_ALPHINAUD","別擔心，過一會就不痛了。"
 175,"TEXT_VOICEMAN_06003_001720_MATSYA","有人看見麥梵了嗎？"
-176,"TEXT_VOICEMAN_06003_001730_MATSYA","她去哪兒了……"
+176,"TEXT_VOICEMAN_06003_001730_MATSYA","她去哪裡了……"
 177,"TEXT_VOICEMAN_06003_001740_ALISAIE","我們在寺院周圍巡視了一圈，已經沒有野獸了，
 也沒有居民躲在這附近。"
 178,"TEXT_VOICEMAN_06003_001750_ALPHINAUD","辛苦了。我們這邊的傷患也都治療完了。"
@@ -282,7 +282,7 @@ int32,str,str
 不過總有一天我們還能回來……"
 181,"TEXT_VOICEMAN_06003_001780_PALAKASMAN","你確定其他的國家都安全嗎？"
 182,"TEXT_VOICEMAN_06003_001790_PALAKASWOMANA","這……我也不知道……"
-183,"TEXT_VOICEMAN_06003_001800_PALAKASWOMANB","逃到哪兒去都一樣！
+183,"TEXT_VOICEMAN_06003_001800_PALAKASWOMANB","逃到哪裡去都一樣！
 全世界都完了！沒人能跑得掉！"
 184,"TEXT_VOICEMAN_06003_001810_PALAKASWOMANB","就算我跑了出來……我的家人……都已經……"
 185,"TEXT_VOICEMAN_06003_001820_PALAKASWOMANB","嗚嗚，嗚嗚嗚……"
@@ -298,9 +298,9 @@ int32,str,str
 190,"TEXT_VOICEMAN_06003_001870_PALAKASWOMANA","我的孩子，你當知曉。
 降生於世，一切皆苦。"
 191,"TEXT_VOICEMAN_06003_001880_PALAKASWOMANA","生者當知苦痛、知災難、知絕望，
-嘗遍世間千苦，感盡凡塵萬傷。"
+嚐遍世間千苦，感盡凡塵萬傷。"
 192,"TEXT_VOICEMAN_06003_001890_PALAKASOLDMAN","生乃一條無盡危路，唯有死在盡頭停駐。"
-193,"TEXT_VOICEMAN_06003_001900_PALAKASOLDMAN","一路所見所聞，唯有悲歎恐怖、苛虐憂怵……"
+193,"TEXT_VOICEMAN_06003_001900_PALAKASOLDMAN","一路所見所聞，唯有悲嘆恐怖、苛虐憂怵……"
 194,"TEXT_VOICEMAN_06003_001910_PALAKASMAN","但切莫閉上雙眼獨自彷徨，你當見證生命的真相。"
 195,"TEXT_VOICEMAN_06003_001920_PALAKASMAN","你當知曉，一切苦痛都會帶來新的力量。"
 196,"TEXT_VOICEMAN_06003_001930_PALAKASWOMANB","它們猶如鍛錘的敲打，令鎧甲愈發堅實……"
@@ -314,7 +314,7 @@ int32,str,str
 201,"TEXT_VOICEMAN_06003_001980_ALPHINAUD","我們已經清除了這一路的野獸，
 不過還請你們多加小心。
 千萬不要單獨行動。"
-202,"TEXT_VOICEMAN_06003_001990_ALISAIE","謝謝你為大家鼓勁。
+202,"TEXT_VOICEMAN_06003_001990_ALISAIE","謝謝你為大家加油。
 剛才大家誦讀的是島上最重要的教誨吧？"
 203,"TEXT_VOICEMAN_06003_002000_MATSYA","是的，那是人生的第一條教誨，
 是擁有智慧與力量的神獸賜予我們的。"
@@ -327,7 +327,7 @@ int32,str,str
 遇到好事就盡情去享受，
 遇到壞事也事先有個心理準備，相信總有一天能苦盡甘來。"
 207,"TEXT_VOICEMAN_06003_002040_ALPHINAUD","你說得沒錯，我也會記住這段教誨的。"
-208,"TEXT_VOICEMAN_06003_002050_HYDAELYN","你需要在黑暗中尋找喜悅。
+208,"TEXT_VOICEMAN_06003_002050_HYDAELYN","(-海德林-)你需要在黑暗中尋找喜悅。
 只有直面絕望、跨越悲傷依舊不斷前行的人，
 才能得到其真正的光輝。"
 209,"TEXT_VOICEMAN_06003_002060_ALISAIE","好啦，氣也打足了，
@@ -468,7 +468,7 @@ int32,str,str
 300,"TEXT_VOICEMAN_06003_002930_FOURCHENAULT","末日是一種會侵蝕掉整個星球的疾病。
 很不幸，薩維奈島是最先出現了末日徵兆的地區。
 恐怕過不了多久，這場災難就會遍及全世界。"
-301,"TEXT_VOICEMAN_06003_002940_FOURCHENAULT","我們哲學家議會在數百年前通過預言得知了這場未來的災難……"
+301,"TEXT_VOICEMAN_06003_002940_FOURCHENAULT","我們哲學家議會在數百年前透過預言得知了這場未來的災難……"
 302,"TEXT_VOICEMAN_06003_002950_FOURCHENAULT","從那以後，我們為防止世界被末日吞噬，
 制訂了一個從這個星球逃離的計畫。"
 303,"TEXT_VOICEMAN_06003_002960_HANNISHMANB","逃離星球？！
@@ -531,14 +531,14 @@ int32,str,str
 334,"TEXT_VOICEMAN_06003_003270_NIDHANA","謝謝，交給我們吧。
 你們也要多加小心，
 希望下次見面時大家都平安！"
-335,"TEXT_VOICEMAN_06003_003280_YSHTOLA","各地都出現了偽神獸麼……"
+335,"TEXT_VOICEMAN_06003_003280_YSHTOLA","各地都出現了偽神獸嗎……"
 336,"TEXT_VOICEMAN_06003_003290_ALPHINAUD","正如父親所說，或許災情還將繼續擴大……
 就像過去在亞馬烏羅提發生的末日那樣。"
 337,"TEXT_VOICEMAN_06003_003300_THANCRED","也就是說不僅災情的範圍會擴大，
 程度也會更加嚴重嗎？"
 338,"TEXT_VOICEMAN_06003_003310_THANCRED","光是人變成異形就夠受的了，
 如果連植物與大地都受到影響，
-那可真是沒法待了……"
+那可真是無法待了……"
 339,"TEXT_VOICEMAN_06003_003320_ESTINIEN","這顆星球最終會無法居住……"
 340,"TEXT_VOICEMAN_06003_003330_MIHLEEL","這是您點的飲品。"
 341,"TEXT_VOICEMAN_06003_003340_MIHLEEL","輕慢用。
@@ -552,7 +552,7 @@ int32,str,str
 345,"TEXT_VOICEMAN_06003_003380_ALISAIE","就沒有什麼更好的辦法了嗎？"
 346,"TEXT_VOICEMAN_06003_003390_YSHTOLA","要說突破口的話，可能就只有海德林了。
 畢竟她知曉過去的災難，
-並通過束縛佐狄亞克控制住了古代的末日……"
+並透過束縛佐狄亞克控制住了古代的末日……"
 347,"TEXT_VOICEMAN_06003_003400_YSHTOLA","可巴別塔那次之後她再也沒有和我們有過接觸，
 也不知道是什麼原因……"
 348,"TEXT_VOICEMAN_06003_003410_YSHTOLA","現在就連她給我們的那朵花也消失了……"

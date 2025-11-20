@@ -9,7 +9,7 @@ int32,str,int32,int32,byte
 5,"",2,0,0
 6,"",2,0,0
 7,"戰隊名已被修改為“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”。",0,1,0
-8,"戰隊隊徽已變更。",0,0,0
+8,"戰隊徽章已變更。",0,0,0
 9,"戰隊段位已升至“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”。",0,3,0
 10,"戰隊段位已降至“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”。",0,3,0
 11,"新的賽季開始了。",0,0,0

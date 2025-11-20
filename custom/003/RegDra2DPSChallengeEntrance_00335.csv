@@ -26,7 +26,7 @@ int32,str,str
 也會開放相對應難度的木人殲滅戰。"
 15,"TEXT_REGDRA2DPSCHALLENGEENTRANCE_00335_SYSTEM_000_042","所有難度的限制時間都是3分鐘，
 難度越高，木人就越難以打倒。"
-16,"TEXT_REGDRA2DPSCHALLENGEENTRANCE_00335_SYSTEM_000_043","木人的體力除了與所選的難度有關，
+16,"TEXT_REGDRA2DPSCHALLENGEENTRANCE_00335_SYSTEM_000_043","木人的HP除了與所選的難度有關，
 還會根據測試開始時的職業或特職進行補正變動。"
 17,"TEXT_REGDRA2DPSCHALLENGEENTRANCE_00335_ONETIMEGUIDE_000_050","跟我說你想要挑戰木人殲滅戰就可以了。
 我會帶你到望海天石，設定好你需要的木人。"

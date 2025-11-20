@@ -22,7 +22,7 @@ int32,str,str
 8,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_REFUND_FULL_GIL","若返還Gil後所持Gil超過上限，則無法返還。
 請減少所持Gil數量後再試。"
 9,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_GUIDE","正在參與其他土地的抽選。
-請通過已抽選土地的門牌確認結果。
+請透過已抽選土地的門牌確認結果。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※你參與抽選的土地為
 　<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/> 第<Value>IntegerParameter(2)</Value>區 <Value>IntegerParameter(3)</Value>號<UIGlow>01</UIGlow><UIForeground>01</UIForeground>

@@ -18,12 +18,12 @@ int32,Image,str
 3,86802,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■獲得戰果提升義軍等級！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 南方博茲雅戰線任務中專門設置了一種義軍等級。
-戰果可以通過參加“衝突戰”、“緊急遭遇戰”等大規模作戰行動，
+戰果可以透過參加“衝突戰”、“緊急遭遇戰”等大規模作戰行動，
 並取得一定的評價後得到提升。
 
 <UIForeground>0F</UIForeground>※僅打倒魔獸或帝國兵無法獲得戰果。
 戰果將在作戰行動完成時獲得，敬請注意！<UIForeground>01</UIForeground>"
-4,86802,"戰果積累到一定程度時，
+4,86802,"戰果累積到一定程度時，
 可以向據點內的義軍司令部軍官（義軍等級）報告。
 當戰果達到一定程度，義軍等級將會提升。
 
@@ -31,16 +31,16 @@ int32,Image,str
 為了今後更為有利地展開作戰活動，請積極地提升義軍等級。
 
 <UIForeground>0F</UIForeground>※義軍等級必須經過戰果報告才能提升。
-當戰果積累到一定程度時，請不要忘記向軍官報告！<UIForeground>01</UIForeground>"
-5,86802,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■活用職業的等級同步規則！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+當戰果累積到一定程度時，請不要忘記向軍官報告！<UIForeground>01</UIForeground>"
+5,86802,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■善用職業的等級同步規則！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 在完成大規模作戰行動的“衝突戰”以及“緊急遭遇戰”時
 可以獲得提升職業等級的經驗值。
 
 獲得的經驗值與戰果不同，無需經過報告即可像通常一樣，
-在積累到規定的數值時將自動提升職業等級。
+在累積到規定的數值時將自動提升職業等級。
 
-如果目前還有未滿80級的職業，請務必積極地活用等級同步規則！"
+如果目前還有未滿80級的職業，請務必積極地善用等級同步規則！"
 6,86803,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■不知道該怎麼辦了！　這種時候……<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 甘戈斯的謝羅斯以及任務內的其他非玩家角色
@@ -75,33 +75,33 @@ int32,Image,str
 <UIForeground>0F</UIForeground>按下進入按鈕後<UIForeground>01</UIForeground>就可以與非玩家角色一同挑戰迷宮了！"
 11,86808,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>前往迷宮吧——與其他玩家組隊挑戰迷宮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-<UIForeground>0F</UIForeground>任務搜索器<UIForeground>01</UIForeground>是供<UIForeground>0F</UIForeground>不同玩家<UIForeground>01</UIForeground>組成小隊
+<UIForeground>0F</UIForeground>任務搜尋器<UIForeground>01</UIForeground>是供<UIForeground>0F</UIForeground>不同玩家<UIForeground>01</UIForeground>組成小隊
 一起挑戰迷宮等任務的<UIForeground>0F</UIForeground>便利功能<UIForeground>01</UIForeground>。
 
 訪問進入點，選擇<UIForeground>0F</UIForeground>與其他玩家一同進入<UIForeground>01</UIForeground>後，
-將會打開<UIForeground>0F</UIForeground>任務搜索器視窗<UIForeground>01</UIForeground>。
+將會打開<UIForeground>0F</UIForeground>任務搜尋器視窗<UIForeground>01</UIForeground>。
 <UIForeground>0F</UIForeground>勾選想要挑戰的迷宮名稱<UIForeground>01</UIForeground>，然後<UIForeground>0F</UIForeground>按下參加按鈕<UIForeground>01</UIForeground>，
 系統就會自動地將參加相同任務的玩家組成小隊。
 這個過程被稱為<UIForeground>0F</UIForeground>匹配<UIForeground>01</UIForeground>。"
 12,86809,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>前往迷宮吧——與其他玩家組隊挑戰迷宮·續<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-在<UIForeground>0F</UIForeground>匹配完成<UIForeground>01</UIForeground>時會有<UIForeground>0F</UIForeground>聲音提示，並快顯視窗<UIForeground>01</UIForeground>。
+在<UIForeground>0F</UIForeground>匹配完成<UIForeground>01</UIForeground>時會有<UIForeground>0F</UIForeground>聲音提示，並彈出視窗<UIForeground>01</UIForeground>。
 <UIForeground>0F</UIForeground>按下出發按鈕<UIForeground>01</UIForeground>就可以進行挑戰了！
 
-通過匹配與你組成小隊的是<UIForeground>0F</UIForeground>同樣在這個世界展開冒險的其他玩家<UIForeground>01</UIForeground>。
+透過匹配與你組成小隊的是<UIForeground>0F</UIForeground>同樣在這個世界展開冒險的其他玩家<UIForeground>01</UIForeground>。
 還請不要忘記向對方打聲招呼問候，比如“你好”“請多關照”之類的，
-與隊友齊心協力一起完成迷宮挑戰吧！"
+與隊友同心協力一起完成迷宮挑戰吧！"
 13,86810,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>可以挑戰的迷宮數量將會不斷增加！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 隨著你的冒險不斷推進，可以挑戰的迷宮數量也會不斷增加。
-<UIForeground>0F</UIForeground>當前不可使用劇情輔助器的迷宮及任務<UIForeground>01</UIForeground>請多<UIForeground>0F</UIForeground>利用任務搜索器<UIForeground>01</UIForeground>參與挑戰！
+<UIForeground>0F</UIForeground>當前不可使用劇情輔助器的迷宮及任務<UIForeground>01</UIForeground>請多<UIForeground>0F</UIForeground>利用任務搜尋器<UIForeground>01</UIForeground>參與挑戰！
 
 此外成功挑戰過的迷宮也可以重複進行挑戰。
-可以從<UIForeground>0F</UIForeground>快捷指令<UIForeground>01</UIForeground>的<UIForeground>0F</UIForeground>任務情報<UIForeground>01</UIForeground>功能表選擇<UIForeground>0F</UIForeground>任務搜索器<UIForeground>01</UIForeground>
+可以從<UIForeground>0F</UIForeground>設定選單<UIForeground>01</UIForeground>的<UIForeground>0F</UIForeground>任務情報<UIForeground>01</UIForeground>功能表選擇<UIForeground>0F</UIForeground>任務搜尋器<UIForeground>01</UIForeground>
 或<UIForeground>0F</UIForeground>劇情輔助器<UIForeground>01</UIForeground>再次進行挑戰。"
 14,86810,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>想要再次查看說明時<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-打開任務搜索器或劇情輔助器視窗，
+打開任務搜尋器或劇情輔助器視窗，
 <UIForeground>0F</UIForeground>按下“？”按鈕<UIForeground>01</UIForeground>即可查看之前說明的內容。
 
 以上兩項功能對推進劇情能起到重要的幫助！
@@ -121,21 +121,21 @@ int32,Image,str
 難度將會根據探索人數進行<UIForeground>0F</UIForeground>自動調整<UIForeground>01</UIForeground>。
 
 可以和熟知的同伴組隊進行探索，
-也可以通過自動匹配，與其他玩家組隊進行探索。
+也可以透過自動配對，與其他玩家組隊進行探索。
 當然，也可以單人進行探索，但是迷宮的難度可能會相對難一些。"
 17,86813,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>多變技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 在多變迷宮內可以使用“<UIForeground>0F</UIForeground>多變技能<UIForeground>01</UIForeground>”，
-以方便冒險者通過任意職業構成探索迷宮。
+以方便冒險者透過任意職業構成探索迷宮。
 
-無論是防護職業還是進攻職業，都可以使用<UIForeground>0F</UIForeground>特殊的治療和復活<UIForeground>01</UIForeground>來擔任治療職業的職責，
+無論是防護職業還是進攻職業，都可以使用<UIForeground>0F</UIForeground>特殊的療傷和復活<UIForeground>01</UIForeground>來擔任治療職業的職責，
 當然，其他的職業同樣也準備了不同的<UIForeground>0F</UIForeground>特殊技能<UIForeground>01</UIForeground>。
 
-探索時可以使用2種不同的多變技能，也可以隨時通過專用的視窗更換多變技能。"
+探索時可以使用2種不同的多變技能，也可以隨時透過專用的視窗更換多變技能。"
 18,86813,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>進入方法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 進入多變迷宮時，需要與<UIForeground>0F</UIForeground>入口處的非玩家角色對話<UIForeground>01</UIForeground>，
-或者選擇快捷指令“任務情報”的“<UIForeground>0F</UIForeground>特殊迷宮探索器<UIForeground>01</UIForeground>”，
+或者選擇設定選單“任務情報”的“<UIForeground>0F</UIForeground>特殊迷宮探索器<UIForeground>01</UIForeground>”，
 打開專用的視窗進入多變迷宮。
 
 有關多變技能的設置、閱讀已發現的故事以及特殊迷宮探索相關的內容，
@@ -153,7 +153,7 @@ int32,Image,str
 21,86811,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■開拓經驗值與開拓等級<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 在無人島內進行活動會獲得開拓經驗值，
-當開拓經驗值積攢到一定程度後，將會提升開拓等級。
+當開拓經驗值累積到一定程度後，將會提升開拓等級。
 
 開拓等級上升後，能在島內做的事情也會逐漸變多。"
 22,86811,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■開拓目標<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -165,13 +165,13 @@ int32,Image,str
 
 初學者學堂為單人任務，在這裡，你可以學到組隊時各個職能所必需的基本操作。
 
-該任務可從快捷指令的“任務情報”或“冒險者指導教官”處進入。
+該任務可從設定選單的“任務情報”或“冒險者指導教官”處進入。
 
 通關初學者學堂後即可獲得新的裝備，請多多學習，為今後的冒險打下基礎吧！"
 24,86815,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>初學者學堂增加了新的訓練！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 新增的訓練為單人訓練。你可以在訓練中學習戰鬥中常見的攻擊預兆，以及對應的處理方法。
 
-該任務可從快捷指令的“任務情報”或“冒險者指導教官”處進入。
+該任務可從設定選單的“任務情報”或“冒險者指導教官”處進入。
 點選初學者學堂內的對應按鈕即可挑戰新的訓練。
 
 請積極嘗試，多多學習，為今後的冒險打下基礎吧！"
@@ -216,42 +216,41 @@ int32,Image,str
 なお、島内ではデジョンのアクションが専用の<UIForeground>0F</UIForeground>デミデジョン<UIForeground>01</UIForeground>へと変わり
 リキャストタイムを気にせず拠点に戻ることができます。"
 30,0,""
-31,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>「コスモエクスプローラー計画」に参加しました！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+31,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>參加了宇宙探索計劃！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-「<UIForeground>0F</UIForeground>コスモエクスプローラー<UIForeground>01</UIForeground>」は、同じワールドのプレイヤーと協力しつつ、
-月面や宇宙の星々のフィールドを探索・発展させるコンテンツです！
+<UIForeground>0F</UIForeground>宇宙探索<UIForeground>01</UIForeground>是與同伺服器的玩家同心協力，
+在月面及其他行星上進行探索和發展的遊玩內容！
 
-製作・採集の技術を駆使し、惑星探索計画を進めていきましょう！
+運用製作和採集的技術，推進宇宙探索計劃吧！
 
-計画が進行することで、星々のフィールドに惑星探索のための様々な施設が増え、
-景観も変化していきます。"
-32,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■参加可能クラスとレベルアジャスト<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+隨著計劃推進，探索場景上會增加各種有助探索的新設施，
+同時，探索場景的景觀也會發生變化。"
+32,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■職業和等級調整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-コスモエクスプローラーは、クラフター・ギャザラー向けのコンテンツです。
+宇宙探索是面向能工巧匠及大地使者的遊玩內容。
 
-また、一部の要素では「<UIForeground>0F</UIForeground>レベルアジャスト<UIForeground>01</UIForeground>」に対応しており、
-プレイヤーのレベルに応じて、難易度と報酬量が変化します。"
-33,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■探索フィールドの特殊ルール<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+其中最為重要的“探索任務”擁有<UIForeground>0F</UIForeground>等級調整<UIForeground>01</UIForeground>功能，
+會根據玩家的等級調整任務的難度和報酬量。"
+33,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■探索場景中的特殊規則<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-宇宙開拓フィールドでは、セントラルクリスタルの力により、
-クラフター・ギャザラーの「スプリント」が「コスモスプリント」に変化し、
-速度と効果時間が強化されます。
+多虧中控水晶，能工巧匠及大地使者在宇宙探索時“衝刺”會變為“宇宙衝刺”，
+移動速度和持續時間都得到了加強。
 
-また探索フィールドでは、通常時はマウント騎乗ができません。
-ただし、大型ローダーによる開拓指令「<UIForeground>0F</UIForeground>メカオペレーション<UIForeground>01</UIForeground>」が発令された場合は、
-パイロットに選抜された少数のプレイヤーのみ、専用のマウントに乗って指令に参加する事ができます。"
-34,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■エクスプローラータブレットを触ってみよう！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+此外，在探索場景中無法騎乘坐騎，
+不過，當參加需要駕駛機兵的<UIForeground>0F</UIForeground>機甲行動<UIForeground>01</UIForeground>時，
+被選為駕駛員的少數玩家，便能騎上專用的坐騎。"
+34,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■使用探索觸控板吧！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-コスモエクスプローラーでは、メカオペレーション以外にも様々な要素があります。
-各要素の遊び方は「<UIForeground>0F</UIForeground>エクスプローラータブレット<UIGlow>01</UIGlow><UIForeground>01</UIForeground>」の「<UIForeground>0F</UIForeground>惑星探索のすすめ<UIGlow>01</UIGlow><UIForeground>01</UIForeground>」に記載されています。
+宇宙探索中，除了探索任務和機甲行動外，還有許多其他遊玩內容。
+這些內容可以在<UIForeground>0F</UIForeground>探索觸控板<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>0F</UIForeground>宇宙探索說明<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中進行查看。
 
-わからないことがあった時は、エクスプローラータブレットを確認してみましょう！"
-35,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■探索フィールドへの入場<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+遇到困難時，記得多多使用探索觸控板！"
+35,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■進入探索場景<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-嘆きの海(X:21.9 Y:13.2）にいるNPC「ドライビングウェイ」に話しかけることで、
-探索フィールド「焦がれの入江」に入ることができます。
+和嘆息海的“駕行威”對話，
+便能前往探索場景“憧憬灣”。
 
-また、焦がれの入江は、混雑時には複数のインスタンスエリアが生成される事があります。
+當憧憬灣過於擁擠時，會產生副本區。
 
-インスタンスエリア間を移動したい場合は、焦がれの入り江(X:20.3 Y:20.0）にいる、
-NPC「ドライビングウェイ」に話しかけることで、任意のインスタンスへ移動できます。"
+想要切換副本區時，只需要和嘆息海的“駕行威”對話，
+就能前往想要去的副本區了。"

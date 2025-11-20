@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ919_01984_SEQ_00","第四傳送環附近的維生系統安靜地佇立著。"
-1,"TEXT_HEAVNZ919_01984_SEQ_01","據維生系統反映，<Sheet(BNpcName,3542,0)/>在污染大氣。在阿濟茲拉的Beta管區討伐4個<Sheet(BNpcName,3542,0)/>。"
+1,"TEXT_HEAVNZ919_01984_SEQ_01","據維生系統反映，<Sheet(BNpcName,3542,0)/>在污染大氣。在阿濟茲拉的貝塔管區討伐4個<Sheet(BNpcName,3542,0)/>。"
 2,"TEXT_HEAVNZ919_01984_SEQ_02","成功討伐了<Sheet(BNpcName,3542,0)/>。向第四傳送環附近的維生系統報告。"
 3,"TEXT_HEAVNZ919_01984_SEQ_03","向維生系統報告完畢。造成孢子異常噴出的原因是<Sheet(BNpcName,3542,0)/>吸收了合成生物用的培養液。"
 4,"TEXT_HEAVNZ919_01984_SEQ_04","空"

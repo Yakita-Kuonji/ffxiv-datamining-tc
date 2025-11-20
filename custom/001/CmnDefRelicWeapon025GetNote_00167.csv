@@ -39,7 +39,7 @@ int32,str,str
 雖然不知道你要用它幹嘛……不過加油吧。"
 23,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_SYSTEM_000_075","獲得了黃道文書。
 可以打開「物品」中的「任務道具」，
-通過使用黃道文書，查看試煉內容。"
+透過使用黃道文書，查看試煉內容。"
 24,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_NOTE_TRADE_YESNO_Q","確定要用<Value>IntegerParameter(3)</Value>個<Sheet(Item,IntegerParameter(2),0)/>
 交換<Sheet(EventItem,IntegerParameter(1),0)/>嗎？"
 25,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_NOTE_TRADE_YESNO_Q2","目前所持的武器和黃道文書的進度不符。

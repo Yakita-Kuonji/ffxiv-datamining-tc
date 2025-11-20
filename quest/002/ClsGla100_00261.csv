@@ -91,7 +91,7 @@ int32,str,str
 說那黑影之民的槍術傭兵團
 出現在黑塵近郊地區了！"
 65,"TEXT_CLSGLA100_00261_MYLLA_000_69","……嘖，他們不止一批人嗎……
-好，<Highlight>ObjectParameter(1)</Highlight>，這事就由你負責到底。
+好，<Highlight>ObjectParameter(1)</Highlight>，這件事就由你負責到底。
 我派你去討伐傭兵團。"
 66,"TEXT_CLSGLA100_00261_MYLLA_000_70","(CUT)"
 67,"TEXT_CLSGLA100_00261_MYLLA_000_71","(CUT)"
@@ -128,8 +128,8 @@ int32,str,str
 84,"TEXT_CLSGLA100_00261_MYLLA_000_122","<Highlight>ObjectParameter(1)</Highlight>,
 我允許你「去別的行會學習本領」。"
 85,"TEXT_CLSGLA100_00261_MYLLA_000_123","如果你想學習戰鬥技術，烏爾達哈有「格鬥」和「咒術」，
-生產技術有「裁衣」、「金工」和「鍊金術」，
-採集技術有「採礦」……可謂各式各樣。"
+生產技術有「裁縫」、「金工」和「鍊金術」，
+採集技術有「採掘」……可謂各式各樣。"
 86,"TEXT_CLSGLA100_00261_MYLLA_000_124","<Highlight>ObjectParameter(1)</Highlight>，
 把你讓給其他行會真是太可惜了。"
 87,"TEXT_CLSGLA100_00261_MYLLA_000_125","總之，劍不可一日而成！

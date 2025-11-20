@@ -37,7 +37,7 @@ int32,str,str
 進入迷宮經過90分鐘（地球時間）之後，
 將強制結束「巴哈姆特大迷宮入侵之章」。"
 22,"TEXT_BAHAMUTGUIDEENTRANCEFOREST_SYSTEM_000_059","在留有戰利品的狀態下退出「巴哈姆特大迷宮入侵之章」的話，
-戰利品中的道具會自動轉移到揹包里。"
+戰利品中的道具會自動轉移到背包裡。"
 23,"TEXT_BAHAMUTGUIDEENTRANCEFOREST_SYSTEM_000_060","請注意：這種情況下，放不下的道具會被自動丟棄。"
 24,"TEXT_BAHAMUTGUIDEENTRANCEFOREST_SYSTEM_000_070","「巴哈姆特零式大迷宮入侵之章」是挑戰型任務。"
 25,"TEXT_BAHAMUTGUIDEENTRANCEFOREST_SYSTEM_000_071","所有成員必須要領取並完成任務「英雄敘事詩：大迷宮之章」。"

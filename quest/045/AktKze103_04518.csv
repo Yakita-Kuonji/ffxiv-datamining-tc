@@ -66,7 +66,7 @@ int32,str,str
 53,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_005","……也就是說，下一份工作是機械維護！
 我們現在就去東南方的海姆達爾級觀察艇殘骸，
 出發！"
-54,"TEXT_AKTKZE103_04518_THINKINGWAY_000_006","謝謝你收集了砂土帶回來。"
+54,"TEXT_AKTKZE103_04518_THINKINGWAY_000_006","謝謝你收集了沙土帶回來。"
 55,"TEXT_AKTKZE103_04518_THINKINGWAY_000_007","你問夢明威？
 他不是去了海姆達爾級觀察艇的殘骸附近嗎？"
 56,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_010","<Highlight>ObjectParameter(1)</Highlight>！
@@ -93,7 +93,7 @@ int32,str,str
 把壞掉的代管機修好吧！"
 66,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_050","那麼，我要開始工作了哦！
 今天需要維修的就是這孩子！"
-67,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_051","它完全沒法正常運作了，
+67,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_051","它完全無法正常運作了，
 但只要我稍稍調整一下，它很快就能恢復正常！
 敬請期待！"
 68,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_052","這裡這樣，那裡那樣，然後這個跟那個接在一起……"
@@ -105,7 +105,7 @@ int32,str,str
 71,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_055","而且能給機器做維護，
 並不是說我就能發明出新的機器來了，
 所以把修機器當成夢想的話，我總覺得有什麼不對……"
-72,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_056","唉，感覺有點泄氣了。
+72,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_056","唉，感覺有點洩氣了。
 不過！還有一種工作沒展示給你看呢！
 你能來看看我是怎麼種胡蘿蔔的嗎？"
 73,"TEXT_AKTKZE103_04518_DREAMINGWAY_000_057","那等你有時間的時候記得來找我！

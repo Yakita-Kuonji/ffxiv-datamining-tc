@@ -68,8 +68,8 @@ int32,str,byte,byte,byte,FCActivityCategory,sbyte
 64,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>將<Value>IntegerParameter(1)</Value>號轉軸上的“<Sheet(Item,IntegerParameter(2),0)/>”撤了下來。",16,14,1,5,11
 65,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>從<Value>IntegerParameter(1)</Value>號轉軸上獲取了“<Sheet(Item,IntegerParameter(2),0)/>”。",16,14,1,5,11
 66,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>轉換了“<Sheet(Item,IntegerParameter(1),0)/>”，將“<Sheet(CompanyAction,IntegerParameter(2),0)/>”儲備了下來。",16,14,1,4,9
-67,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>增建了公會工房。",16,0,0,8,15
-68,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>拆除了公會工房。",16,0,0,8,15
+67,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>增建了公會工坊。",16,0,0,8,15
+68,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>拆除了公會工坊。",16,0,0,8,15
 69,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>使用公會合建設備啟動了“<Sheet(Item,IntegerParameter(1),0)/>”的製作工程。",16,14,0,8,15
 70,"推進“<Sheet(Item,IntegerParameter(1),0)/>”工程所必須的素材已經全部準備就緒。",0,14,0,8,15
 71,"“<Sheet(Item,IntegerParameter(1),0)/>”<Switch(IntegerParameter(2))><Case(1)>的工程有所進展。</Case><Case(2)>的工程取得很大進展，合建設備的狀態變為“良好”。</Case><Case(3)>的工程取得極大進展，合建設備的狀態變為“最佳”。</Case></Switch>",0,14,1,8,15
@@ -84,7 +84,7 @@ int32,str,byte,byte,byte,FCActivityCategory,sbyte
 80,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>中止了飛空艇“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”的探索。",16,15,0,9,14
 81,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>接受了“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”探索完成的報告。",16,15,0,9,14
 82,"飛空艇“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”升為<Value>IntegerParameter(1)</Value>級。",16,15,1,9,14
-83,"通過飛空艇“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”的探索，工房可以登記第<Value>IntegerParameter(1)</Value>架飛空艇了。",16,15,1,9,14
+83,"通過飛空艇“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”的探索，工坊可以登記第<Value>IntegerParameter(1)</Value>架飛空艇了。",16,15,1,9,14
 84,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>消耗<Format(IntegerParameter(1),FF022C)/>點公會戰績換取了<Value>IntegerParameter(3)</Value>個“<Sheet(Item,IntegerParameter(2),0)/>”。",16,22,1,1,0
 85,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>提供了<If(Equal(IntegerParameter(3),1))><Else/><Value>IntegerParameter(3)</Value>次</If>必需素材“<Sheet(Item,IntegerParameter(2),0)/>”，貢獻了60%以上的該素材以製作“<Sheet(Item,IntegerParameter(1),0)/>”。",16,22,1,8,15
 86,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>發現了“雲冠群島夜晚探索”的航線！",16,0,0,9,14
@@ -103,9 +103,9 @@ int32,str,byte,byte,byte,FCActivityCategory,sbyte
 99,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>中止了潛水艇“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”的探索。",16,15,0,9,14
 100,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>接受了“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”探索完成的報告。",16,15,0,9,14
 101,"潛水艇“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”升為<Value>IntegerParameter(1)</Value>級。",16,15,1,9,14
-102,"通過潛水艇“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”的探索，工房可以登記第<Value>IntegerParameter(1)</Value>艘潛水艇了。",16,15,1,9,14
+102,"通過潛水艇“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”的探索，工坊可以登記第<Value>IntegerParameter(1)</Value>艘潛水艇了。",16,15,1,9,14
 103,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>刪除了<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>的留言。",16,23,0,5,11
 104,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>修改了交流簿的設置。",16,0,0,5,11
 105,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>設定了房屋宣傳標籤。",16,0,0,5,11
-106,"",0,0,0,0,0
+106,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>改建了“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”的內部。",16,15,0,5,11
 107,"",0,0,0,0,0

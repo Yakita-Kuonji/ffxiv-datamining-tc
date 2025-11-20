@@ -5,7 +5,7 @@ int32,str,str
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
 A4調查平臺的斯提格瑪四正在尋求用於獲取新的味覺數據的食材。"
-1,"TEXT_BANOMI117_04623_SEQ_01","將委託物品交給探求品味型歐米克隆"
+1,"TEXT_BANOMI117_04623_SEQ_01","將委託物品交給探求品味型奧密克戎"
 2,"TEXT_BANOMI117_04623_SEQ_02","向斯提格瑪四報告"
 3,"TEXT_BANOMI117_04623_SEQ_03",""
 4,"TEXT_BANOMI117_04623_SEQ_04",""
@@ -28,7 +28,7 @@ A4調查平臺的斯提格瑪四正在尋求用於獲取新的味覺數據的食
 21,"TEXT_BANOMI117_04623_SEQ_21",""
 22,"TEXT_BANOMI117_04623_SEQ_22",""
 23,"TEXT_BANOMI117_04623_SEQ_23",""
-24,"TEXT_BANOMI117_04623_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採掘<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給探求品味型歐米克隆</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給探求品味型歐米克隆</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給探求品味型歐米克隆</If><Else/></If></If></If>"
+24,"TEXT_BANOMI117_04623_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採掘<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給探求品味型奧密克戎</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給探求品味型奧密克戎</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給探求品味型奧密克戎</If><Else/></If></If></If>"
 25,"TEXT_BANOMI117_04623_TODO_01","向斯提格瑪四報告"
 26,"TEXT_BANOMI117_04623_TODO_02",""
 27,"TEXT_BANOMI117_04623_TODO_03",""
@@ -53,8 +53,8 @@ A4調查平臺的斯提格瑪四正在尋求用於獲取新的味覺數據的食
 46,"TEXT_BANOMI117_04623_TODO_22",""
 47,"TEXT_BANOMI117_04623_TODO_23",""
 48,"TEXT_BANOMI117_04623_STIGMA4_000_001","本機不久前按照全身毛絨絨的咖啡廳老闆發來的指示，
-將記錄在媒體中的味覺數據分配給了歐米克隆指揮單元。
-結果多數指揮單元都反饋稱這些數據極具刺激性。"
+將記錄在媒體中的味覺數據分配給了奧密克戎指揮單元。
+結果多數指揮單元都回報稱這些數據極具刺激性。"
 49,"TEXT_BANOMI117_04623_STIGMA4_000_002","而其中一個單元對味覺展現出了超乎尋常的興趣，
 為了尋求未知的味道，它開始脫離命令獨自行動。
 這其實是屬於異常行為，原本應當將其作為廢棄對象處理的。"
@@ -69,7 +69,7 @@ A4調查平臺的斯提格瑪四正在尋求用於獲取新的味覺數據的食
 請前往至福樂土遊樂區釣<Sheet(Item,38339,0)/>。
 捕獲時推薦使用<Sheet(Item,36588,0)/>。"
 54,"TEXT_BANOMI117_04623_STIGMA4_000_007","籌備完成後，請迅速將物品交給
-身處歐米克隆基地的探求品味型歐米克隆。
+身處奧密克戎基地的探求品味型奧密克戎。
 期待同盟者的表現。"
 55,"TEXT_BANOMI117_04623_OMICRON04623_000_008","沙沙、沙沙沙……味覺……刺激……沙沙沙……"
 56,"TEXT_BANOMI117_04623_OMICRON04623_000_009","沙沙、沙沙沙……味覺……刺激……沙沙沙……"
@@ -79,12 +79,12 @@ A4調查平臺的斯提格瑪四正在尋求用於獲取新的味覺數據的食
 58,"TEXT_BANOMI117_04623_OMICRON04623_000_011","本機接下來將會對此類食材是否適合有機生命體食用進行研究。
 當判明可以食用時，屆時還希望你可以幫忙試吃提供味覺數據。
 期待著此次可以獲得充滿刺激性的數據。"
-59,"TEXT_BANOMI117_04623_STIGMA4_000_012","已通過通訊收到了報告……
-探求品味型歐米克隆正在對交納物品進行味覺驗證。
+59,"TEXT_BANOMI117_04623_STIGMA4_000_012","已透過通訊收到了報告……
+探求品味型奧密克戎正在對交納物品進行味覺驗證。
 對同盟者此次的表現給予高度評價。"
 60,"TEXT_BANOMI117_04623_STIGMA4_000_013","另外當此次交納物品被判定為美味時，
 除了交換油以外，
-還將會為歐米克隆提供發送味覺數據的新服務。"
+還將會為奧密克戎提供發送味覺數據的新服務。"
 61,"TEXT_BANOMI117_04623_STIGMA4_000_014","本機作為兵站戰略主機，
 為了應對急劇增加的油量需求，今後將會開始大量儲備。
 相信屆時還會需要同盟者的協助。"

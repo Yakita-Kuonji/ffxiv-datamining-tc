@@ -12,7 +12,7 @@ int32,str,str
 我還是有那麼一點興趣的。"
 4,"TEXT_VOICEMAN_05002_000050_THANCRED","你說你要親眼觀察我們，
 還說我們之間說不定能夠有合作。"
-5,"TEXT_VOICEMAN_05002_000060_THANCRED","可是，鑒於你們無影至今做的那些事情，
+5,"TEXT_VOICEMAN_05002_000060_THANCRED","可是，鑑於你們無影至今做的那些事情，
 我認為我們不太可能和你們握手言和。"
 6,"TEXT_VOICEMAN_05002_000070_EMETSELCH","你急什麼，而且用不著每件事情都這麼針對我吧？
 我說了，先讓我們之間相互觀察觀察。"
@@ -34,7 +34,7 @@ int32,str,str
 讓你們做好準備面對終將到來的選擇……"
 15,"TEXT_VOICEMAN_05002_000160_EMETSELCH","你們就努力吧，可別讓參觀的我感到無聊了。"
 16,"TEXT_VOICEMAN_05002_000170_ALISAIE","他這是鬧的哪一齣啊？"
-17,"TEXT_VOICEMAN_05002_000180_THANCRED","不愧是加雷馬帝國開國皇帝，果然是能說會道。
+17,"TEXT_VOICEMAN_05002_000180_THANCRED","不愧是加雷馬帝國開國皇帝，果然是能言善道。
 當然，我們也不能他說什麼就信什麼。"
 18,"TEXT_VOICEMAN_05002_000190_THANCRED","你對他是怎麼看的？"
 19,"TEXT_VOICEMAN_05002_Q1_000_001_NONE_VOICE","怎麼回答？"
@@ -219,7 +219,7 @@ int32,str,str
 120,"TEXT_VOICEMAN_05002_001090_YSHTOLA","開門見山地說，我並沒有查到靈光衛的所在地。
 可是反過來想，候補地點就不剩幾個了。"
 121,"TEXT_VOICEMAN_05002_001100_THANCRED","……你接著說。"
-122,"TEXT_VOICEMAN_05002_001110_YSHTOLA","這里拉凱提卡大森林在幾千年前
+122,"TEXT_VOICEMAN_05002_001110_YSHTOLA","這座拉凱提卡大森林在幾千年前
 曾經是隆卡帝國的中心地帶。"
 123,"TEXT_VOICEMAN_05002_001120_YSHTOLA","東邊的“伊奇絲瑪雅艾禁林”至今也留有很多遺跡。"
 124,"TEXT_VOICEMAN_05002_001130_YSHTOLA","而且令人吃驚的是，
@@ -363,7 +363,7 @@ int32,str,str
 193,"TEXT_VOICEMAN_05002_001780_PEOPLEOFNIGHTA","不、不好了！"
 194,"TEXT_VOICEMAN_05002_001790_PEOPLEOFNIGHTA","遊末邦軍隊攻進來了！"
 195,"TEXT_VOICEMAN_05002_001800_SYSTEM_NONE_VOICE","遊末邦樹葉層 辦公室——"
-196,"TEXT_VOICEMAN_05002_001810_MYSTERYVOICE","好久不見了，沃斯裡大人。
+196,"TEXT_VOICEMAN_05002_001810_MYSTERYVOICE","好久不見了，沃斯里大人。
 上一次直接見面，還是在你的就任儀式吧。
 你可是又變大了很多啊。"
 197,"TEXT_VOICEMAN_05002_001820_VAUTHRY","哼……水晶公。
@@ -524,7 +524,7 @@ int32,str,str
 那可是“永暗之子”製造的猛毒！"
 285,"TEXT_VOICEMAN_05002_002690_EULMOREADJUTANT","而這裡有解藥。"
 286,"TEXT_VOICEMAN_05002_002700_EULMOREADJUTANT","你知道他們製造的毒藥是特殊的，
-沒有專門的解藥是沒法治療的。
+沒有專門的解藥是無法治療的。
 你不想讓中毒的幾個人就這麼被毒死的對吧！"
 287,"TEXT_VOICEMAN_05002_002710_EULMOREADJUTANT","別、別！
 要是我們在這裡打起來，沒一個能活著出去！
@@ -623,7 +623,7 @@ int32,str,str
 344,"TEXT_VOICEMAN_05002_003210_EMETSELCH","這裡應該就可以了。"
 345,"TEXT_VOICEMAN_05002_003220_EMETSELCH","辛苦你四處尋找了。
 那麼，你稍微退後一些。"
-346,"TEXT_VOICEMAN_05002_003230_EMETSELCH","讓我想想……她的靈魂是什麼顏色來著……"
+346,"TEXT_VOICEMAN_05002_003230_EMETSELCH","讓我想想……她的靈魂是什麼顏色呢……"
 347,"TEXT_VOICEMAN_05002_003240_EMETSELCH","啊……找到了。"
 348,"TEXT_VOICEMAN_05002_003250_RUNAR","沒錯，就是大姐！"
 349,"TEXT_VOICEMAN_05002_003260_YSHTOLA","嗚……"
@@ -705,7 +705,7 @@ int32,str,str
 它們在各自的世界轉生為別的生命。"
 398,"TEXT_VOICEMAN_05002_003710_EMETSELCH","就這樣，沒有人記得原本世界的事情了。
 ……可是人們會在夢裡斷斷續續地看到這些場景。"
-399,"TEXT_VOICEMAN_05002_003720_EMETSELCH","通過這個人類共同的夢境，人們得知了自己並不記得的事情。
+399,"TEXT_VOICEMAN_05002_003720_EMETSELCH","透過這個人類共同的夢境，人們得知了自己並不記得的事情。
 古代人對這些夢特別感興趣，將內容記載於繪畫，
 撰寫成詩歌，做了各種嘗試。"
 400,"TEXT_VOICEMAN_05002_003730_EMETSELCH","我還以為這些都不復存在了，
@@ -716,7 +716,7 @@ int32,str,str
 有諸多的生命生活在那裡。"
 403,"TEXT_VOICEMAN_05002_003760_EMETSELCH","但是，後來世界的法則紊亂，發生了前所未有的災難。
 那個文明被逼到了絕處。"
-404,"TEXT_VOICEMAN_05002_003770_EMETSELCH","因此人們通過祈禱和犧牲創造出了“星球的意志”，
+404,"TEXT_VOICEMAN_05002_003770_EMETSELCH","因此人們透過祈禱和犧牲創造出了“星球的意志”，
 並最終平息了災難。"
 405,"TEXT_VOICEMAN_05002_003780_EMETSELCH","而這個星球意志的名字——叫做佐狄亞克。"
 406,"TEXT_VOICEMAN_05002_003790_YSHTOLA","什麼？！佐狄亞克？
@@ -768,7 +768,7 @@ int32,str,str
 432,"TEXT_VOICEMAN_05002_004040_RUNAR","人的生命不會就此逝去，
 這殘破的世界也不會默默地終結。"
 433,"TEXT_VOICEMAN_05002_004050_RUNAR","我一直覺得你們是一群不可思議的人，
-而通過這次的事情我明白了。"
+而透過這次的事情我明白了。"
 434,"TEXT_VOICEMAN_05002_004060_RUNAR","你們、就是“暗之戰士”吧？"
 435,"TEXT_VOICEMAN_05002_004070_YSHTOLA","你可真是死板，這種事情沒必要非要弄清楚吧？"
 436,"TEXT_VOICEMAN_05002_004080_YSHTOLA","夜之民的祈禱並不是供奉某個人物的行為。

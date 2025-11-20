@@ -16,7 +16,7 @@ int32,str,str
 因此你只能以青魔道士的身份挑戰假面狂歡。"
 10,"TEXT_CTSETCAOZENTRANCE_00558_BLUESKYGUIDE_000_010","烏爾達哈新建成的天青鬥場
 乃是由新銳企業家蘿伊絲小姐設立營運的。"
-11,"TEXT_CTSETCAOZENTRANCE_00558_BLUESKYGUIDE_000_011","蘿伊絲小姐利用鬥技場舉辦了人與魔物、野獸決鬥的鬥獸專案，
+11,"TEXT_CTSETCAOZENTRANCE_00558_BLUESKYGUIDE_000_011","蘿伊絲小姐利用鬥技場舉辦了人與魔物、野獸決鬥的鬥獸項目，
 將其命名為假面狂歡並進行了大力地宣傳。"
 12,"TEXT_CTSETCAOZENTRANCE_00558_BLUESKYGUIDE_000_012","假面狂歡的規則非常簡單明瞭，就是打倒所有的敵人。
 每場比賽均有一張寫有詳細內容的卡片，
@@ -38,7 +38,7 @@ int32,str,str
 作為報酬將會獲得Gil、同盟徽章、亞拉戈神典石。"
 19,"TEXT_CTSETCAOZENTRANCE_00558_BLUESKYGUIDE_000_019","另外，在參加假面狂歡比賽前，
 可以確認敵人的部署、弱點等資訊。"
-20,"TEXT_CTSETCAOZENTRANCE_00558_BLUESKYGUIDE_000_020","請充分利用敵人的弱點，或是通過向敵人施加異常狀態，
+20,"TEXT_CTSETCAOZENTRANCE_00558_BLUESKYGUIDE_000_020","請充分利用敵人的弱點，或是透過向敵人施加異常狀態，
 更加有利地進行戰鬥吧。"
 21,"TEXT_CTSETCAOZENTRANCE_00558_BLUESKYGUIDE_000_030","假面狂歡既是鬥獸表演也是比賽，
 重要的是不能讓觀眾們感到厭倦，必須隨時博得他們的歡心，

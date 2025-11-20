@@ -15,7 +15,7 @@ int32,str,str
 8,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_002","嗯……我還在想著如何在茶會上將你講的故事，
 以我的視點講述出來呢。
 所以抱歉，你下次再來吧。"
-9,"TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_003","每週可以通過與「宗長」對話挑戰幻巧拼圖。
+9,"TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_003","每週可以透過與「宗長」對話挑戰幻巧拼圖。
 想要挑戰時需要在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）以後
 完成「幻殲滅戰」並再次與宗長對話。"
 10,"TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_100_003","幻巧拼圖一旦開始便無法中斷，
@@ -59,7 +59,7 @@ int32,str,str
 她便靈光一現，把店舖交給我管理了。"
 27,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_015","也就是說，我能從冒險者那裡聽到許多有趣的故事。
 冒險者也能從羅薇娜商會拿到獎品。
-而羅薇娜商會則可以通過我的神通力得到業務上的援助。"
+而羅薇娜商會則可以透過我的神通力得到業務上的援助。"
 28,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_016","總之就是這個意思，這樣三方都能獲利。
 只要整個城市能熱鬧起來，羅薇娜小姐就會很滿意吧。
 所以你不用太在意，多拿走點獎品吧。"

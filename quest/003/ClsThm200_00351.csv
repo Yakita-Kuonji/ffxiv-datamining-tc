@@ -90,7 +90,7 @@ int32,str,str
 63,"TEXT_CLSTHM200_00351_COCOBOHA_000_022","啊哈哈！有趣有趣！
 讓那個人與<Highlight>ObjectParameter(1)</Highlight>合作的話，
 正好符合「圍困之危」的試煉內容。"
-64,"TEXT_CLSTHM200_00351_COCOBUSI_000_023","好嘞，<Highlight>ObjectParameter(1)</Highlight>。
+64,"TEXT_CLSTHM200_00351_COCOBUSI_000_023","好的，<Highlight>ObjectParameter(1)</Highlight>。
 趁哥哥還沒改變主意之前，我們趕快出發吧。
 我先去豐饒神井那裡等你了呀。"
 65,"TEXT_CLSTHM200_00351_COCOBUKI_000_024","可可布希……怎麼回事？"
@@ -175,5 +175,5 @@ int32,str,str
 不要靠太近了！"
 99,"TEXT_CLSTHM200_00351_FRIEND_BATTLETALK_04","呃！一下3隻不好對付啊。
 你將大的那隻催眠了！然後從小個的開始解決！"
-100,"TEXT_CLSTHM200_00351_FRIEND_BATTLETALK_05","好嘞！完成任務了！辛苦了！
+100,"TEXT_CLSTHM200_00351_FRIEND_BATTLETALK_05","好的！完成任務了！辛苦了！
 那我領完報酬就回去了！"

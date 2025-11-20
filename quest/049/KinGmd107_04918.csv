@@ -91,7 +91,7 @@ int32,str,str
 因此希望能從您這裡購買缺少的木料。"
 69,"TEXT_KINGMD107_04918_WAWLIKA_000_021","然後，這兩位是……
 <Highlight>ObjectParameter(1)</Highlight>和艾倫維爾。
-他們是自願到我們公司來幫忙的好心人。"
+他們是自願到我們公司來幫忙的好人。"
 70,"TEXT_KINGMD107_04918_SHEPETTO_000_022","……你身上的氣味還真是複雜。
 鋼鐵、油脂、熟皮，似乎還混了些<Switch(PlayerParameter(71))><Case(1)>海風</Case><Case(2)>薔薇</Case><Case(3)>果實</Case><Case(4)>太陽</Case><Case(5)>浪花</Case><Case(6)>青草</Case><Case(7)>鮮血</Case><Case(8)>松脂</Case></Switch>的味道。
 你……不是這片土地上的人吧？"
@@ -172,7 +172,7 @@ int32,str,str
 110,"TEXT_KINGMD107_04918_WAWLIKA_000_061","你參與了繼位儀式？！
 我之前沒聽你們說啊……
 那我還真是請了個了不起的大人物幫忙啊。"
-111,"TEXT_KINGMD107_04918_HHWATO_000_062","看來是我們的瞭解太片面了。
+111,"TEXT_KINGMD107_04918_HHWATO_000_062","看來是我們的了解太片面了。
 大家都對新王繼位的事情感到不安……"
 112,"TEXT_KINGMD107_04918_HHWATO_000_063","現在，新王登上了王位，嶄新的風吹遍了整個國家，
 我們也應該努力以更開放的態度去理解，去認識。"

@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNZ916_01981_SEQ_00","阿爾法管區的安保系統安靜地佇立著。"
-1,"TEXT_HEAVNZ916_01981_SEQ_01","據安保系統反映，維持治安用的兵器失去了控制。在阿濟茲拉的螺旋港東邊討伐<Sheet(BNpcName,4072,0)/>。"
-2,"TEXT_HEAVNZ916_01981_SEQ_02","成功討伐了<Sheet(BNpcName,4072,0)/>。向阿爾法管區的安保系統報告。"
-3,"TEXT_HEAVNZ916_01981_SEQ_03","向安保系統報告完畢。在亞拉戈帝國時代，曾發生過試驗機失控事件，導致損失慘重。"
+0,"TEXT_HEAVNZ916_01981_SEQ_00","阿爾法管區的保全系統安靜地佇立著。"
+1,"TEXT_HEAVNZ916_01981_SEQ_01","據保全系統反映，維持治安用的兵器失去了控制。在阿濟茲拉的螺旋港東邊討伐<Sheet(BNpcName,4072,0)/>。"
+2,"TEXT_HEAVNZ916_01981_SEQ_02","成功討伐了<Sheet(BNpcName,4072,0)/>。向阿爾法管區的保全系統報告。"
+3,"TEXT_HEAVNZ916_01981_SEQ_03","向保全系統報告完畢。在亞拉戈帝國時代，曾發生過試驗機失控事件，導致損失慘重。"
 4,"TEXT_HEAVNZ916_01981_SEQ_04","空"
 5,"TEXT_HEAVNZ916_01981_SEQ_05","空"
 6,"TEXT_HEAVNZ916_01981_SEQ_06","空"
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_HEAVNZ916_01981_SEQ_22","空"
 23,"TEXT_HEAVNZ916_01981_SEQ_23","空"
 24,"TEXT_HEAVNZ916_01981_TODO_00","討伐<Sheet(BNpcName,4072,0)/>"
-25,"TEXT_HEAVNZ916_01981_TODO_01","向安保系統報告"
+25,"TEXT_HEAVNZ916_01981_TODO_01","向保全系統報告"
 26,"TEXT_HEAVNZ916_01981_TODO_02","空"
 27,"TEXT_HEAVNZ916_01981_TODO_03","空"
 28,"TEXT_HEAVNZ916_01981_TODO_04","空"

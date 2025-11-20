@@ -33,12 +33,12 @@ int32,str,str
 11,"TEXT_CTSHWDCRAFTERSUPPLY_00649_POTKIN_020_020","如果你對採集也有心得的話，
 也請你幫忙籌集這些素材！"
 12,"TEXT_CTSHWDCRAFTERSUPPLY_00649_SYSTEM_020_030","伊修加爾德重建所需要的素材情報，
-可以通過「採集筆記」中的「重建伊修加爾德」進行確認。"
+可以透過「採集筆記」中的「重建伊修加爾德」進行確認。"
 13,"TEXT_CTSHWDCRAFTERSUPPLY_00649_POTKIN_030_000","咦……
 英雄閣下恕我直言，
 你作為工匠好像還只是剛剛起步啊……"
 14,"TEXT_CTSHWDCRAFTERSUPPLY_00649_POTKIN_030_010","非常抱歉……
-此次的重建工程對於工匠的技術水平有一定的要求……"
+此次的重建工程對於工匠的技術水準有一定的要求……"
 15,"TEXT_CTSHWDCRAFTERSUPPLY_00649_POTKIN_030_020","所以現在沒有適合英雄閣下的委託……"
 16,"TEXT_CTSHWDCRAFTERSUPPLY_00649_SYSTEM_030_030","需要任意能工巧匠的職業等級達到20級以上時，
 才能向波特金交納物品。"
@@ -51,7 +51,7 @@ int32,str,str
 請隨時來找我詢問現在到底最需要什麼物資吧！
 那就拜託你了！"
 20,"TEXT_CTSHWDCRAFTERSUPPLY_00649_SYSTEM_040_030","關於重建伊修加爾德中所需的製品，
-可以通過「製作筆記」中「重建伊修加爾德」項進行製作。"
+可以透過「製作筆記」中「重建伊修加爾德」項進行製作。"
 21,"TEXT_CTSHWDCRAFTERSUPPLY_00649_POTKIN_050_000","你是來交納物資的嗎？
 還是來確認目前物資需求情況的？
 不管怎樣，歡迎你的到來，英雄閣下！"
@@ -64,7 +64,7 @@ int32,str,str
 24,"TEXT_CTSHWDCRAFTERSUPPLY_00649_POTKIN_070_001","歡迎來到蒼天街！
 為了街道的發展，能請你協助交納物資之類的嗎？"
 25,"TEXT_CTSHWDCRAFTERSUPPLY_00649_POTKIN_000_010","咦？英雄閣下！
-奧格伯特監督在找你來著！"
+奧格伯特監督在找你的樣子！"
 26,"TEXT_CTSHWDCRAFTERSUPPLY_00649_POTKIN_080_000","啊、英雄閣下！
 多虧了工匠們的努力，重建計劃有了進展！
 現在需要新的物資，請你務必協助籌集！"

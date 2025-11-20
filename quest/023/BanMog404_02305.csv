@@ -6,7 +6,7 @@ int32,str,str
 1,"TEXT_BANMOG404_02305_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整任務。
 
 莫古艾克委託冒險者和擔任泉水設計的莫古利談談。和憶念廣場的負責基建的莫古利族談談。"
-2,"TEXT_BANMOG404_02305_SEQ_02","和負責基建的莫古利族進行了交談，他委託冒險者向莫古利族設計師詢問製作方法後，製作泉水的修補組件。和翻雲霧海人王像的莫古利族設計師談談。"
+2,"TEXT_BANMOG404_02305_SEQ_02","和負責基建的莫古利族進行了交談，他委託冒險者向莫古利族設計師詢問製作方法後，製作泉水的修補組件。和德拉瓦尼亞雲海人王像的莫古利族設計師談談。"
 3,"TEXT_BANMOG404_02305_SEQ_03","和莫古利族設計師進行了交談，詢問了修補組件的製作方法。從豎骨島的<Sheet(EObj,2007244,0)/>上獲取3個<Sheet(EventItem,2001989,0)/>。"
 4,"TEXT_BANMOG404_02305_SEQ_04","獲得了3個<Sheet(EventItem,2001989,0)/>。交給人王像的莫古利族設計師。"
 5,"TEXT_BANMOG404_02305_SEQ_05","將<Sheet(EventItem,2001989,0)/>交給了莫古利族設計師。用<Sheet(Item,15763,0)/>製作<Sheet(ItemHQ,15737,0)/>，並將其交給人王像的莫古利族設計師學徒。
@@ -108,7 +108,7 @@ int32,str,str
 67,"TEXT_BANMOG404_02305_PONDRESEARCHMOOGLE02305_000_036","如果材料不夠了的話，
 莫古這裡的可以給你，你就儘管要好了咕波。
 製作完成以後就拿給莫古利族設計師學徒吧咕波！"
-68,"TEXT_BANMOG404_02305_PONDRESEARCHMOOGLE02305_000_037","看樣子你已經制作完成了啊咕波。
+68,"TEXT_BANMOG404_02305_PONDRESEARCHMOOGLE02305_000_037","看樣子你已經製作完成了啊咕波。
 快拿去給莫古利族設計師學徒看看吧咕波！"
 69,"TEXT_BANMOG404_02305_RECEIPTMOOGLE02305_000_040","莫古已經聽說了咕波。
 <Sheet(ItemHQ,15737,0)/>製作完成了嗎咕波？"

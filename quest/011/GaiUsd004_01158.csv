@@ -72,7 +72,7 @@ int32,str,str
 56,"TEXT_GAIUSD004_01158_YSHTOLA_000_008","雖然之前海雄旅團所告知的蠻風乙太之光已經壞掉了……
 不過，黑渦團似乎又發現了新的乙太之光。"
 57,"TEXT_GAIUSD004_01158_YSHTOLA_000_009","詳細情況你就去利姆薩·羅敏薩的黑渦軍司令部，
-找爾·阿夏大甲佐瞭解吧。"
+找爾·阿夏大甲佐了解吧。"
 58,"TEXT_GAIUSD004_01158_YSHTOLA_000_010","這次的蠻神泰坦與以往不同，力量十分強大……
 你要多加小心。我會為你的勝利而祈禱的……"
 59,"TEXT_GAIUSD004_01158_RASHAHT_000_020","<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If>，辛苦你了！<Else/>哦，我正等著你呢。</If><Else/>哦，我正等著你呢。</If>

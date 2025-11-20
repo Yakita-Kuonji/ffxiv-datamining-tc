@@ -2,10 +2,10 @@
 #,,
 int32,str,str
 0,"TEXT_FESVLT2020EVANGELIST_00651_ASTRID_000_000","感謝你為我投票！
-希望其他人也可以支援我……"
+希望其他人也可以支持我……"
 1,"TEXT_FESVLT2020EVANGELIST_00651_BERT_000_001","雖然沒能得到你的支援有些不甘，
 不過即便如此我依然對自己的方案很有信心！"
-2,"TEXT_FESVLT2020EVANGELIST_00651_RODRIGAULT_000_002","其他候選人的方案我也已經瞭解過了，
+2,"TEXT_FESVLT2020EVANGELIST_00651_RODRIGAULT_000_002","其他候選人的方案我也已經了解過了，
 果然還是覺得我的方案最可行。
 可惜似乎沒能讓您滿意……"
 3,"TEXT_FESVLT2020EVANGELIST_00651_ASTRID_000_003","我的方案獲得了最多的支援！
@@ -21,10 +21,10 @@ int32,str,str
 7,"TEXT_FESVLT2020EVANGELIST_00651_ASTRID_000_006","繼續享受戀人節吧！
 還、有、啊，請繼續關照愛情傳道士阿絲。"
 8,"TEXT_FESVLT2020EVANGELIST_00651_BERT_000_010","能獲得你的支援讓我心裡踏實多了！
-我會保持這個勢頭努力獲得最多票數的！"
+我會保持這個氣勢努力獲得最多票數的！"
 9,"TEXT_FESVLT2020EVANGELIST_00651_ASTRID_000_011","我的方案落選了？
 這可是我絞盡腦汁才想出來的方案啊……"
-10,"TEXT_FESVLT2020EVANGELIST_00651_RODRIGAULT_000_012","其他候選人的方案我也已經瞭解過了，
+10,"TEXT_FESVLT2020EVANGELIST_00651_RODRIGAULT_000_012","其他候選人的方案我也已經了解過了，
 果然還是覺得我的方案最可行。
 可惜似乎沒能讓您滿意……"
 11,"TEXT_FESVLT2020EVANGELIST_00651_BERT_000_013","哦！我的方案有驚無險地獲得了最多的票數！
@@ -68,4 +68,4 @@ int32,str,str
 等結果出來後，請再來找我吧！"
 28,"TEXT_FESVLT2020EVANGELIST_00651_LISETTE_000_033","在戀人節玩得開心嗎？
 冒險者如果遇到了心儀的對象，
-也可以通過心緣鑑定來加深感情哦。"
+也可以透過心緣鑑定來加深感情哦。"

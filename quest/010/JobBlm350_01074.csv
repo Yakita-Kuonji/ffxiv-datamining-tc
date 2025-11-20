@@ -2,8 +2,8 @@
 #,,
 int32,str,str
 0,"TEXT_JOBBLM350_01074_SEQ_00","密爾瓦內斯禮拜堂的菈菈伊有事情找冒險者。"
-1,"TEXT_JOBBLM350_01074_SEQ_01","接受了菈菈伊的委託。前往南薩納蘭撒溝厲砂漠的東南部，調查<Sheet(EObj,2002430,0)/>，並討伐出現的妖異，獲取<Sheet(EventItem,2000809,0)/>。"
-2,"TEXT_JOBBLM350_01074_SEQ_02","獲得了<Sheet(EventItem,2000809,0)/>。在南薩納蘭撒溝厲砂漠的東南部，將<Sheet(EventItem,2000809,0)/>銘刻於<Sheet(EObj,2002430,0)/>。"
+1,"TEXT_JOBBLM350_01074_SEQ_01","接受了菈菈伊的委託。前往南薩納蘭撒溝厲沙漠的東南部，調查<Sheet(EObj,2002430,0)/>，並討伐出現的妖異，獲取<Sheet(EventItem,2000809,0)/>。"
+2,"TEXT_JOBBLM350_01074_SEQ_02","獲得了<Sheet(EventItem,2000809,0)/>。在南薩納蘭撒溝厲沙漠的東南部，將<Sheet(EventItem,2000809,0)/>銘刻於<Sheet(EObj,2002430,0)/>。"
 3,"TEXT_JOBBLM350_01074_SEQ_03","將<Sheet(EventItem,2000809,0)/>銘刻在了<Sheet(EObj,2002430,0)/>。前往烏爾達哈的密爾瓦內斯禮拜堂，向菈菈伊報告。"
 4,"TEXT_JOBBLM350_01074_SEQ_04","向菈菈伊報告完畢。菈菈伊要求冒險者努力鍛鍊，熟練掌握已習得的黑魔法。等累積一定經驗之後，再來找菈菈伊。
 
@@ -27,7 +27,7 @@ int32,str,str
 21,"TEXT_JOBBLM350_01074_SEQ_21",""
 22,"TEXT_JOBBLM350_01074_SEQ_22",""
 23,"TEXT_JOBBLM350_01074_SEQ_23",""
-24,"TEXT_JOBBLM350_01074_TODO_00","調查撒溝厲砂漠的<Sheet(EObj,2002430,0)/>並討伐妖異 獲取<Sheet(EventItem,2000809,0)/>"
+24,"TEXT_JOBBLM350_01074_TODO_00","調查撒溝厲沙漠的<Sheet(EObj,2002430,0)/>並討伐妖異 獲取<Sheet(EventItem,2000809,0)/>"
 25,"TEXT_JOBBLM350_01074_TODO_01","將<Sheet(EventItem,2000809,0)/>銘刻於<Sheet(EObj,2002430,0)/>"
 26,"TEXT_JOBBLM350_01074_TODO_02","向密爾瓦內斯禮拜堂的菈菈伊報告"
 27,"TEXT_JOBBLM350_01074_TODO_03",""
@@ -62,7 +62,7 @@ int32,str,str
 51,"TEXT_JOBBLM350_01074_LALAI_000_003","……"
 52,"TEXT_JOBBLM350_01074_LALAI_000_004","為了關閉虛無界之門……
 去尋找新的鑰匙……領悟新的黑魔法吧……"
-53,"TEXT_JOBBLM350_01074_LALAI_000_005","前往南薩納蘭撒溝厲砂漠的東南部……
+53,"TEXT_JOBBLM350_01074_LALAI_000_005","前往南薩納蘭撒溝厲沙漠的東南部……
 打倒出現於<Sheet(EObj,2002430,0)/>的妖異，
 並將它們的鮮血銘刻於大地……"
 54,"TEXT_JOBBLM350_01074_LALAI_000_006","那些鮮血，將順著流淌於大地的乙太散佈……

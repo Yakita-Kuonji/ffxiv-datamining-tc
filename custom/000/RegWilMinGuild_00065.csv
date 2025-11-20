@@ -25,7 +25,7 @@ int32,str,str
 11,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_8","你可以為了這種無形的快感而挖掘，
 也可以為了一夜暴富而挖掘金礦。
 行會不會過問採礦目的。"
-12,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_010","這不是<Highlight>ObjectParameter(1)</Highlight>麼！
+12,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_010","這不是<Highlight>ObjectParameter(1)</Highlight>嗎！
 你這是怎麼了？過來看我們了嗎？"
 13,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_020","這不是<Highlight>ObjectParameter(1)</Highlight>嗎？
 咦……你在這裡瞎晃悠沒問題嗎？
@@ -40,7 +40,7 @@ int32,str,str
 17,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_035","聽說你在迅風傭兵團那邊遇到了不少事情！
 但能平安回來了就好，這比什麼都強！"
 18,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_036","你在遠方揚名的時候，
-韋德·格利也在努力提高自己！
+韋德·格利也在努力提升自己！
 多半是你的活躍表現刺激到他了吧！"
 19,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_040","這不是<Highlight>ObjectParameter(1)</Highlight>嘛！
 田園郡的工作還順利嗎？"
@@ -72,13 +72,13 @@ int32,str,str
 32,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_200","對了，田園郡和福爾唐家開始準備業務合作了。
 離談攏似乎還需要一點時間，不過現在進展順利。"
 33,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_201","如果開始合作的話，行會的採掘師就能更容易地
-在龍堡參天高地和庫爾札斯開展活動了。
+在德拉瓦尼亞和庫爾札斯開展活動了。
 韋德·格利他們都很期待呢。"
 34,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_202","能這樣也是多虧了你作為採掘師在各地活躍。
 謝謝你，<Highlight>ObjectParameter(1)</Highlight>。"
 35,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_210","用一句話來形容就是忙得不可開交。
 首先由於和蜥蜴人族達成了和解，
-以艾瑪吉娜礦山協會為中心，開始出現了大的動作。"
+以艾瑪姬娜礦山協會為中心，開始出現了大的動作。"
 36,"TEXT_REGWILMINGUILD_00065_ADALBERTA_000_211","即使現在不會立刻開始，
 但相信在不久的將來，一定會一邊和他們共享資源，
 一邊摸索著如何與他們實現和平共存的關係。"

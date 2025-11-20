@@ -67,7 +67,7 @@ int32,str,str
 是一件令人開心的事啊！"
 27,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_040","<Highlight>ObjectParameter(1)</Highlight>，還有小櫻！
 我正等著你們呢！"
-28,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_041","快來看，我們的駐所變得非常氣派了吧！"
+28,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_041","快來看，我們的駐所變得非常壯觀了吧！"
 29,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_042","現在除了巡邏的工作以外，
 我們也在努力訓練，而人們也會找我們幫忙解決一些問題……
 所有人都很忙啊！"
@@ -92,7 +92,7 @@ int32,str,str
 38,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_051","這是千真萬確的！
 飛燕大人真的是在關注這個城市。"
 39,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_052","不光是人們的反應，
-就連巡邏隊的實際工作情況都悄悄地視察來著呢。"
+就連巡邏隊的實際工作情況都悄悄地視察的說。"
 40,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_053","飛燕大人說過，
 對於為多瑪飛地不惜粉身碎骨努力貢獻的人，
 給予其獎勵乃是君主的職責……"
@@ -138,7 +138,7 @@ int32,str,str
 所有人都在為了重建生活所必須的設施而拼命努力，
 所以就把這件事放在腦後了……"
 57,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_069","現在城市的重建工作也算告一段落了，
-總算能夠迴應飛地人們的期盼，
+總算能夠回應飛地人們的期盼，
 正式開始那座塔的拆除工作了。"
 58,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_070","具體流程就由我們車前會負責安排，
 <Highlight>ObjectParameter(1)</Highlight>就請你繼續支援物資吧。"

@@ -21,7 +21,7 @@ int32,str,str
 不過這全是靠優雷卡的環境乙太才得以實現……"
 7,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_016","就算是在優雷卡以外的地方無法使用，
 但起碼應該能夠在冒險者你進行探索時派上用場。"
-8,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_017","……嗯，光聽我解說是不是沒弄明白啊？"
+8,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_017","……嗯，光聽我解說是不是沒搞清楚啊？"
 9,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_018","那我把發現的文理碎晶給你，
 讓你實際體驗一下文理融合器吧。
 等你體驗完之後我們再說接下來的事情。"
@@ -46,7 +46,7 @@ int32,str,str
 選擇「提取記憶」就可以得到相對應的「文理技能」。"
 18,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_130_034","獲得的「文理技能」會顯示在介面上，
 最多能夠儲存3組。"
-19,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_140_034","另外，可以通過德雷克確認已獲得的「文理技能」，
+19,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_140_034","另外，可以透過德雷克確認已獲得的「文理技能」，
 或是聽取更為詳細的說明。
 如果有問題的話，請找他詢問。"
 20,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_KRILE_000_035","哎呀，你們兩個已經談完了嗎？"
@@ -158,7 +158,7 @@ int32,str,str
 62,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_130","冒險者，你來得正好。
 師父大人他差不多快要發佈研究成果了。"
 63,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_131","師父大人想要調整嵌寫記憶的方法，
-發明武器以外的東西來著。
+發明武器以外的東西的樣子。
 到底他想製作出什麼呢……嗯？"
 64,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_132","我過來是想告訴德雷克研究成果的，
 不過跟我猜的一樣，你果然也在這裡。
@@ -204,17 +204,17 @@ int32,str,str
 88,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_520","如果你在探索中發現了「文理碎晶」的話，
 請先交給我看看。
 我會為你鑑定出碎晶中寄宿著什麼樣的記憶。"
-89,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_521","通過「鑑定文理碎晶」
+89,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_521","透過「鑑定文理碎晶」
 可以辨別出「未鑑定的文理碎晶」中寄宿的記憶的種類。
 只有經過鑑定的文理碎晶才可以放入「文理融合器」。"
 90,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_522","另外，經過鑑定的「文理碎晶」
-可以通過介面上顯示的「魔素板」進行確認。"
+可以透過介面上顯示的「魔素板」進行確認。"
 91,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_523","經過鑑定的「文理碎晶""每種的持有上限為200個。
 當持有數量超過200個時，超出的部分將會被自動捨棄。"
 92,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_530","提取記憶什麼的，師父大人的想法真的是很厲害啊。
 說實在的，我最初聽他說起這個的時候，
 都懷疑能不能行得通。"
-93,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_531","通過「提取記憶」可以從設定的「文理碎晶」中
+93,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_531","透過「提取記憶」可以從設定的「文理碎晶」中
 獲得相對應的「文理技能」。"
 94,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_531","另外，分別在「星極融合器」和「靈極融合器」設定文理碎晶，
 進行「提取記憶」後，可以獲得擁有2種技能的「文理技能」。"

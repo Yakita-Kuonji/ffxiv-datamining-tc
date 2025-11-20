@@ -125,7 +125,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 121,0,False,False,False,3,0,5,False,False,1,25,"感謝你的幫助。"
 122,0,False,False,False,2,0,3,False,False,1,25,"咯噔 咯噔 咯噔……"
 123,0,False,False,False,2,0,3,False,False,1,25,"咯噔 咯噔……"
-124,0,False,False,False,3,0,5,False,False,1,25,"好、好大群的迷途羊羔！"
+124,0,False,False,False,3,0,5,False,False,1,25,"好、好大群的迷途羔羊！"
 125,0,False,False,False,3,0,5,False,False,1,25,"迎擊羊群！"
 126,0,False,False,False,3,0,5,False,False,1,25,"暫時沒有什麼情況。"
 127,0,False,False,False,3,0,5,False,False,1,25,"只有一條路嗎……準備好應對阻擊。"
@@ -139,7 +139,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 135,0,False,False,False,2,0,4,False,False,1,25,"該死！這群傢伙真難纏！"
 136,0,False,False,False,2,0,2,False,False,1,25,"小狗們，給我上！"
 137,0,False,False,False,2,0,4,False,False,1,25,"痛死我了……這可有點不妙。"
-138,0,False,False,False,2,0,6,False,False,1,25,"啊，不妙……怎麼向老大彙報啊……"
+138,0,False,False,False,2,0,6,False,False,1,25,"啊，不妙……怎麼向老大匯報啊……"
 139,0,False,False,False,2,0,4,False,False,1,25,"吃我這招！"
 140,0,False,False,False,2,0,4,False,False,1,25,"去死吧！"
 141,0,False,False,False,2,0,4,False,False,1,25,"你們這些混蛋！"
@@ -193,7 +193,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 173,0,False,False,False,3,0,5,False,False,1,25,"嗚，暫時退兵！"
 174,0,False,False,False,2,0,5,False,False,1,25,"賭上黑渦團的榮譽！"
 175,0,False,False,False,3,0,5,False,False,1,25,"這點事你們都處理不來嗎？"
-176,0,False,False,False,3,0,5,False,False,1,25,"丟臉現眼！"
+176,0,False,False,False,3,0,5,False,False,1,25,"丟人現眼！"
 177,0,False,False,False,2,0,5,False,False,1,25,"誰快去頂上！"
 178,0,False,False,False,2,0,5,False,False,1,25,"你們就只會被壓著打嗎？"
 179,0,False,False,False,2,0,5,False,False,1,25,"讓他們瞧瞧黑渦團的力量！"
@@ -254,7 +254,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 234,0,False,False,False,3,0,5,False,False,1,25,"可惡……讓他們跑了！"
 235,0,False,False,False,3,0,5,False,False,1,25,"再見啦！"
 236,0,False,False,False,2,0,3,False,False,1,25,"是你把我的酒喝了吧？"
-237,0,False,False,False,2,0,3,False,False,1,25,"什麼？想幹架嗎？"
+237,0,False,False,False,2,0,3,False,False,1,25,"什麼？想打架嗎？"
 238,0,False,False,False,2,0,3,False,False,1,25,"開什麼玩笑啊，混蛋！"
 239,0,False,False,False,2,0,3,False,False,1,25,"你在衝誰嚷嚷？"
 240,0,False,False,False,2,0,5,False,False,1,25,"不要小看我啊，混蛋！"
@@ -309,7 +309,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 289,0,False,False,False,3,0,3,False,False,1,25,"這是我們之間的問題！"
 290,0,False,False,False,2,0,5,False,False,1,25,"呼……"
 291,0,False,False,False,3,0,3,False,False,1,25,"幹得很好！這道關門也可以放心了呢。"
-292,0,False,False,False,3,0,3,False,False,1,25,"笨蛋，你們平常有鍛煉嗎？"
+292,0,False,False,False,3,0,3,False,False,1,25,"笨蛋，你們平常有鍛鍊嗎？"
 293,0,False,False,False,2,0,3,False,False,1,25,"好啊，終於守住了！"
 294,0,False,False,False,2,0,3,False,False,1,25,"真是沒出息的傢伙們……"
 295,0,False,False,False,3,0,3,False,False,1,25,"這下新兵們也能有點緊迫感了吧。"
@@ -348,7 +348,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 328,0,False,False,False,2,0,3,False,False,1,25,"戰績很好！傷亡很少！"
 329,0,False,False,False,2,0,3,False,False,1,25,"太好了，前輩們也會高興的。"
 330,0,False,False,False,2,0,3,False,False,1,25,"沒什麼像樣的收穫……"
-331,0,False,False,False,3,0,5,False,False,1,25,"嗚……居然會嘗到這種屈辱！"
+331,0,False,False,False,3,0,5,False,False,1,25,"嗚……居然會嚐到這種屈辱！"
 332,0,False,False,False,3,0,5,False,False,1,25,"怎麼了，這就結束了嗎？"
 333,0,False,False,False,3,0,5,False,False,1,25,"接下來就交給你了！"
 334,0,False,False,False,3,0,5,False,False,1,25,"下一個要上的是你嗎？"
@@ -359,9 +359,9 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 339,0,False,False,False,2,0,5,False,False,1,25,"下一個是誰？"
 340,0,False,False,False,2,0,5,False,False,1,25,"全是膽小鬼嗎？"
 341,0,False,False,False,3,0,5,False,False,1,25,"唔……是我輸了。"
-342,0,False,False,False,3,0,5,False,False,1,25,"我鍛煉的還不夠啊。"
+342,0,False,False,False,3,0,5,False,False,1,25,"我鍛鍊的還不夠啊。"
 343,0,False,False,False,3,0,5,False,False,1,25,"你浪費了太多時間。"
-344,0,False,False,False,3,0,5,False,False,1,25,"只會幹架有什麼了不起的！"
+344,0,False,False,False,3,0,5,False,False,1,25,"只會打架有什麼了不起的！"
 345,0,False,False,False,2,0,3,False,False,1,25,"這些可惡的老鼠，快住手！"
 346,0,False,False,False,2,0,3,False,False,1,25,"我的柳丁都被吃了……"
 347,0,False,False,False,2,0,3,False,False,1,25,"哈哈！"
@@ -420,7 +420,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 400,0,False,False,False,3,0,5,False,False,1,25,"作戰成功！全速撤離！"
 401,0,False,False,False,3,0,5,False,False,1,25,"嗚，只能拖延到這一步了嗎。"
 402,0,False,False,False,3,0,5,False,False,1,25,"立刻補上物資的缺口！"
-403,0,False,False,False,3,0,5,False,False,1,25,"真是幫了大忙，馬上準備殺進去！"
+403,0,False,False,False,3,0,5,False,False,1,25,"感謝幫忙，馬上準備殺進去！"
 404,0,False,False,False,3,0,3,False,False,1,25,"有魔物來襲！"
 405,0,False,False,False,3,0,3,False,False,1,25,"大家上，趕走這些魔物！"
 406,0,False,False,False,2,0,3,False,False,1,25,"有沒有什麼可以吃的……"
@@ -498,7 +498,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 478,0,False,False,False,2,0,5,False,False,1,25,"有隊長大人在居然還會這樣……"
 479,0,False,False,False,2,0,5,False,False,1,25,"怎喵會……這太奇怪了喵！"
 480,0,False,False,False,2,0,5,False,False,1,25,"嗯？有什麼東西從森林裡出來了！"
-481,0,False,False,False,3,0,5,False,False,1,25,"唔唔……真難辦啊。"
+481,0,False,False,False,3,0,5,False,False,1,25,"唔唔……真難搞啊。"
 482,0,False,False,False,2,0,5,False,False,1,25,"“我可是 非常 厲害！”"
 483,0,False,False,False,2,0,3,False,False,1,25,"“給我 命令……
 請……給我……命令！”"
@@ -547,7 +547,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 523,0,False,False,False,2,0,5,False,False,1,25,"客人們還在等著……"
 524,0,False,False,False,2,0,3,False,False,1,25,"你這傢伙，不值錢。"
 525,0,False,False,False,2,0,3,False,False,1,25,"不要礙事！"
-526,0,False,False,False,2,0,3,False,False,1,25,"賣掉，統統賣掉！"
+526,0,False,False,False,2,0,3,False,False,1,25,"賣掉，通通賣掉！"
 527,0,False,False,False,2,0,5,False,False,1,25,"抓起來……換金幣……"
 528,0,False,False,False,2,0,3,False,False,1,25,"區區人類！"
 529,0,False,False,False,2,0,3,False,False,1,25,"你們這些傢伙！"
@@ -634,7 +634,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 610,0,False,False,False,2,0,5,False,False,1,25,"太好了，趕走他們了！"
 611,0,False,False,False,2,0,5,False,False,1,25,"沒有看起來那麼厲害嘛！"
 612,0,False,False,False,2,0,5,False,False,1,25,"見識到我們的力量了吧？"
-613,0,False,False,False,2,0,5,False,False,1,25,"哼，嘗到厲害了吧！"
+613,0,False,False,False,2,0,5,False,False,1,25,"哼，嚐到厲害了吧！"
 614,0,False,False,False,2,0,5,False,False,1,25,"小看海盜可是會吃苦頭的！"
 615,0,False,False,False,2,0,5,False,False,1,25,"不要再來這裡了！"
 616,0,False,False,False,2,0,5,False,False,1,25,"啊，真是不錯的運動！"
@@ -758,9 +758,9 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 733,0,False,False,False,2,0,5,False,False,1,25,"幹掉他們！"
 734,0,False,False,False,2,0,5,False,False,1,25,"就憑你們？"
 735,0,False,False,False,2,0,3,False,False,1,25,"可惡！我趕時間啊！"
-736,0,False,False,False,2,0,3,False,False,1,25,"這樣子根本沒法通過了啊……"
+736,0,False,False,False,2,0,3,False,False,1,25,"這樣子根本無法通過了啊……"
 737,0,False,False,False,2,0,3,False,False,1,25,"謝謝了，冒險者！"
-738,0,False,False,False,2,0,3,False,False,1,25,"這樣子沒法過去了啊……真是的。"
+738,0,False,False,False,2,0,3,False,False,1,25,"這樣子無法過去了啊……真是的。"
 739,0,False,False,False,2,0,3,False,False,1,25,"這擋的也是我們的財路啊！"
 740,0,False,False,False,2,0,3,False,False,1,25,"謝謝，多虧了你！"
 741,0,False,False,False,3,0,5,False,False,1,25,"呼哧……呼哧……
@@ -835,7 +835,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 唯快不破！"
 783,0,False,False,False,3,0,5,False,False,1,25,"過眼雲煙！
 接我下一招！"
-784,0,False,False,False,3,0,5,False,False,1,25,"怒發衝天！
+784,0,False,False,False,3,0,5,False,False,1,25,"怒髮衝天！
 逼我用絕招！"
 785,0,False,False,False,3,0,5,False,False,1,25,"驚天動地……
 我的火炎居然會敗？"
@@ -986,11 +986,11 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 921,0,False,False,False,2,0,5,False,False,1,25,"老大，很壞！"
 922,0,False,False,False,2,0,5,False,False,1,25,"想起來有急事要辦了！"
 923,0,False,False,False,2,0,5,False,False,1,25,"這可有點糟糕了！"
-924,0,False,False,False,3,0,3,False,False,1,25,"哎呀，這下可真是乾淨了！"
-925,0,False,False,False,3,0,3,False,False,1,25,"幫了大忙，多謝你啦。"
+924,0,False,False,False,3,0,3,False,False,1,25,"哎呀，這下終於乾淨了！"
+925,0,False,False,False,3,0,3,False,False,1,25,"感謝幫忙，多謝你啦。"
 926,0,False,False,False,3,0,3,False,False,1,25,"這樣我就可以把心思都放在田地那邊了。"
 927,0,False,False,False,3,0,3,False,False,1,25,"以後也請你多幫忙啊！"
-928,0,False,False,False,3,0,3,False,False,1,25,"果然沒法都除掉嗎……"
+928,0,False,False,False,3,0,3,False,False,1,25,"果然無法都除掉嗎……"
 929,0,False,False,False,3,0,3,False,False,1,25,"下次一定要想辦法全部都清光！"
 930,0,False,False,False,3,0,3,False,False,1,25,"田、田地那邊！"
 931,0,False,False,False,3,0,3,False,False,1,25,"至、至少要把田地給保住！"
@@ -1011,7 +1011,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 946,0,False,False,False,4,0,1,False,False,3,25,"兀爾德……這次一定要……"
 947,0,False,False,False,4,0,1,False,False,3,25,"想阻擋吾之去路嗎……"
 948,0,False,False,False,4,0,1,False,False,3,25,"愚蠢……"
-949,0,False,False,False,4,0,1,False,False,3,25,"聽吾魔劍的歎息吧……"
+949,0,False,False,False,4,0,1,False,False,3,25,"聽吾魔劍的嘆息吧……"
 950,0,False,False,False,4,0,1,False,False,3,25,"吾是神又非神……"
 951,0,False,False,False,4,0,1,False,False,3,25,"吾之魔劍啊……"
 952,0,False,False,False,4,0,1,False,False,3,25,"斬斷一切吧！"
@@ -1041,7 +1041,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 976,0,False,False,False,3,0,3,False,False,1,25,"是龍族的眷屬！"
 977,0,False,False,False,2,0,3,False,False,1,25,"太好了，是我們勝了！"
 978,0,False,False,False,2,0,3,False,False,1,25,"賭上福爾唐家的名譽！"
-979,0,False,False,False,2,0,3,False,False,1,25,"戰神哈羅妮的祝福與我們同在！"
+979,0,False,False,False,2,0,3,False,False,1,25,"戰爭神哈羅妮的祝福與我們同在！"
 980,0,False,False,False,2,0,3,False,False,1,25,"一定要死守這裡！"
 981,0,False,False,False,3,0,3,False,False,1,25,"做好準備，是龍族的眷屬！"
 982,0,False,False,False,2,0,3,False,False,1,25,"伊修加爾德萬歲！"
@@ -1130,7 +1130,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 1054,0,False,False,False,3,0,3,False,False,1,25,"那詭異的魔物是什麼東西？"
 1055,0,False,False,False,2,0,3,False,False,1,25,"停下來了……太、太好了！"
 1056,0,False,False,False,2,0,3,False,False,1,25,"為了火神伊弗利特！"
-1057,0,False,False,False,2,0,3,False,False,1,25,"讓你們看看我們在聖火中鍛煉出的靈魂！"
+1057,0,False,False,False,2,0,3,False,False,1,25,"讓你們看看我們在聖火中鍛鍊出的靈魂！"
 1058,0,False,False,False,2,0,3,False,False,1,25,"這就是聖火的力量！"
 1059,0,False,False,False,3,0,3,False,False,1,25,"不要動，你們快停下！"
 1060,0,False,False,False,2,0,3,False,False,1,25,"休想妨礙我！"
@@ -1218,7 +1218,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 1142,0,False,False,False,3,0,3,False,False,1,25,"這下我也終於能回去了。"
 1143,0,False,False,False,3,0,3,False,False,1,25,"多謝你幫忙……再會了。"
 1144,0,False,False,False,3,0,3,False,False,1,25,"哇，這是什麼啊？！"
-1145,0,False,False,False,3,0,3,False,False,1,25,"這樣子沒法過去了啊……"
+1145,0,False,False,False,3,0,3,False,False,1,25,"這樣子無法過去了啊……"
 1146,0,False,False,False,2,0,3,False,False,1,25,"路過的都請來幫幫忙！"
 1147,0,False,False,False,3,0,3,False,False,1,25,"咕哎！"
 1148,0,False,False,False,3,0,3,False,False,1,25,"喔喔，可以過去了！"
@@ -1226,7 +1226,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 1150,0,False,False,False,2,0,3,False,False,1,25,"咕哎！"
 1151,0,False,False,False,3,0,3,False,False,1,25,"……只能掉頭了啊。"
 1152,0,False,False,False,3,0,5,False,False,1,25,"唔唔，這可怎麼是好……"
-1153,0,False,False,False,3,0,5,False,False,1,25,"沒法再前進了啊。"
+1153,0,False,False,False,3,0,5,False,False,1,25,"無法再前進了啊。"
 1154,0,False,False,False,3,0,5,False,False,1,25,"先退後嗎？"
 1155,0,False,False,False,3,0,3,False,False,1,25,"你肯幫忙嗎？太好了！"
 1156,0,False,False,False,3,0,3,False,False,1,25,"拜託你了，冒險者！"
@@ -1256,7 +1256,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 1180,0,False,False,False,3,0,5,False,False,1,25,"沒辦法了，全體撤退。"
 1181,0,False,False,False,3,0,5,False,False,1,25,"哎呀，那是什麼啊？"
 1182,0,False,False,False,3,0,5,False,False,1,25,"哇呀！好可怕！"
-1183,0,False,False,False,2,0,5,False,False,1,25,"啊，戰神哈羅妮啊……"
+1183,0,False,False,False,2,0,5,False,False,1,25,"啊，戰爭神哈羅妮啊……"
 1184,0,False,False,False,2,0,5,False,False,1,25,"神啊，請保護我……"
 1185,0,False,False,False,3,0,5,False,False,1,25,"喔……喔喔，這是！"
 1186,0,False,False,False,3,0,5,False,False,1,25,"多謝神靈保佑！"
@@ -1386,7 +1386,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 1310,0,False,False,False,3,0,3,False,False,1,25,"好像他們還沒死心。"
 1311,0,False,False,False,3,0,3,False,False,1,25,"呀，過、過來了！"
 1312,0,False,False,False,3,0,3,False,False,1,25,"一定要保護好物資！"
-1313,0,False,False,False,3,0,3,False,False,1,25,"唉，就不能老實一會兒嘛！"
+1313,0,False,False,False,3,0,3,False,False,1,25,"唉，就不能老實一點嗎！"
 1314,0,False,False,False,3,0,3,False,False,1,25,"真是的！一點也不能鬆懈。"
 1315,0,False,False,False,2,0,3,False,False,1,25,"這正是復仇的時機。"
 1316,0,False,False,False,2,0,3,False,False,1,25,"替大家復仇的時機。"
@@ -1527,7 +1527,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 1451,0,False,False,False,3,0,3,False,False,1,25,"我們在洗澡前是一定要跳那支舞的！"
 1452,0,False,False,False,3,0,3,False,False,1,25,"公共場所不允許做下流的事情！"
 1453,0,False,False,False,2,0,3,False,False,1,25,"不許你侮辱我們的習俗！"
-1454,0,False,False,False,2,0,3,False,False,1,25,"你居然沒法理解那舞蹈的優美嗎？"
+1454,0,False,False,False,2,0,3,False,False,1,25,"你居然無法理解那舞蹈的優美嗎？"
 1455,0,False,False,False,2,0,3,False,False,1,25,"你還要跳的話，就不能進去。"
 1456,0,False,False,False,2,0,3,False,False,1,25,"這大概就是所謂的文化衝突吧。"
 1457,0,False,False,False,3,0,3,False,False,1,25,"救救我呼啾……"
@@ -1538,7 +1538,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 1462,0,False,False,False,3,0,3,False,False,1,25,"現在開始強攻蜥蜴人軍陣地！"
 1463,0,False,False,False,2,0,2,False,False,1,25,"是！"
 1464,0,False,False,False,3,0,3,False,False,1,25,"大家都不要放鬆警惕！"
-1465,0,False,False,False,2,0,2,False,False,1,25,"瞭解！"
+1465,0,False,False,False,2,0,2,False,False,1,25,"了解！"
 1466,0,False,False,False,3,0,3,False,False,1,25,"衝啊！"
 1467,0,False,False,False,2,0,3,False,False,1,25,"噢噢噢！"
 1468,0,False,False,False,3,0,5,False,False,1,25,"前方有敵襲，切勿大意！"
@@ -1553,7 +1553,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 1477,0,False,False,False,2,0,3,False,False,1,25,"吃我一砲！"
 1478,0,False,False,False,2,0,3,False,False,1,25,"這就是專門設計來對付你們的武器！"
 1479,0,False,False,False,2,0,3,False,False,1,25,"該死的龍！"
-1480,0,False,False,False,2,0,3,False,False,1,25,"為了戰神哈羅妮！"
+1480,0,False,False,False,2,0,3,False,False,1,25,"為了戰爭神哈羅妮！"
 1481,0,False,False,False,2,0,3,False,False,1,25,"絕對不會輸給你們！"
 1482,0,False,False,False,2,0,3,False,False,1,25,"勝利屬於我們！"
 1483,0,False,False,False,2,0,3,False,False,1,25,"知道我們的厲害了吧！龍族！"
@@ -1581,7 +1581,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 1505,0,False,False,False,3,0,5,False,False,1,25,"你是不是覺得我很煩……"
 1506,0,False,False,False,3,0,5,False,False,1,25,"慎重！一定要慎重……"
 1507,0,False,False,False,3,0,5,False,False,1,25,"我們走！"
-1508,0,False,False,False,3,0,5,False,False,1,25,"我怎麼都沒法放心。"
+1508,0,False,False,False,3,0,5,False,False,1,25,"我怎麼都無法放心。"
 1509,0,False,False,False,3,0,5,False,False,1,25,"終於快到了呢。"
 1510,0,False,False,False,3,0,5,False,False,1,25,"沒問題吧？"
 1511,0,False,False,False,3,0,5,False,False,1,25,"那我去談生意了！"
@@ -1603,9 +1603,9 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 1527,0,False,False,False,2,0,5,False,False,1,25,"呀！嚇死人啦！"
 1528,0,False,False,False,2,0,5,False,False,1,25,"不、不要吃我！"
 1529,0,False,False,False,2,0,5,False,False,1,25,"我可不想死在魔物手裡！"
-1530,0,False,False,False,2,0,3,False,False,1,25,"可惡，這可真有點難辦……"
+1530,0,False,False,False,2,0,3,False,False,1,25,"可惡，這可真有點難搞……"
 1531,0,False,False,False,3,0,3,False,False,1,25,"好棒的溫泉啊……發現好地方了。"
-1532,0,False,False,False,2,0,3,False,False,1,25,"可是這樣就沒法回去了呢……"
+1532,0,False,False,False,2,0,3,False,False,1,25,"可是這樣就無法回去了呢……"
 1533,0,False,False,False,2,0,3,False,False,1,25,"怎麼辦呢……"
 1534,0,False,False,False,3,0,3,False,False,1,25,"真厲害！這下就可以回去了！"
 1535,0,False,False,False,3,0,3,False,False,1,25,"只是又出了一身冷汗……"
@@ -1734,7 +1734,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 1657,0,False,False,False,2,0,5,False,False,1,25,"兵貴神速，不要再等了。"
 1658,0,False,False,False,2,0,5,False,False,1,25,"如果我們快攻的話，應該是有勝機的。"
 1659,0,False,False,False,3,0,5,False,False,1,25,"這可怎麼辦才好啊……"
-1660,0,False,False,False,3,0,5,False,False,1,25,"喔喔，真是幫了大忙！"
+1660,0,False,False,False,3,0,5,False,False,1,25,"喔喔，感謝幫忙！"
 1661,0,False,False,False,2,0,3,False,False,1,25,"咕哎！"
 1662,0,False,False,False,3,0,3,False,False,1,25,"嗯？又怎麼了？"
 1663,0,False,False,False,2,0,3,False,False,1,25,"咕哎！咕哎！"
@@ -1873,7 +1873,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 1788,0,False,False,False,2,0,5,False,False,1,25,"都要好好找啊！"
 1789,0,False,False,False,2,0,5,False,False,1,25,"能逮到1隻就行！"
 1790,0,False,False,False,2,0,5,False,False,1,25,"這樣肯定要被老大罵了……"
-1791,0,False,False,False,2,0,5,False,False,1,25,"找大個兒的！它們比較顯眼。"
+1791,0,False,False,False,2,0,5,False,False,1,25,"找大隻點的！它們比較顯眼。"
 1792,0,False,False,False,2,0,5,False,False,1,25,"那邊也沒有嗎？"
 1793,0,False,False,False,2,0,5,False,False,1,25,"小金龜，快點出來啊。"
 1794,0,False,False,False,2,0,5,False,False,1,25,"別礙事！我們可不是在玩！"
@@ -1919,7 +1919,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 1834,0,False,False,False,3,0,5,False,False,1,25,"石像都動了起來！"
 1835,0,False,False,False,3,0,5,False,False,1,25,"得回礦山看看！"
 1836,0,False,False,False,2,0,3,False,False,1,25,"嗚哇！石像動起來了！"
-1837,0,False,False,False,2,0,3,False,False,1,25,"沒法採礦了！"
+1837,0,False,False,False,2,0,3,False,False,1,25,"無法採礦了！"
 1838,0,False,False,False,2,0,3,False,False,1,25,"呀！救命！"
 1839,0,False,False,False,2,0,5,False,False,1,25,"把無鰭類都獻祭給水神！"
 1840,0,False,False,False,2,0,5,False,False,1,25,"和水神大人融為一體！"
@@ -1998,7 +1998,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 1907,0,False,False,False,5,0,1,False,False,5,25,"你們連重火器都沒有，
 怎麼挑戰那特殊裝甲做成的殺人機器啊？！"
 1908,0,False,False,False,5,0,1,False,False,5,25,"即使這樣竟然也不後退……
-這就是自願成為人們的守護盾的覺悟麼。"
+這就是自願成為人們的守護盾的覺悟嗎。"
 1909,0,False,False,False,5,0,1,False,False,5,25,"那麼，就讓我來成為殺敵之劍！"
 1910,0,False,False,False,2,0,3,False,False,1,25,"這就是艾奧傑亞的做法嗎？"
 1911,0,False,False,False,2,0,3,False,False,1,25,"能拜託你在後面進行支援嗎？"
@@ -2038,7 +2038,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 1934,0,False,False,False,5,0,1,False,False,5,25,"奧汀走掉了嗎……又是“神”想要考驗我而派來的……"
 1935,0,False,False,False,5,0,1,False,False,5,25,"……這場短暫的夢也要結束了啊。"
 1936,0,False,False,False,5,0,1,False,False,5,25,"消失了？
-神還真是反復無常……"
+神還真是反覆無常……"
 1937,0,False,False,False,2,0,5,False,False,1,25,"加油咕波！"
 1938,0,False,False,False,2,0,5,False,False,1,25,"快點走咕波！"
 1939,0,False,False,False,2,0,5,False,False,1,25,"必須趕快去咕波！"
@@ -2051,40 +2051,40 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 1946,0,False,False,False,2,0,5,False,False,1,25,"這個混蛋咕波！"
 1947,0,False,False,False,2,0,5,False,False,1,25,"居然輸了咕波……"
 1948,0,False,False,False,2,0,5,False,False,1,25,"過來這邊咕波！"
-1949,0,False,False,False,2,0,5,False,False,1,25,"賢王大人啊，請降下您的制裁咕波！"
+1949,0,False,False,False,2,0,5,False,False,1,25,"善王大人啊，請降下您的制裁咕波！"
 1950,0,False,False,False,2,0,5,False,False,1,25,"嚐嚐莫古的斧頭咕波！"
 1951,0,False,False,False,2,0,5,False,False,1,25,"好痛、好痛咕波！"
 1952,0,False,False,False,2,0,5,False,False,1,25,"被打倒了咕波……"
 1953,0,False,False,False,2,0,5,False,False,1,25,"敢接近的傢伙都會這樣咕波！"
-1954,0,False,False,False,2,0,5,False,False,1,25,"賢王大人啊，請降下您的制裁咕波！"
+1954,0,False,False,False,2,0,5,False,False,1,25,"善王大人啊，請降下您的制裁咕波！"
 1955,0,False,False,False,2,0,5,False,False,1,25,"想被穿成肉串嗎咕波！"
 1956,0,False,False,False,2,0,5,False,False,1,25,"戰略撤退咕波！"
 1957,0,False,False,False,2,0,5,False,False,1,25,"莫古輸了咕波……"
 1958,0,False,False,False,2,0,5,False,False,1,25,"看莫古的大魔法咕波！"
-1959,0,False,False,False,2,0,5,False,False,1,25,"賢王大人啊，請降下您的制裁咕波！"
+1959,0,False,False,False,2,0,5,False,False,1,25,"善王大人啊，請降下您的制裁咕波！"
 1960,0,False,False,False,2,0,5,False,False,1,25,"看莫古射你屁股咕波！"
 1961,0,False,False,False,2,0,5,False,False,1,25,"居然輸這麼慘咕波！"
 1962,0,False,False,False,2,0,5,False,False,1,25,"被幹掉了咕波……"
 1963,0,False,False,False,2,0,5,False,False,1,25,"嚐嚐紛亂箭咕波！"
-1964,0,False,False,False,2,0,5,False,False,1,25,"賢王大人啊，請降下您的制裁咕波！"
+1964,0,False,False,False,2,0,5,False,False,1,25,"善王大人啊，請降下您的制裁咕波！"
 1965,0,False,False,False,2,0,5,False,False,1,25,"玩火好有趣啊咕波！"
 1966,0,False,False,False,2,0,5,False,False,1,25,"玩過頭了咕波！"
 1967,0,False,False,False,2,0,5,False,False,1,25,"莫古已經燃盡了咕波……"
 1968,0,False,False,False,2,0,5,False,False,1,25,"好樣的莫古！"
-1969,0,False,False,False,2,0,5,False,False,1,25,"賢王大人啊，請降下您的制裁咕波！"
+1969,0,False,False,False,2,0,5,False,False,1,25,"善王大人啊，請降下您的制裁咕波！"
 1970,0,False,False,False,2,0,5,False,False,1,25,"絨絨火光咕波！"
 1971,0,False,False,False,2,0,5,False,False,1,25,"執行任務中咕波……"
 1972,0,False,False,False,2,0,5,False,False,1,25,"千萬不能大意咕波……"
 1973,0,False,False,False,2,0,5,False,False,1,25,"來跟莫古一起跳咕波！"
 1974,0,False,False,False,2,0,5,False,False,1,25,"莫古想起來還有急事咕波！"
-1975,0,False,False,False,2,0,5,False,False,1,25,"已經沒法唱歌了咕波……"
+1975,0,False,False,False,2,0,5,False,False,1,25,"已經無法唱歌了咕波……"
 1976,0,False,False,False,2,0,5,False,False,1,25,"又活力十足啦咕波！"
-1977,0,False,False,False,2,0,5,False,False,1,25,"賢王大人啊，請降下您的制裁咕波！"
+1977,0,False,False,False,2,0,5,False,False,1,25,"善王大人啊，請降下您的制裁咕波！"
 1978,0,False,False,False,2,0,5,False,False,1,25,"真、真的要打嗎咕波？"
 1979,0,False,False,False,2,0,5,False,False,1,25,"救救莫古咕波！"
 1980,0,False,False,False,2,0,5,False,False,1,25,"好可怕咕波……"
 1981,0,False,False,False,2,0,5,False,False,1,25,"沉到毒沼裡去吧咕波！"
-1982,0,False,False,False,2,0,5,False,False,1,25,"賢王大人啊……後半句是啥來著咕波？"
+1982,0,False,False,False,2,0,5,False,False,1,25,"善王大人啊……後半句是啥來著咕波？"
 1983,0,False,False,False,2,0,3,False,False,1,25,"大師，請你看好了！"
 1984,0,False,False,False,2,0,3,False,False,1,25,"你妨礙到我們的練習了！"
 1985,0,False,False,False,2,0,3,False,False,1,25,"休想活著離開……"
@@ -2121,7 +2121,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 2012,0,False,False,False,5,0,1,False,False,5,25,"哦呵呵呵！實驗開始了哦！"
 2013,0,False,False,False,2,0,5,False,False,1,25,"我們贏了！"
 2014,0,False,False,False,5,0,1,False,False,5,25,"哎呀呀，這也太不像話了。
-根本就沒法滿足我實驗的要求啊。"
+根本就無法滿足我實驗的要求啊。"
 2015,0,False,False,False,5,0,1,False,False,5,25,"……那好啊。
 就讓我來衡量下大家的本領吧！"
 2016,0,False,False,False,5,0,1,False,False,5,25,"哦呵呵呵呵！"
@@ -2183,10 +2183,10 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 2067,0,False,False,False,2,0,5,False,False,1,25,"咕哎、咕哎，咕哎！"
 2068,0,False,False,False,2,0,5,False,False,1,25,"我、我不是壞陸行鳥！"
 2069,0,False,False,False,2,0,5,False,False,1,25,"傷痛都消失吧咕波！"
-2070,0,False,False,False,2,0,5,False,False,1,25,"賢、賢王大人救命咕波！"
+2070,0,False,False,False,2,0,5,False,False,1,25,"善、善王大人救命咕波！"
 2071,0,False,False,False,2,0,5,False,False,1,25,"看莫古的狙擊咕波！"
 2072,0,False,False,False,2,0,5,False,False,1,25,"力量湧現咕波！"
-2073,0,False,False,False,2,0,5,False,False,1,25,"賢、賢王大人快點來啊咕波！"
+2073,0,False,False,False,2,0,5,False,False,1,25,"善、善王大人快點來啊咕波！"
 2074,0,False,False,False,2,0,5,False,False,1,25,"哎，嘿，中啊咕波！"
 2075,0,False,False,False,2,0,5,False,False,1,25,"可惡可惡咕波！"
 2076,0,False,False,False,2,0,3,False,False,1,25,"是灰党一夥兒的嗎？！"
@@ -2573,7 +2573,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 2398,1010454,False,False,False,5,0,1,False,False,2,25,"很不錯，不過這次你們還能順利完成嗎？開始！"
 2399,1010454,False,False,False,5,0,1,False,False,2,25,"堅持住，這是最後一組了！開始！"
 2400,1010454,False,False,False,5,0,1,False,False,2,25,"0"
-2401,0,False,False,False,2,0,3,False,False,1,25,"消失在憤怒和悲歎的漩渦中吧！"
+2401,0,False,False,False,2,0,3,False,False,1,25,"消失在憤怒和悲嘆的漩渦中吧！"
 2402,0,False,False,False,2,0,3,False,False,1,25,"讓你見識死亡的幻境！"
 2403,0,False,False,False,2,0,3,False,False,1,25,"哼哼……我來稱量你們靈魂的重量吧！"
 2404,0,False,False,False,2,0,3,False,False,1,25,"你們的靈魂……究竟有多少分量？"
@@ -2597,7 +2597,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 2415,3383,True,False,False,5,0,1,False,False,5,25,"其中也有必須跳起來才能夠得著的寶箱。
 請巧妙地操作競賽陸行鳥，嘗試接觸到寶箱。"
 2416,3383,True,False,False,5,0,1,False,False,5,25,"“陸行鳥競賽”的基本說明就到此為止。
-之後請親自參加競賽，來嘗試各種各樣的操作和玩法。"
+之後請親自參加競賽，來嚐試各種各樣的操作和玩法。"
 2417,3383,True,False,False,5,0,1,False,False,5,25,"如果有不明白的地方，
 可以在“參賽登記員”處聽取關於陸行鳥競賽的各種說明。"
 2418,3383,True,False,False,5,0,1,False,False,5,25,"那麼，競賽教學到此結束。"
@@ -2627,7 +2627,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 2433,0,False,False,False,2,0,3,False,False,1,25,"整個次元都將因我
 心中的憤怒而顫抖！爆震！"
 2434,0,False,False,False,2,0,3,False,False,1,25,"變成小雞！"
-2435,0,False,False,False,2,0,3,False,False,1,25,"來玩過家家吧！"
+2435,0,False,False,False,2,0,3,False,False,1,25,"來玩扮家家酒吧！"
 2436,0,False,False,False,2,0,3,False,False,1,25,"接我一刀，正宗！"
 2437,0,False,False,False,2,0,3,False,False,1,25,"劍舞生風！"
 2438,0,False,False,False,2,0,3,False,False,1,25,"打得不錯……我流，雪月花！"
@@ -2757,7 +2757,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 2525,0,False,False,False,2,0,3,True,False,1,25,"散裂吧！"
 2526,0,False,False,False,2,0,3,True,False,1,25,"嗚……
 這怎麼會！"
-2527,0,False,False,False,2,0,3,True,False,1,25,"正如砂里貝爾閣下所說……"
+2527,0,False,False,False,2,0,3,True,False,1,25,"正如沙里貝爾閣下所說……"
 2528,0,False,False,False,2,0,3,True,False,1,25,"撤退吧！"
 2529,0,False,False,False,2,0,3,True,False,1,25,"0"
 2530,0,False,False,False,2,0,3,True,False,1,25,"0"
@@ -2846,14 +2846,14 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 　 用特殊技將凶惡巨獸寶寶擊破。<Else/>用<CommandIcon(12)/>鍵+<CommandIcon(7)/>鍵選擇一隻巧兒陸行鳥，
 　 然後用<CommandIcon(12)/>鍵+<Gui(10)/>鍵發動特殊技，
 　 將凶惡巨獸寶寶擊破。</If>"
-2594,0,True,False,False,4,0,1,False,False,4,25," 為了恢復體力，將所有的巧兒陸行鳥移動至萌寵之門B。"
+2594,0,True,False,False,4,0,1,False,False,4,25," 為了恢復HP，將所有的巧兒陸行鳥移動至萌寵之門B。"
 2595,0,True,False,False,4,0,1,False,False,4,25," 請選擇所有的巧兒陸行鳥，
 　 將移動目標指定為自陣營的其他萌寵之門。"
 2596,0,True,False,False,4,0,1,False,False,4,25," 選擇所有巧兒陸行鳥，
 　 讓它們移動到敵方中央的奧秘核石B處進行攻擊。"
 2597,0,True,False,False,4,0,1,False,False,4,25," 攻擊敵方中央的奧秘核石B。"
 2598,0,True,False,False,4,0,1,False,False,4,25," 讓自走人偶001號攻擊敵方的奧秘核石B，
-　 確認奧秘核石B的體力損失情況。"
+　 確認奧秘核石B的HP損失情況。"
 2599,0,True,False,False,4,0,1,False,False,4,25," 讓微炸彈攻擊敵方防禦盾，將其破壞。"
 2600,0,True,False,False,4,0,1,False,False,4,25," 請徹底破壞敵方中央的奧秘核石B。"
 2601,0,True,False,False,4,0,1,False,False,3,25,"0"
@@ -2926,12 +2926,12 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 2658,0,False,False,False,2,0,3,False,False,1,25,"真是狼狽……"
 2659,0,False,False,False,2,0,3,False,False,1,25,"可惡！
 火勢太強了！"
-2660,0,False,False,False,2,0,3,False,False,1,25,"砂、砂里貝爾大人？！
+2660,0,False,False,False,2,0,3,False,False,1,25,"沙、沙里貝爾大人？！
 您怎麼連我們一起燒啊！"
 2661,0,False,False,False,2,0,3,False,False,1,25,"請、請不要燒我們啊！
-砂里貝爾大人！"
+沙里貝爾大人！"
 2662,0,False,False,False,2,0,3,False,False,1,25,"嗚……
-砂里貝爾大人……"
+沙里貝爾大人……"
 2663,0,False,False,False,2,0,3,False,False,1,25,"射！射！射——！！
 現在的我，興奮極了！"
 2664,0,False,False,False,2,0,3,False,False,1,25,"感覺全身充滿了力量！"
@@ -3310,7 +3310,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 2941,0,False,False,False,2,0,3,False,False,1,25,"還是應該撤退啊……"
 2942,0,False,False,False,5,0,1,False,False,3,25,"你這叛徒，還挺厲害。"
 2943,0,False,False,False,5,0,1,False,False,3,25,"可是……
-你拋棄了為龍的尊嚴，還和人類相互勾……"
+你拋棄了為龍的尊嚴，還和人類相互勾結……"
 2944,0,False,False,False,5,0,1,False,False,3,25,"不會輸給你！"
 2945,0,False,False,False,5,0,1,False,False,3,25,"你什麼都不懂！"
 2946,0,False,False,False,5,0,1,False,False,3,25,"哼，還挺能打！"
@@ -3354,7 +3354,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 2982,0,False,False,False,2,0,3,False,False,1,25,"哇，好美的花咕波！"
 2983,0,False,False,False,2,0,3,False,False,1,25,"想稍微歇一會兒咕波……"
 2984,0,False,False,False,2,0,3,False,False,1,25,"風景真美咕波！"
-2985,0,False,False,False,2,0,3,False,False,1,25,"莫古再努把力咕波！"
+2985,0,False,False,False,2,0,3,False,False,1,25,"莫古再加把勁咕波！"
 2986,0,False,False,False,2,0,3,False,False,1,25,"咕波波……出現了咕波！"
 2987,0,False,False,False,2,0,3,False,False,1,25,"又來咕波？！
 受不了了咕波……"
@@ -3467,7 +3467,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 3072,0,False,False,False,5,0,1,False,False,3,25,"嘿嘿嘿……把你們全殺了不就好了！"
 3073,0,False,False,False,5,0,1,False,False,3,25,"接下來就玩弄你吧！"
 3074,0,False,False,False,5,0,1,False,False,3,25,"你這傢伙……還挺厲害。"
-3075,0,False,False,False,5,0,1,False,False,3,25,"最近的玩具都太不經玩了……"
+3075,0,False,False,False,5,0,1,False,False,3,25,"最近的玩具都太脆弱一下就壞了呢……"
 3076,0,False,False,False,5,0,1,False,False,3,25,"我好久都沒這麼開心了。"
 3077,0,False,False,False,5,0,1,False,False,3,25,"請讓我更開心些吧……"
 3078,0,False,False,False,5,0,1,False,False,3,25,"這反應……明明只是個玩具……"
@@ -3486,7 +3486,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 3090,0,False,False,False,2,0,3,False,False,1,25,"別來阻礙我！"
 3091,0,False,False,False,2,0,3,False,False,1,25,"這種程度我也能做到！"
 3092,0,False,False,False,2,0,3,False,False,1,25,"以萊韋耶勒爾之名！"
-3093,0,False,False,False,2,0,3,False,False,1,25,"砂利亞克神保佑！"
+3093,0,False,False,False,2,0,3,False,False,1,25,"沙利亞克神保佑！"
 3094,0,False,False,False,2,0,3,False,False,1,25,"看來只好用這個了！"
 3095,0,False,False,False,2,0,3,False,False,1,25,"開玩笑吧……"
 3096,0,False,False,False,2,0,3,False,False,1,25,"你這混蛋，看招！"
@@ -3517,7 +3517,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 3120,0,False,False,False,5,0,1,False,False,3,25,"還以為這群傢伙能有點骨氣呢……"
 3121,0,False,False,False,5,0,1,False,False,3,25,"接下來該你們出場了！"
 3122,0,False,False,False,5,0,1,False,False,3,25,"究竟要吃多少苦頭才甘心！"
-3123,0,False,False,False,5,0,1,False,False,3,25,"一群丟臉現眼的傢伙。"
+3123,0,False,False,False,5,0,1,False,False,3,25,"一群丟人現眼的傢伙。"
 3124,0,False,False,False,5,0,1,False,False,3,25,"沒辦法……只能用絕招了嗎？"
 3125,0,False,False,False,5,0,1,False,False,3,25,"出來吧，我忠實的僕人們！"
 3126,0,False,False,False,2,0,3,False,False,1,25,"不、不值一提……"
@@ -3609,13 +3609,13 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 3206,0,False,False,False,5,0,1,False,False,3,25,"那麼我就回天極白堊宮了。"
 3207,0,False,False,False,5,0,1,False,False,3,25,"強大的人類啊，我們日後再見！"
 3208,0,False,False,False,2,0,5,False,False,1,25,"這是？！
-我的精金爪們！"
+我的堅鋼爪們！"
 3209,0,False,False,False,2,0,5,False,False,1,25,"混蛋！
 我要用我的愛機碾碎你們！"
 3210,0,False,False,False,2,0,3,False,False,1,25,"不可原諒！"
 3211,0,False,False,False,2,0,3,False,False,1,25,"替那些機械報仇！"
 3212,0,False,False,False,2,0,3,False,False,1,25,"你知道我花了多少工夫嗎！"
-3213,0,False,False,False,5,0,1,False,False,3,25,"嗚……這力量不容小視！"
+3213,0,False,False,False,5,0,1,False,False,3,25,"嗚……這力量不容小覷！"
 3214,0,False,False,False,5,0,1,False,False,3,25,"這跟剛才的可不一樣！"
 3215,0,False,False,False,5,0,1,False,False,3,25,"只有拼死戰鬥才能守護……"
 3216,0,False,False,False,5,0,1,False,False,3,25,"所以絕對不能後退！"
@@ -3726,7 +3726,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 3303,0,False,False,False,5,0,1,False,False,3,25,"現在先回去重整態勢！"
 3304,0,False,False,False,5,0,1,False,False,3,25,"下次一定會加倍奉還的！"
 3305,0,False,False,False,5,0,1,False,False,3,25,"逃跑了嗎……這個膽小鬼。"
-3306,0,False,False,False,5,0,1,False,False,3,25,"嘗到我的厲害了吧，該死的叛徒。"
+3306,0,False,False,False,5,0,1,False,False,3,25,"嚐到我的厲害了吧，該死的叛徒。"
 3307,0,False,False,False,5,0,1,False,False,3,25,"好無聊啊……再讓我更開心些吧。"
 3308,0,False,False,False,5,0,1,False,False,3,25,"沒想到這麼難對付……"
 3309,0,False,False,False,5,0,1,False,False,3,25,"浪費了寶貴的時間……"
@@ -3868,7 +3868,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 3413,0,False,False,False,2,0,5,False,False,1,25,"撤退，快撤啊！"
 3414,0,False,False,False,2,0,5,False,False,1,25,"把握時間撤！"
 3415,0,False,False,False,3,0,5,False,False,1,25,"重新進行搜查！"
-3416,0,False,False,False,2,0,5,False,False,1,25,"竟然這麼能折騰……"
+3416,0,False,False,False,2,0,5,False,False,1,25,"竟然鬧的這麼嚴重……"
 3417,0,False,False,False,2,0,5,False,False,1,25,"找到線索了！"
 3418,0,False,False,False,5,0,1,False,False,3,25,"竟然能把力量發揮到此等境界……"
 3419,0,False,False,False,5,0,1,False,False,3,25,"人類的力量……還真是深不可測。"
@@ -3903,7 +3903,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 是錯覺嗎？"
 3444,0,False,False,False,2,0,3,False,False,1,25,"給我驅逐出去！"
 3445,0,False,False,False,2,0,3,False,False,1,25,"你這該死的！"
-3446,0,False,False,False,2,0,3,False,False,1,25,"制服他！"
+3446,0,False,False,False,2,0,3,False,False,1,25,"制伏他！"
 3447,0,False,False,False,2,0,3,False,False,1,25,"撤退！"
 3448,0,False,False,False,2,0,3,False,False,1,25,"這個危險的傢伙！"
 3449,0,False,False,False,2,0,3,False,False,1,25,"已經消除了威脅。"
@@ -4189,7 +4189,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 3650,0,False,False,False,2,0,3,False,False,1,25,"別想靠近！"
 3651,0,False,False,False,2,0,3,False,False,1,25,"啊——！舞娘小姐！"
 3652,0,False,False,False,2,0,3,False,False,1,25,"這點小困難算什麼！"
-3653,0,False,False,False,2,0,3,False,False,1,25,"讓你們看看擁護者的力量！"
+3653,0,False,False,False,2,0,3,False,False,1,25,"讓你們看看粉絲的力量！"
 3654,0,False,False,False,2,0,3,False,False,1,25,"哦——！"
 3655,0,False,False,False,2,0,3,False,False,1,25,"我很困擾啊！"
 3656,0,False,False,False,2,0,3,False,False,1,25,"誰來救救我啊！"
@@ -4283,7 +4283,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 3740,0,False,False,False,2,0,3,False,False,1,25,"誰來救救我啊！"
 3741,0,False,False,False,2,0,3,False,False,1,25,"啊——！"
 3742,0,False,False,False,2,0,3,False,False,1,25,"救命！！"
-3743,0,False,False,False,2,0,3,False,False,1,25,"想死麼？嗯？"
+3743,0,False,False,False,2,0,3,False,False,1,25,"想死嗎？嗯？"
 3744,0,False,False,False,2,0,3,False,False,1,25,"信不信我打扁你！"
 3745,0,False,False,False,2,0,3,False,False,1,25,"不會輕易放過你們的！"
 3746,0,False,False,False,2,0,3,False,False,1,25,"看招！"
@@ -4427,7 +4427,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 難道說，只能放棄了嗎？"
 3852,0,False,False,False,5,0,1,False,False,5,25,"哎……
 即便如此你也要一直戰鬥下去啊……"
-3853,0,False,False,False,5,0,1,False,False,5,25,"這戰鬥的姿態，仿佛是……"
+3853,0,False,False,False,5,0,1,False,False,5,25,"這戰鬥的姿態，彷彿是……"
 3854,0,False,False,False,5,0,1,False,False,5,25,"這感覺？
 心境就像烏雲散去一樣……"
 3855,0,False,False,False,5,0,1,False,False,5,25,"是時候用那招了！"
@@ -4510,7 +4510,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 3916,0,False,False,False,2,0,3,True,False,1,25,"給我消失吧！"
 3917,0,False,False,False,2,0,3,True,False,1,25,"0"
 3918,0,False,False,False,2,0,3,True,False,1,25,"蠢貨！"
-3919,0,False,False,False,2,0,3,True,False,1,25,"讓你滿不在乎地攻過來！"
+3919,0,False,False,False,2,0,3,True,False,1,25,"讓你蠻不在乎地攻過來！"
 3920,0,False,False,False,2,0,3,True,False,1,25,"哇——哈哈！"
 3921,0,False,False,False,2,0,3,True,False,1,25,"愉快地去死吧！"
 3922,0,False,False,False,2,0,3,True,False,1,25,"超級能量！
@@ -4558,7 +4558,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 出來吧！"
 3947,0,False,False,False,2,0,3,True,False,1,25,"喵！"
 3948,0,False,False,False,2,0,3,True,False,1,25,"加、加油啦！"
-3949,0,False,False,False,2,0,3,True,False,1,25,"戰神哈羅妮，請賜予我力量！"
+3949,0,False,False,False,2,0,3,True,False,1,25,"戰爭神哈羅妮，請賜予我力量！"
 3950,0,False,False,False,2,0,3,True,False,1,25,"護衛就拜託你了！"
 3951,0,False,False,False,2,0,3,True,False,1,25,"堅守到底！"
 3952,0,False,False,False,2,0,3,True,False,1,25,"表演開始了！"
@@ -5049,7 +5049,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 4322,0,False,False,False,2,0,3,False,False,1,25,"沒問題！"
 4323,0,False,False,False,2,0,3,False,False,1,25,"包在我身上！"
 4324,0,False,False,False,2,0,3,False,False,1,25,"放心吧！"
-4325,0,False,False,False,2,0,3,False,False,1,25,"你就瞧好吧！"
+4325,0,False,False,False,2,0,3,False,False,1,25,"給我看好了！"
 4326,0,False,False,False,2,0,3,False,False,1,25,"就是現在，大家上！"
 4327,0,False,False,False,2,0,3,False,False,1,25,"不好，快逃！"
 4328,0,False,False,False,2,0,3,False,False,1,25,"撤！快撤！"
@@ -5081,7 +5081,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 4353,0,False,False,False,2,0,3,False,False,1,25,"嗚吼！"
 4354,0,False,False,False,2,0,3,False,False,1,25,"嗚吼吼——！"
 4355,0,False,False,False,2,0,3,False,False,1,25,"天地之氣……"
-4356,0,False,False,False,2,0,3,False,False,1,25,"迴圈合一……"
+4356,0,False,False,False,2,0,3,False,False,1,25,"循環合一……"
 4357,0,False,False,False,2,0,3,False,False,1,25,"創清淨之界！"
 4358,0,False,False,False,2,0,3,False,False,1,25,"雖然很害怕，
 但是我會加油的！"
@@ -5222,7 +5222,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 4485,0,False,False,False,3,0,3,False,False,1,25,"成功了，我們保護了莊稼！"
 4486,0,False,False,False,2,0,3,False,False,1,25,"哈呀！"
 4487,0,False,False,False,3,0,3,False,False,1,25,"冒險者，能請你幫忙嗎？"
-4488,0,False,False,False,2,0,3,False,False,1,25,"你幫了大忙了！"
+4488,0,False,False,False,2,0,3,False,False,1,25,"感謝幫忙！"
 4489,0,False,False,False,2,0,3,False,False,1,25,"嗚……數量不夠……失望……"
 4490,0,False,False,False,2,0,3,False,False,1,25,"各位請加油！"
 4491,0,False,False,False,2,0,3,False,False,1,25,"收集到的鋒利的石片
@@ -5291,7 +5291,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 4546,0,False,False,False,3,0,3,False,False,1,25,"嘶——找到了！
 今天一定要幹掉你！"
 4547,0,False,False,False,0,0,0,False,False,0,0,""
-4548,0,False,False,False,2,0,3,False,False,1,25,"嘶——沒法給
+4548,0,False,False,False,2,0,3,False,False,1,25,"嘶——無法給
 姐妹們報仇了……"
 4549,0,False,False,False,2,0,3,False,False,1,25,"嘶——為姐妹們報仇！"
 4550,0,False,False,False,2,0,3,False,False,1,25,"嘶——真是頑強！"
@@ -5381,7 +5381,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 4621,0,False,False,False,2,0,5,False,False,1,25,"被繞到背後了？"
 4622,0,False,False,False,2,0,5,False,False,1,25,"能把他們
 全部幹掉嗎？"
-4623,0,False,False,False,2,0,5,False,False,1,25,"要十二分小心……"
+4623,0,False,False,False,2,0,5,False,False,1,25,"要十分小心……"
 4624,0,False,False,False,3,0,5,False,False,1,25,"出發吧！"
 4625,0,False,False,False,2,0,3,False,False,1,25,"該我們反擊了！"
 4626,0,False,False,False,2,0,3,False,False,1,25,"探測到了乙太反應，
@@ -5421,7 +5421,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 總算活下來了……"
 4655,0,False,False,False,2,0,3,False,False,1,25,"無論對手是誰，
 我都不會認輸！"
-4656,0,False,False,False,2,0,3,False,False,1,25,"去吧，卡邦庫爾·黑曜石！"
+4656,0,False,False,False,2,0,3,False,False,1,25,"去吧，卡邦庫爾 黑曜石！"
 4657,0,False,False,False,2,0,3,False,False,1,25,"怎麼能讓你得逞！"
 4658,0,False,False,False,2,0,3,False,False,1,25,"用這把新的刺劍！"
 4659,0,False,False,False,2,0,3,False,False,1,25,"幹掉你！"
@@ -6551,15 +6551,15 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 5657,0,False,False,False,2,0,3,False,False,1,25,"為犏牛們報仇！"
 5658,0,False,False,False,2,0,3,False,False,1,25,"嗚……憑我的力量
 贏不了嗎……"
-5659,0,False,False,False,2,0,3,False,False,1,25,"我的家畜又被襲擊了……"
+5659,0,False,False,False,2,0,3,False,False,1,25,"我的牲畜又被襲擊了……"
 5660,0,False,False,False,2,0,3,False,False,1,25,"成功了，打倒了！"
 5661,0,False,False,False,3,0,3,False,False,1,25,"巴兒達木霸道
 的野獸就是這個？"
-5662,0,False,False,False,3,0,3,False,False,1,25,"得在家畜被殺之前解決野獸！"
+5662,0,False,False,False,3,0,3,False,False,1,25,"得在牲畜被殺之前解決野獸！"
 5663,0,False,False,False,3,0,3,False,False,1,25,"旅行者，要逃趁現在！"
 5664,0,False,False,False,2,0,3,False,False,1,25,"喝！"
 5665,0,False,False,False,2,0,3,False,False,1,25,"大意了……"
-5666,0,False,False,False,2,0,3,False,False,1,25,"不好，對面有家畜！"
+5666,0,False,False,False,2,0,3,False,False,1,25,"不好，對面有牲畜！"
 5667,0,False,False,False,2,0,3,False,False,1,25,"終於安全了，幫大忙了……"
 5668,0,False,False,False,3,0,5,False,False,1,25,"哈……哈……沒想到
 竟然襲擊同胞……"
@@ -6786,7 +6786,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 5861,0,False,False,False,5,0,1,False,False,5,25,"別靠近我，會受傷的！"
 5862,0,False,False,False,5,0,1,False,False,5,25,"可惡，邪惡的妖狐！
 拒絕為我所用嗎！"
-5863,0,False,False,False,5,0,1,False,False,5,25,"那就只好用蠻力制服你了！
+5863,0,False,False,False,5,0,1,False,False,5,25,"那就只好用蠻力制伏你了！
 小弟們，抓住她帶回遠東之國！"
 5864,0,False,False,False,5,0,1,False,False,5,25,"嗚嗚……頭痛欲裂……
 身體好像要裂開……"
@@ -6951,9 +6951,9 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 5984,0,False,False,False,2,0,5,False,False,1,25,"有這麼多肉就能
 做很多蒸肉了！"
 5985,0,False,False,False,2,0,5,False,False,1,25,"可惡，我想吃蒸肉……"
-5986,0,False,False,False,2,0,3,False,False,1,25,"家畜們好吵……"
+5986,0,False,False,False,2,0,3,False,False,1,25,"牲畜們好吵……"
 5987,0,False,False,False,2,0,3,False,False,1,25,"那是獦狚群！"
-5988,0,False,False,False,2,0,3,False,False,1,25,"阿兒塔尼，照顧好家畜！"
+5988,0,False,False,False,2,0,3,False,False,1,25,"阿兒塔尼，照顧好牲畜！"
 5989,0,False,False,False,2,0,4,False,False,1,25,"被趕跑的那群又回來了嗎！"
 5990,0,False,False,False,2,0,3,False,False,1,25,"好的！"
 5991,0,False,False,False,2,0,3,False,False,1,25,"從北邊也來了！"
@@ -7226,7 +7226,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 6216,0,False,False,False,4,0,1,False,False,7,25,"不愧是英雄，故意輸給我們
 讓我們增加自信。"
 6217,0,False,False,False,4,0,1,False,False,5,25,"怎麼倒下了，我們艾奧傑亞
-同盟軍也不可小視吧？"
+同盟軍也不可小覷吧？"
 6218,0,False,False,False,4,0,1,False,False,5,25,"我們也學到了很多。
 謝謝你的幫助！"
 6219,0,False,False,False,4,0,1,False,False,5,25,"嘎哈哈哈！"
@@ -7247,7 +7247,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 6228,0,False,False,False,2,0,3,False,False,1,25,"嗚哇，
 是紅玉海的飛鯊！"
 6229,0,False,False,False,2,0,5,False,False,1,25,"飛鯊害得我
-沒法出海捕魚了……"
+無法出海捕魚了……"
 6230,0,False,False,False,2,0,3,False,False,1,25,"看來只好放棄了……"
 6231,0,False,False,False,2,0,3,False,False,1,25,"沒辦法，下次再說吧……"
 6232,0,False,False,False,2,0,3,False,False,1,25,"厲害，幫大忙了！"
@@ -7480,7 +7480,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 是不會輸給你們的！放馬過來！"
 6430,0,False,False,False,5,0,1,False,False,5,25,"嗚，又要輸了……
 杜彭老師，快來救我！"
-6431,0,False,False,False,5,0,1,False,False,5,25,"壞了！
+6431,0,False,False,False,5,0,1,False,False,5,25,"糟了！
 我忘了邀請老師來了！"
 6432,0,False,False,False,2,0,3,False,False,1,25,"哼！"
 6433,0,False,False,False,2,0,3,False,False,1,25,"不要給別人添麻煩！"
@@ -7515,7 +7515,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 6451,0,False,False,False,3,0,3,False,False,1,25,"我、我不買了！"
 6452,0,False,False,False,3,0,5,False,False,1,25,"敢賴帳？
 小弟們！"
-6453,0,False,False,False,3,0,4,False,False,1,25,"讓你嘗點苦頭！"
+6453,0,False,False,False,3,0,4,False,False,1,25,"讓你嚐點苦頭！"
 6454,0,False,False,False,3,0,3,False,False,1,25,"住、住手！"
 6455,0,False,False,False,3,0,4,False,False,1,25,"你們在做什麼！"
 6456,0,False,False,False,3,0,5,False,False,1,25,"嘖……礙事的來了……
@@ -7595,14 +7595,14 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 6507,0,False,False,False,3,0,4,False,False,1,25,"我自月而來攜鋼鐵降臨於此！"
 6508,0,False,False,False,2,0,4,True,False,1,25,"“啊，啊……啊——”"
 6509,0,False,False,False,2,0,4,True,False,1,25,"“吱吱吱吱吱吱……”"
-6510,0,False,False,False,2,0,4,True,False,1,25,"硝煙的味道……
+6510,0,False,False,False,2,0,4,True,False,1,25,"煙硝的味道……
 看來這裡發生過戰鬥。"
-6511,0,False,False,False,2,0,2,False,False,1,25,"啊！是陸行鳥！"
+6511,0,False,False,False,2,0,2,False,False,1,25,"呀！"
 6512,0,False,False,False,2,0,4,True,False,1,25,"他們在趁火打劫？！"
 6513,0,False,False,False,2,0,4,True,False,1,25,"太過分了……
 居民都去哪了？"
 6514,0,False,False,False,2,0,4,True,False,1,25,"又是席克族……"
-6515,0,False,False,False,2,0,4,True,False,1,25,"在砂漠之都的地下，
+6515,0,False,False,False,2,0,4,True,False,1,25,"在沙漠之都的地下，
 居然有這樣的水路……"
 6516,0,False,False,False,2,0,4,True,False,1,25,"傳說中的王都勒薩利亞……
 居然真的存在……"
@@ -7752,7 +7752,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 就讓你們見識一下暴風魔王之力！"
 6636,0,False,False,False,5,0,1,False,False,3,25,"我名為帕祖祖……"
 6637,0,False,False,False,5,0,1,False,False,3,25,"這常風之地乃是我的領地！"
-6638,0,False,False,False,5,0,1,False,False,3,25,"令人不快的小小蟲子，臣服於我！"
+6638,0,False,False,False,5,0,1,False,False,3,25,"令人不悅的小小蟲子，臣服於我！"
 6639,0,False,False,False,2,0,3,False,False,1,25,"嘶——
 傷患先退下！"
 6640,0,False,False,False,2,0,3,False,False,1,25,"來開始大幹一場吧！"
@@ -7772,13 +7772,13 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 6651,0,False,False,False,2,0,3,False,False,1,25,"嘶——抱歉了……"
 6652,0,False,False,False,2,0,3,False,False,1,25,"開始複製模擬程式……"
 6653,0,False,False,False,2,0,3,False,False,1,25,"開始貼上模擬程式……"
-6654,0,False,False,False,2,0,3,False,False,1,25,"跳躍載入模擬程式……"
+6654,0,False,False,False,2,0,3,False,False,1,25,"省略載入模擬程式……"
 6655,0,False,False,False,2,0,3,False,False,1,25,"反向載入模擬程式……"
 6656,0,False,False,False,2,0,3,False,False,1,25,"我是個正經人，
 所以就讓你過去吧。"
 6657,0,False,False,False,2,0,3,False,False,1,25,"我又來了！
 我很纏人吧？
-因為我是只章魚啊！"
+因為我是隻章魚啊！"
 6658,0,False,False,False,2,0,3,False,False,1,25,"移動目標探測器啟動……
 探測目標的移動座標……"
 6659,0,False,False,False,2,0,3,False,False,1,25,"結實的身體就是我的強項！"
@@ -7836,7 +7836,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 生命真是美麗……"
 6695,0,False,False,False,2,0,5,False,False,1,25,"好厲害咕波！"
 6696,0,False,False,False,2,0,5,False,False,1,25,"咻——咻——咕波！"
-6697,0,False,False,False,2,0,5,False,False,1,25,"命運註定的兩人咕波！"
+6697,0,False,False,False,2,0,5,False,False,1,25,"命運注定的兩人咕波！"
 6698,0,False,False,False,2,0,5,False,False,1,25,"且慢！
 大爺我是世界第一的劍士
 齊格弗里德。"
@@ -7900,13 +7900,13 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 一定要……活下……去！"
 6747,0,False,False,False,2,0,3,False,False,1,25,"該死的苗賣家的不祥之子……"
 6748,0,False,False,False,2,0,3,False,False,1,25,"差配家不要臉的寡婦！"
-6749,0,False,False,False,2,0,3,False,False,1,25,"飛黃騰達了的蠻族女人！"
-6750,0,False,False,False,2,0,3,False,False,1,25,"真是懂得色誘他人呢！"
+6749,0,False,False,False,2,0,3,False,False,1,25,"飛黃騰達了的野蠻女人！"
+6750,0,False,False,False,2,0,3,False,False,1,25,"哼，還真會耍手段！"
 6751,0,False,False,False,2,0,3,False,False,1,25,"派不上用場的話
 就去死吧！"
 6752,0,False,False,False,2,0,3,False,False,1,25,"不要讓我再次見到你！"
 6753,0,False,False,False,2,0,3,False,False,1,25,"如果沒有你的話
-我早成芝諾斯大人的……"
+我早就成為芝諾斯大人的……"
 6754,0,False,False,False,2,0,3,False,False,1,25,"朝陽……
 唯獨你……唯獨你……"
 6755,0,False,False,False,2,0,3,False,False,1,25,"啊……
@@ -8145,8 +8145,8 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 6941,0,False,False,False,3,0,4,False,False,1,25,"確認……無法理解的行為。
 ……戰鬥方法效率低下。"
 6942,0,False,False,False,3,0,4,False,False,1,25,"推薦……合力攻擊……"
-6943,0,False,False,False,3,0,4,False,False,1,25,"瞭解……轉向實行。"
-6944,0,False,False,False,3,0,4,False,False,1,25,"瞭解……轉向實行。"
+6943,0,False,False,False,3,0,4,False,False,1,25,"了解……轉向實行。"
+6944,0,False,False,False,3,0,4,False,False,1,25,"了解……轉向實行。"
 6945,0,False,False,False,3,0,4,False,False,1,25,"推薦……合力攻擊……"
 6946,0,False,False,False,3,0,4,False,False,1,25,"再現技能名稱發音……
 宇宙記憶！"
@@ -8335,7 +8335,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 7092,0,False,False,False,5,0,1,False,False,4,25,"我們來了！"
 7093,0,False,False,False,5,0,1,False,False,4,25,"大家快過來！"
 7094,0,False,False,False,5,0,1,False,False,4,25,"這是豪雪教我的秘劍……
-好好品嘗吧！"
+好好品嚐吧！"
 7095,0,False,False,False,5,0,1,False,False,4,25,"帕帕力莫，請借給我力量……
 用這一拳……粉碎一切！"
 7096,0,False,False,False,5,0,1,False,False,4,25,"別小看多瑪忍者！"
@@ -8368,7 +8368,8 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 7112,0,False,False,False,5,0,1,False,False,3,25,"咻嗚嗚嗚——"
 7113,0,False,False,False,5,0,1,False,False,3,25,"咕嚕嚕嚕——"
 7114,0,False,False,False,3,0,8,True,False,1,25,"莫古感覺到了不祥的乙太咕波！"
-7115,0,False,False,False,3,0,8,True,False,1,25,"前面有危險，呼叫支援咕波！"
+7115,0,False,False,False,3,0,8,True,False,1,25,"前面有危險咕波！
+呼叫支援咕波！"
 7116,0,False,False,False,3,0,8,True,False,1,25,"這個乙太……
 和黎鐸拉納時一樣咕波？"
 7117,0,False,False,False,3,0,8,True,False,1,25,"和密林簡直不分彼此咕波！"
@@ -8389,8 +8390,8 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 莫古好像聽過咕波！"
 7126,0,False,False,False,3,0,8,True,False,1,25,"希德先生？
 這人和希德先生好像咕波！"
-7127,0,False,False,False,3,0,8,True,False,1,25,"好痛苦的感覺……
-莫古直接心神恍惚了一下咕波！"
+7127,0,False,False,False,3,0,8,True,False,1,25,"有點不對勁……
+莫古同時感受到了痛苦與狂喜，咕波！"
 7128,0,False,False,False,3,0,8,True,False,1,25,"不可以害怕……咕波！
 莫古要保持清醒……咕波！"
 7129,0,False,False,False,2,0,4,True,False,1,25,"呃！"
@@ -8473,12 +8474,12 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 7199,0,False,False,False,2,0,2,False,False,1,25,"不會讓你過去的！"
 7200,0,False,False,False,2,0,2,False,False,1,25,"此路不通了！"
 7201,0,False,False,False,2,0,2,False,False,1,25,"詛咒劍提佐納，我向你發誓！"
-7202,0,False,False,False,2,0,2,False,False,1,25,"戰神哈羅妮，請您見證這場戰鬥！"
+7202,0,False,False,False,2,0,2,False,False,1,25,"戰爭神哈羅妮，請您見證這場戰鬥！"
 7203,0,False,False,False,2,0,2,False,False,1,25,"這裡交給我們吧！"
 7204,0,False,False,False,3,0,8,True,False,1,25,"從魔法陣能感覺到聖石上
 散發的那種乙太咕波！"
 7205,0,False,False,False,2,0,3,False,False,1,25,"啦……啦啦……
-水啊……迴圈起來吧……"
+水啊……循環起來吧……"
 7206,0,False,False,False,2,0,3,False,False,1,25,"啦啦……啦……啦啦……
 清淨之水……"
 7207,0,False,False,False,2,0,3,False,False,1,25,"啦啦……啦啦……
@@ -8493,7 +8494,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 真開心！"
 7213,0,False,False,False,7,0,1,False,False,4,25,"降神糕分裂了！
 請將它們也全都切開！"
-7214,0,False,False,False,2,0,4,False,False,1,25,"這就是我鍛煉的成果！"
+7214,0,False,False,False,2,0,4,False,False,1,25,"這就是我鍛鍊的成果！"
 7215,0,False,False,False,2,0,4,False,False,1,25,"哈哈哈……
 我來幫你回歸寂靜吧！"
 7216,0,False,False,False,3,0,4,False,False,1,25,"0"
@@ -8567,7 +8568,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 7260,0,False,False,False,3,0,5,False,False,1,25,"唔……那個蜂巢！
 大家小心！"
 7261,0,False,False,False,3,0,5,False,False,1,25,"水妖族的幻惑之術
-真是令人驚歎……"
+真是令人驚嘆……"
 7262,0,False,False,False,3,0,5,False,False,1,25,"看，是水妖族！
 它好像在給植物澆水……"
 7263,0,False,False,False,3,0,5,False,False,1,25,"這場面真令人吃驚……"
@@ -8576,7 +8577,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 7265,0,False,False,False,3,0,5,False,False,1,25,"什麼……那是蜂巢？！
 真煩人！"
 7266,0,False,False,False,3,0,5,False,False,1,25,"這景象……
-令人歎為觀止……"
+令人嘆為觀止……"
 7267,0,False,False,False,3,0,5,False,False,1,25,"那就是“貝殼王冠”？
 居然這麼容易就找到了……"
 7268,0,False,False,False,3,0,5,False,False,1,25,"這裡是水妖族的地盤？！
@@ -8631,7 +8632,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 你的一身所學就能贏……"
 7294,0,False,False,False,3,0,5,False,False,1,25,"看來是防盜挖的
 機關啟動了……"
-7295,0,False,False,False,3,0,5,False,False,1,25,"古老的守護石像蘇醒了……"
+7295,0,False,False,False,3,0,5,False,False,1,25,"古老的守護石像甦醒了……"
 7296,0,False,False,False,3,0,5,False,False,1,25,"我感受到了雕像的魔力！
 注意周圍！"
 7297,0,False,False,False,3,0,5,False,False,1,25,"是、是！
@@ -8685,7 +8686,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 7323,0,False,False,False,3,0,5,False,False,1,25,"聲音和震動的來源
 就是這傢伙嗎！"
 7324,0,False,False,False,3,0,5,False,False,1,25,"看來我們找到了
-令人不快的聲波來源……"
+令人不悅的聲波來源……"
 7325,0,False,False,False,3,0,5,False,False,1,25,"看來是野生動物
 被神影洞的機關抓住了。"
 7326,0,False,False,False,3,0,5,False,False,1,25,"這是什麼？！
@@ -8823,7 +8824,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 7398,0,False,False,False,3,0,5,False,False,1,25,"我……我要……
 我要阻止你！"
 7399,0,False,False,False,3,0,5,False,False,1,25,"真是可憐……當你逃跑的時候，
-你的結局就已經註定了。"
+你的結局就已經注定了。"
 7400,0,False,False,False,3,0,5,False,False,1,25,"沃斯里你可要準備好了，
 這小姑娘生起氣來可是很嚇人的！"
 7401,0,False,False,False,3,0,5,False,False,1,25,"好、好厲害……
@@ -8950,7 +8951,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 7469,0,False,False,False,3,0,5,False,False,1,25,"這景象是……"
 7470,0,False,False,False,3,0,5,False,False,1,25,"城市……在燃燒……"
 7471,0,False,False,False,3,0,5,False,False,1,25,"逃跑了……
-看來王冠是沒法輕易到手了。"
+看來王冠是無法輕易到手了。"
 7472,0,False,False,False,3,0,5,False,False,1,25,"沒什麼難度。"
 7473,0,False,False,False,3,0,5,False,False,1,25,"太過分了……
 為什麼會發生這種事……"
@@ -9055,7 +9056,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 在安穆·艾蘭也出現過！"
 7528,0,False,False,False,3,0,5,False,False,1,25,"是中階食罪靈！
 當心！"
-7529,0,False,False,False,3,0,5,False,False,1,25,"看來不打倒它是沒法前進了……"
+7529,0,False,False,False,3,0,5,False,False,1,25,"看來不打倒它是無法前進了……"
 7530,0,False,False,False,3,0,5,False,False,1,25,"這傢伙……
 我在安穆·艾蘭也見過！"
 7531,0,False,False,False,3,0,5,False,False,1,25,"冷靜！阿莉塞！
@@ -9209,7 +9210,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 你去主力部隊那邊吧！"
 7649,0,False,False,False,2,0,4,False,False,1,25,"我、我都說我沒事了！
 你也用不著這麼懷疑我吧？！"
-7650,0,False,False,False,2,0,4,False,False,1,25,"主力部隊還在更北面，
+7650,0,False,False,False,2,0,4,False,False,1,25,"主力部隊還在更北邊，
 那邊更需要你！"
 7651,0,False,False,False,2,0,4,False,False,1,25,"沒問題的。
 這裡我們會守護好的。"
@@ -9298,7 +9299,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 7721,0,False,False,False,2,0,5,False,False,1,25,"可惡！"
 7722,0,False,False,False,2,0,5,False,False,1,25,"呀！"
 7723,0,True,False,False,5,0,1,False,False,4,25,"增強力量，十億火光！"
-7724,0,False,False,False,5,0,1,False,False,4,25,"總算是，擊退了，鰨砂派……
+7724,0,False,False,False,5,0,1,False,False,4,25,"總算是，擊退了，鰨沙派……
 但是，提烏嘶，也付出了，慘痛的代價……"
 7725,0,False,False,False,5,0,1,False,False,4,25,"嗯……怎麼會，已經出現了嗎！
 古代傳說中會召來災厄的野獸古塔尼亞！"
@@ -9319,7 +9320,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 7739,0,False,False,False,2,0,3,False,False,1,25,"這種程度
 我也能做到！"
 7740,0,False,False,False,2,0,3,False,False,1,25,"以萊韋耶勒爾之名！"
-7741,0,False,False,False,2,0,3,False,False,1,25,"砂利亞克神保佑！"
+7741,0,False,False,False,2,0,3,False,False,1,25,"沙利亞克神保佑！"
 7742,0,False,False,False,2,0,3,False,False,1,25,"看來只好用這個了！"
 7743,0,False,False,False,2,0,3,False,False,1,25,"堅持住！"
 7744,0,False,False,False,2,0,3,False,False,1,25,"治療就交給我吧！"
@@ -9827,7 +9828,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 8146,0,False,False,False,2,0,3,False,False,1,25,"應該就在這附近……
 在哪呢？"
 8147,0,False,False,False,2,0,3,False,False,1,25,"你們，難道是……
-鰨砂派！"
+鰨沙派！"
 8148,0,False,False,False,5,0,1,False,False,4,25,"呼咻，呼咻，呼咻……
 總算是，贏了……感謝你，幫忙！"
 8149,0,False,False,False,2,0,3,False,False,1,25,"噢！"
@@ -10094,7 +10095,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 8332,0,False,False,False,2,0,3,False,False,1,25,"哇，來了個大傢伙！
 陸人，你能應付得來吧？！"
 8333,0,False,False,False,2,0,3,False,False,1,25,"那是……
-是鰨砂派！"
+是鰨沙派！"
 8334,0,False,False,False,2,0,3,False,False,1,25,"而且其中，還有出了名的暴徒，
 茲姆嘶！"
 8335,0,False,False,False,2,0,3,False,False,1,25,"提烏嘶、戰鬥失敗了……
@@ -10189,7 +10190,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 海獸殺過來了，指引之人，小心！"
 8391,0,False,False,False,2,0,4,False,False,1,25,"得趕快讓大家平靜下來……"
 8392,0,False,False,False,5,0,1,False,False,4,25,"咔咔咔……辛苦你，引誘它出現！
-古塔尼亞，將服從於，我們鰨砂派！"
+古塔尼亞，將服從於，我們鰨沙派！"
 8393,0,False,False,False,5,0,1,False,False,4,25,"咔咔咔……挺厲害啊！
 但是，遠遠不夠……讓你看看我深藏的力量！"
 8394,0,False,False,False,5,0,1,False,False,4,25,"嗚……難纏的傢伙……
@@ -10353,7 +10354,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 8518,0,False,False,False,2,0,3,False,False,1,25,"噢噢，怎麼會這樣……
 是深海惡茲姆嘶！"
 8519,0,False,False,False,2,0,3,False,False,1,25,"提烏嘶，有不好的預感……"
-8520,0,False,False,False,2,0,3,False,False,1,25,"鰨砂派，
+8520,0,False,False,False,2,0,3,False,False,1,25,"鰨沙派，
 搶先一步了？"
 8521,0,False,False,False,2,0,3,False,False,1,25,"噢噢！"
 8522,0,False,False,False,2,0,3,False,False,1,25,"提烏嘶，不會輸！"
@@ -10400,7 +10401,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 8549,0,False,False,False,2,0,4,False,False,1,25,"沒錯！"
 8550,0,False,False,False,2,0,4,False,False,1,25,"重現菁靈的榮耀！"
 8551,0,False,False,False,5,0,1,False,False,4,25,"傳說中的野獸“古塔尼亞”
-是上古之人派來拯救我們鰨砂派的使者！"
+是上古之人派來拯救我們鰨沙派的使者！"
 8552,0,False,False,False,5,0,1,False,False,4,25,"你這與陸人勾結的骯髒弱者！"
 8553,0,False,False,False,5,0,1,False,False,4,25,"違抗我等的罪行，就在這裡算清吧！
 把你和陸人，一起殺掉！"
@@ -10759,14 +10760,14 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 8803,0,False,False,False,3,0,3,False,False,1,25,"都到這裡了，
 哪可能半途放棄。"
 8804,0,False,False,False,3,0,5,False,False,1,25,"有這麼多蜜蜂，
-我沒法採集花蜜啊！"
+我無法採集花蜜啊！"
 8805,0,False,False,False,3,0,5,False,False,1,25,"因為有蜜蜂，
-所以我沒法採集太多花蜜……"
+所以我無法採集太多花蜜……"
 8806,0,False,False,False,3,0,5,False,False,1,25,"但是謝謝你幫我！"
-8807,0,False,False,False,3,0,5,False,False,1,25,"謝謝你幫我采來這麼多花蜜！"
+8807,0,False,False,False,3,0,5,False,False,1,25,"謝謝你幫我採來這麼多花蜜！"
 8808,0,False,False,False,3,0,5,False,False,1,25,"花蜜已經採集夠了，
 該回去了。"
-8809,0,False,False,False,3,0,5,False,False,1,25,"如果你又采到了蜂蜜，
+8809,0,False,False,False,3,0,5,False,False,1,25,"如果你又採到了蜂蜜，
 要拿來給我啊！"
 8810,0,False,False,False,3,0,3,False,False,1,25,"要是沒有蜜蜂的話……"
 8811,0,False,False,False,3,0,5,False,False,1,25,"如果你採集到花蜜，
@@ -11075,15 +11076,15 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 9016,0,False,False,False,2,0,3,False,False,1,25,"你看見了嗎？"
 9017,0,False,False,False,2,0,3,False,False,1,25,"加油啊！"
 9018,0,False,False,False,2,0,3,False,False,1,25,"我幫你們加油！"
-9019,0,False,False,False,2,0,4,False,False,1,25,"達瑪律！
+9019,0,False,False,False,2,0,4,False,False,1,25,"達馬爾！
 看你的了！"
-9020,0,False,False,False,2,0,4,False,False,1,25,"達瑪律！
+9020,0,False,False,False,2,0,4,False,False,1,25,"達馬爾！
 加油啊！"
 9021,0,False,False,False,2,0,4,False,False,1,25,"接招！"
 9022,0,False,False,False,2,0,4,False,False,1,25,"哈！"
 9023,0,False,False,False,2,0,4,False,False,1,25,"嘿！"
 9024,0,False,False,False,2,0,4,False,False,1,25,"再來！"
-9025,0,False,False,False,3,0,4,False,False,1,25,"達瑪律！
+9025,0,False,False,False,3,0,4,False,False,1,25,"達馬爾！
 快出發啦！"
 9026,0,False,False,False,3,0,4,False,False,1,25,"等等我！"
 9027,0,False,False,False,3,0,4,False,False,1,25,"真是個急匆匆的老闆啊！"
@@ -11106,7 +11107,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 我來對付魔物！"
 9039,0,False,False,False,3,0,4,False,False,1,25,"混蛋！
 束手無策了！"
-9040,0,False,False,False,3,0,4,False,False,1,25,"達瑪律、
+9040,0,False,False,False,3,0,4,False,False,1,25,"達馬爾、
 靠不住啊！"
 9041,0,False,False,False,3,0,4,False,False,1,25,"還不是因為你太心不在焉嗎！
 唉……撤退！"
@@ -11144,7 +11145,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 9060,0,False,False,False,3,0,4,False,False,1,25,"各位！
 加油啊！"
 9061,0,False,False,False,3,0,4,False,False,1,25,"果然數量太多了……"
-9062,0,False,False,False,3,0,4,False,False,1,25,"達瑪律！
+9062,0,False,False,False,3,0,4,False,False,1,25,"達馬爾！
 真丟臉！"
 9063,0,False,False,False,3,0,4,False,False,1,25,"我還要命呢！"
 9064,0,False,False,False,3,0,4,False,False,1,25,"啊、等等我！
@@ -11155,7 +11156,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 大仙人掌、大仙人掌！"
 9067,0,False,False,False,3,0,4,False,False,1,25,"……找不到啊。"
 9068,0,False,False,False,3,0,4,False,False,1,25,"不能想得那麼簡單！
-達瑪律、過來看！"
+達馬爾、過來看！"
 9069,0,False,False,False,3,0,4,False,False,1,25,"這是足跡嗎？
 從形狀和步幅來看……"
 9070,0,False,False,False,3,0,4,False,False,1,25,"是巨人掌的足跡！
@@ -11172,7 +11173,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 9076,0,False,False,False,3,0,4,False,False,1,25,"絕對就是那傢伙！"
 9077,0,False,False,False,3,0,4,False,False,1,25,"好，打倒它，
 拿到寶藏吧！"
-9078,0,False,False,False,3,0,4,False,False,1,25,"達瑪律！
+9078,0,False,False,False,3,0,4,False,False,1,25,"達馬爾！
 打起精神來！"
 9079,0,False,False,False,3,0,4,False,False,1,25,"寶藏就在眼前！
 但太危險了！"
@@ -11204,7 +11205,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 但是還是命要緊！"
 9096,0,False,False,False,3,0,4,False,False,1,25,"太棒了……寶藏！
 項鍊拿回來了！"
-9097,0,False,False,False,3,0,4,False,False,1,25,"達瑪律、旅行者！
+9097,0,False,False,False,3,0,4,False,False,1,25,"達馬爾、旅行者！
 太棒了！"
 9098,0,False,False,False,3,0,4,False,False,1,25,"讓我看看……"
 9099,0,False,False,False,3,0,4,False,False,1,25,"上面的圖案是5枚金幣……
@@ -11241,7 +11242,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 9119,0,False,False,False,3,0,4,False,False,1,25,"這可不能放著不管啊……
 拉敖勞，你後退……"
 9120,0,False,False,False,3,0,4,False,False,1,25,"沒辦法了……
-達瑪律、加油啊！"
+達馬爾、加油啊！"
 9121,0,False,False,False,3,0,4,False,False,1,25,"你算什麼東西？！"
 9122,0,False,False,False,3,0,4,False,False,1,25,"別來礙事！"
 9123,0,False,False,False,2,0,4,False,False,1,25,"啊！"
@@ -11261,7 +11262,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 9134,0,False,False,False,3,0,4,False,False,1,25,"得救了，謝謝……
 我是礦工因基。"
 9135,0,False,False,False,3,0,4,False,False,1,25,"我是拉敖勞、
-這位是我的護衛達瑪律！"
+這位是我的護衛達馬爾！"
 9136,0,False,False,False,3,0,4,False,False,1,25,"我是來尋寶的！"
 9137,0,False,False,False,3,0,4,False,False,1,25,"尋寶？
 來這種地方？！"
@@ -11296,7 +11297,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 9153,0,False,False,False,3,0,4,False,False,1,25,"你們剛才竟敢小看我們！"
 9154,0,False,False,False,3,0,4,False,False,1,25,"哎呀呀……
 區區小混混……"
-9155,0,False,False,False,3,0,4,False,False,1,25,"啊、達瑪律！
+9155,0,False,False,False,3,0,4,False,False,1,25,"啊、達馬爾！
 靠你了！"
 9156,0,False,False,False,3,0,4,False,False,1,25,"哈哈哈哈！活該！"
 9157,0,False,False,False,3,0,4,False,False,1,25,"舒服了！"
@@ -11857,7 +11858,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 9580,0,False,False,False,3,0,3,True,False,1,25,"嗚哦哦哦！"
 9581,0,False,False,False,3,0,3,True,False,1,25,"還、還沒完！"
 9582,0,False,False,False,3,0,3,True,False,1,25,"不能再耗下去了……
-抓緊！"
+快點！"
 9583,0,False,False,False,2,0,3,True,False,1,25,"將你粉身碎骨！"
 9584,0,False,False,False,2,0,3,True,False,1,25,"接招吧！"
 9585,0,False,False,False,2,0,3,True,False,1,25,"別想逃！"
@@ -11966,7 +11967,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 9653,9357,False,False,False,3,0,5,False,False,1,25,"附近的海灘上，
 有著許多散碎的貝殼。"
 9654,9357,False,False,False,3,0,5,False,False,1,25,"雷雨之時，
-會有魚迎著風暴來回遊動。"
+會有魚迎著風暴來回游動。"
 9655,9357,False,False,False,3,0,5,False,False,1,25,"想觸發幻海流的話，
 就試著釣些大型魚吧。"
 9656,9357,False,False,False,3,0,5,False,False,1,25,"這片海域升起朝陽時，
@@ -11989,7 +11990,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 9663,9357,False,False,False,3,0,5,False,False,1,25,"小心這片海域，
 這裡有個體型適中、性情凶猛的傢伙！"
 9664,9357,False,False,False,3,0,5,False,False,1,25,"船員之間有這樣的傳言：
-日落之後，海底的火山會蘇醒過來，
+日落之後，海底的火山會甦醒過來，
 像黑暗中張開一隻鮮紅的眼睛……"
 9665,9357,False,False,False,3,0,5,False,False,1,25,"魷魚是這片海域的常客……
 那傢伙說不定也盯著那些魷魚呢。"
@@ -12081,7 +12082,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 9731,0,False,False,False,2,0,4,False,False,1,25,"我是工匠，
 可不是什麼看孩子的……"
 9732,0,False,False,False,2,0,4,False,False,1,25,"喂、別偷懶！
-采旦、分發、分發！"
+彩旦、分發、分發！"
 9733,0,False,False,False,2,0,4,False,False,1,25,"咿嘰嘰
 幹活、幹活！"
 9734,0,False,False,False,2,0,4,False,False,1,25,"幹、幹什麼？！"
@@ -12209,7 +12210,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 那就開始聯合重建工程吧！"
 9809,9043,False,False,False,4,0,1,False,False,10,25,"請各位完成住房的建設吧！
 請從物資存放處領取物資後開始作業！"
-9810,9043,False,False,False,4,0,1,False,False,10,25,"希望各位運用工匠的手藝建造出氣派的房子！"
+9810,9043,False,False,False,4,0,1,False,False,10,25,"希望各位運用工匠的手藝建造出壯觀的房子！"
 9811,9043,False,False,False,4,0,1,False,False,10,25,"開始聯合重建工程吧！
 終於要建設最後的預定施工地了！"
 9812,9043,False,False,False,4,0,1,False,False,10,25,"為了建設新的住房，
@@ -12285,9 +12286,9 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 請給我彩蛋！"
 9857,0,False,False,False,2,0,4,False,False,1,25,"謝謝！"
 9858,0,False,False,False,2,0,4,False,False,1,25,"太好了！"
-9859,0,False,False,False,2,0,4,False,False,1,25,"采旦、采旦、大采旦！"
+9859,0,False,False,False,2,0,4,False,False,1,25,"彩旦、彩旦、大彩旦！"
 9860,0,False,False,False,2,0,4,False,False,1,25,"禮物！
-采旦、分發！"
+彩旦、分發！"
 9861,0,False,False,False,3,0,3,True,False,1,25,"果然如此……"
 9862,0,False,False,False,3,0,5,False,False,1,25,"準備應對
 深海生物的襲擊！"
@@ -12403,8 +12404,8 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 借給我力量！"
 9929,0,False,False,False,2,0,3,False,False,1,25,"水遁之術……三式……"
 9930,0,False,False,False,2,0,3,False,False,1,25,"哈！"
-9931,0,False,False,False,2,0,3,False,False,1,25,"呵！"
-9932,0,False,False,False,2,0,3,False,False,1,25,"呀！"
+9931,0,False,False,False,2,0,3,False,False,1,25,"粉碎你們！"
+9932,0,False,False,False,2,0,3,False,False,1,25,"感受痛苦吧！"
 9933,0,False,False,False,2,0,4,False,False,1,25,"發現了正在休息的敵方部隊！"
 9934,0,False,False,False,2,0,4,False,False,1,25,"很好，看來情報正確！
 一口氣將他們擊退吧！"
@@ -12445,7 +12446,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 9957,0,False,False,False,2,0,4,False,False,1,25,"好了，該凱旋而歸了！"
 9958,0,False,False,False,2,0,4,False,False,1,25,"哈哈哈！
 第四軍團萬歲！"
-9959,0,False,False,False,2,0,4,False,False,1,25,"伽布拉斯大人萬歲！"
+9959,0,False,False,False,2,0,4,False,False,1,25,"加布藍斯大人萬歲！"
 9960,0,False,False,False,2,0,4,False,False,1,25,"這就是帝國軍的力量……
 撤退！"
 9961,0,False,False,False,2,0,4,False,False,1,25,"果然贏不了啊……"
@@ -12551,7 +12552,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 10031,0,False,False,False,3,0,4,False,False,1,25,"究竟發生什麼事了？"
 10032,0,False,False,False,3,0,4,False,False,1,25,"這也是賞金獵人的
 工作之一！"
-10033,0,False,False,False,3,0,3,False,False,1,25,"呃……沒法靠近……"
+10033,0,False,False,False,3,0,3,False,False,1,25,"呃……無法靠近……"
 10034,0,False,False,False,3,0,4,False,False,1,25,"這、這種傢伙
 沒什麼了不起的！"
 10035,0,False,False,False,3,0,4,False,False,1,25,"這似乎……
@@ -12796,7 +12797,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 10207,0,False,False,False,2,0,4,False,False,1,25,"這裡就交給我們！"
 10208,0,False,False,False,2,0,4,False,False,1,25,"大家也快……撤退吧……"
 10209,0,False,False,False,5,0,1,False,False,4,25,"唔……你的力量如此強大……
-明明可以在伽布拉斯大人手下得到自由……"
+明明可以在加布藍斯大人手下得到自由……"
 10210,0,False,False,False,2,0,4,False,False,1,25,"尤恩布大人……
 快撤退！"
 10211,0,False,False,False,5,0,1,False,False,4,25,"看吧！
@@ -12807,7 +12808,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 10214,0,False,False,False,2,0,4,False,False,1,25,"澤文閣下輸了嗎？"
 10215,0,False,False,False,2,0,4,False,False,1,25,"怎麼會這樣！"
 10216,0,False,False,False,5,0,1,False,False,4,25,"放棄抵抗我就不殺你們！
-一起為伽布拉斯大人而戰吧！"
+一起為加布藍斯大人而戰吧！"
 10217,0,False,False,False,2,0,3,False,False,1,25,"混蛋叛軍！"
 10218,0,False,False,False,2,0,3,False,False,1,25,"可恨的傢伙們！"
 10219,0,False,False,False,2,0,3,False,False,1,25,"快投降吧！"
@@ -12875,9 +12876,9 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 由我來守護！"
 10264,0,False,False,False,3,0,4,False,False,1,25,"我來保護大家！
 不要遠離我！"
-10265,0,False,False,False,2,0,3,False,False,1,25,"鍛煉不足啊！"
+10265,0,False,False,False,2,0,3,False,False,1,25,"鍛鍊不足啊！"
 10266,0,False,False,False,2,0,3,False,False,1,25,"只有這種水準嗎？！"
-10267,0,False,False,False,2,0,3,False,False,1,25,"為我沸騰的魔力感到驚歎吧！"
+10267,0,False,False,False,2,0,3,False,False,1,25,"為我沸騰的魔力感到驚嘆吧！"
 10268,0,False,False,False,3,0,4,False,False,1,25,"看吧！
 這就是我的魔法！"
 10269,0,False,False,False,2,0,3,False,False,1,25,"冷靜一些！"
@@ -13006,7 +13007,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 10356,9043,False,False,False,4,0,1,False,False,10,25,"這回的聯合重建工程要完成
 機工坊分館和住所的建造！"
 10357,9043,False,False,False,4,0,1,False,False,10,25,"請從物資存放處領取物資後開始作業！"
-10358,9043,False,False,False,4,0,1,False,False,10,25,"建造出漂亮氣派、
+10358,9043,False,False,False,4,0,1,False,False,10,25,"建造出漂亮壯觀、
 能讓各位工匠引以為傲的建築吧！"
 10359,9043,False,False,False,4,0,1,False,False,10,25,"聯合重建工程開始了！"
 10360,9043,False,False,False,4,0,1,False,False,10,25,"為了建設新的住房，
@@ -13017,7 +13018,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 10363,9043,False,False,False,4,0,1,False,False,10,25,"為了建設建造中的住房，
 請從物資存放處領取物資後開始作業！"
 10364,9043,False,False,False,4,0,1,False,False,10,25,"希望各位工匠能大展身手，
-建造出漂亮氣派的住房！"
+建造出漂亮壯觀的住房！"
 10365,9043,False,False,False,4,0,1,False,False,10,25,"該開始進行聯合重建工程了！"
 10366,9043,False,False,False,4,0,1,False,False,10,25,"為了建設新的住房，
 請從物資存放處領取物資後開始作業！"
@@ -13071,7 +13072,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 10395,0,False,False,False,2,0,4,False,False,1,25,"唔！"
 10396,0,False,False,False,3,0,4,False,False,1,25,"解放者閣下……
 請你務必幫幫忙！"
-10397,0,False,False,False,5,0,1,False,False,4,25,"現在正是利用從達爾馬斯卡帶來的
+10397,0,False,False,False,5,0,1,False,False,4,25,"現在正是利用從達瑪斯卡帶來的
 那傢伙取得巨大戰果的好時機！"
 10398,0,False,False,False,5,0,1,False,False,4,25,"咕哎，咕哎！咕哎！"
 10399,0,False,False,False,5,0,1,False,False,4,25,"看來會是一場硬仗啊！
@@ -13257,14 +13258,14 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 為了自由，你們就死在這裡吧！"
 10522,0,False,False,False,2,0,3,False,False,1,25,"開始我們的復仇之戰吧！"
 10523,0,False,False,False,2,0,3,False,False,1,25,"誓死追隨尤恩布大人！"
-10524,0,False,False,False,5,0,1,False,False,4,25,"為什麼不去理解伽布拉斯大人的理想！
+10524,0,False,False,False,5,0,1,False,False,4,25,"為什麼不去理解加布藍斯大人的理想！
 你們就這麼恨我們嗎！"
 10525,0,False,False,False,5,0,1,False,False,4,25,"嗯……
 我們只想奪回祖國哦？"
 10526,0,False,False,False,5,0,1,False,False,4,25,"你不是加雷馬族人吧？
-是被徵用的行省市民嗎？"
+是被徵用的屬州市民嗎？"
 10527,0,False,False,False,5,0,1,False,False,4,25,"那又怎樣！
-在伽布拉斯大人的理念中沒有種族和性別之分！"
+在加布藍斯大人的理念中沒有種族和性別之分！"
 10528,0,False,False,False,5,0,1,False,False,4,25,"但你卻在無情地踐踏著
 想要獲得獨立的博茲雅人！"
 10529,0,False,False,False,5,0,1,False,False,4,25,"那是因為博茲雅不應該只屬於博茲雅人，
@@ -13317,7 +13318,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 10554,0,False,False,False,5,0,1,False,False,4,25,"援軍嗎？！
 但是，我的利刃足以斬斷鐵皮人偶！"
 10555,0,False,False,False,5,0,1,False,False,4,25,"哎呀呀，戰線居然已經被壓到這裡了……
-真是可悲可歎啊。"
+真是可悲可嘆啊。"
 10556,0,False,False,False,5,0,1,False,False,4,25,"不過，我是不會輕易放你們過去的哦。"
 10557,0,False,False,False,5,0,1,False,False,4,25,"那種魔力……那個火焰！
 不會錯的，那傢伙是鐵膽獄火 ！"
@@ -13440,7 +13441,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 這傢伙是怎麼回事？！"
 10633,0,False,False,False,2,0,3,False,False,1,25,"他帶著什麼魔獸啊？！
 我從沒見過！"
-10634,0,False,False,False,2,0,3,False,False,1,25,"快向白砂恩大人報告！"
+10634,0,False,False,False,2,0,3,False,False,1,25,"快向白沙恩大人報告！"
 10635,0,False,False,False,4,0,1,False,False,3,25,"氣勢高漲！嗯！"
 10636,0,False,False,False,4,0,1,False,False,3,25,"火力全開！嗯！"
 10637,0,False,False,False,5,0,1,False,False,4,25,"你就是獸王萊昂的忠實奴僕嗎……"
@@ -13457,7 +13458,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 這個男人的執念真是可怕……"
 10644,0,False,False,False,5,0,1,False,False,4,25,"這、這是什麼魔獸啊……
 我們根本無計可施！"
-10645,0,False,False,False,5,0,1,False,False,4,25,"白砂恩大人！
+10645,0,False,False,False,5,0,1,False,False,4,25,"白沙恩大人！
 還是先撤退吧！"
 10646,0,False,False,False,5,0,1,False,False,4,25,"萊昂大人！
 這場勝利是屬於您的！"
@@ -13896,7 +13897,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 10936,9043,False,False,False,4,0,1,False,False,10,25,"這回的聯合重建工程是要在這裡修繕詩伯門！"
 10937,9043,False,False,False,4,0,1,False,False,10,25,"請從物資存放處領取物資後開始作業！"
 10938,9043,False,False,False,4,0,1,False,False,10,25,"為了符合上層的氣質，
-修繕出一座氣派的大門吧！"
+修繕出一座壯觀的大門吧！"
 10939,9043,False,False,False,4,0,1,False,False,10,25,"各位，開始新的聯合重建工程了！
 這次一口氣完成大門吧！"
 10940,9043,False,False,False,4,0,1,False,False,10,25,"請從物資存放處領取物資後開始作業！"
@@ -13981,7 +13982,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 10994,0,False,False,False,2,0,4,False,False,1,25,"混沌啊，出現吧……"
 10995,0,False,False,False,2,0,4,False,False,1,25,"聚集起來吧……
 亡者們……"
-10996,0,False,False,False,2,0,4,False,False,1,25,"瞭解我們的仇恨吧！"
+10996,0,False,False,False,2,0,4,False,False,1,25,"了解我們的仇恨吧！"
 10997,0,False,False,False,2,0,4,False,False,1,25,"混沌啊，出現吧……"
 10998,0,False,False,False,2,0,4,False,False,1,25,"站起來……
 亡者們……"
@@ -14015,7 +14016,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 11020,0,False,False,False,2,0,4,False,False,1,25,"好期待啊……"
 11021,0,False,False,False,4,0,1,False,False,4,25,"接下來要表演的是猛士與猛虎之間的較量……
 請欣賞荒神樂——“咿咻打虎”！"
-11022,0,False,False,False,4,0,1,False,False,4,25,"潛藏于屏風之中的邪惡白虎……
+11022,0,False,False,False,4,0,1,False,False,4,25,"潛藏於屏風之中的邪惡白虎……
 就讓我和弟子用秘術將你逼出屏風！"
 11023,0,False,False,False,2,0,2,False,False,1,25,"哈！"
 11024,0,False,False,False,2,0,2,False,False,1,25,"嘿！"
@@ -14151,12 +14152,12 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 11115,0,False,False,False,3,0,5,False,False,1,25,"這就是蘊含魔力的火焰嗎？
 想必一定能點燃火爐。"
 11116,0,False,False,False,3,0,5,False,False,1,25,"回瑪托雅老師那裡吧。"
-11117,0,False,False,False,3,0,5,False,False,1,25,"沒想到最後還要制服它才行，有趣！"
+11117,0,False,False,False,3,0,5,False,False,1,25,"沒想到最後還要制伏它才行，有趣！"
 11118,0,False,False,False,3,0,5,False,False,1,25,"和製作者一樣，
 是個性情奔放的使魔啊……"
 11119,0,False,False,False,3,0,5,False,False,1,25,"那只豬，有穿衣服的必要嗎？"
 11120,0,False,False,False,3,0,5,False,False,1,25,"那只豬，有穿衣服的必要嗎？"
-11121,0,False,False,False,3,0,5,False,False,1,25,"看來沒法平穩收場了。"
+11121,0,False,False,False,3,0,5,False,False,1,25,"看來無法平穩收場了。"
 11122,0,False,False,False,2,0,3,False,False,1,25,"阿莉塞，沒事吧？！"
 11123,0,False,False,False,2,0,4,False,False,1,25,"不要放鬆警惕……"
 11124,0,False,False,False,2,0,5,False,False,1,25,"還不能放鬆。"
@@ -14302,7 +14303,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 11247,0,False,False,False,2,0,4,False,False,1,25,"那就是傳聞中的
 亞拉戈的惡魔嗎？！"
 11248,0,False,False,False,2,0,4,False,False,1,25,"阻止他們！"
-11249,0,False,False,False,2,0,4,False,False,1,25,"為了伽布拉斯大人！"
+11249,0,False,False,False,2,0,4,False,False,1,25,"為了加布藍斯大人！"
 11250,0,False,False,False,2,0,4,False,False,1,25,"休想得逞！"
 11251,0,False,False,False,2,0,4,False,False,1,25,"迎擊！"
 11252,0,False,False,False,2,0,4,False,False,1,25,"使魔啊，出現吧！"
@@ -14430,10 +14431,10 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 11344,0,False,False,False,2,0,4,False,False,1,25,"精神咒縛做得很完美……
 不錯、不錯！"
 11345,0,False,False,False,2,0,4,False,False,1,25,"同伴們應該先一步來到了這裡才對……"
-11346,0,False,False,False,2,0,4,False,False,1,25,"嗚嗚嗚……達爾馬斯卡……
+11346,0,False,False,False,2,0,4,False,False,1,25,"嗚嗚嗚……達瑪斯卡……
 呼呼……"
 11347,0,False,False,False,5,0,1,False,False,6,25,"難道說那就是芙蘭閣下的報告中所提到，
-在達爾馬斯卡用聖石引發變異體的傢伙嗎？"
+在達瑪斯卡用聖石引發變異體的傢伙嗎？"
 11348,0,False,False,False,2,0,4,False,False,1,25,"見識了吧！
 這就是我的陰陽術！"
 11349,0,False,False,False,2,0,4,False,False,1,25,"不好！
@@ -14574,7 +14575,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 11447,0,False,False,False,2,0,4,False,False,1,25,"嘶——！"
 11448,0,False,False,False,5,0,1,False,False,4,25,"退下，小別爾達！別勉強！"
 11449,0,False,False,False,5,0,1,False,False,4,25,"撤退吧，小奧布達！我不許你死！"
-11450,0,False,False,False,5,0,1,False,False,4,25,"什麼……怎麼會……連它們也沒法獲勝嗎！"
+11450,0,False,False,False,5,0,1,False,False,4,25,"什麼……怎麼會……連它們也無法獲勝嗎！"
 11451,0,False,False,False,5,0,1,False,False,4,25,"下次一定要打敗你！
 給我記著！"
 11452,0,False,False,False,5,0,1,False,False,4,25,"哈哈哈……叛軍不過如此嘛！
@@ -14584,7 +14585,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 11455,0,False,False,False,2,0,4,False,False,1,25,"呼……咕咕咕……
 解脫……呼！"
 11456,0,False,False,False,5,0,1,False,False,6,25,"你是想說“變成那樣就沒救了，不如快點讓他們解脫”對吧。
-虎鬚，我贊同你的觀點，來做個瞭解吧。"
+虎鬚，我贊同你的觀點，來做個了解吧。"
 11457,0,False,False,False,5,0,1,False,False,5,25,"嘻嘻……叛軍啊……
 就來為你們展示一下我製作的傑作吧！"
 11458,0,False,False,False,5,0,1,False,False,4,25,"來吧，我的人偶啊，跳出華麗的舞步吧！"
@@ -14678,7 +14679,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 11525,0,False,False,False,5,0,1,False,False,5,25,"嘻嘻……
 在那裡正好有不錯的素材呀……"
 11526,0,False,False,False,5,0,1,False,False,5,25,"我是魔導僧兵大隊的上級百夫長吉爾布里斯貝爾。
-知道為什麼我會被人稱為人偶師嗎？"
+知道為什麼我會被人稱為人偶師傅嗎？"
 11527,0,False,False,False,5,0,1,False,False,4,25,"哎喲，抱歉抱歉。
 你們這些人偶當然是不會明白的，
 畢竟你們只是素材而已……"
@@ -14689,7 +14690,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 11531,0,False,False,False,2,0,4,False,False,1,25,"不要做無謂的抵抗，放下武器！
 我們要拘捕你！"
 11532,0,False,False,False,2,0,4,False,False,1,25,"到底在說什麼？"
-11533,0,False,False,False,5,0,1,False,False,5,25,"我把從達爾馬斯卡發掘到的聖石碎片
+11533,0,False,False,False,5,0,1,False,False,5,25,"我把從達瑪斯卡發掘到的聖石碎片
 稍微加了一些創新，很有意思對吧？"
 11534,0,False,False,False,2,0,5,False,False,1,25,"確認目標達成！
 各位，幹得好！"
@@ -14732,7 +14733,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 11563,0,False,False,False,5,0,1,False,False,4,25,"不過只要用上那個，就憑你們幾個……
 嘻嘻……嘻嘻嘻……"
 11564,0,False,False,False,5,0,1,False,False,5,25,"總算是幹掉了異形……
-不過那個人偶師吉爾布里斯貝爾，
+不過那個人偶師傅吉爾布里斯貝爾，
 真是個危險的男人。"
 11565,0,False,False,False,2,0,4,False,False,1,25,"咕咕……呼……
 幹掉他……呼！"
@@ -14743,7 +14744,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 11568,0,False,False,False,5,0,1,False,False,4,25,"只要把這個技術用那個再現一下的話……
 嘻嘻嘻……嘻嘻嘻嘻！"
 11569,0,False,False,False,5,0,1,False,False,4,25,"嗚……輸得太慘了……
-人偶師吉爾布里斯貝爾，
+人偶師傅吉爾布里斯貝爾，
 居然是如此危險的男人。"
 11570,0,False,False,False,2,0,4,False,False,1,25,"咕咕……呼……
 殺……呼！"
@@ -14837,7 +14838,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 11627,0,False,False,False,5,0,1,False,False,4,25,"下次、下次一定要幹掉你們！"
 11628,0,False,False,False,5,0,1,False,False,4,25,"看來她有著不同尋常的執念啊……"
 11629,0,False,False,False,5,0,1,False,False,4,25,"呼……咕咕咕……！"
-11630,0,False,False,False,5,0,1,False,False,4,25,"你說“魔獸現在那樣，暫時沒法上前線了”？
+11630,0,False,False,False,5,0,1,False,False,4,25,"你說“魔獸現在那樣，暫時無法上前線了”？
 嗯，我也希望是這樣。"
 11631,0,False,False,False,5,0,1,False,False,4,25,"大好年紀的女孩居然為了名譽而命喪戰場，
 真不願見到這樣的情景啊。"
@@ -14942,12 +14943,12 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 11713,0,False,False,False,2,0,4,False,False,1,25,"哈、哈……"
 11714,0,False,False,False,2,0,4,False,False,1,25,"丟臉了……"
 11715,0,False,False,False,2,0,4,False,False,1,25,"明明是一場絕對不能輸的戰鬥……"
-11716,0,False,False,False,2,0,4,False,False,1,25,"這種程度的傷居然就沒法動彈了……"
+11716,0,False,False,False,2,0,4,False,False,1,25,"這種程度的傷居然就無法動彈了……"
 11717,0,False,False,False,2,0,4,False,False,1,25,"嗚……"
 11718,0,False,False,False,2,0,4,False,False,1,25,"哈……！"
 11719,0,False,False,False,2,0,4,False,False,1,25,"難道說我們反抗的意志還不夠強大嗎……"
 11720,0,False,False,False,2,0,4,False,False,1,25,"都怪我不夠成熟……"
-11721,0,False,False,False,2,0,4,False,False,1,25,"憑我難道沒法拯救人們嗎……"
+11721,0,False,False,False,2,0,4,False,False,1,25,"憑我難道無法拯救人們嗎……"
 11722,0,False,False,False,2,0,4,False,False,1,25,"一角獸……
 我……"
 11723,0,False,False,False,2,0,4,False,False,1,25,"加油啊！"
@@ -15020,7 +15021,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 11768,0,False,False,False,2,0,4,False,False,1,25,"嘻嘻嘻……
 聖石碎片太棒了！"
 11769,0,False,False,False,2,0,4,False,False,1,25,"嗚……先撤退重振旗鼓！"
-11770,0,False,False,False,2,0,4,False,False,1,25,"丟臉現眼了……"
+11770,0,False,False,False,2,0,4,False,False,1,25,"丟人現眼了……"
 11771,0,False,False,False,2,0,4,False,False,1,25,"咕咕……
 忍耐……呼！"
 11772,0,False,False,False,2,0,4,False,False,1,25,"你想說“現在正是忍耐之時”對吧……"
@@ -15072,7 +15073,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 11799,0,False,False,False,2,0,4,False,False,1,25,"咕哎！
 咕哎！"
 11800,0,False,False,False,2,0,4,False,False,1,25,"咻！"
-11801,0,False,False,False,2,0,4,False,False,1,25,"返回旗艦達爾裡阿達號！"
+11801,0,False,False,False,2,0,4,False,False,1,25,"返回旗艦達爾里阿達號！"
 11802,0,False,False,False,2,0,4,False,False,1,25,"嗯……
 差不多該返回了……"
 11803,0,False,False,False,2,0,4,False,False,1,25,"回去準備等待下一個任務！"
@@ -15162,7 +15163,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 即便你是對手，我也不能在此退讓！"
 11853,0,False,False,False,5,0,1,False,False,4,25,"就用你傳授的武技……
 逮住你，帶你回到甘戈斯！"
-11854,0,False,False,False,5,0,1,False,False,4,25,"哦哦哦……敢於反抗女王陛下之人……
+11854,0,False,False,False,5,0,1,False,False,4,25,"哦哦哦……勇於反抗女王陛下之人……
 居然使用與我相同的赤魔法……"
 11855,0,False,False,False,5,0,1,False,False,4,25,"不過……你無法模仿這個奧義！
 紅色的生命燃燒吧，深紅災變！"
@@ -15241,7 +15242,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 11896,10079,False,False,False,4,0,1,False,False,10,25,"舉辦蒼天街復興慶典的目的，
 是想為來到皇都的各位冒險者和工匠介紹一下蒼天街！"
 11897,10079,False,False,False,4,0,1,False,False,10,25,"希望在這短暫的時間裡大家能夠忘卻煩惱，盡情享受！"
-11898,0,False,False,False,2,0,4,False,False,1,25,"白砂恩大人……
+11898,0,False,False,False,2,0,4,False,False,1,25,"白沙恩大人……
 請看那邊！"
 11899,0,False,False,False,2,0,4,False,False,1,25,"是誰一個人在戰場上？"
 11900,0,False,False,False,5,0,1,False,False,4,25,"看你像博茲雅人……
@@ -15261,13 +15262,13 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 啟用副動力，變更攻擊模式……"
 11908,0,False,False,False,2,0,4,False,False,1,25,"達波格……！
 那個機械非常危險！"
-11909,0,False,False,False,2,0,4,False,False,1,25,"白砂恩大人請小心！"
+11909,0,False,False,False,2,0,4,False,False,1,25,"白沙恩大人請小心！"
 11910,0,False,False,False,5,0,1,False,False,4,25,"這裡是強化兵達波格……
 機體損傷率突破極限……開始返航……"
 11911,0,False,False,False,5,0,1,False,False,4,25,"達波格……等等！"
 11912,0,False,False,False,5,0,1,False,False,4,25,"看來有一種與精煉不同的可以控制人心的方法……
 這實在是太過分了！"
-11913,0,False,False,False,2,0,4,False,False,1,25,"白砂恩大人……"
+11913,0,False,False,False,2,0,4,False,False,1,25,"白沙恩大人……"
 11914,0,False,False,False,5,0,1,False,False,4,25,"我們不能在這裡停住腳步。
 唯有前進或許才能找出拯救他的方法……"
 11915,0,False,False,False,5,0,1,False,False,4,25,"這裡是強化兵達波格……
@@ -15295,7 +15296,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 大家，雖然很不甘心，不過現在還是撤退吧！"
 11929,0,False,False,False,2,0,4,False,False,1,25,"好、好的！"
 11930,0,False,False,False,5,0,1,False,False,4,25,"這麼多的數量……只憑我們的話……"
-11931,0,False,False,False,5,0,1,False,False,4,25,"白砂恩大人！
+11931,0,False,False,False,5,0,1,False,False,4,25,"白沙恩大人！
 我們來幫忙了！"
 11932,0,False,False,False,2,0,4,False,False,1,25,"大、大家！
 你們來了啊！"
@@ -15391,7 +15392,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 11986,0,False,False,False,2,0,4,False,False,1,25,"好不甘心！"
 11987,0,False,False,False,2,0,4,False,False,1,25,"趁現在快撤退！"
 11988,0,False,False,False,5,0,1,False,False,4,25,"找到你了，卜部山祇！
-我從瑪律夏克閣下那裡打聽到了情報，終於追到你了！"
+我從馬爾夏克閣下那裡打聽到了情報，終於追到你了！"
 11989,0,False,False,False,5,0,1,False,False,4,25,"偷走了多瑪至寶的你為何出現在博茲雅！
 又為何在幫助帝國軍？！"
 11990,0,False,False,False,5,0,1,False,False,4,25,"居然把我當成竊賊……
@@ -15484,7 +15485,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 12044,0,False,False,False,3,0,5,False,False,1,25,"幫大忙了，謝謝！"
 12045,0,False,False,False,3,0,5,False,False,1,25,"地靈族的挖掘技術
 果然不一般！"
-12046,0,False,False,False,3,0,5,False,False,1,25,"令人歎為觀止。"
+12046,0,False,False,False,3,0,5,False,False,1,25,"令人嘆為觀止。"
 12047,0,False,False,False,3,0,5,False,False,1,25,"幫大忙了，謝謝！"
 12048,0,False,False,False,3,0,5,False,False,1,25,"地靈族的挖掘技術
 果然不一般！"
@@ -15558,7 +15559,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 12090,0,False,False,False,3,0,5,False,False,1,25,"我覺得傳送魔法會更安全一些……
 不過距離確實是個問題……"
 12091,0,False,False,False,3,0,5,False,False,1,25,"別說那些有的沒的了！
-抓緊了！"
+快點了！"
 12092,0,False,False,False,3,0,5,False,False,1,25,"大家都平安落地了吧？"
 12093,0,False,False,False,3,0,5,False,False,1,25,"這股魔力……
 是真月巴哈姆特！"
@@ -15649,7 +15650,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 12152,0,False,False,False,5,0,1,False,False,4,25,"嗚……嗚嗚嗚……頭要……
 我要回到家……家人身邊……"
 12153,0,False,False,False,5,0,1,False,False,4,25,"那、那是同志達波格！
-跟白砂恩大人報告中提到的一樣！"
+跟白沙恩大人報告中提到的一樣！"
 12154,0,False,False,False,5,0,1,False,False,4,25,"嗚嗚……嗚啊……
 是誰……不要靠近我……"
 12155,0,False,False,False,5,0,1,False,False,4,25,"同志達波格，請冷靜下來……
@@ -15832,7 +15833,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 12290,0,False,False,False,3,0,4,False,False,1,25,"這樣下去不管是敵是友，
 大家都會死的……"
 12291,0,False,False,False,3,0,4,False,False,1,25,"結束這場戰爭吧！"
-12292,0,False,False,False,3,0,4,False,False,1,25,"要想活下來，
+12292,0,False,False,False,3,0,4,False,False,1,25,"若想活下來，
 就只有結束這場戰爭！"
 12293,0,False,False,False,2,0,4,False,False,1,25,"隱蔽、隱蔽！快躲起來！"
 12294,0,False,False,False,3,0,4,False,False,1,25,"只要把他們都殺了，
@@ -16143,7 +16144,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 12532,0,False,False,False,3,0,5,False,False,1,25,"和我看見的畫上一樣……
 果然是梅加斯三姐妹嗎！"
 12533,0,False,False,False,3,0,5,False,False,1,25,"果然是以薩維奈的神為原型！"
-12534,0,False,False,False,3,0,5,False,False,1,25,"要想往前走，
+12534,0,False,False,False,3,0,5,False,False,1,25,"若想往前走，
 就只有將其打敗了！"
 12535,0,False,False,False,3,0,5,False,False,1,25,"哦？跟我一樣是用槍的嗎……"
 12536,0,False,False,False,3,0,5,False,False,1,25,"是那個大象腦袋漁師
@@ -16423,7 +16424,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 12710,0,False,False,False,3,0,5,False,False,1,25,"皇帝的遺恨
 將人們精練了……"
 12711,0,False,False,False,3,0,5,False,False,1,25,"果然，
-每一座塔里的都是遺骸……"
+每一座塔裡的都是遺骸……"
 12712,0,False,False,False,3,0,5,False,False,1,25,"竟然就這麼肆意地
 召喚蠻神……"
 12713,0,False,False,False,3,0,5,False,False,1,25,"必須要毀掉它，
@@ -16458,7 +16459,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 12728,0,False,False,False,3,0,5,False,False,1,25,"就是這樣……
 這樣就好……"
 12729,0,False,False,False,3,0,5,False,False,1,25,"很好！
-我們向北面走！"
+我們向北邊走！"
 12730,0,False,False,False,3,0,5,False,False,1,25,"沒來得及嗎……"
 12731,0,False,False,False,3,0,5,False,False,1,25,"要怎麼做……
 才能讓災難停止……"
@@ -16470,7 +16471,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 應該有一個村落！"
 12735,0,False,False,False,3,0,5,False,False,1,25,"安息吧……"
 12736,0,False,False,False,3,0,5,False,False,1,25,"抱歉，
-沒法安葬你……"
+無法安葬你……"
 12737,0,False,False,False,3,0,5,False,False,1,25,"我知道了……
 繼續前進……"
 12738,0,False,False,False,3,0,5,False,False,1,25,"好！
@@ -16883,7 +16884,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 你的大恩大德我會一直記著！"
 12983,0,False,False,False,3,0,4,False,False,1,25,"我回去了！
 我的同伴們還等著我呢！"
-12984,0,False,False,False,2,0,4,False,False,1,25,"手頭有青磷引擎組件的話
+12984,0,False,False,False,2,0,4,False,False,1,25,"手上有青磷引擎組件的話
 請交給我吧！"
 12985,0,False,False,False,3,0,4,False,False,1,25,"好耶！趕快回家！
 滑溜溜黏液澡時間！"
@@ -17080,12 +17081,12 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 13094,0,False,False,False,3,0,4,False,False,1,25,"噫……好可怕！
 這讓我怎麼送貨！"
 13095,0,False,False,False,3,0,4,False,False,1,25,"岸邊的海象又變多了……"
-13096,0,False,False,False,3,0,4,False,False,1,25,"沒法出海捕魚了……
+13096,0,False,False,False,3,0,4,False,False,1,25,"無法出海捕魚了……
 怎麼辦……"
 13097,0,False,False,False,3,0,4,False,False,1,25,"是你幫忙解決了它們嗎？
 謝謝你！"
 13098,0,False,False,False,3,0,4,False,False,1,25,"今天這樣
-應該是沒法出海了……"
+應該是無法出海了……"
 13099,0,False,False,False,3,0,4,False,False,1,25,"回去吧……
 今天又沒東西能拿去市場賣了……"
 13100,0,False,False,False,3,0,4,False,False,1,25,"太好了！
@@ -17257,11 +17258,11 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 13192,0,False,False,False,2,0,4,False,False,1,25,"小使魔！
 來！到我這裡來！"
 13193,0,False,False,False,5,0,1,False,False,5,25,"那麼，接下來就由我來向你展示我的創造生物新作！
-請你一定要盡全力和它打一場！"
+請你一定要盡全力和牠打一場！"
 13194,0,False,False,False,5,0,1,False,False,5,25,"這是我觀察過許多生物戰鬥的姿態之後，
 得出的屬於我的答案……請看吧！"
 13195,0,False,False,False,5,0,1,False,False,5,25,"咦，這……我的理念？是這樣的嗎？
-應該不是這個樣子的吧……總、總之請你打倒它們！"
+應該不是這個樣子的吧……總、總之請你打倒牠們！"
 13196,0,False,False,False,5,0,1,False,False,5,25,"我、我可能有點興奮過頭了，理念裡才混進了雜念。
 再給我一次機會吧！"
 13197,0,False,False,False,5,0,1,False,False,5,25,"嗚……我想出來的理念應該是完全不一樣的東西才對。
@@ -17328,7 +17329,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 13232,0,False,False,False,3,0,4,False,False,1,25,"我得趕快回去
 提醒村子裡的人！"
 13233,0,False,False,False,5,0,1,False,False,4,25,"真的太謝謝你了！謝謝你把魔猿都趕走了！
-現在我可以安心采草藥了！"
+現在我可以安心採草藥了！"
 13234,0,False,False,False,5,0,1,False,False,4,25,"看、看起來把它們都趕走好像有點難呢。
 我還是去別處找找看有沒有草藥吧……"
 13235,0,False,False,False,2,0,3,False,False,1,25,"它又要用那一招了！"
@@ -17338,7 +17339,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 13238,0,False,False,False,5,0,1,False,False,5,25,"吸氣，呼氣……要冷靜，要冷靜地想像……
 威猛的尖角、雕塑般有力的肉體、充滿魔力的眼睛！"
 13239,0,False,False,False,5,0,1,False,False,5,25,"看吧，這就是我真正的最新作品原型克琉普斯！
-和它好好的打一場，讓我看看它到底有多強吧！"
+和牠好好的打一場，讓我看看牠到底有多強吧！"
 13240,0,False,False,False,5,0,1,False,False,5,25,"哎呀哎呀，我的新作竟然輸了嗎……
 沒想到啊，你可真是個厲害的使魔呀！"
 13241,0,False,False,False,5,0,1,False,False,5,25,"不過，多虧了你，我找到哪些地方需要調整了！
@@ -17378,27 +17379,27 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 13261,0,False,False,False,5,0,1,False,False,4,25,"多虧了你幫忙，機密文件大部分都收回來了。
 這次真的謝謝你了！"
 13262,0,False,False,False,5,0,1,False,False,4,25,"啊……我死定了……
-這些最高機密相關檔一旦洩露出去……
+這些最高機密相關文件一旦洩露出去……
 我到底要賠多少違約金啊？！"
-13263,0,False,False,False,3,0,4,False,False,1,25,"那我就重新回去
+13263,0,False,False,False,3,0,4,False,False,1,25,"那我再回去
 進行我的觀察實驗了。"
 13264,0,False,False,False,2,0,4,False,False,1,25,"我要結束這場戰爭！"
 13265,0,False,False,False,2,0,4,False,False,1,25,"不要小看我！"
 13266,0,False,False,False,2,0,4,False,False,1,25,"緊急廣播！
 增援！立刻增援！"
-13267,0,False,False,False,5,11,1,False,False,5,25,"本機，歐米克隆N-6205報告如下。
+13267,0,False,False,False,5,11,1,False,False,5,25,"本機，奧密克戎N-6205報告如下。
 情況通報：定義當前作戰目標，通信設備的嘗試性擴建。"
 13268,0,False,False,False,5,11,1,False,False,5,25,"作戰目的：侵略兵器希已脫離指揮，
 恢復通信，回收其記憶體檔。"
 13269,0,False,False,False,5,11,1,False,False,5,25,"定義請求：自失控機體或機體殘骸回收所需“稀有材料”，
 提供上述材料至本機，輔助通信設備擴建。"
-13270,0,False,False,False,5,11,1,False,False,5,25,"本機，歐米克隆N-6205報告如下。
+13270,0,False,False,False,5,11,1,False,False,5,25,"本機，奧密克戎N-6205報告如下。
 情況通報：現存稀有材料已滿足通訊設備擴建需求。"
 13271,0,False,False,False,5,11,1,False,False,5,25,"定義請求：等待通信設備擴建完畢，執行與侵略兵器希的嘗試性通信。
 如果執行，則根據判斷再次發佈增援請求，完畢！"
 13272,0,False,False,False,2,0,4,False,False,1,25,"執行下一步。
 本作戰進入第二階段……"
-13273,0,False,False,False,5,11,1,False,False,5,25,"本機，歐米克隆N-6205報告如下。
+13273,0,False,False,False,5,11,1,False,False,5,25,"本機，奧密克戎N-6205報告如下。
 收集所需稀有材料……任務放棄，脫離戰場，完畢！"
 13274,0,False,False,False,2,0,4,False,False,1,25,"執行回滾。
 本作戰返回至準備階段……"
@@ -17414,13 +17415,13 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 13280,0,False,False,False,0,0,0,False,False,0,0,""
 13281,0,False,False,False,2,0,4,False,False,1,25,"緊急廣播！
 增援！立刻增援！"
-13282,0,False,False,False,5,11,1,False,False,5,25,"本機，歐米克隆N-6205報告如下。
+13282,0,False,False,False,5,11,1,False,False,5,25,"本機，奧密克戎N-6205報告如下。
 情況通報：即將執行與侵略兵器希的嘗試性通信。"
 13283,0,False,False,False,5,11,1,False,False,5,25,"作戰目的：侵略兵器希已脫離指揮，
 恢復通信，回收其記憶體檔。"
 13284,0,False,False,False,5,11,1,False,False,5,25,"定義請求：如果失控機體監聽通信後接近本機，
 則執行迎擊護衛程式，護衛本機至本機完成通信任務。完畢！"
-13285,0,False,False,False,5,11,1,False,False,5,25,"本機，歐米克隆N-6205報告如下。
+13285,0,False,False,False,5,11,1,False,False,5,25,"本機，奧密克戎N-6205報告如下。
 情況通報：與侵略兵器希的嘗試性通信已獲得成功……"
 13286,0,False,False,False,5,11,1,False,False,5,25,"本機當前位置已傳達，等待，直到希到達指定地點。
 如果到達，則根據判斷再次發佈增援請求，完畢！"
@@ -17446,7 +17447,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 本機損壞率已達90%……"
 13297,0,False,False,False,2,0,4,False,False,1,25,"0"
 13298,0,False,False,False,2,0,4,False,False,1,25,"0"
-13299,0,False,False,False,5,11,1,False,False,6,25,"本機，歐米克隆N-6205報告如下。
+13299,0,False,False,False,5,11,1,False,False,6,25,"本機，奧密克戎N-6205報告如下。
 情況通報：已確認侵略兵器希接近中。"
 13300,0,False,False,False,5,11,1,False,False,6,25,"作戰目的：目的機體被視為保存有大量重要文件。
 回收侵略兵器希記憶體檔。"
@@ -17622,7 +17623,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 13401,0,False,False,False,2,0,4,False,False,1,25,"哇哇哇……太可怕了！
 這叫我怎麼送東西過去啊！"
 13402,0,False,False,False,2,0,4,False,False,1,25,"岸邊的海象又變多了……"
-13403,0,False,False,False,2,0,4,False,False,1,25,"沒法出海捕魚了……
+13403,0,False,False,False,2,0,4,False,False,1,25,"無法出海捕魚了……
 怎麼辦……"
 13404,0,False,False,False,2,0,4,False,False,1,25,"沒事的，一定不會有事的……"
 13405,0,False,False,False,2,0,4,False,False,1,25,"哥哥……
@@ -17921,7 +17922,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 13652,0,False,False,False,0,0,0,False,False,0,0,""
 13653,0,False,False,False,3,0,4,False,False,1,25,"這就是工藝神的力量嗎！"
 13654,0,False,False,False,3,0,5,False,False,1,25,"我頂多只是個帶路的，
-很遺憾沒法幫你們戰鬥。"
+很遺憾無法幫你們戰鬥。"
 13655,0,False,False,False,3,0,4,False,False,1,25,"嗯？那是……？"
 13656,0,False,False,False,3,0,4,False,False,1,25,"拉爾戈就在這上面嗎？"
 13657,0,False,False,False,3,0,4,False,False,1,25,"向前走吧，
@@ -18058,7 +18059,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 13760,0,False,False,False,2,0,4,False,False,1,25,"我豈能輸給人類！"
 13761,0,False,False,False,2,0,4,False,False,1,25,"守護財寶……"
 13762,0,False,False,False,2,0,4,False,False,1,25,"入侵者在何處……"
-13763,0,False,False,False,2,0,4,False,False,1,25,"妄想偷走財寶的賊人……"
+13763,0,False,False,False,2,0,4,False,False,1,25,"妄想偷走財寶的盜匪……"
 13764,0,False,False,False,2,0,4,False,False,1,25,"若不速速離去，
 就只好消滅你們了！"
 13765,0,False,False,False,3,0,5,False,False,1,25,"這也太快了！"
@@ -18173,7 +18174,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 請小心它的刺絲囊……"
 13848,0,False,False,False,3,0,5,False,False,1,25,"看來這水母有著
 相當濃密的乙太。"
-13849,0,False,False,False,3,0,5,False,False,1,25,"要想繼續前進，
+13849,0,False,False,False,3,0,5,False,False,1,25,"若想繼續前進，
 只能打倒這傢伙了。"
 13850,0,False,False,False,3,0,5,False,False,1,25,"真是少見的水母品種啊，
 請小心它的刺絲囊……"
@@ -18309,7 +18310,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 13941,0,False,False,False,2,0,3,False,False,1,25,"消失吧！"
 13942,0,False,False,False,2,0,3,False,False,1,25,"湮滅！"
 13943,0,False,False,False,2,0,3,False,False,1,25,"你的光，將徹底消失！"
-13944,0,False,False,False,2,0,3,False,False,1,25,"收下這個，拉哈佈雷亞！"
+13944,0,False,False,False,2,0,3,False,False,1,25,"收下這個，拉哈布雷亞！"
 13945,0,False,False,False,2,0,3,False,False,1,25,"你不能就這樣消散，以格約姆！"
 13946,0,False,False,False,0,0,0,False,False,0,0,""
 13947,0,False,False,False,0,0,0,False,False,0,0,""
@@ -18324,19 +18325,19 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 13956,0,False,False,False,2,0,3,False,False,1,25,"這就是我的力量！"
 13957,0,False,False,False,2,0,3,False,False,1,25,"讓開路吧！"
 13958,0,False,False,False,2,0,3,False,False,1,25,"休想到大家那裡去！"
-13959,0,False,False,False,2,0,3,False,False,1,25,"高昂起來吧，
+13959,0,False,False,False,2,0,3,False,False,1,25,"燃燒起來吧，
 我的冒險者之魂！"
 13960,0,False,False,False,2,0,3,False,False,1,25,"見識一下我們
 冒險者部隊的精神吧！"
 13961,0,False,False,False,2,0,3,False,False,1,25,"再次衝向前方！"
-13962,0,False,False,False,2,0,3,False,False,1,25,"按、按著訓練那樣做……"
+13962,0,False,False,False,2,0,3,False,False,1,25,"照、照著訓練那樣做……"
 13963,0,False,False,False,2,0,3,False,False,1,25,"0"
 13964,0,False,False,False,2,0,3,False,False,1,25,"用學會的這招……！"
 13965,0,False,False,False,2,0,3,False,False,1,25,"現在應該能用這招了！"
 13966,0,False,False,False,2,0,3,False,False,1,25,"雖然是剛學會的招式！"
 13967,0,False,False,False,2,0,3,False,False,1,25,"我要超越極限！"
 13968,0,False,False,False,2,0,3,False,False,1,25,"用這招貫穿敵人！"
-13969,0,False,False,False,2,0,3,False,False,1,25,"這就是在冒險中磨煉的技巧！"
+13969,0,False,False,False,2,0,3,False,False,1,25,"這就是在冒險中磨練的技巧！"
 13970,0,False,False,False,2,0,3,False,False,1,25,"我要突破自己的極限！"
 13971,0,False,False,False,2,0,3,False,False,1,25,"不管倒下多少次，
 我都會站起來！"
@@ -18471,7 +18472,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 14069,0,False,False,False,2,0,3,False,False,1,25,"別來阻礙我！"
 14070,0,False,False,False,2,0,3,False,False,1,25,"這種程度我也能做到！"
 14071,0,False,False,False,2,0,3,False,False,1,25,"以萊韋耶勒爾之名！"
-14072,0,False,False,False,2,0,3,False,False,1,25,"砂利亞克神保佑！"
+14072,0,False,False,False,2,0,3,False,False,1,25,"沙利亞克神保佑！"
 14073,0,False,False,False,2,0,3,False,False,1,25,"0"
 14074,0,False,False,False,2,0,3,False,False,1,25,"0"
 14075,0,False,False,False,2,0,3,False,False,1,25,"我還能挺住！"
@@ -18878,7 +18879,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 14388,0,False,False,False,3,0,5,False,False,1,25,"魔導裝甲……還有增援，
 真麻煩。"
 14389,0,False,False,False,3,0,5,False,False,1,25,"小心別被那手臂打中！"
-14390,0,False,False,False,3,0,5,False,False,1,25,"對手是達爾馬斯卡的魔女……
+14390,0,False,False,False,3,0,5,False,False,1,25,"對手是達瑪斯卡的魔女……
 展示訓練成果的時候到了！"
 14391,0,False,False,False,3,0,5,False,False,1,25,"治療請交給我，
 大家集中攻擊敵人！"
@@ -18990,7 +18991,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 14480,0,False,False,False,2,0,3,False,False,1,25,"刺！刺！"
 14481,0,False,False,False,2,0,3,False,False,1,25,"探頭探腦……"
 14482,0,False,False,False,2,0,3,False,False,1,25,"啊嗚啊嗚……"
-14483,0,False,False,False,2,0,3,False,False,1,25,"唧唧！"
+14483,0,False,False,False,2,0,3,False,False,1,25,"嘰嘰！"
 14484,0,False,False,False,2,0,3,False,False,1,25,"咔嚓咔嚓……"
 14485,0,False,False,False,2,0,3,False,False,1,25,"噫嘻嘻嘻！"
 14486,0,False,False,False,2,0,3,False,False,1,25,"哐噹！哐噹！"
@@ -19044,7 +19045,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 14534,0,False,False,False,2,0,3,False,False,1,25,"光啊！"
 14535,0,False,False,False,2,0,3,False,False,1,25,"嘎嗷嗷嗷嗷！"
 14536,0,False,False,False,2,0,3,False,False,1,25,"咕波咕波！"
-14537,0,False,False,False,2,0,3,False,False,1,25,"唧唧！"
+14537,0,False,False,False,2,0,3,False,False,1,25,"嘰嘰！"
 14538,0,False,False,False,2,0,3,False,False,1,25,"沙沙……"
 14539,0,False,False,False,2,0,3,False,False,1,25,"嘻嘻嘻嘻……"
 14540,0,False,False,False,2,0,3,False,False,1,25,"咕哎咕哇！"
@@ -19273,7 +19274,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 14757,0,False,False,False,2,0,3,False,False,1,25,"喵嗚！"
 14758,0,False,False,False,2,0,3,False,False,1,25,"哼唧！"
 14759,0,False,False,False,2,0,3,False,False,1,25,"嗚噗噗噗噗噗！"
-14760,0,False,False,False,2,0,3,False,False,1,25,"唧唧……"
+14760,0,False,False,False,2,0,3,False,False,1,25,"嘰嘰……"
 14761,0,False,False,False,2,0,3,False,False,1,25,"咕哎？"
 14762,0,False,False,False,2,0,3,False,False,1,25,"……沙……沙沙沙……"
 14763,0,False,False,False,2,0,3,False,False,1,25,"眼睛……又開始……"
@@ -19315,7 +19316,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 14798,0,False,False,False,2,0,3,False,False,1,25,"滋滋……滋滋……"
 14799,0,False,False,False,2,0,3,False,False,1,25,"嗷嗷！嗷嗷！"
 14800,0,False,False,False,2,0,3,False,False,1,25,"請你清醒過來吧！"
-14801,0,False,False,False,2,0,3,False,False,1,25,"你好世界！"
+14801,0,False,False,False,2,0,3,False,False,1,25,"hELLo, WOrlD!"
 14802,0,False,False,False,2,0,3,False,False,1,25,"世界你好！"
 14803,0,False,False,False,2,0,3,False,False,1,25,"叮叮咚咚！"
 14804,0,False,False,False,2,0,3,False,False,1,25,"吱吱！"
@@ -19387,7 +19388,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 14868,0,False,False,False,2,0,3,False,False,1,25,"哐當哐當！"
 14869,0,False,False,False,2,0,3,False,False,1,25,"仙人掌！"
 14870,0,False,False,False,2,0,3,False,False,1,25,"本本！"
-14871,0,False,False,False,2,0,3,False,False,1,25,"熱乎乎！"
+14871,0,False,False,False,2,0,3,False,False,1,25,"熱呼呼！"
 14872,0,False,False,False,2,0,3,False,False,1,25,"……"
 14873,0,False,False,False,2,0,3,False,False,1,25,"回答給我用敬禮來！"
 14874,0,False,False,False,2,0,3,False,False,1,25,"……大姐。"
@@ -19701,7 +19702,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 趕快清理掉雜兵過去！"
 15116,0,False,False,False,3,0,5,False,False,1,25,"跟上蒼天之龍騎士！"
 15117,0,False,False,False,3,0,5,False,False,1,25,"該做個了結了，尼德霍格！"
-15118,0,False,False,False,3,0,5,False,False,1,25,"戰神哈羅妮，請您保佑我們！"
+15118,0,False,False,False,3,0,5,False,False,1,25,"戰爭神哈羅妮，請您保佑我們！"
 15119,0,False,False,False,3,0,5,False,False,1,25,"剛剛那個變身到底是怎麼回事？"
 15120,0,False,False,False,3,0,5,False,False,1,25,"我們沒時間考慮原委了。
 先前進吧，我的朋友！"
@@ -19955,7 +19956,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 15312,0,False,False,False,2,0,3,False,False,1,25,"啾啾——！"
 15313,0,False,False,False,3,0,3,False,False,1,25,"碾碎你們！"
 15314,0,False,False,False,3,0,3,False,False,1,25,"哈……沒想到連魔導兵器
-都成了我的擁護者！"
+都成了我的粉絲！"
 15315,0,False,False,False,3,0,3,False,False,1,25,"好古怪的兵器！"
 15316,0,False,False,False,3,0,3,False,False,1,25,"看來你的彈藥不夠多啊……"
 15317,0,False,False,False,3,0,3,False,False,1,25,"父親真是太棒了！"
@@ -20000,11 +20001,11 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 15347,0,False,False,False,3,0,2,False,True,1,25,"不會吧……"
 15348,0,False,False,False,3,0,2,False,True,1,25,"這股閃電……
 快跑！"
-15349,0,False,False,False,3,0,3,False,True,1,25,"斯、斯菲因大人……
+15349,0,False,False,False,3,0,3,False,True,1,25,"斯、斯菲茵大人……
 為了我們……？"
 15350,0,False,False,False,3,0,3,False,True,1,25,"公主殿下來了！
 我們都有救了！"
-15351,0,False,False,False,2,0,3,False,False,1,25,"以戰神哈羅妮之名！"
+15351,0,False,False,False,2,0,3,False,False,1,25,"以戰爭神哈羅妮之名！"
 15352,0,False,False,False,2,0,3,False,False,1,25,"是時候展現日常訓練的成果了！"
 15353,0,False,False,False,2,0,3,False,False,1,25,"咆哮吧！如銀劍一般！"
 15354,0,False,False,False,2,0,3,False,False,1,25,"刺穿！"
@@ -20020,7 +20021,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 15363,0,False,False,False,2,0,3,False,False,1,25,"抱歉，麻煩你了……！"
 15364,0,False,False,False,2,0,3,False,False,1,25,"我不會大意。"
 15365,0,False,False,False,2,0,3,False,False,1,25,"好好瞄準……"
-15366,0,False,False,False,2,0,3,False,False,1,25,"我會為大家掃清障礙！"
+15366,0,False,False,False,2,0,3,False,False,1,25,"我會為大家清理障礙！"
 15367,0,False,False,False,2,0,3,False,False,1,25,"我的弓會射穿我們的敵人！"
 15368,0,False,False,False,2,0,3,False,False,1,25,"嚐嚐我的全力一擊！"
 15369,0,False,False,False,2,0,3,False,False,1,25,"我要……保護大家……"
@@ -20359,7 +20360,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 15648,0,False,False,False,3,0,5,False,False,1,25,"抱歉，
 我們把握時間繼續前進吧。"
 15649,0,False,False,False,3,0,5,False,False,1,25,"不覺得這個人偶有點像妖異嗎？"
-15650,0,False,False,False,3,0,5,False,False,1,25,"就當是鍛煉一場，感覺不錯。"
+15650,0,False,False,False,3,0,5,False,False,1,25,"就當是鍛鍊一場，感覺不錯。"
 15651,0,False,False,False,3,0,5,False,False,1,25,"這個魔法人偶做得挺精巧的。"
 15652,0,False,False,False,3,0,5,False,False,1,25,"這個人偶夠厲害的……"
 15653,0,False,False,False,3,0,5,False,False,1,25,"不覺得這個人偶有點像妖異嗎？"
@@ -20505,7 +20506,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 15765,0,False,False,False,3,0,3,False,True,1,25,"救救我的家人吧！"
 15766,0,False,False,False,3,0,3,False,True,1,25,"在持續的戰爭中
 公主殿下明明也疲憊不堪了……"
-15767,0,False,False,False,3,0,3,False,True,1,25,"斯菲因大人
+15767,0,False,False,False,3,0,3,False,True,1,25,"斯菲茵大人
 在那艘飛空艇上？"
 15768,0,False,False,False,2,0,3,False,False,1,25,"我還沒完呢！"
 15769,0,False,False,False,2,0,3,False,False,1,25,"接我一斧！"
@@ -20555,7 +20556,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 15804,0,False,False,False,3,0,5,False,False,1,25,"只要前往這股奔流的
 源頭就行了吧。"
 15805,0,False,False,False,3,0,5,False,False,1,25,"沒錯，那裡就是我們的目的地。"
-15806,0,False,False,False,3,0,5,False,False,1,25,"掃清一切障礙！"
+15806,0,False,False,False,3,0,5,False,False,1,25,"清理一切障礙！"
 15807,0,False,False,False,3,0,5,False,False,1,25,"魷魚？不對，應該是章魚……？"
 15808,0,False,False,False,3,0,5,False,False,1,25,"……體型真不小啊。"
 15809,0,False,False,False,3,0,5,False,False,1,25,"有兩下子啊！"
@@ -20859,7 +20860,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 體驗靈魂出竅的一天。"
 16064,0,False,False,False,3,0,5,False,False,1,25,"這種屏障可擋不住我們！"
 16065,0,False,False,False,3,0,5,False,False,1,25,"打開突破口！全力攻擊！"
-16066,0,False,False,False,3,0,5,False,False,1,25,"我們沒法阻止遠處的攻擊！"
+16066,0,False,False,False,3,0,5,False,False,1,25,"我們無法阻止遠處的攻擊！"
 16067,0,False,False,False,3,0,5,False,False,1,25,"打開突破口！全力攻擊！"
 16068,0,False,False,False,3,0,5,False,False,1,25,"守衛果然很嚴密……"
 16069,0,False,False,False,3,0,5,False,False,1,25,"前面就是王座的所在處了！
@@ -20878,7 +20879,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 16078,0,False,False,False,2,0,3,False,False,1,25,"呸啾呸啾。"
 16079,0,False,False,False,2,0,3,False,False,1,25,"噗嘶！"
 16080,0,False,False,False,2,0,3,False,False,1,25,"轟隆隆……"
-16081,0,False,False,False,2,0,3,False,False,1,25,"唧唧！"
+16081,0,False,False,False,2,0,3,False,False,1,25,"嘰嘰！"
 16082,0,False,False,False,2,0,3,False,False,1,25,"3、2、1……"
 16083,0,False,False,False,2,0,3,False,False,1,25,"哈！"
 16084,0,False,False,False,2,0,3,False,False,1,25,"汪汪！"
@@ -21198,11 +21199,11 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 16295,0,False,False,False,3,0,3,False,False,1,25,"唔……動不了了……！"
 16296,0,False,False,False,3,0,5,False,False,1,25,"接下來的路
 只能徒步走過去了。"
-16297,0,False,False,False,3,0,5,False,False,1,25,"好猛烈的砂塵……"
+16297,0,False,False,False,3,0,5,False,False,1,25,"好猛烈的沙塵……"
 16298,0,False,False,False,3,0,5,False,False,1,25,"沒人走失吧？"
 16299,0,False,False,False,3,0,5,False,False,1,25,"繼續走吧。"
 16300,0,False,False,False,3,0,5,False,False,1,25,"小心上面。"
-16301,0,False,False,False,3,0,5,False,False,1,25,"有砂石落下，
+16301,0,False,False,False,3,0,5,False,False,1,25,"有沙石落下，
 大家小心頭頂。"
 16302,0,False,False,False,3,0,5,False,False,1,25,"啊，石頭？！"
 16303,0,False,False,False,3,0,5,False,False,1,25,"還真是摔了
@@ -21242,8 +21243,8 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 16326,0,False,False,False,3,0,5,False,False,1,25,"如果它還活著，
 恐怕不好對付。"
 16327,0,False,False,False,3,0,5,False,False,1,25,"也許它就是
-砂蟲的祖先。"
-16328,0,False,False,False,3,0,5,False,False,1,25,"這是……砂蟲的骨骼？"
+沙蟲的祖先。"
+16328,0,False,False,False,3,0,5,False,False,1,25,"這是……沙蟲的骨骼？"
 16329,0,False,False,False,3,0,5,False,False,1,25,"這裡的龍也是白色的！"
 16330,0,False,False,False,3,0,5,False,False,1,25,"霧氣化龍？！
 怎麼回事？"
@@ -21532,7 +21533,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 16532,0,False,False,False,3,0,4,False,True,1,25,"居然把我們騙了？！
 那就只能上了！"
 16533,0,False,False,False,3,0,4,False,True,1,25,"看來並不是個舒適的移動手段……
-不過也沒法挑三揀四了。"
+不過也無法挑三揀四了。"
 16534,0,False,False,False,3,0,4,False,True,1,25,"看來沒辦法繼續追著靈魂了。
 先往裡走看看吧。"
 16535,0,False,False,False,3,0,3,False,True,1,25,"這是什麼地方……
@@ -21540,14 +21541,14 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 16536,0,False,False,False,3,0,3,False,True,1,25,"太安靜了……
 我有種不好的預感。"
 16537,0,False,False,False,0,0,0,False,False,0,0,""
-16538,0,False,False,False,3,0,3,False,True,1,25,"斯菲因大人！"
+16538,0,False,False,False,3,0,3,False,True,1,25,"斯菲茵大人！"
 16539,0,False,False,False,3,0,5,False,True,1,25,"我以後也要成為
 守護公主殿下的騎士！"
 16540,0,False,False,False,3,0,4,False,True,1,25,"“永遠為國民服務”……
 她的信條真是值得尊敬。"
 16541,0,False,False,False,3,0,3,False,True,1,25,"我們也要為
 殿下貢獻一份力量……"
-16542,0,False,False,False,3,0,3,False,True,1,25,"斯菲因大人，
+16542,0,False,False,False,3,0,3,False,True,1,25,"斯菲茵大人，
 請您保重……"
 16543,0,False,False,False,3,0,3,False,True,1,25,"她為人民奉獻的模樣
 一直鼓舞著我……"
@@ -21810,7 +21811,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 16745,0,False,False,False,3,0,4,False,True,1,25,"卑鄙！"
 16746,0,False,False,False,3,0,4,False,True,1,25,"糟了……
 輓具！"
-16747,0,False,False,False,3,0,4,False,True,1,25,"這下沒法繼續拉船了……"
+16747,0,False,False,False,3,0,4,False,True,1,25,"這下無法繼續拉船了……"
 16748,0,False,False,False,3,0,4,False,True,1,25,"算你狠，
 巴庫加加！"
 16749,0,False,False,False,3,0,4,False,True,1,25,"我應急處理一下……
@@ -21825,7 +21826,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 今天也打起精神出發吧啊！"
 16755,0,False,False,False,3,0,4,False,False,1,25,"噗噗、噗噗！"
 16756,0,False,False,False,3,0,4,False,False,1,25,"為了加入商隊，
-得要鍛煉好腰腿才行！"
+得要鍛鍊好腰腿才行！"
 16757,0,False,False,False,3,0,4,False,False,1,25,"噗嗚嗚！"
 16758,0,False,False,False,3,0,4,False,False,1,25,"欸？！
 那是什麼……"
@@ -21849,7 +21850,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 16770,0,False,False,False,2,0,3,False,False,1,25,"上！"
 16771,0,False,False,False,2,0,3,False,False,1,25,"我們有守護的力量！"
 16772,0,False,False,False,2,0,3,False,False,1,25,"沒有什麼好害怕的！"
-16773,0,False,False,False,2,0,3,False,False,1,25,"砂爾托菲特大人萬歲！"
+16773,0,False,False,False,2,0,3,False,False,1,25,"沙爾托菲特大人萬歲！"
 16774,0,False,False,False,2,0,3,False,False,1,25,"接招，飛彈雨！"
 16775,0,False,False,False,2,0,4,False,False,1,25,"嗚……！
 是守護之力！"
@@ -21871,7 +21872,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 16789,0,False,False,False,2,0,3,False,False,1,25,"得撤退了！"
 16790,0,False,False,False,2,0,3,False,False,1,25,"救就我們！"
 16791,0,False,False,False,2,0,3,False,False,1,25,"對不起……"
-16792,0,False,False,False,2,0,3,False,False,1,25,"砂爾托菲特大人！"
+16792,0,False,False,False,2,0,3,False,False,1,25,"沙爾托菲特大人！"
 16793,0,False,False,False,2,0,3,False,False,1,25,"在沒有守護之力的情況下？！"
 16794,0,False,False,False,2,0,3,False,False,1,25,"事到如此，
 管它的呢！"
@@ -22068,7 +22069,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 16940,0,False,False,False,3,0,4,False,True,1,25,"發現入侵者！"
 16941,0,False,False,False,3,0,4,False,True,1,25,"不准接近神聖的蛇罐！"
 16942,0,False,False,False,3,0,4,False,True,1,25,"不許侵犯祭壇！"
-16943,0,False,False,False,3,0,4,False,True,1,25,"不許打攪大蛇大人的沉睡！"
+16943,0,False,False,False,3,0,4,False,True,1,25,"不許打擾大蛇大人的沉睡！"
 16944,0,False,False,False,3,0,4,False,False,1,25,"正在執行區域調查……
 請求守衛本機。"
 16945,0,False,False,False,2,0,4,False,False,1,25,"檢測到襲擊者……"
@@ -22155,7 +22156,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 吹雪過後會有雷波、暴風！"
 16993,0,False,False,False,5,11,1,False,False,6,25,"重新讀取氣象資料……
 暴風過後會有灼熱波、雷波！"
-16994,0,False,False,False,5,11,1,False,False,5,25,"叮咚咣當，嘭嘭！
+16994,0,False,False,False,5,11,1,False,False,5,25,"叮咚咣噹，嘭嘭！
 再現預報的氣象！"
 16995,0,False,False,False,5,11,1,False,False,5,25,"該區域的調查可順利進行！
 感謝支援者的協助。"
@@ -22282,7 +22283,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17076,0,False,False,False,3,0,4,False,False,1,25,"嗶、嗶、錯誤……
 風向要改變了！"
 17077,0,False,False,False,3,0,3,False,True,1,25,"哇！
-是斯菲因大人！"
+是斯菲茵大人！"
 17078,0,False,False,False,2,0,4,False,False,1,25,"正在分析
 失控機體的情報……"
 17079,0,False,False,False,5,11,1,False,False,5,25,"情報分析完成……感知到失控機體的反應。
@@ -22395,7 +22396,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17164,0,False,False,False,3,0,4,False,False,1,25,"居然擁有這麼高科技的兵器……"
 17165,0,False,False,False,3,0,4,False,False,1,25,"是打算派出攻擊終端嗎！"
 17166,0,False,False,False,3,0,4,False,False,1,25,"這是……？！"
-17167,0,False,False,False,3,0,4,False,False,1,25,"我可不想挨電擊！"
+17167,0,False,False,False,3,0,4,False,False,1,25,"我可不想被電擊！"
 17168,0,False,False,False,3,0,4,False,False,1,25,"是高密度的雷氣！"
 17169,0,False,False,False,3,0,4,False,False,1,25,"碰到了估計很危險……"
 17170,0,False,False,False,3,0,4,False,False,1,25,"啊！
@@ -22430,12 +22431,12 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17192,0,False,False,False,3,0,4,False,False,1,25,"鼴鼠挖的到處都是洞，
 真好真好！"
 17193,0,False,False,False,3,0,4,False,False,1,25,"藏在地底下的優質素材
-都露出來可以采個夠！"
+都露出來可以採個夠！"
 17194,0,False,False,False,3,0,4,False,False,1,25,"嗯嗯，豐收啦！"
 17195,0,False,False,False,3,0,4,False,False,1,25,"期望落空，真是遺憾……
 回去睡氣覺！"
 17196,0,False,False,False,5,11,1,False,False,5,25,"哈哈哈，真棒！
-這次的盛裝巡遊也很刺激，還遠遠沒完呢！"
+這次的盛裝巡遊也很刺激，還沒結束呢！"
 17197,0,False,False,False,5,11,1,False,False,5,25,"哎呀，遺憾。少了點氛圍。
 此次盛裝巡遊到此結束，請期待下回！"
 17198,0,False,False,False,2,0,4,False,False,1,25,"此次就此告辭，
@@ -22460,7 +22461,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17214,0,False,False,False,5,11,1,False,False,5,25,"聚集在此的各位！
 盛裝巡遊會提供進一步死亡的預感！"
 17215,0,False,False,False,5,11,1,False,False,5,25,"重複著永久的記憶，散發出內面的生命光輝！
-大個子的兔兔登場了！"
+巨大兔兔登場了！"
 17216,0,False,False,False,2,0,4,False,False,1,25,"巡迴直到永遠！
 歡迎各位參加！"
 17217,0,False,False,False,2,0,4,False,False,1,25,"請享受永久生命中
@@ -22477,12 +22478,12 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17224,0,False,False,False,5,11,1,False,False,5,25,"各位！
 感謝你們參加盛裝巡遊！"
 17225,0,False,False,False,5,11,1,False,False,5,25,"本次盛裝巡遊到此結束……
-用不了多久我們還會再見的！"
+過不了多久我們還會再見的！"
 17226,0,False,False,False,2,0,5,False,False,1,25,"好了……
 米卡準備好了嗎……"
 17227,0,False,False,False,3,0,4,False,False,1,25,"哎呀，該怎麼辦？
 蘑菇大量繁殖了！"
-17228,0,False,False,False,3,0,4,False,False,1,25,"陶藝黏土 會沒法用的！
+17228,0,False,False,False,3,0,4,False,False,1,25,"陶藝黏土 會無法用的！
 需要立刻 清除！"
 17229,0,False,False,False,3,0,4,False,False,1,25,"拜託你 除掉蘑菇！"
 17230,0,False,False,False,2,0,4,False,False,1,25,"蘑菇好多
@@ -22496,7 +22497,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17235,0,False,False,False,3,0,4,False,False,1,25,"凶猛的大傢伙 出現了！
 逃跑 撤退 走為上策！"
 17236,0,False,False,False,3,0,4,False,False,1,25,"蘑菇沒能消滅……
-黏土會 沒法用的……"
+黏土會 無法用的……"
 17237,0,False,False,False,3,0,4,False,False,1,25,"快回去 招募援軍，
 先撤了 再見！"
 17238,0,False,False,False,3,0,3,False,False,1,25,"消失吧！"
@@ -22566,7 +22567,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 看來得提高警戒了。"
 17278,0,False,False,False,3,0,3,False,False,1,25,"唔……可是只憑我們
 有點放不下心啊。"
-17279,0,False,False,False,3,0,3,False,False,1,25,"要不要也叫上
+17279,0,False,False,False,3,0,3,False,False,1,25,"要不要也找
 其他的獵人？"
 17280,0,False,False,False,2,0,3,False,False,1,25,"哈！"
 17281,0,False,False,False,2,0,3,False,False,1,25,"呀！"
@@ -22721,20 +22722,20 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17397,0,False,False,False,3,0,4,False,False,1,25,"嘖……無聊！"
 17398,0,False,False,False,3,0,4,False,False,1,25,"還是不爽，
 去別的地方吧。"
-17399,0,False,False,False,3,0,4,False,False,1,25,"頭、頭兒！"
+17399,0,False,False,False,3,0,4,False,False,1,25,"老、老大！"
 17400,0,False,False,False,3,0,4,False,False,1,25,"救我，有個不妙的傢伙！"
 17401,0,False,False,False,3,0,4,False,False,1,119,"吵什麼吵！
 真丟臉！"
 17402,0,False,False,False,3,0,4,False,False,1,119,"我小弟們受你欺負了？"
 17403,0,False,False,False,3,0,4,False,False,1,119,"再陪我一會兒吧！"
-17404,0,False,False,False,3,0,4,False,False,1,25,"拜託了！頭兒！"
+17404,0,False,False,False,3,0,4,False,False,1,25,"拜託了！老大！"
 17405,0,False,False,False,3,0,4,False,False,1,25,"我們會幫忙的！"
 17406,0,False,False,False,3,0,4,False,False,1,25,"噫！
-頭兒輸了？！"
+老大輸了？！"
 17407,0,False,False,False,3,0,4,False,False,1,25,"抱、抱歉！"
 17408,0,False,False,False,3,0,4,False,False,1,119,"哼……
 沒什麼了不起的……"
-17409,0,False,False,False,3,0,4,False,False,1,25,"不愧是頭兒！"
+17409,0,False,False,False,3,0,4,False,False,1,25,"不愧是老大！"
 17410,0,False,False,False,3,0,4,False,False,1,25,"活該！"
 17411,0,False,False,False,2,0,3,False,False,1,25,"結束了！"
 17412,0,False,False,False,2,0,3,False,False,1,25,"這是我們村特製的藥！"
@@ -23225,13 +23226,13 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17770,0,False,False,False,2,0,4,False,False,1,25,"好、好強……"
 17771,0,False,False,False,2,0,4,False,False,1,25,"噫……
 對不起，我錯了……"
-17772,0,False,False,False,2,0,4,False,False,1,25,"要是頭兒在的話，
+17772,0,False,False,False,2,0,4,False,False,1,25,"要是老大在的話，
 怎麼會輸給你……"
-17773,0,False,False,False,2,0,4,False,False,1,25,"頭兒！
+17773,0,False,False,False,2,0,4,False,False,1,25,"老大！
 你一定要贏啊！"
 17774,0,False,False,False,2,0,4,False,False,1,25,"看你能從容到什麼時候！"
-17775,0,False,False,False,2,0,4,False,False,1,25,"上吧，頭兒！"
-17776,0,False,False,False,2,0,4,False,False,1,25,"頭兒，給我們
+17775,0,False,False,False,2,0,4,False,False,1,25,"上吧，老大！"
+17776,0,False,False,False,2,0,4,False,False,1,25,"老大，給我們
 展現展現你的實力！"
 17777,0,False,False,False,3,0,4,False,False,1,119,"這麼強……
 我輸了……"
@@ -23391,7 +23392,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17883,0,False,False,False,3,0,4,False,False,1,25,"那些嬰兒，我絕不會忘記……"
 17884,0,False,False,False,3,0,4,False,False,1,25,"好身手！"
 17885,0,False,False,False,3,0,4,False,False,1,25,"它散發著不妙的氣息……"
-17886,0,False,False,False,3,0,4,False,False,1,25,"不管怎麼著先破壞掉它們！
+17886,0,False,False,False,3,0,4,False,False,1,25,"不管如何先破壞掉它們！
 集中攻擊！"
 17887,0,False,False,False,3,0,4,False,False,1,25,"要來了，
 做好準備！"
@@ -23409,7 +23410,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17897,0,False,False,False,3,0,4,False,False,1,25,"這種文明樣式到底是……"
 17898,0,False,False,False,3,0,4,False,False,1,25,"大家都沒事吧？！"
 17899,0,False,False,False,3,0,4,False,False,1,25,"和哪個時代的遺物都對不上。"
-17900,0,False,False,False,3,0,4,False,False,1,25,"就連納米喀的靈魂也……"
+17900,0,False,False,False,3,0,4,False,False,1,25,"就連納米卡的靈魂也……"
 17901,0,False,False,False,0,0,0,False,False,0,0,""
 17902,0,False,False,False,3,0,4,False,False,1,25,"那我們開始反擊吧！"
 17903,0,False,False,False,3,0,4,False,False,1,25,"勝利還是屬於我們的！"
@@ -23506,7 +23507,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17966,0,False,False,False,3,0,4,False,False,1,25,"唔，土靈水晶
 全被吃了嗎……"
 17967,0,False,False,False,3,0,4,False,False,1,25,"光讓那群蛇高興的話，
-可沒法引出蛇王。"
+可無法引出蛇王。"
 17968,0,False,False,False,3,0,4,False,False,1,25,"不過德庫洛涅，
 我終有一日要幹掉你……"
 17969,0,False,False,False,3,0,2,False,True,1,25,"能看上一眼我都心滿意足了！"
@@ -23522,7 +23523,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17977,0,False,False,False,3,0,2,False,False,1,25,"我來援護！"
 17978,0,False,False,False,3,0,4,False,False,1,25,"準備完成……
 這樣那傢伙也會現身的。"
-17979,0,False,False,False,4,0,1,False,False,4,25,"環繞著砂石，吞噬生命之物……蛇王德庫洛涅啊！
+17979,0,False,False,False,4,0,1,False,False,4,25,"環繞著沙石，吞噬生命之物……蛇王德庫洛涅啊！
 如果你對眷屬的死亡感到憤怒的話就現身吧！"
 17980,0,False,False,False,4,0,1,False,False,4,25,"為了守護棲息在荒野的生命……
 勇士們啊，挑戰大狩獵吧！"
@@ -23622,7 +23623,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 18051,0,False,False,False,3,0,4,False,False,1,25,"大的要來了！"
 18052,0,False,False,False,3,0,4,False,False,1,25,"聚在一起撐過去！"
 18053,0,False,False,False,3,0,4,False,False,1,25,"這裡就是……
-斯菲因的記憶領域……"
+斯菲茵的記憶領域……"
 18054,0,False,False,False,3,0,4,False,False,1,25,"是她活著的那個時代
 的亞歷山德里亞嗎？"
 18055,0,False,False,False,3,0,4,False,False,1,25,"基於記憶構建的
@@ -23666,7 +23667,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 18081,0,False,False,False,3,0,4,False,False,1,25,"嗯，這是記憶，
 是已經發生的事情。"
 18082,0,False,False,False,3,0,4,False,False,1,25,"快看！
-斯菲因他們的飛空艇！"
+斯菲茵他們的飛空艇！"
 18083,0,False,False,False,3,0,4,False,False,1,25,"怎麼會這樣……"
 18084,0,False,False,False,3,0,4,False,False,1,25,"它打算把自己當做盾牌嗎！"
 18085,0,False,False,False,3,0,4,False,False,1,25,"給我讓開！"
@@ -23693,7 +23694,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 不穩定了嗎？"
 18101,0,False,False,False,3,0,4,False,False,1,25,"不會是……
 我們鬧得太過分了吧？"
-18102,0,False,False,False,3,0,4,False,False,1,25,"斯菲因，我們來了！"
+18102,0,False,False,False,3,0,4,False,False,1,25,"斯菲茵，我們來了！"
 18103,0,False,False,False,3,0,4,False,False,1,25,"可以說是
 最後的障礙了吧……"
 18104,0,False,False,False,3,0,4,False,False,1,25,"巨大的劍還有手掌……
@@ -23704,7 +23705,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 18107,0,False,False,False,3,0,4,False,False,1,25,"看！好多魔物屍體……"
 18108,0,False,False,False,3,0,4,False,False,1,25,"魔物發生了領地衝突嗎？"
 18109,0,False,False,False,3,0,4,False,False,1,25,"我們要小心！"
-18110,0,False,False,False,3,0,4,False,False,1,25,"它在對抗喀赫奇瓦女士的程式！"
+18110,0,False,False,False,3,0,4,False,False,1,25,"它在對抗卡赫奇瓦女士的程式！"
 18111,0,False,False,False,0,0,0,False,False,0,0,""
 18112,0,False,False,False,0,0,0,False,False,0,0,""
 18113,0,False,False,False,0,0,0,False,False,0,0,""
@@ -23907,19 +23908,19 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 18306,0,False,False,False,2,0,6,False,True,1,25,"躲避攻擊後
 去踩塔！"
 18307,0,False,False,False,2,0,5,False,True,1,25,"遠離敵人！"
-18308,0,False,False,False,2,0,5,False,True,1,25,"快去爆彈怪
+18308,0,False,False,False,2,0,5,False,True,1,25,"快去炸彈
 與敵人之間接線！"
 18309,0,False,False,False,2,0,4,False,True,1,25,"不要看向敵人！"
 18310,0,False,False,False,2,0,4,False,True,1,25,"我來驅散！"
-18311,0,False,False,False,2,0,6,False,True,1,25,"快對我用康復……"
+18311,0,False,False,False,2,0,6,False,True,1,25,"快對我用復原……"
 18312,0,False,False,False,0,0,0,False,False,0,0,""
 18313,0,False,False,False,0,0,0,False,False,0,0,""
 18314,0,False,False,False,2,0,4,False,True,1,25,"避開敵人視線的同時
 注意地面的攻擊！"
 18315,0,False,False,False,2,0,5,False,True,1,25,"遠離敵人，
-同時回避攻擊！"
+同時迴避攻擊！"
 18316,0,False,False,False,2,0,6,False,True,1,25,"每個人各自去接
-爆彈怪的線！"
+炸彈的線！"
 18317,0,False,False,False,2,0,6,False,True,1,25,"我來驅散！"
 18318,0,False,False,False,2,0,6,False,True,1,25,"冷靜一點，
 逐個施加康復吧！"

@@ -29,7 +29,7 @@ int32,str,str
 23,"TEXT_KINGLA105_04972_SEQ_23",""
 24,"TEXT_KINGLA105_04972_TODO_00","和土陶郡的拉爾·索吉對話"
 25,"TEXT_KINGLA105_04972_TODO_01","再次和拉爾·索吉對話"
-26,"TEXT_KINGLA105_04972_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))><WARNING: unknown macro code ('chsCraftTodoMessage70')>製作<Sheet(ItemHQ,43907,0)/><Else/>將<Sheet(ItemHQ,43907,0)/>交給帕帕尼</If>"
+26,"TEXT_KINGLA105_04972_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 珠串萬貨街交易：製作<Sheet(ItemHQ,43907,0)/><Else/>將<Sheet(ItemHQ,43907,0)/>交給帕帕尼</If>"
 27,"TEXT_KINGLA105_04972_TODO_03","和圖萊尤拉的拉爾·索吉對話"
 28,"TEXT_KINGLA105_04972_TODO_04",""
 29,"TEXT_KINGLA105_04972_TODO_05",""
@@ -69,13 +69,13 @@ int32,str,str
 54,"TEXT_KINGLA105_04972_RRALSOJ_000_006","但是你的做工不僅品質高，速度也快。
 我從心底對你感到佩服。
 果然和我這種自學冶金技術的人有著雲泥之差啊……"
-55,"TEXT_KINGLA105_04972_RRALSOJ_000_007","話說回來，至今我還沒跟你聊過我的事情呢吧……"
+55,"TEXT_KINGLA105_04972_RRALSOJ_000_007","話說回來，至今我還沒跟你聊過我的事情吧……"
 56,"TEXT_KINGLA105_04972_RRALSOJ_000_008","我年輕的時候是在邊境的村子裡做狩獵工具的。
 幹著幹著就開始想要挑戰製作其他的物品。
 於是就來到了人口密集的圖萊尤拉。"
 57,"TEXT_KINGLA105_04972_RRALSOJ_000_009","之後我開始尋找莫布林族，並請求他們僱傭我。
-我心裡清楚要想學習金屬製品工藝，就得找莫布林族，
-他們的手藝深受人們的好評，通過工作或許我可以學到什麼。"
+我心裡清楚若想學習金屬製品工藝，就得找莫布林族，
+他們的手藝深受人們的好評，透過工作或許我可以學到什麼。"
 58,"TEXT_KINGLA105_04972_RRALSOJ_100_009","我拼命拜託他們，總算讓他們答應僱傭我，
 但條件是必須移居到克扎瑪烏卡濕地……"
 59,"TEXT_KINGLA105_04972_RRALSOJ_000_010","所以我主動拒絕了。
@@ -184,7 +184,7 @@ int32,str,str
 107,"TEXT_KINGLA105_04972_CAREMOBLIN04972_000_094","莫布擅長 幫忙創造 創作環境！
 所以知道 每個人 追求的環境 不一樣！"
 108,"TEXT_KINGLA105_04972_CAREMOBLIN04972_100_094","所以對於帕帕尼來說 重要的是 能得到人們感謝的地方！
-如果找到了能夠發揮 自己實力的環境 一定要珍視！"
+如果找到了能夠發揮 自己實力的環境 一定要珍惜！"
 109,"TEXT_KINGLA105_04972_PAPAWNI_000_095","假如，我是說假如拉爾·索吉同意……
 又有精巧細緻的工作需要我的話……"
 110,"TEXT_KINGLA105_04972_PAPAWNI_100_095","我果然還是想在拉爾·索吉五金店工作！"

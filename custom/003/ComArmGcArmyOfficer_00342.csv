@@ -52,7 +52,7 @@ int32,str,str
 35,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_280","（★未使用／削除予定★）"
 36,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_280","（★未使用／削除予定★）"
 37,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_280","（★未使用／削除予定★）"
-38,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_281","達成「挑戰筆記」中的專案後，
+38,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_281","達成「挑戰筆記」中的項目後，
 偶爾會有志願兵出現。"
 39,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_282","志願兵出現時，會在畫面中央顯示資訊。
 軍營中會放置<Sheet(EObj,2007153,0)/>。"
@@ -62,7 +62,7 @@ int32,str,str
 決定是否將其納入冒險者分隊。"
 42,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_290","（★未使用／削除予定★）"
 43,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_291","（★未使用／削除予定★）"
-44,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_292","可以通過檢視<Sheet(EObj,2007153,0)/>，
+44,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_292","可以透過檢視<Sheet(EObj,2007153,0)/>，
 選擇是否將志願兵納入分隊。"
 45,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_100_292","此外，分隊員總數達到8名以後，
 想要接收新的分隊員，
@@ -93,7 +93,7 @@ int32,str,str
 65,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_302","（★未使用／削除予定★）"
 66,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_310","（★未使用／削除予定★）"
 67,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_311","（★未使用／削除予定★）"
-68,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_312","通過「訓練」，可以提升「分隊綜合能力」，
+68,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_312","透過「訓練」，可以提升「分隊綜合能力」，
 即「綜合體能」、「綜合心智」、「綜合戰術」。"
 69,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_313","選擇不同的訓練種類，
 對分隊綜合能力的提升也會有所不同。
@@ -111,12 +111,12 @@ int32,str,str
 在到達上限後，想要提高某一項綜合能力時，
 其他綜合能力將會下降。"
 78,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_311","此外，「分隊綜合能力」的上限值，
-可以通過提升「分隊等級」來提高。
+可以透過提升「分隊等級」來提高。
 完成特殊的分隊任務，來提升等級吧。"
 79,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_320","想要變更分隊員的職業，
 需持有變更職業所需的道具。"
 80,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_321","調查<Sheet(EObj,2007150,0)/>，從「查看分隊情報」處選擇分隊員，
-再選擇次級指令中的「變更職業」，
+再選擇子選單中的「變更職業」，
 即可改變所選分隊員的職業。"
 81,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_010_330","（★未使用／削除予定★）"
 82,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_010_331","（★未使用／削除予定★）"
@@ -126,7 +126,7 @@ int32,str,str
 當滿足了派遣分隊員種族構成等特定條件後，
 可以獲得能力提升或報酬增加等效果。"
 85,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_332","調查<Sheet(EObj,2007150,0)/>，從「查看分隊情報」處選擇分隊員，
-再選擇次級指令中的「吉兆管理」，
+再選擇子選單中的「吉兆管理」，
 即可改變或設定所選分隊員的吉兆。"
 86,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_333","僅僅獲得吉兆是無法發揮其效果的。
 若在獲得了吉兆的情況下直接執行下一任務，吉兆會就此消失。
@@ -157,7 +157,7 @@ int32,str,str
 104,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_342","另外，在任務過程中，分隊員通常們會依照各自的判斷行動，
 但如果玩家發動「號令」，則可對分隊員進行一定程度的指示。"
 105,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_343","號令分為「號令：戰鬥開始」「號令：撤退」「號令：極限爆發」
-3種，可通過專屬快捷鍵發動。"
+3種，可透過專屬快速鍵發動。"
 106,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_344","發動「號令：戰鬥開始」後，
 分隊員們會對玩家的目標發動攻擊。"
 107,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_345","發動「號令：撤退」後，
@@ -170,7 +170,7 @@ int32,str,str
 分隊員們會協力施放極限爆發。"
 111,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_349","此極限爆發固定為1級，
 就算極限槽攢滿了2格，發動時也只會消耗1格。"
-112,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_350","若想將號令新增到普通快捷鍵中，
+112,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_350","若想將號令新增到普通快速鍵中，
 可以從設定選單的角色→技能選單→行動指令→冒險者分隊
 中進行操作。"
 113,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_351","在<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>分隊甲軍曹<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>分隊牙軍曹<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>分隊鬥軍曹<Else/></If><Else/></If>處可以開始分隊攻略任務或確認任務結果。"
@@ -196,7 +196,7 @@ int32,str,str
 123,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_137","<Highlight>ObjectParameter(1)</Highlight>分隊長閣下以冒險者的身份活躍在各地的話，
 一定會有憧憬您的「志願兵」出現。
 請您從這些志願兵裡選出新的分隊員！"
-124,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_138","達成「挑戰筆記」中的專案後，
+124,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_138","達成「挑戰筆記」中的項目後，
 偶爾會有志願兵出現。"
 125,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_139","志願兵出現時，會在畫面中央顯示資訊。
 軍營中會放置<Sheet(EObj,2007153,0)/>。"
@@ -270,7 +270,7 @@ int32,str,str
 158,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_162","此外，作為任務成功的報酬，
 獲得了能夠變更分隊員職業的<Sheet(Item,15772,0)/>。"
 159,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_163","調查<Sheet(EObj,2007150,0)/>，從「查看分隊情報」處選擇分隊員，
-再選擇次級指令中的「變更職業」，
+再選擇子選單中的「變更職業」，
 即可改變所選分隊員的職業。"
 160,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_170","分隊長閣下，您是否知道「吉兆」？
 就是「和某人一起出去一定會遇到好天氣」那種類似迷信的東西。"
@@ -283,7 +283,7 @@ int32,str,str
 當滿足了派遣分隊員種族構成等特定條件後，
 可以獲得能力提升或報酬增加等效果。"
 164,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_174","調查<Sheet(EObj,2007150,0)/>，從「查看分隊情報」處選擇分隊員，
-再選擇次級指令中的「吉兆管理」，
+再選擇子選單中的「吉兆管理」，
 即可改變或設定所選分隊員的吉兆。"
 165,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_175","僅僅獲得吉兆是無法發揮其效果的。
 若在獲得了吉兆的情況下直接執行下一任務，吉兆會就此消失。
@@ -311,20 +311,20 @@ int32,str,str
 174,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_195","<Highlight>ObjectParameter(1)</Highlight>分隊長閣下，
 其實我還有一件重要的事情要告訴您。"
 175,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_196","鑑於您將分隊培養到了很高的水準，
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅作戰總部<Else/></If><Else/></If>下達瞭如下一條指令給您。"
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊作戰總部<Else/></If><Else/></If>下達了如下一條指令給您。"
 176,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_197","即日起，任命<Highlight>ObjectParameter(1)</Highlight>為<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>中甲士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>中牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>中鬥士<Else/></If><Else/></If>。
 期待你今後的表現，完畢。"
 177,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_198","沒錯，是晉升的命令書！
 恭喜您！
 連作為您部下的下官我都覺得無比榮幸！"
-178,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_330","<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅作戰總部<Else/></If><Else/></If>下達瞭如下一條指令給您，
+178,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_330","<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊作戰總部<Else/></If><Else/></If>下達了如下一條指令給您，
 我這就開始傳達。"
 179,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_331","現對<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>所率領的冒險者分隊開放「分隊攻略任務」。
 望堅持不懈，英勇奮戰。
 以上。"
 180,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_332","竟然是下達新的任務了！
 這也代表著上層對我們分隊實力的認可！"
-181,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_333","不過這同時說明<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅作戰總部<Else/></If><Else/></If>期待我們做出更多的成績來。
+181,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_333","不過這同時說明<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊作戰總部<Else/></If><Else/></If>期待我們做出更多的成績來。
 讓我們打起精神來，開始執行分隊攻略任務吧！"
 182,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_334","開放了「分隊攻略任務」。
 分隊攻略任務為冒險者與3名分隊隊員一同前往
@@ -341,7 +341,7 @@ int32,str,str
 187,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_220","<Highlight>ObjectParameter(1)</Highlight>分隊長閣下，
 其實我還有一件重要的事情要告訴您。"
 188,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_221","鑑於您將分隊培養到了很高的水準，
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅作戰總部<Else/></If><Else/></If>下達瞭如下一條指令給您。"
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊作戰總部<Else/></If><Else/></If>下達了如下一條指令給您。"
 189,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_222","即日起，任命<Highlight>ObjectParameter(1)</Highlight>為<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>中甲士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>中牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>中鬥士<Else/></If><Else/></If>。
 期待你今後的表現，完畢。"
 190,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_223","沒錯，是晉升的命令書！
@@ -356,7 +356,7 @@ int32,str,str
 194,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_251","<Highlight>ObjectParameter(1)</Highlight>分隊長閣下以冒險者的身份活躍在各地的話，
 一定會有憧憬您的「志願兵」出現。
 請您從這些志願兵裡選出新的分隊員！"
-195,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_252","達成「挑戰筆記」中的專案後，
+195,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_252","達成「挑戰筆記」中的項目後，
 偶爾會有志願兵出現。"
 196,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_260","「訓練」可以提高我們分隊的「分隊綜合能力」。
 雖然也可促進分隊員個人成長，不過主要還是對分隊整體能力的提升。"
@@ -368,7 +368,7 @@ int32,str,str
 199,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_263","那麼就立刻讓分隊員們進行訓練，
 將我們分隊培育成<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊<Else/></If><Else/></If>首屈一指的精銳部隊吧！"
 200,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_320","<Highlight>ObjectParameter(1)</Highlight>閣下帶領的分隊的事蹟，
-都已經傳到<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅作戰總部<Else/></If><Else/></If>了哦。"
+都已經傳到<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊作戰總部<Else/></If><Else/></If>了哦。"
 201,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_321","既然<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>作戰總部<Else/></If><Else/></If>對我們期待頗高，
 那我們試著挑戰一些重要任務如何？"
 202,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_322","可以在普通任務項中選擇重要任務進行挑戰了。
@@ -437,27 +437,27 @@ int32,str,str
 231,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_195","<Highlight>ObjectParameter(1)</Highlight>分隊長閣下，
 其實我還有一件重要的事情要告訴您。"
 232,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_196","鑑於您將分隊培養到了很高的水準，
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅作戰總部<Else/></If><Else/></If>下達瞭如下一條指令給您。"
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊作戰總部<Else/></If><Else/></If>下達了如下一條指令給您。"
 233,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_197","即日起，任命<Highlight>ObjectParameter(1)</Highlight>為<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>中甲士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>中牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>中鬥士<Else/></If><Else/></If>。
 期待你今後的表現，完畢。"
 234,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_198","沒錯，是晉升的命令書！
 恭喜您！
 連作為您部下的下官我都覺得無比榮幸！"
-235,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_330","<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅作戰總部<Else/></If><Else/></If>下達瞭如下一條指令給您，
+235,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_330","<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊作戰總部<Else/></If><Else/></If>下達了如下一條指令給您，
 我這就開始傳達。"
 236,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_331","現對<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>所率領的冒險者分隊開放「分隊攻略任務」。
 望堅持不懈，英勇奮戰。
 以上。"
 237,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_332","竟然是下達新的任務了！
 這也代表著上層對我們分隊實力的認可！"
-238,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_333","不過這同時說明<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅作戰總部<Else/></If><Else/></If>期待我們做出更多的成績來。
+238,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_333","不過這同時說明<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊作戰總部<Else/></If><Else/></If>期待我們做出更多的成績來。
 讓我們打起精神來，開始執行分隊攻略任務吧！"
 239,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_210","分隊任務已經完成了！
 請您確認結果！"
 240,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_220","<Highlight>ObjectParameter(1)</Highlight>分隊長閣下，
 其實我還有一件重要的事情要告訴您。"
 241,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_221","鑑於您將分隊培養到了很高的水準，
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅作戰總部<Else/></If><Else/></If>下達瞭如下一條指令給您。"
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊作戰總部<Else/></If><Else/></If>下達了如下一條指令給您。"
 242,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_222","即日起，任命<Highlight>ObjectParameter(1)</Highlight>為<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>中甲士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>中牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>中鬥士<Else/></If><Else/></If>。
 期待你今後的表現，完畢。"
 243,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_223","沒錯，是晉升的命令書！
@@ -482,7 +482,7 @@ int32,str,str
 251,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_263","那麼就立刻讓分隊員們進行訓練，
 將我們分隊培育成<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊<Else/></If><Else/></If>首屈一指的精銳部隊吧！"
 252,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_320","<Highlight>ObjectParameter(1)</Highlight>閣下帶領的分隊的事蹟，
-都已經傳到<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅作戰總部<Else/></If><Else/></If>了哦。"
+都已經傳到<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊作戰總部<Else/></If><Else/></If>了哦。"
 253,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_321","既然<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>作戰總部<Else/></If><Else/></If>對我們期待頗高，
 那我們試著挑戰一些重要任務如何？"
 254,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_100","恭候多時了，<Highlight>ObjectParameter(1)</Highlight>分隊長閣下！
@@ -549,27 +549,27 @@ int32,str,str
 282,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_195","<Highlight>ObjectParameter(1)</Highlight>分隊長閣下，
 其實我還有一件重要的事情要告訴您。"
 283,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_196","鑑於您將分隊培養到了很高的水準，
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅作戰總部<Else/></If><Else/></If>下達瞭如下一條指令給您。"
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊作戰總部<Else/></If><Else/></If>下達了如下一條指令給您。"
 284,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_197","即日起，任命<Highlight>ObjectParameter(1)</Highlight>為<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>中甲士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>中牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>中鬥士<Else/></If><Else/></If>。
 期待你今後的表現，完畢。"
 285,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_198","沒錯，是晉升的命令書！
 恭喜您！
 連作為您部下的下官我都覺得無比榮幸！"
-286,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_330","<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅作戰總部<Else/></If><Else/></If>下達瞭如下一條指令給閣下，
+286,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_330","<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊作戰總部<Else/></If><Else/></If>下達了如下一條指令給閣下，
 我這就開始傳達。"
-287,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_331","<Split(<Highlight>ObjectParameter(1)</Highlight>, ,2)/><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>率いる冒険者小隊に対し、
-新たに「攻略任務」を発令する。
-奮戦されたし、以上。"
+287,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_331","現對<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>所率領的冒險者分隊開放「分隊攻略任務」。
+望堅持不懈，英勇奮戰。
+"
 288,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_332","竟然是下達新的任務了！
 這也代表著上層對我們分隊實力的認可！"
-289,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_333","不過這同時說明<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅作戰總部<Else/></If><Else/></If>期待我們做出更多的成績來。
+289,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_333","不過這同時說明<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊作戰總部<Else/></If><Else/></If>期待我們做出更多的成績來。
 讓我們打起精神來，開始執行分隊攻略任務吧！"
 290,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_210","分隊任務已經完成了！
 請您確認結果！"
 291,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_220","<Highlight>ObjectParameter(1)</Highlight>分隊長閣下，
 其實我還有一件重要的事情要告訴您。"
 292,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_221","鑑於您將分隊培養到了很高的水準，
-<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅作戰總部<Else/></If><Else/></If>下達瞭如下一條指令給您。"
+<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊作戰總部<Else/></If><Else/></If>下達了如下一條指令給您。"
 293,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_222","即日起，任命<Highlight>ObjectParameter(1)</Highlight>為<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>中甲士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>中牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>中鬥士<Else/></If><Else/></If>。
 期待你今後的表現，完畢。"
 294,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_223","沒錯，是晉升的命令書！
@@ -594,7 +594,7 @@ int32,str,str
 302,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_263","那麼就立刻讓分隊員們進行訓練，
 將我們分隊培育成<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦團<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊<Else/></If><Else/></If>首屈一指的精銳部隊吧！"
 303,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_320","<Highlight>ObjectParameter(1)</Highlight>閣下帶領的分隊的事蹟，
-都已經傳到<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅作戰總部<Else/></If><Else/></If>了哦。"
+都已經傳到<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>黑渦軍司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>雙蛇黨統合司令部 <Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>不滅隊作戰總部<Else/></If><Else/></If>了哦。"
 304,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_321","既然<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>軍令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>司令部<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>作戰總部<Else/></If><Else/></If>對我們期待頗高，
 那我們試著挑戰一些重要任務如何？"
 305,"TEXT_COMARMGCARMYOFFICER_00342_006_001_LIM","（★未使用／削除予定★）"
@@ -609,23 +609,23 @@ int32,str,str
 請提升分隊員的個人能力，提高成功率後進行挑戰。"
 311,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_410","恭喜您成功完成了重要任務！
 下官雖然從未懷疑過我分隊的實力，
-但是真當聽到任務成功的喜訊時，仍是免不了一陣超興奮！"
+但是真當聽到任務成功的喜訊時，仍是免不了一陣熱血沸騰！"
 312,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_411","啊，好像有客人來了……
 請進！"
 313,"TEXT_COMARMGCARMYOFFICER_00342_SWETHRYKBROOKSTONE_000_412","(-？？？？-)這裡就是<Highlight>ObjectParameter(1)</Highlight>中牙士麾下分隊的軍營吧？
-打攪了。"
+打擾了。"
 314,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_413","啊，斯威斯里克大牙將！
 您怎麼來了？！"
 315,"TEXT_COMARMGCARMYOFFICER_00342_SWETHRYKBROOKSTONE_000_414","有些話我想當面跟我們雙蛇黨引以為傲的英雄說，
 正好聽說你們任務歸來，我就直接過來了。"
-316,"TEXT_COMARMGCARMYOFFICER_00342_SWETHRYKBROOKSTONE_000_415","你們都知道，現如今艾奧傑亞的形勢不容樂觀。
+316,"TEXT_COMARMGCARMYOFFICER_00342_SWETHRYKBROOKSTONE_000_415","你們都知道，現在艾奧傑亞的形勢不容樂觀。
 在這樣的環境下，你們分隊的英勇表現讓很多將士們看到了希望，
 起到了優秀的帶頭作用。"
 317,"TEXT_COMARMGCARMYOFFICER_00342_SWETHRYKBROOKSTONE_000_416","因此，司令部做出了一個決定，
 並由我親自過來宣佈。"
 318,"TEXT_COMARMGCARMYOFFICER_00342_SWETHRYKBROOKSTONE_000_417","自本日起，正式任命<Highlight>ObjectParameter(1)</Highlight>為大牙士！
 今後請繼續遵從聖靈的指引，為森林貢獻一份力量，以上！"
-319,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_418","這、這可真是個了不得的好訊息！
+319,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_418","這、這可真是個不得了的好消息！
 分隊長晉升大牙士，大牙將還親自過來贈言！
 我們全體分隊員都跟著感到榮幸！"
 320,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_419","再次祝賀您晉升！
@@ -634,23 +634,23 @@ int32,str,str
 完成這項任務可以進一步提升我分隊的評價！"
 322,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_410","恭喜您成功完成了重要任務！
 下官雖然從未懷疑過我分隊的實力，
-但是真當聽到任務成功的喜訊時，仍是免不了一陣超興奮！"
+但是真當聽到任務成功的喜訊時，仍是免不了一陣熱血沸騰！"
 323,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_411","啊，好像有客人來訪……
 請進！"
-324,"TEXT_COMARMGCARMYOFFICER_00342_EYNZAHRSLAFYRSYN_100_412","(-？？？？-)打攪了。
+324,"TEXT_COMARMGCARMYOFFICER_00342_EYNZAHRSLAFYRSYN_100_412","(-？？？？-)打擾了。
 這裡就是<Highlight>ObjectParameter(1)</Highlight>分隊的軍營吧？"
 325,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_413","啊，愛因扎爾·斯拉菲爾辛大甲將！
 您怎麼來了？！"
 326,"TEXT_COMARMGCARMYOFFICER_00342_EYNZAHRSLAFYRSYN_100_414","有些話我想當面跟<Highlight>ObjectParameter(1)</Highlight>說，
 正好聽說你們任務歸來，我就直接過來了。"
-327,"TEXT_COMARMGCARMYOFFICER_00342_EYNZAHRSLAFYRSYN_100_415","現如今艾奧傑亞的嚴峻形勢你們也都清楚吧？
+327,"TEXT_COMARMGCARMYOFFICER_00342_EYNZAHRSLAFYRSYN_100_415","現在艾奧傑亞的嚴峻形勢你們也都清楚吧？
 在這樣的環境下，正是你們分隊的英勇表現，
 讓眾多同伴們看到了希望。"
 328,"TEXT_COMARMGCARMYOFFICER_00342_EYNZAHRSLAFYRSYN_100_416","因此呢，軍令部做出了一個決定。
 而我，則是覺得這件事還是由我親自告訴你會比較好。"
 329,"TEXT_COMARMGCARMYOFFICER_00342_EYNZAHRSLAFYRSYN_100_417","自本日起，正式任命<Highlight>ObjectParameter(1)</Highlight>為大甲士！
 今後請繼續如舵手一般指引黑渦團前進，以上！"
-330,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_418","這、這可真是個了不得的好訊息！
+330,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_418","這、這可真是個不得了的好消息！
 分隊長晉升大甲士，大甲將還親自過來贈言！
 我們全體分隊員都跟著感到榮幸！"
 331,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_419","再次祝賀您晉升！
@@ -659,23 +659,23 @@ int32,str,str
 完成這項任務可以進一步提升我分隊的評價！"
 333,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_410","恭喜您成功完成了重要任務！
 下官雖然從未懷疑過我分隊的實力，
-但是真當聽到任務成功的喜訊時，仍是免不了一陣超興奮！"
+但是真當聽到任務成功的喜訊時，仍是免不了一陣熱血沸騰！"
 334,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_411","啊，好像有客人來訪……
 請進！"
-335,"TEXT_COMARMGCARMYOFFICER_00342_STILLRIVER_200_412","(-？？？？-)打攪了。
+335,"TEXT_COMARMGCARMYOFFICER_00342_STILLRIVER_200_412","(-？？？？-)打擾了。
 這裡就是<Highlight>ObjectParameter(1)</Highlight>中鬥士麾下分隊的軍營吧？"
 336,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_413","啊，斯蒂爾·里弗大鬥將！
 您怎麼來了？！"
 337,"TEXT_COMARMGCARMYOFFICER_00342_STILLRIVER_200_414","有些話我想當面跟我們不滅隊引以為傲的英雄說，
 正好聽說你們任務歸來，我就直接過來了。"
-338,"TEXT_COMARMGCARMYOFFICER_00342_STILLRIVER_200_415","你們都知道，現如今艾奧傑亞的形勢極不樂觀。
+338,"TEXT_COMARMGCARMYOFFICER_00342_STILLRIVER_200_415","你們都知道，現在艾奧傑亞的形勢極不樂觀。
 在這樣的環境下，你們分隊的英勇表現讓很多將士們看到了希望，
 起到了優秀的帶頭作用。"
 339,"TEXT_COMARMGCARMYOFFICER_00342_STILLRIVER_200_416","因此，司令部做出了一個決定，
 並由我親自過來宣佈。"
 340,"TEXT_COMARMGCARMYOFFICER_00342_STILLRIVER_200_417","自本日起，正式任命<Highlight>ObjectParameter(1)</Highlight>為大鬥士！
 今後請繼續作為不滅隊閃耀的明星貢獻一份力量，以上！"
-341,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_418","這、這真是個了不得的好訊息！
+341,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_418","這、這真是個不得了的好消息！
 分隊長晉升大鬥士，大鬥將還親自過來贈言！
 我們全體分隊員都跟著感到榮幸！"
 342,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_419","再次祝賀您晉升！

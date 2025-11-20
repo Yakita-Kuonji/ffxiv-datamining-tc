@@ -7,7 +7,7 @@ int32,str,str
 　需要與接受任務時的職業相同才可繼續進行任務。
 
 阿爾達希爾提案對聖靈武器進行改造，使冒險者更容易將乙太傳導給人造聖靈。為此，需要將蓋羅爾特的工具進行絕靈化才行。蓋羅爾特委託冒險者收集絕靈化用的<Sheet(Item,14899,0)/>。使用接受任務時的職業並換下聖靈武器放在兵裝庫或背包中，將5個<Sheet(Item,14899,0)/>交給魔大陸阿濟茲拉螺旋港的阿爾達希爾。"
-2,"TEXT_JOBREL200_02284_SEQ_02","將<Sheet(Item,14899,0)/>交給了阿爾達希爾。武器發散出的美麗光華完美證明了冒險者的乙太已源源不絕地傳導給人造聖靈，人造聖靈本身也有了一些改變……和聖靈武器·超導共同成長，為下一次研究做好準備。"
+2,"TEXT_JOBREL200_02284_SEQ_02","將<Sheet(Item,14899,0)/>交給了阿爾達希爾。武器發散出的美麗光輝完美證明了冒險者的乙太已源源不絕地傳導給人造聖靈，人造聖靈本身也有了一些改變……和聖靈武器·超導共同成長，為下一次研究做好準備。"
 3,"TEXT_JOBREL200_02284_SEQ_03",""
 4,"TEXT_JOBREL200_02284_SEQ_04",""
 5,"TEXT_JOBREL200_02284_SEQ_05",""
@@ -208,7 +208,7 @@ int32,str,str
 其名為<Sheet(Item,IntegerParameter(1),0)/>！"
 120,"TEXT_JOBREL200_02284_GEROLT_100_067","<Highlight>ObjectParameter(1)</Highlight>和我的傑作！
 其名為<Sheet(Item,IntegerParameter(1),0)/>、<Sheet(Item,IntegerParameter(2),0)/>！"
-121,"TEXT_JOBREL200_02284_ARDASHIR_000_066","好厲害……如夢幻般美麗的光華！
+121,"TEXT_JOBREL200_02284_ARDASHIR_000_066","好厲害……如夢幻般美麗的光輝！
 <Highlight>ObjectParameter(1)</Highlight>的乙太在武器上奔騰！
 這下子人造聖靈一定能得到進一步成長！"
 122,"TEXT_JOBREL200_02284_BUKINOSEIREI_000_067","溫暖……"

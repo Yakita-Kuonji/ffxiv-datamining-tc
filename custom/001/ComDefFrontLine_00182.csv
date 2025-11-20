@@ -24,7 +24,7 @@ int32,str,str
 18,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_011","在「法外戰區」，冒險者之間可以組成小隊，
 以各國的大國防聯軍為陣營進行參戰，
 體驗「PvP」。"
-19,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_012","要想參加法外戰區，
+19,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_012","若想參加法外戰區，
 需要從任務搜尋器的「PvP」項提出申請。"
 20,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_013","（★未使用／預計刪除★）"
 21,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_050","如果能取得勝利的話，
@@ -42,7 +42,7 @@ int32,str,str
 27,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_030","我們的最終目標是控制古代亞拉戈文明遺跡……
 加爾提諾平原作為戰場之一，
 為此，首先要佔領周邊遺跡群。"
-28,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_031","在加爾提諾平原，可以通過佔領據點
+28,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_031","在加爾提諾平原，可以透過佔領據點
 或打倒敵方連隊的成員來獲得「戰術值」。"
 29,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_032","所屬連隊的戰術值總和達到指定數值後便可取得勝利。"
 30,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_033","在限定時間內未能分出勝負的話，
@@ -56,7 +56,7 @@ int32,str,str
 33,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_036","佔領所需的時間會根據旗幟周圍敵我雙方的人數差進行變動。
 佔領的連隊會隨時間獲得戰術值。"
 34,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_037","另外，佔領的據點越多，獲得的戰術值就越多。"
-35,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_038","已經被佔領的據點可以通過其他勢力的連隊「中立化」，
+35,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_038","已經被佔領的據點可以透過其他勢力的連隊「中立化」，
 進而再次奪取。
 即使據點被敵方連隊佔領，也不要放棄！"
 36,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_040","（★未使用／削除予定★）"
@@ -82,8 +82,8 @@ int32,str,str
 我們決定將其作為掌控的對象。"
 48,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_300_006","因為這個對象十分巨大，無法輕易搬運。
 因此我們在這座島嶼上的任務就是，
-通過亞拉戈石文帶回有關古代亞拉戈的情報。"
-49,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_300_010","在塵封秘岩，通過佔領分散在島內各處的亞拉戈石文來獲取情報，
+透過亞拉戈石文帶回有關古代亞拉戈的情報。"
+49,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_300_010","在塵封秘岩，透過佔領分散在島內各處的亞拉戈石文來獲取情報，
 可以獲得情報值。"
 50,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_300_011","從亞拉戈石文獲取的情報是有限的，
 當情報獲取完之後，該亞拉戈石文會停止運作。"
@@ -97,12 +97,12 @@ int32,str,str
 對冰封遺跡的掌控，將大大左右最終的勝負。"
 55,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_330_010","榮譽野和塵封秘岩相同，
 只要獲得的「情報值」達到指定數值後便可取得勝利。"
-56,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_330_011","在榮譽野，通過佔領分散在區域內各處的亞拉戈石文
+56,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_330_011","在榮譽野，透過佔領分散在區域內各處的亞拉戈石文
 或破壞冰封的石文，可以獲得情報值。"
 57,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_330_012","在亞拉戈石文周圍停留一段時間，便可以將其佔領，
 並隨時間流逝獲得相應的情報值。"
 58,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_330_013","佔領所需的時間會根據亞拉戈石文周圍敵我雙方的人數差進行變動。"
-59,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_330_014","而冰封的石文會在啟動後開始發熱，可以通過攻擊將其破壞。
+59,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_330_014","而冰封的石文會在啟動後開始發熱，可以透過攻擊將其破壞。
 破壞時根據造成的傷害量來分配相應的情報值。"
 60,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_330_015","另外，冰封的石文分為大小2種，
 大小不同耐久力不同，而且可獲得的情報值上限也不同。"

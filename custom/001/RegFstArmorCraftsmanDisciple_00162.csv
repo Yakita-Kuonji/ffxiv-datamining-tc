@@ -15,7 +15,7 @@ int32,str,str
 雖然已經請他收我為徒了……
 但是沉迷於酒的師父大人卻什麼都不教我。"
 10,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_011","沒辦法，所以我只好在這裡獨自進行修行了。
-如果能接觸巔峰時期的師父大人制作的傑作的話……
+如果能接觸巔峰時期的師父大人製作的傑作的話……
 我應該能學到不少東西吧……"
 11,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_020","師父大人曾作為武器界的先鋒，十分活躍，
 並製造了許多絕妙的傑作……
@@ -25,7 +25,7 @@ int32,str,str
 長年累月後，很多武器都劣化了吧。"
 13,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_022","不過，如果你能給我素材對等的報酬，
 即使是我這樣的手藝，也能進行修理！"
-14,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_023","如果你有師父大人制作的傑作的話……
+14,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_023","如果你有師父大人製作的傑作的話……
 請務必讓我修理試試。
 我也可以藉此學到很多東西！"
 15,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_031","……其實，在師父大人突然命令我重新打造加隆德裝備時，
@@ -38,8 +38,8 @@ int32,str,str
 18,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_034","我查了一下，立刻就明白這其中的原因了。
 因為這套裝備的製作者傑西，是帝國出身的機工師……
 這是由帝國的魔導技術製作出來的。"
-19,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_035","……沒錯，師父大人一定是想要通過這個「命令」，
-讓我接觸這世界級的優秀名作來擴充套件視野，學會自己思考！
+19,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_035","……沒錯，師父大人一定是想要透過這個「命令」，
+讓我接觸這世界級的優秀名作來增長視野，學會自己思考！
 這就是對我的「指導」。"
 20,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_036","我仔細觀察了一下裝備，發現了一點點可以改進的地方。
 因為這是基於帝國的技術，由艾奧傑亞的素材製作出來的，

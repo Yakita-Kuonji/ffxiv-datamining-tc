@@ -127,7 +127,7 @@ int32,str,str
 正是那時，身著黑衣的無影出現在我的面前。"
 69,"TEXT_VOICEMAN_03007_500130_TIAMAT","(-提亞馬特-)他們許諾能夠讓巴哈姆特復活，
 我天真地接受了他們的條件……"
-70,"TEXT_VOICEMAN_03007_500140_TIAMAT","(-提亞馬特-)可他們卻召喚出了虛偽的贗品，
+70,"TEXT_VOICEMAN_03007_500140_TIAMAT","(-提亞馬特-)但他們卻召喚出了虛偽的贗品，
 並傳授給人類足以永遠困住巴哈姆特的知識。"
 71,"TEXT_VOICEMAN_03007_500150_TIAMAT","(-提亞馬特-)人類之子，你知道嗎？
 所謂神靈，不過是想像力的產物……
@@ -170,7 +170,7 @@ int32,str,str
 96,"TEXT_VOICEMAN_03007_800080_LAHABREA","你不會再有機會妨礙我們了！"
 97,"TEXT_VOICEMAN_03007_900010_LAHABREA","力量竟然強到如此程度……"
 98,"TEXT_VOICEMAN_03007_900020_IGEYOHRM","這絕不可能！竟然能夠超過我的力量！"
-99,"TEXT_VOICEMAN_03007_900030_IGEYOHRM","拉哈佈雷亞！是時候了！"
+99,"TEXT_VOICEMAN_03007_900030_IGEYOHRM","拉哈布雷亞！是時候了！"
 100,"TEXT_VOICEMAN_03007_900040_LAHABREA","好吧！讓你見識一下“超越之力”真正的力量！"
 101,"TEXT_VOICEMAN_03007_900050_LAHABREA","超越肉體與靈魂的境界！"
 102,"TEXT_VOICEMAN_03007_900060_IGEYOHRM","你我將化為一體——"
@@ -182,11 +182,11 @@ int32,str,str
 107,"TEXT_VOICEMAN_03007_A00030_LAHABREA","<UIForeground>F20223</UIForeground>竟然能夠重新取回光之加護的力量……<UIForeground>01</UIForeground>"
 108,"TEXT_VOICEMAN_03007_A00040_LAHABREA","<UIForeground>F20223</UIForeground>而且還能打破我們的超越之力，
 這樣下去情況不妙……<UIForeground>01</UIForeground>"
-109,"TEXT_VOICEMAN_03007_A00050_IGEYOHRM","<UIForeground>F20223</UIForeground>拉哈佈雷亞！我們趕快離開這裡！
+109,"TEXT_VOICEMAN_03007_A00050_IGEYOHRM","<UIForeground>F20223</UIForeground>拉哈布雷亞！我們趕快離開這裡！
 光之戰士手中現在沒有能夠打碎我們靈魂的魔器！<UIForeground>01</UIForeground>"
 110,"TEXT_VOICEMAN_03007_A00060_IGEYOHRM","<UIForeground>F20223</UIForeground>這不可能！<UIForeground>01</UIForeground>"
 111,"TEXT_VOICEMAN_03007_A00070_IGEYOHRM","不——！"
-112,"TEXT_VOICEMAN_03007_A00080_LAHABREA","<UIForeground>F20223</UIForeground>龍眼的力量麼……
+112,"TEXT_VOICEMAN_03007_A00080_LAHABREA","<UIForeground>F20223</UIForeground>龍眼的力量嗎……
 可是現在力量已經耗盡了，你還有什麼能力呢？<UIForeground>01</UIForeground>"
 113,"TEXT_VOICEMAN_03007_A00090_THORDAN","果然如我所料，即使是受到海德林加護的光之戰士，
 失去了魔器的幫助也無法斬殺無影。"
@@ -208,11 +208,11 @@ int32,str,str
 120,"TEXT_VOICEMAN_03007_A00160_THORDAN","不過，不要以為所有的人類都會按照你們的想法默默地走下去。"
 121,"TEXT_VOICEMAN_03007_A00170_LAHABREA","<UIForeground>F20223</UIForeground>你竟敢背叛我！<UIForeground>01</UIForeground>"
 122,"TEXT_VOICEMAN_03007_A00180_THORDAN","用我的身體，喚醒傳說中的騎士王……"
-123,"TEXT_VOICEMAN_03007_A00190_THORDAN","通過千年戰爭而積蓄的祈禱，
-通過龍眼所蘊藏的大量乙太，
+123,"TEXT_VOICEMAN_03007_A00190_THORDAN","透過千年戰爭而累積的祈禱，
+透過龍眼所蘊藏的大量乙太，
 我將成為永遠不滅的神。"
 124,"TEXT_VOICEMAN_03007_A00200_LAHABREA","<UIForeground>F20223</UIForeground>什麼？<UIForeground>01</UIForeground>"
-125,"TEXT_VOICEMAN_03007_A00210_THORDAN","無影拉哈佈雷亞，你太小看人類了。
+125,"TEXT_VOICEMAN_03007_A00210_THORDAN","無影拉哈布雷亞，你太小看人類了。
 我成神之後的第一次審判，便是判處你死刑！"
 126,"TEXT_VOICEMAN_03007_A00220_LAHABREA","啊——！"
 127,"TEXT_VOICEMAN_03007_A00230_THORDAN","神靈會吸收任何形態的乙太，
@@ -281,7 +281,7 @@ int32,str,str
 你們是否希望再次與龍族和平共處？"
 164,"TEXT_VOICEMAN_03007_E00080_AYMERIC","人類為了戰爭而編撰的歷史已經消失，
 率領龍族復仇的尼德霍格也已離開了這個世界……"
-165,"TEXT_VOICEMAN_03007_E00090_AYMERIC","同樣的錯誤已在人類與龍族之間反復發生多次。
+165,"TEXT_VOICEMAN_03007_E00090_AYMERIC","同樣的錯誤已在人類與龍族之間反覆發生多次。
 我們無法渴求將這些錯誤全都置之不理。"
 166,"TEXT_VOICEMAN_03007_E00100_AYMERIC","但是我個人希望並且確信，
 未來的伊修加爾德一定能夠成為人與龍攜手生活的土地。"

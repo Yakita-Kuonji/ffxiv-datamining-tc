@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_REGABRSKYPIRATESDENSHARE_00346_REDBILLDECKHAND_000_000","前陣子烏塔塔不是被猛禽聯盟抓了嗎？
 自那以後我們就加強了警備。
-總得讓大家有個安心的環境休息不是？"
+總得讓大家有個安心的環境休息對吧？"
 1,"TEXT_REGABRSKYPIRATESDENSHARE_00346_REDBILLDECKHAND_000_010","喲，你來見利奧法德嗎？
 他應該就在自己的屋子裡。
 從這道門進去往左走就是了。"
@@ -14,10 +14,10 @@ int32,str,str
 但突然少了這個對手還是有些寂寞啊……"
 4,"TEXT_REGABRSKYPIRATESDENSHARE_00346_REDBILLDECKHAND_100_000","沒想到敵人會進攻基地……
 這帳遲早要找他們算清楚。"
-5,"TEXT_REGABRSKYPIRATESDENSHARE_00346_REDBILLDECKHAND_100_010","利奧法德和貓妖終於把妖異們消滅了！
-好嘞，讓我們舉辦宴會，喝酒慶祝吧！"
+5,"TEXT_REGABRSKYPIRATESDENSHARE_00346_REDBILLDECKHAND_100_010","利奧法德和凱特西終於把妖異們消滅了！
+好的，讓我們舉辦宴會，喝酒慶祝吧！"
 6,"TEXT_REGABRSKYPIRATESDENSHARE_00346_REDBILLDECKHAND_100_020","能讓平時總喜歡裝酷的利奧法德流露出那種真情實感，
-這也是貓妖的才能。
+這也是凱特西的才能。
 聽著他們倆鬥嘴真是有意思！"
 7,"TEXT_REGABRSKYPIRATESDENSHARE_00346_REDBILLENGINEER_000_100","飛空艇關係到空賊的性命，
 所以我們整備時也絕不能掉以輕心，
@@ -47,7 +47,7 @@ int32,str,str
 16,"TEXT_REGABRSKYPIRATESDENSHARE_00346_LEOFARD_100_300","自從結束跟你一起的冒險之後，都沒什麼樂子了。
 雖然這種倦怠期也是下一場興奮冒險的過渡期……
 但要是再這麼無聊下去，我的槍都要生鏽了。"
-17,"TEXT_REGABRSKYPIRATESDENSHARE_00346_STACIA_000_400","貓妖正在全力調查解放契約石全部力量的方法。
+17,"TEXT_REGABRSKYPIRATESDENSHARE_00346_STACIA_000_400","凱特西正在全力調查解放契約石全部力量的方法。
 我打算利用這段時間好好摸清敵方的戰力和動向。"
 18,"TEXT_REGABRSKYPIRATESDENSHARE_00346_STACIA_100_400","聽說猛禽聯盟在未知的空域胡作非為。
 我們也不能輸給拉德莉亞啊！
@@ -63,6 +63,6 @@ int32,str,str
 我也要好好加油才行！"
 22,"TEXT_REGABRSKYPIRATESDENSHARE_00346_UTATA_100_605","其實並不是我不攔著利奧法德。
 是當我意識到的時候，他已經衝出基地了！"
-23,"TEXT_REGABRSKYPIRATESDENSHARE_00346_UTATA_100_600","貓妖成為團員後我每天都好開心！
+23,"TEXT_REGABRSKYPIRATESDENSHARE_00346_UTATA_100_600","凱特西成為團員後我每天都好開心！
 果然多一個同伴就多一份快樂。
 <Highlight>ObjectParameter(1)</Highlight>也要經常到基地來玩啊！"

@@ -106,7 +106,7 @@ int32,str,str
 75,"TEXT_STMBDA312_02488_ALISAIE_000_046","(-阿莉塞-)我也順利找到寶物殿的入口了。
 就在島的西北邊，通道的最裡面。
 我已經解開封印了，你們快過來吧！"
-76,"TEXT_STMBDA312_02488_LYSE_000_050","好嘞，好戲才剛剛開始！
+76,"TEXT_STMBDA312_02488_LYSE_000_050","好的，好戲才剛剛開始！
 儘管放馬過來吧！"
 77,"TEXT_STMBDA312_02488_ALISAIE_000_060","你們沒事吧，<Highlight>ObjectParameter(1)</Highlight>！
 這扇門後面應該就是寶物殿了。"
@@ -127,4 +127,4 @@ int32,str,str
 他們也只是告訴我們小心點……"
 84,"TEXT_STMBDA312_02488_ALISAIE_000_084","真是的……如果說這也是緣分的話那正好！
 我們都闖關闖到這裡了，
-最後這個也給他打飛吧，<Highlight>ObjectParameter(1)</Highlight>！"
+最後這個也把他打飛吧，<Highlight>ObjectParameter(1)</Highlight>！"

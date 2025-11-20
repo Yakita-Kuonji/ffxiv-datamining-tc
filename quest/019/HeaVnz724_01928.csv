@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ724_01928_SEQ_00","尾羽部落的馬塞尚一臉後悔地皺著眉頭。"
-1,"TEXT_HEAVNZ724_01928_SEQ_01","馬塞尚想要打倒那隻搶走他獵物的熊。前往龍堡參天高地的陸行鳥之森，將<Sheet(EventItem,2001674,0)/>放置在<Sheet(EObj,2005833,0)/>。"
+1,"TEXT_HEAVNZ724_01928_SEQ_01","馬塞尚想要打倒那隻搶走他獵物的熊。前往德拉瓦尼亞山麓地的陸行鳥之森，將<Sheet(EventItem,2001674,0)/>放置在<Sheet(EObj,2005833,0)/>。"
 2,"TEXT_HEAVNZ724_01928_SEQ_02","將<Sheet(EventItem,2001674,0)/>放在了<Sheet(EObj,2005833,0)/>。在陸行鳥之森的<Sheet(EObj,2005834,0)/>等待，討伐出現的<Sheet(BNpcName,4068,0)/>。"
 3,"TEXT_HEAVNZ724_01928_SEQ_03","討伐了<Sheet(BNpcName,4068,0)/>。向尾羽部落的馬塞尚報告。"
 4,"TEXT_HEAVNZ724_01928_SEQ_04","將打倒<Sheet(BNpcName,4068,0)/>一事向馬塞尚報告完畢。這樣就不會再有前來奪走他獵物的熊了。"

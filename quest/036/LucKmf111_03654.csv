@@ -263,7 +263,7 @@ int32,str,str
 150,"TEXT_LUCKMF111_03654_TATARU_000_190","呵呵呵……我和可露兒小姐一起找到的，
 找得可辛苦了！
 等見到了那個人，你一定也會嚇一跳！"
-151,"TEXT_LUCKMF111_03654_TATARU_000_191","我想先跟他取得聯繫，
+151,"TEXT_LUCKMF111_03654_TATARU_000_191","我想先跟他取得聯絡，
 確認一下最新的戰況。
 所以……能稍微再給我些時間嗎？"
 152,"TEXT_LUCKMF111_03654_TATARU_000_192","嘿嘿嘿……<Highlight>ObjectParameter(1)</Highlight>，
@@ -273,7 +273,7 @@ int32,str,str
 歡迎回家！"
 154,"TEXT_LUCKMF111_03654_ELIDIBUS_000_900","<UIForeground>F20223</UIForeground>愛梅特賽爾克……
 你真的消失了嗎……<UIForeground>01</UIForeground>"
-155,"TEXT_LUCKMF111_03654_ELIDIBUS_000_901","<UIForeground>F20223</UIForeground>拉哈佈雷亞也已經不在了，
+155,"TEXT_LUCKMF111_03654_ELIDIBUS_000_901","<UIForeground>F20223</UIForeground>拉哈布雷亞也已經不在了，
 如今，原種就只剩下我自己。<UIForeground>01</UIForeground>"
 156,"TEXT_LUCKMF111_03654_ELIDIBUS_000_902","<UIForeground>F20223</UIForeground>事已至此，我不得不承認……
 自己再一次看錯了人類的可能性。<UIForeground>01</UIForeground>"

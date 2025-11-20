@@ -15,7 +15,7 @@ int32,str,str
 那就和我們一起聽聽老師講課吧！"
 6,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOHARU_000_014","是啊是啊！
 把不知道的事情放著不問的話是很不好的！
-大人們總是這樣說來著！"
+大人們總是這樣說！"
 7,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_015","你們說得很好。
 你如果願意的話，請聽我講解一下。"
 8,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_016","那麼我們開始吧。
@@ -59,19 +59,19 @@ int32,str,str
 孩子們非常熱心地聽我講課呢。"
 26,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_040","<Highlight>ObjectParameter(1)</Highlight>，歡迎你過來。
 托你的福，
-學舍轉眼間變得如此氣派了。"
+學舍轉眼間變得如此壯觀了。"
 27,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_041","我們也收到了許多捐贈的書籍，
 不僅是外觀就連內部都充實起來了。"
 28,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_042","而且不僅是這些，
 文具筆墨什麼的，
 都是孩子們自己去匠人街那裡弄來的哦。"
 29,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_043","對啊！
-我管貫師傅要了煤炭，自己做出了墨水哦！"
+我向貫師傅要了煤炭，自己做出了墨水哦！"
 30,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_SHIUN_000_044","雖然弄得兩手黑黑的，
 但是研墨真的是很有意思呢。
 <If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>，下回也一起來吧？"
 31,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOHARU_000_045","我們去了趟蘭師傅那裡！
-拿回來了許多稍微有些殘破沒法作為商品的紙張！"
+拿回來了許多稍微有些殘破無法作為商品的紙張！"
 32,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_ROKKA_000_046","蘭師傅還順便給了我一個小風車。"
 33,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_YOUZAN_000_047","啊！這太不公平了！"
 34,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_048","從前他們就是很活潑的孩子們……
@@ -83,7 +83,7 @@ int32,str,str
 36,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_050","那些孩子們總是在全力地享受著眼前的事情。
 他們的笑容對我來說真的是一種救贖。"
 37,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_051","有著這種想法的人可不只是我。
-車前會和木匠們也都是同樣的想法。"
+車前會和工匠們也都是同樣的想法。"
 38,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_052","所以呢……
 大人們就悄悄地策劃著
 建造下一個讓孩子們感到快樂的地方。"
@@ -96,7 +96,7 @@ int32,str,str
 為了進一步的發展而努力吧！"
 42,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_060","孩子們不僅自己準備好了學習用品，
 好像還在幫忙干各種事情。
-木匠團的人們也很喜歡他們。"
+工匠團的人們也很喜歡他們。"
 43,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_065","水無月老師，打擾一下。
 我聽寶山說大家想讓我來這裡一趟，
 所以就過來了。"
@@ -108,7 +108,7 @@ int32,str,str
 芙·拉敏阿姨給我們的。
 她跟我說過「即使回到多瑪，也不要忘記在艾奧傑亞的事情哦」。"
 47,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_ROKKA_000_069","我們想不論在何時都能想起艾奧傑亞的事情，
-所以就拜託木匠先生幫忙給掛起來了。
+所以就拜託工匠先生幫忙給掛起來了。
 水無月老師要是也能喜歡就好了……"
 48,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_MINAZUKI_000_070","真是不錯的地圖啊。
 記住這裡是你們的學舍，
@@ -146,7 +146,7 @@ int32,str,str
 61,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_082","為了這些孩子們，
 車前會已經開始討論
 進一步加強城內治安的事情了。"
-62,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_083","我這裡正好有一個好訊息。
+62,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_083","我這裡正好有一個好消息。
 我們打算召集被徵兵後歸來的有志之士成立一個巡邏隊，
 然後在歸燕館的旁邊建立一個巡邏隊駐所。"
 63,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_084","今後車前會將會援助巡邏隊駐所。
@@ -159,4 +159,4 @@ int32,str,str
 做自己力所能及的事情。"
 66,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_095","我很期待這些孩子們能夠健康成長，
 將來成為新時代的繼承人呢。"
-67,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_096","先走一步的丈夫也肯定在守望著孩子們呢吧。"
+67,"TEXT_CTSDOMRECONSTRUCTMINAZUKI_00526_KOZAKURA_000_096","先走一步的丈夫也肯定在守望著孩子們吧。"

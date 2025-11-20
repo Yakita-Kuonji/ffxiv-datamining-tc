@@ -61,7 +61,7 @@ int32,str,str
 從公會合建裝置中執行「推進工程進展」。"
 35,"TEXT_CMNDEFWORKSHOPGUIDE_00263_MAMMET00263_250_000","在推進工程進展時、
 根據得到的結果、接下來的工程會發生變化。"
-36,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_250_001","通過消耗交納的素材、推進工程進展的話，
+36,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_250_001","透過消耗交納的素材、推進工程進展的話，
 會有「成功」和「非常成功」兩種結果。"
 37,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_250_002","另外，公會合建裝置分為「通常」「良好」「最佳」3種狀態。
 根據進展結果不同，狀態也會發生變化。"
@@ -102,7 +102,7 @@ int32,str,str
 注意飛空艇配件的配件重量、再進行裝備吧！"
 57,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_330_001","各飛空艇配件都是有重量的。
 所裝備配件的重量合計不能超過飛空艇的承載力。"
-58,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_330_002","要想增加承載力，那麼就需要提高飛空艇的等級。"
+58,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_330_002","若想增加承載力，那麼就需要提高飛空艇的等級。"
 59,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_330_003","讓飛空艇去探索能夠獲得經驗值，
 並可以以此提高飛空艇的等級。
 積極地讓飛空艇到處去探索吧。"
@@ -160,9 +160,9 @@ int32,str,str
 只能以參加時的人數來進行挑戰，敬請注意。"
 87,"TEXT_CMNDEFWORKSHOPGUIDE_00263_MAMMET00263_410_013","此外，戰鬥精英和魔法導師的等級超過60級時，
 會自動進行等級同步。"
-88,"TEXT_CMNDEFWORKSHOPGUIDE_00263_MAMMET00263_410_006","「雲冠群島探索」可以通過在限定時間內
+88,"TEXT_CMNDEFWORKSHOPGUIDE_00263_MAMMET00263_410_006","「雲冠群島探索」可以透過在限定時間內
 完成目的列表所指定的任務，獲得報酬。"
-89,"TEXT_CMNDEFWORKSHOPGUIDE_00263_MAMMET00263_510_005","完成任務後便可以通過乙太洞前往亂風脈帶。"
+89,"TEXT_CMNDEFWORKSHOPGUIDE_00263_MAMMET00263_510_005","完成任務後便可以透過乙太洞前往亂風脈帶。"
 90,"TEXT_CMNDEFWORKSHOPGUIDE_00263_MAMMET00263_510_006","另外，選擇「雲冠群島戰神獵場」任務後，
 在進行探索任務時不能轉職為大地使者或能工巧匠。"
 91,"TEXT_CMNDEFWORKSHOPGUIDE_00263_MAMMET00263_410_007","在留有戰利品的狀態下退出「雲冠群島探索」的話，
@@ -224,7 +224,7 @@ int32,str,str
 注意潛水艇配件的配件重量、再進行裝備吧！"
 129,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_630_001","各潛水艇配件都是有重量的。
 所裝備配件的重量合計不能超過潛水艇的承載力。"
-130,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_630_002","要想增加承載力，那麼就需要提高潛水艇的等級。"
+130,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_630_002","若想增加承載力，那麼就需要提高潛水艇的等級。"
 131,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_630_003","讓潛水艇去探索能夠獲得經驗值，
 並可以以此提高潛水艇的等級。
 積極地讓潛水艇到處去探索吧。"

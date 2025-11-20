@@ -50,7 +50,7 @@ int32,str,str
 45,"TEXT_KINGZE002_05120_TODO_21",""
 46,"TEXT_KINGZE002_05120_TODO_22",""
 47,"TEXT_KINGZE002_05120_TODO_23",""
-48,"TEXT_KINGZE002_05120_YANEHWI_000_001","唉，這可怎麼辦啊……"
+48,"TEXT_KINGZE002_05120_YANEHWI_000_001","唉，這下該怎麼辦啊……"
 49,"TEXT_KINGZE002_05120_YANEHWI_000_002","你！你看起來身手不錯嘛！
 可以請你幫個忙嗎？"
 50,"TEXT_KINGZE002_05120_YANEHWI_000_003","是這樣的，有幾個醉鬼在店裡發酒瘋。
@@ -79,7 +79,7 @@ int32,str,str
 <If(PlayerParameter(4))>小姐<Else/>小哥</If>也一起在美酒中起舞吧！"
 60,"TEXT_KINGZE002_05120_CITIZEND05120_000_031","唔……！！
 好冷！！幹什麼啊，我正跳得高興呢！"
-61,"TEXT_KINGZE002_05120_CITIZEND05120_000_032","啊！壞了，現在幾點了？！
+61,"TEXT_KINGZE002_05120_CITIZEND05120_000_032","啊！糟了，現在幾點了？！
 我得趕去工作了，不然會被開除的！！
 走、走了啊！！"
 62,"TEXT_KINGZE002_05120_YANEHWI_000_040","我看到醉鬼們都都慌慌張張地出去了！

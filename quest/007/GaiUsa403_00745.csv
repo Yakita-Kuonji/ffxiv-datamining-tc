@@ -56,8 +56,8 @@ int32,str,str
 50,"TEXT_GAIUSA403_00745_KNOLEXIA_000_002","給你這個<Sheet(EventItem,2000597,0)/>呼啾。
 在你削弱<Sheet(BNpcName,2187,0)/>之後，
 對其使用這個，就能獲得<Sheet(EventItem,2000598,0)/>了呼啾！"
-51,"TEXT_GAIUSA403_00745_TODO_000_010","討伐3隻砂蚤並獲得砂蚤的鮮血
-（將砂蚤的體力減至四分之一以下後，
+51,"TEXT_GAIUSA403_00745_TODO_000_010","討伐3隻沙蚤並獲得沙蚤的鮮血
+（將沙蚤的HP減至四分之一以下後，
 對其使用任務道具即可獲得）"
 52,"TEXT_GAIUSA403_00745_KNOLEXIA_000_020","你去打了<Sheet(BNpcName,2187,0)/>嗎呼啾？"
 53,"TEXT_GAIUSA403_00745_KNOLEXIA_000_021","將這個繞到這邊……

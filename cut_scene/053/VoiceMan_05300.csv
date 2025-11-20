@@ -27,7 +27,7 @@ int32,str,str
 暗之戰士閣下。"
 16,"TEXT_VOICEMAN_05300_000130_ELIDIBUS","你這一路精進技藝，收集裝備，消滅強敵。
 我也同樣在竭盡全力做好每一件事，清掃路上的障礙。"
-17,"TEXT_VOICEMAN_05300_000140_ELIDIBUS","拉哈佈雷亞、愛梅特賽爾克……
+17,"TEXT_VOICEMAN_05300_000140_ELIDIBUS","拉哈布雷亞、愛梅特賽爾克……
 他們既是我的同胞，也是一同為世界而戰的同志，
 但卻都被你奪走了性命。"
 18,"TEXT_VOICEMAN_05300_000150_ELIDIBUS","事到如今，我已不再認為你還能夠為我所用。
@@ -118,12 +118,12 @@ int32,str,str
 雖然乙太略微有些波動，
 但他們看起來還只是平穩地沉睡著……"
 67,"TEXT_VOICEMAN_05300_000610_KRILE","這幾天他們的情況突然急轉直下。
-我雖然立刻聯繫了瑪托雅老師，可她也沒法給出準確的解釋。"
+我雖然立刻聯絡了瑪托雅老師，可她也無法給出準確的解釋。"
 68,"TEXT_VOICEMAN_05300_000620_KRILE","最後她只能提醒我們一點，
 牽扯到靈魂與生命的問題都還是人力所不能及的領域，
 任何出乎預料的事情都有可能發生。"
 69,"TEXT_VOICEMAN_05300_000630_KRILE","不過越是艱難的時刻，我們越需要微笑面對。
-焦急和失落只會讓問題更難解決而已。"
+著急和失落只會讓問題更難解決而已。"
 70,"TEXT_VOICEMAN_05300_000640_KRILE","放心吧，雖然剛才桑克瑞德的狀態有些許波動，
 但都已經被我解決了！"
 71,"TEXT_VOICEMAN_05300_000650_KRILE","其他人也一樣，
@@ -163,7 +163,7 @@ int32,str,str
 怎麼樣？這段時間有什麼進展嗎？"
 89,"TEXT_VOICEMAN_05300_000790_ALPHINAUD","生命力突然減弱？
 如果連可露兒和瑪托雅老師都束手無策的話……
-看來我們確實需要抓緊時間了。"
+看來我們確實需要把握時間了。"
 90,"TEXT_VOICEMAN_05300_000800_ALISAIE","那就要看吸魂晶的製作情況了。
 怎麼樣？這段時間有什麼進展嗎？"
 91,"TEXT_VOICEMAN_05300_000810_BEQLUGG","嗯，有進展的。
@@ -209,7 +209,7 @@ int32,str,str
 我卻有可能是去和原初世界的我合而為一。"
 111,"TEXT_VOICEMAN_05300_001010_MYSTERYVOICE","如果能順利融合到一起當然是最理想的情況，
 但是如果我們互相排斥，
-那接下來會變成什麼樣，誰也沒法預測。"
+那接下來會變成什麼樣，誰也無法預測。"
 112,"TEXT_VOICEMAN_05300_001020_ALISAIE","……你確定？"
 113,"TEXT_VOICEMAN_05300_001030_MYSTERYVOICE","嗯，至少現在是的。"
 114,"TEXT_VOICEMAN_05300_001040_ALISAIE","是嗎……"
@@ -218,7 +218,7 @@ int32,str,str
 116,"TEXT_VOICEMAN_05300_001060_ELIDIBUS","別看我，她倒在這裡與我無關。
 我猜是因為靈魂和肉體的連接出現了問題。"
 117,"TEXT_VOICEMAN_05300_001070_ELIDIBUS","雖然我不知道你們在這裡調查什麼，
-但再怎麼想要瞭解我們的時代，也都毫無意義。"
+但再怎麼想要了解我們的時代，也都毫無意義。"
 118,"TEXT_VOICEMAN_05300_001080_LAHABREA","(-十四人委員會主席-)<UIForeground>F20223</UIForeground>又在查看辯論的記錄了？
 你可真是愛瞎操心……<UIForeground>01</UIForeground>"
 119,"TEXT_VOICEMAN_05300_001090_LAHABREA","(-十四人委員會主席-)<UIForeground>F20223</UIForeground>還是應該說你真是盡職盡責呢，艾里迪布斯。<UIForeground>01</UIForeground>"
@@ -291,7 +291,7 @@ int32,str,str
 你確信自己銘記每一件重要的事情嗎？"
 153,"TEXT_VOICEMAN_05300_001430_ELIDIBUS","……你到底想說什麼？"
 154,"TEXT_VOICEMAN_05300_001440_YSHTOLA","蠻神的性質會根據收到的祈願不同而發生改變，
-現如今，即使我們也想要“拯救世界”，
+現在，即使我們也想要“拯救世界”，
 這個願望一定也比你們那個時代更散亂，更複雜。"
 155,"TEXT_VOICEMAN_05300_001450_YSHTOLA","那麼，你從這些含有雜質的祈願中獲得力量之後，
 還能說自己依然是當初的自己嗎？"
@@ -331,7 +331,7 @@ int32,str,str
 173,"TEXT_VOICEMAN_05300_001600_HYTHLODAEUS","<UIForeground>F20223</UIForeground>呵呵……你果然在收集星星啊。<UIForeground>01</UIForeground>"
 174,"TEXT_VOICEMAN_05300_001610_HYTHLODAEUS","<UIForeground>F20223</UIForeground>我是說你手中的小水晶。
 你看，上面不是刻著星座嗎？<UIForeground>01</UIForeground>"
-175,"TEXT_VOICEMAN_05300_001620_HYTHLODAEUS","<UIForeground>F20223</UIForeground>夜空中閃耀的明星，象徵著無限的迴圈，
+175,"TEXT_VOICEMAN_05300_001620_HYTHLODAEUS","<UIForeground>F20223</UIForeground>夜空中閃耀的明星，象徵著無限的循環，
 為大地上的生命指引方向……
 也是象徵著十四人委員會的印記。<UIForeground>01</UIForeground>"
 176,"TEXT_VOICEMAN_05300_001630_HYTHLODAEUS","<UIForeground>F20223</UIForeground>所以星星中也就封印著有關他們的情報。
@@ -378,8 +378,8 @@ int32,str,str
 194,"TEXT_VOICEMAN_05300_001810_HYTHLODAEUS","<UIForeground>F20223</UIForeground>正常來說，如果發現了問題，
 是應該帶回去交給委員會的。<UIForeground>01</UIForeground>"
 195,"TEXT_VOICEMAN_05300_001820_HYTHLODAEUS","<UIForeground>F20223</UIForeground>可<If(PlayerParameter(4))>她<Else/>他</If>卻不會那麼做，
-<If(PlayerParameter(4))>她<Else/>他</If>會叫上自己的夥伴，
-通過他們自己的力量去解決那些問題……<UIForeground>01</UIForeground>"
+<If(PlayerParameter(4))>她<Else/>他</If>會找自己的夥伴，
+透過他們自己的力量去解決那些問題……<UIForeground>01</UIForeground>"
 196,"TEXT_VOICEMAN_05300_001830_HYTHLODAEUS","<UIForeground>F20223</UIForeground>這裡面封印的，
 是能夠將“最合適的星辰”召喚過來的法術。<UIForeground>01</UIForeground>"
 197,"TEXT_VOICEMAN_05300_001840_HYTHLODAEUS","<UIForeground>F20223</UIForeground>當你面對巨大的困難停下腳步時，
@@ -400,7 +400,7 @@ int32,str,str
 恭喜你就任代理元首一職。"
 207,"TEXT_VOICEMAN_05300_001940_CHAINUZZ","哪裡，這都是托大家的福。
 雅·修朵拉小姐看來也別來無恙，我們也放心了。"
-208,"TEXT_VOICEMAN_05300_001950_YSHTOLA","別來無恙麼……
+208,"TEXT_VOICEMAN_05300_001950_YSHTOLA","別來無恙嗎……
 雖然又是失去意識又是被拐走，
 不過還好有<If(PlayerParameter(4))>她<Else/>他</If>，才沒出什麼事。"
 209,"TEXT_VOICEMAN_05300_001960_THANCRED","艾里迪布斯是蠻神……
@@ -494,9 +494,9 @@ int32,str,str
 260,"TEXT_VOICEMAN_05300_002460_THANCRED","聽懂了吧，你快去水晶都，
 這裡就交給我們應付！"
 261,"TEXT_VOICEMAN_05300_002470_YSHTOLA","哎呀，可真帥啊。
-不過那些魔法師能感知乙太的流動，
+不過那些魔道士能感知乙太的流動，
 就憑你們兩個可是騙不過他們的哦？"
-262,"TEXT_VOICEMAN_05300_002480_YSHTOLA","我覺得二位元可能需要一些魔法的説明，
+262,"TEXT_VOICEMAN_05300_002480_YSHTOLA","我覺得二位可能需要一些魔法的説明，
 比如能夠大幅度擾亂乙太的破壞魔法怎麼樣？"
 263,"TEXT_VOICEMAN_05300_002490_URIANGER","呵呵……"
 264,"TEXT_VOICEMAN_05300_002500_URIANGER","……那麼就讓我也盡全力輔助你們吧。"
@@ -611,7 +611,7 @@ int32,str,str
 333,"TEXT_VOICEMAN_05300_003120_MYSTERYVOICE","你還記得嗎？
 當初最開始調查這座塔的時候，
 你們冒險者部隊打頭陣，而我只能在後方跟著你們……"
-334,"TEXT_VOICEMAN_05300_003130_MYSTERYVOICE","那時候我也沒法提出異議……
+334,"TEXT_VOICEMAN_05300_003130_MYSTERYVOICE","那時候我也無法提出異議……
 但其實我不知有多少次，
 都想著要是能和你一起衝鋒陷陣該有多好……"
 335,"TEXT_VOICEMAN_05300_003140_MYSTERYVOICE","而現在，我的願望實現了，
@@ -662,7 +662,7 @@ int32,str,str
 黑暗的增幅已經對光與暗的平衡造成了威脅。"
 360,"TEXT_VOICEMAN_05300_003360_ELIDIBUS","於是我與你接觸，開始履行調停者的職責。
 本來我還期待你是一顆好用的棋子……"
-361,"TEXT_VOICEMAN_05300_003370_ELIDIBUS","然而這份天真令我失去了拉哈佈雷亞與愛梅特賽爾克。"
+361,"TEXT_VOICEMAN_05300_003370_ELIDIBUS","然而這份天真令我失去了拉哈布雷亞與愛梅特賽爾克。"
 362,"TEXT_VOICEMAN_05300_003380_ELIDIBUS","如今我已經是最後的原種無影。
 光靠那些和廢物同等程度的轉生種不可能達成我們真人的夙願。"
 363,"TEXT_VOICEMAN_05300_003390_ELIDIBUS","所以我絕對不能輸……我要在這裡將你打倒，
@@ -719,7 +719,7 @@ int32,str,str
 我就是傳說中的光之戰士！"
 390,"TEXT_VOICEMAN_05300_003600_ELIDIBUS","暗之戰士啊，來決一死戰吧！"
 391,"TEXT_VOICEMAN_05300_003610_ELIDIBUS","什麼……"
-392,"TEXT_VOICEMAN_05300_003620_EMETSELCH","我在這裡記錄一位元親愛之人
+392,"TEXT_VOICEMAN_05300_003620_EMETSELCH","我在這裡記錄一位親愛之人
 一位行遍天下 盡其一生連接地上繁星之人"
 393,"TEXT_VOICEMAN_05300_003630_EMETSELCH","如若經你之手
 即使如今天地分斷 人心永隔
@@ -746,7 +746,7 @@ int32,str,str
 404,"TEXT_VOICEMAN_05300_003740_ELIDIBUS","這是……"
 405,"TEXT_VOICEMAN_05300_003750_ELIDIBUS","啊——我想起來了……
 我原以為，只要成為佐狄亞克，就能拯救所有人……
-然而成為佐狄亞克後，我卻依然能聽到同伴的哀歎……"
+然而成為佐狄亞克後，我卻依然能聽到同伴的哀嘆……"
 406,"TEXT_VOICEMAN_05300_003760_ELIDIBUS","關於世界今後的方向，大家提出了很多不同的意見……
 但因為事態實在太過罕見，委員會自己也亂了陣腳。"
 407,"TEXT_VOICEMAN_05300_003770_ELIDIBUS","這種時刻，正需要艾里迪布斯去調停才行……
@@ -812,7 +812,7 @@ int32,str,str
 444,"TEXT_VOICEMAN_05300_004070_ALPHINAUD","不過最後的結果……用失敗這個詞可能都有些過於輕描淡寫了。
 一些同伴甚至因為我的錯誤而失去了生命……
 我這一生都會背負這些罪過。"
-445,"TEXT_VOICEMAN_05300_004080_ALPHINAUD","來到這邊之後，看到單方面追尋理想的沃斯裡，
+445,"TEXT_VOICEMAN_05300_004080_ALPHINAUD","來到這邊之後，看到單方面追尋理想的沃斯里，
 我竟然想起了過去的自己。"
 446,"TEXT_VOICEMAN_05300_004090_ALPHINAUD","所以，當我看到這裡的人們重新振作起來時……
 別提有多開心了。"
@@ -856,7 +856,7 @@ int32,str,str
 466,"TEXT_VOICEMAN_05300_004260_SETO","你的靈魂？嗯……"
 467,"TEXT_VOICEMAN_05300_004270_SETO","閉上眼睛？好吧……"
 468,"TEXT_VOICEMAN_05300_004280_SETO","這個感覺……難道是……不可能……"
-469,"TEXT_VOICEMAN_05300_004290_WARRIOROFDARKNESS","塞特……你現在長得好大啊！"
+469,"TEXT_VOICEMAN_05300_004290_WARRIOROFDARKNESS","賽特……你現在長得好大啊！"
 470,"TEXT_VOICEMAN_05300_004300_SETO","啊——阿爾博特！
 我真的好想你，好想再一次見到你。"
 471,"TEXT_VOICEMAN_05300_004310_SETO","對不起，我沒能在你有煩惱的時候安慰你……
@@ -879,7 +879,7 @@ int32,str,str
 481,"TEXT_VOICEMAN_05300_004410_RUNAR","抱歉，我只是開個玩笑。
 我知道可能會讓你為難，但還是想說出來。"
 482,"TEXT_VOICEMAN_05300_004420_RUNAR","謝謝你幫助我們夜之民，
-我們能夠重整旗鼓，
+我們能夠重振旗鼓，
 全都多虧了聰明、強大又溫柔的大姐。"
 483,"TEXT_VOICEMAN_05300_004430_RUNAR","我一輩子也不會忘記魔女瑪托雅的。
 所以請你回去後……也要保重。"
@@ -955,7 +955,7 @@ int32,str,str
 524,"TEXT_VOICEMAN_05300_004820_LYNA","水晶公到底是什麼人，從哪裡來，
 我已經無法從他本人那裡得到答案了。
 不過事已至此，我們也無需再去過問。"
-525,"TEXT_VOICEMAN_05300_004830_LYNA","我已經收到了報告，瞭解到他現在的情況了……"
+525,"TEXT_VOICEMAN_05300_004830_LYNA","我已經收到了報告，了解到他現在的情況了……"
 526,"TEXT_VOICEMAN_05300_004840_LYNA","……別擔心，
 我相信你們的計畫一定能夠順利成功。"
 527,"TEXT_VOICEMAN_05300_004850_LYNA","因為這座城市的所有人……
@@ -968,7 +968,7 @@ int32,str,str
 就像他一直教導我們的那樣……"
 531,"TEXT_VOICEMAN_05300_004890_LYNA","如果有一天，他能夠笑著想起這裡的日日夜夜……
 請記住，我們也和他一樣，
-正在遠方的夜空下綻放著笑顏……"
+正在遠方的夜空下綻放著笑容……"
 532,"TEXT_VOICEMAN_05300_004900_LYNA","……能拜託你，將這些話轉達給他嗎？"
 533,"TEXT_VOICEMAN_05300_Q13_000_001_NONE_VOICE","要說什麼？"
 534,"TEXT_VOICEMAN_05300_A13_000_001_NONE_VOICE","我一定幫你轉達"
@@ -992,7 +992,7 @@ int32,str,str
 穿越世界這種事，我也是第一次接觸。"
 547,"TEXT_VOICEMAN_05300_005020_BEQLUGG","至於他們的靈魂能不能被帶回去……
 我也不敢下定論。"
-548,"TEXT_VOICEMAN_05300_005030_BEQLUGG","不論是我還是歷史上那些著名的魔法師，
+548,"TEXT_VOICEMAN_05300_005030_BEQLUGG","不論是我還是歷史上那些著名的魔道士，
 都沒能完全解開過靈魂的秘密。
 準備得再周密，事故也還是有可能發生，不過有時也會出現奇蹟。"
 549,"TEXT_VOICEMAN_05300_005040_BEQLUGG","……我們能做的只有祈禱。
@@ -1013,7 +1013,7 @@ int32,str,str
 接下來的任務就拜託你了哦。"
 559,"TEXT_VOICEMAN_05300_005140_URIANGER","只要有那個注入水晶公血液的魔具，
 閉得再緊的門，想必也能輕鬆打開了吧。"
-560,"TEXT_VOICEMAN_05300_005150_TATARU","誒？！
+560,"TEXT_VOICEMAN_05300_005150_TATARU","欸？！
 你、你要去哪裡呀？！"
 561,"TEXT_VOICEMAN_05300_005160_ALPHINAUD","呵呵……"
 562,"TEXT_VOICEMAN_05300_005170_ALPHINAUD","塔塔露，能不能請你為我們泡上幾杯你特製的茶呢？"
@@ -1048,7 +1048,7 @@ int32,str,str
 他們找來了自己國內最好的工匠。"
 580,"TEXT_VOICEMAN_05300_005350_TATARU","他們還托我帶個口信：
 “雖然無法登門祝賀，但由衷歡迎大家歸來……”
-並說今後有時間會私下來看望你們。"
+並說今後有時間會私下來探望你們。"
 581,"TEXT_VOICEMAN_05300_005360_THANCRED","我們還真是受重視啊……
 替我們謝謝他們的好意吧，
 這些禮物我們就不客氣了。"
@@ -1080,7 +1080,7 @@ int32,str,str
 595,"TEXT_VOICEMAN_05300_A14_000_001_NONE_VOICE","什麼都不說"
 596,"TEXT_VOICEMAN_05300_A14_000_002_NONE_VOICE","呼喊他的名字"
 597,"TEXT_VOICEMAN_05300_005490_GRAHATIA","唔唔……"
-598,"TEXT_VOICEMAN_05300_005500_GRAHATIA","誒！"
+598,"TEXT_VOICEMAN_05300_005500_GRAHATIA","欸！"
 599,"TEXT_VOICEMAN_05300_005510_GRAHATIA","呼——好吧！"
 600,"TEXT_VOICEMAN_05300_005520_GRAHATIA","我古·拉哈·提亞，
 正式加入拂曉血盟。"
@@ -1090,7 +1090,7 @@ int32,str,str
 603,"TEXT_VOICEMAN_05300_005550_UNSETTLEDRESEARCHER","不、不好了！"
 604,"TEXT_VOICEMAN_05300_005560_UNSETTLEDRESEARCHER","外面、外面有一大群駿鷹！
 誰、誰來幫忙打倒它們呀！"
-605,"TEXT_VOICEMAN_05300_005570_ALISAIE","正好可以去練練手。"
+605,"TEXT_VOICEMAN_05300_005570_ALISAIE","正好可以去練習一下。"
 606,"TEXT_VOICEMAN_05300_005580_ALPHINAUD","等、等一下！阿莉塞！"
 607,"TEXT_VOICEMAN_05300_005590_ALPHINAUD","唉……"
 608,"TEXT_VOICEMAN_05300_005600_GRAHATIA","他們就像那天邊遙不可及的星星
@@ -1121,7 +1121,7 @@ int32,str,str
 只要掌握了足夠的金錢，執行計畫的過程中就會暢通無阻。
 沒有金錢辦不到的事情，您說是不是？"
 621,"TEXT_VOICEMAN_05300_005730_FANDANIEL","哎呀不好意思，
-您和“我”好像是舊識來著？"
+您和“我”好像是舊識吧？"
 622,"TEXT_VOICEMAN_05300_005740_FANDANIEL","(-白袍男子-)還請您多多包涵我的無禮，殿下。"
 623,"TEXT_VOICEMAN_05300_005750_ZENOS","……我不認識你。"
 624,"TEXT_VOICEMAN_05300_005760_FANDANIEL","(-白袍男子-)啊，這是多麼令人傷心啊！
@@ -1134,7 +1134,7 @@ int32,str,str
 627,"TEXT_VOICEMAN_05300_005790_FANDANIEL","好了，閒話到此為止……
 既然已經鎮壓了這裡，就快點開始下一步計畫吧。"
 628,"TEXT_VOICEMAN_05300_005800_FANDANIEL","不過有點奇怪……我們鬧成這樣都沒人來制止，
-按理說艾里迪布斯不會坐視不理，
+按理說艾里迪布斯不會坐視不管，
 難道他被消滅了嗎？"
 629,"TEXT_VOICEMAN_05300_005810_FANDANIEL","也就是說，原種無影終於一個也不剩了？！"
 630,"TEXT_VOICEMAN_05300_005820_FANDANIEL","哈哈哈哈……"
@@ -1144,7 +1144,7 @@ int32,str,str
 632,"TEXT_VOICEMAN_05300_005840_FANDANIEL","殿下，請下令吧，
 只要您一句話，我便會為您獻上最好的狩獵場。"
 633,"TEXT_VOICEMAN_05300_005850_GRAHATIA","等候在前方的 是最兇殘的野獸"
-634,"TEXT_VOICEMAN_05300_005860_GRAHATIA","饑餓無比 殘忍兇暴 嗜血無情"
+634,"TEXT_VOICEMAN_05300_005860_GRAHATIA","飢餓無比 殘忍凶暴 嗜血無情"
 635,"TEXT_VOICEMAN_05300_005870_ZENOS","……隨你的便吧。"
 636,"TEXT_VOICEMAN_05300_005880_ZENOS","我的摯友，你已經離開太久了，是時候回來了。"
 637,"TEXT_VOICEMAN_05300_005890_ZENOS","就讓我們用戰鬥，用你的一招一式，

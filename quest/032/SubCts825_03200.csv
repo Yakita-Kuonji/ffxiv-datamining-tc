@@ -52,7 +52,7 @@ int32,str,str
 47,"TEXT_SUBCTS825_03200_TODO_23",""
 48,"TEXT_SUBCTS825_03200_PAPERDELIVERY_000_001","賣報了賣報了！
 哎呀，那邊路過的<If(PlayerParameter(4))>小姐<Else/>老爺</If>！
-你有沒有興趣瞭解一下收服了神威的英雄？"
+你有沒有興趣了解一下收服了神威的英雄？"
 49,"TEXT_SUBCTS825_03200_Q1_000_000","如何作答？"
 50,"TEXT_SUBCTS825_03200_A1_000_001","就是我！"
 51,"TEXT_SUBCTS825_03200_A1_000_002","沒興趣……"
@@ -61,7 +61,7 @@ int32,str,str
 53,"TEXT_SUBCTS825_03200_PAPERDELIVERY_000_004","沒興趣……
 啊，看你這樣子，你就是那個英雄吧？！
 其實我正在找你呢！"
-54,"TEXT_SUBCTS825_03200_PAPERDELIVERY_000_005","其實有個大方的武士付了定金，
+54,"TEXT_SUBCTS825_03200_PAPERDELIVERY_000_005","其實有個大方的武士付了訂金，
 要我把收服了7匹神威的英雄介紹給他。"
 55,"TEXT_SUBCTS825_03200_PAPERDELIVERY_000_006","希望你能去茨菰村和那位身著紅衣的武士見一面！
 拜託了！"

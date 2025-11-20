@@ -54,7 +54,7 @@ int32,str,str
 21,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_040","不過話雖然是這樣說，
 可是要不事先通知一下的話也湊不齊人手。
 所以到時候會在這個<Sheet(EObj,2010775,0)/>上提前貼出預告。"
-22,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_050","說白了就是隻要常來看看確認一下的話，
+22,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_050","說白了就是只要常來看看確認一下的話，
 就不會出什麼問題了。
 你要是有時間來幫幫忙，那自然是再好不過。"
 23,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_060","不過話說回來，身為英雄的你居然願意參加重建工程，
@@ -64,16 +64,16 @@ int32,str,str
 25,"TEXT_CTSHWDINFORMATION_00633_SYSTEM_040_080","交納重建工程所需數量的物資後，
 將在<Sheet(EObj,2010775,0)/>上通知施工日期，
 請確認重建工程的進度，積極參加吧！"
-26,"TEXT_CTSHWDINFORMATION_00633_SYSTEM_040_090","可以通過伊修加爾德基礎層的乙太之光傳送到蒼天街。
+26,"TEXT_CTSHWDINFORMATION_00633_SYSTEM_040_090","可以透過伊修加爾德下層的乙太之光傳送到蒼天街。
 請積極利用！"
-27,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_100","你大致瞭解過新的工程計劃了嗎？
+27,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_100","你大致了解過新的工程計劃了嗎？
 畢竟有各種各樣的組織聚在一起支撐著重建工作，
 所以可能容易引起混亂。"
 28,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_110","如果有不明白的事情，
 就去到<Sheet(EObj,2010775,0)/>那裡確認一下，說明都寫在那裡。
 還有不要勉強自己，做好自己能力範圍內的工作就好。"
 29,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_120","關於重建工程的進度，
-可以通過公告板確認，也可以來問我。
+可以透過公告板確認，也可以來問我。
 我會給你儘量詳細解答的，隨時來找我吧。"
 30,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_130","<Highlight>ObjectParameter(1)</Highlight>，你來了啊！
 我們開始了新的重建工程計劃，想請你務必來幫忙啊！"
@@ -89,7 +89,7 @@ int32,str,str
 順便一提，這回將是最後一期的重建工程了。"
 35,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_180","需要你幫忙籌備的物資內容跟上期相比有所不同，還請你確認一下。
 雖然前幾期的重建工程物資仍然可以交納，
-不過目前的重點都放在了第四期工程上，所以沒法給你那麼多謝禮。"
+不過目前的重點都放在了第四期工程上，所以無法給你那麼多謝禮。"
 36,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_190","此外雖然素材可以從雲冠群島那裡採集到……
 不過那裡發生了大規模的乙太變化，導致植物生態產生了變異。
 請你做好準備再去。"
@@ -108,7 +108,7 @@ int32,str,str
 請你積極地交納物資吧。"
 42,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_250","我們最需要的是用於第四期重建工程的物資。
 雖然前幾期的重建工程物資仍然可以交納，
-不過沒法給你那麼多謝禮，請注意一下。"
+不過無法給你那麼多謝禮，請注意一下。"
 43,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_260","此外雖然素材可以從雲冠群島那裡採集到……
 不過那裡發生了大規模的乙太變化，導致植物生態產生了變異。
 請你做好準備再去。"
@@ -128,7 +128,7 @@ int32,str,str
 49,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_070_010","今後還會有更多的人參加到重建工程中，
 這樣的話西邊估計也需要建些小屋，
 你也是這麼想的吧？"
-50,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_080_000","現在正在通過「聯合重建工程」建設西側的小屋，
+50,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_080_000","現在正在透過「聯合重建工程」建設西側的小屋，
 為今後招募更多的工程建設人員作準備。
 拜託你一起幫忙了！"
 51,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_090_000","弗朗塞爾少爺他們好像在制定新的工程計劃。
@@ -137,7 +137,7 @@ int32,str,str
 得為工匠和土木作業人員整頓好環境，
 方便他們幹活才行。"
 53,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_100_000","哦，你來得正是時候！
-現在通過「聯合重建工程」正在對廣場上放置的物品進行修繕，
+現在透過「聯合重建工程」正在對廣場上放置的物品進行修繕，
 請你也來參加吧！"
 54,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_110_000","喲，<Highlight>ObjectParameter(1)</Highlight>。
 多虧了工匠們的努力，這座廣場的修繕作業完成了。"
@@ -174,7 +174,7 @@ int32,str,str
 請一定要認真仔細！"
 68,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_210_000","多虧了工匠們，本期的重建計劃全部完成了！
 現在已經陸續有移居者來到了新巢居住區。
-大家在看到氣派的房子後都露出了安心的表情。"
+大家在看到壯觀的房子後都露出了安心的表情。"
 69,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_210_010","這條街真是不斷熱鬧起來了啊。
 你也去好好逛逛吧。"
 70,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_210_020","我們還會繼續接受物資的交納，
@@ -222,7 +222,7 @@ int32,str,str
 85,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_280_000","喲，<Highlight>ObjectParameter(1)</Highlight>！
 現在正在建設西升歌文化區的住房。
 如果你想參加聯合重建工程，就去找蒼天街的導覽吧。"
-86,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_290_000","現在正在修繕中的詩伯門連線著伊修加爾德砥柱層，
+86,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_290_000","現在正在修繕中的詩伯門連線著伊修加爾德上層，
 完工後市民們的外出會方便很多。"
 87,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_300_000","東昇歌文化區的整備工作已經開始了！
 全體的進度已經過半。

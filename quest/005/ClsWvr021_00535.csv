@@ -53,7 +53,7 @@ int32,str,str
 47,"TEXT_CLSWVR021_00535_TODO_23",""
 48,"TEXT_CLSWVR021_00535_REDOLENTROSE_000","哎呀呀，
 你裝備好縫衣針了啊。"
-49,"TEXT_CLSWVR021_00535_REDOLENTROSE_001","聽好了，針可是裁縫師的命根子。
+49,"TEXT_CLSWVR021_00535_REDOLENTROSE_001","聽好了，針可是裁縫師的命。
 你要是不珍惜它，
 我可是會代替針來狠狠教訓你的。"
 50,"TEXT_CLSWVR021_00535_REDOLENTROSE_002","既然已經裝備好了行頭，
@@ -65,8 +65,8 @@ int32,str,str
 53,"TEXT_CLSWVR021_00535_REDOLENTROSE_005","對了對了！
 還需要<Sheet(Item,6,0)/>呢。
 在做之前你可別忘了準備齊全材料。"
-54,"TEXT_CLSWVR021_00535_REDOLENTROSE_006","光空想是沒法進步的。
-只有使用材料進行實踐才能有所提高！
+54,"TEXT_CLSWVR021_00535_REDOLENTROSE_006","光空想是無法進步的。
+只有使用材料進行實踐才能有所提升！
 你快去做吧。"
 55,"TEXT_CLSWVR021_00535_SYSTEM_000","試著用<Sheet(Item,5341,0)/>製作<Sheet(Item,5333,0)/>吧。
 從設定選單的「手冊管理」裡選擇「製作筆記」，
@@ -81,7 +81,7 @@ int32,str,str
 59,"TEXT_CLSWVR021_00535_REDOLENTROSE_022","對於裁縫來說，<Sheet(Item,5333,0)/>可是最基本的材料。"
 60,"TEXT_CLSWVR021_00535_REDOLENTROSE_023","你可能會想，不就是一根線嘛，有那麼重要嗎？
 但請你記住。"
-61,"TEXT_CLSWVR021_00535_REDOLENTROSE_024","如果縫製用的線質量參差不齊，
+61,"TEXT_CLSWVR021_00535_REDOLENTROSE_024","如果縫製用的線品質參差不齊，
 那麼不管用多麼華美的布匹，都縫不出好衣服。"
 62,"TEXT_CLSWVR021_00535_REDOLENTROSE_025","你做的這線，算是達標了。
 用這線，估計可以縫製出漂亮的衣服。"

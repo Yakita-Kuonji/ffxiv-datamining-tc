@@ -8,7 +8,7 @@ int32,int32,byte,byte,byte,byte,int32,str,str,str,bit&01,bit&02,bit&04,bit&08,st
 4,4,0,0,0,0,0,"","","",False,False,True,True,"",""
 5,2,5,35,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,True,True,True,"脫離","快速連擊按鈕掙脫出來吧！"
 6,2,5,10,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,True,True,True,"脫離","快速連擊按鈕掙脫出來吧！"
-7,3,25,20,2,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",True,False,True,True,"騎乘攻防","快速連擊按鈕進行壓制！"
+7,3,25,20,2,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",True,False,True,True,"騎乘攻防","快速連擊按鈕壓制！"
 8,2,15,45,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",True,False,True,True,"脫離","快速連擊按鈕掙脫出來吧！"
 9,2,15,45,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,False,True,True,"暴風牢獄","用盡全力逃脫出來吧！"
 10,2,5,23,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",False,False,True,False,"光之解放","釋放體內的光之力吧！"

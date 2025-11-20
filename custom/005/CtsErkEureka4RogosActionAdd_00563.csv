@@ -27,7 +27,7 @@ int32,str,str
 12,"TEXT_CTSERKEUREKA4ROGOSACTIONADD_00563_ALCHEMIST00563_000_030","哎呀，現在冒險者你已經有了3個新型試管。
 這已經是新型試管的極限了，攜帶再多藥品的話，
 即使是新型試管也將無法阻斷藥品中乙太間的共鳴。"
-13,"TEXT_CTSERKEUREKA4ROGOSACTIONADD_00563_ALCHEMIST00563_000_031","也就是說，你已經制作了設計當初預想的最多數量的試管。
+13,"TEXT_CTSERKEUREKA4ROGOSACTIONADD_00563_ALCHEMIST00563_000_031","也就是說，你已經製作了設計當初預想的最多數量的試管。
 恭喜你！"
 14,"TEXT_CTSERKEUREKA4ROGOSACTIONADD_00563_SYSTEM_000_032","持有上限已達到最大，
 可以持有<Value>IntegerParameter(1)</Value>個文理技能了！"

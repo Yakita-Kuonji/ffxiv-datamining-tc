@@ -29,7 +29,7 @@ int32,str,str
 16,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_100","……<Highlight>ObjectParameter(1)</Highlight>，你終於走到了這一步。
 再鑄黃道武器的時刻來臨了！"
 17,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_101","把大家都叫來一起幫忙製作黃道武器吧！
-我這就聯繫繆塔米克斯，讓他過來這邊。"
+我這就聯絡繆塔米克斯，讓他過來這邊。"
 18,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_GEROLT_000_102","首先該我出場啊……
 看我為黃道武器打造出最棒的器身來。
 ……開工！"
@@ -77,7 +77,7 @@ int32,str,str
 39,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_116","接下來就剩將繆塔米克斯轉化出的魔晶石之力，
 注入蓋羅爾特製作的器身裡了！"
 40,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_150","把大家都叫來一起幫忙製作黃道武器吧！
-我這就聯繫繆塔米克斯，讓他過來這邊。"
+我這就聯絡繆塔米克斯，讓他過來這邊。"
 41,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_200","最後輪到我出場了……
 我要用這<Sheet(Item,9509,0)/>，
 將化為魔晶石的上古武器之力注入«<Sheet(Item,9508,0)/>»中！"

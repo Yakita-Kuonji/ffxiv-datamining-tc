@@ -20,7 +20,7 @@ int32,str,str
 7,"TEXT_VOICEMAN_05505_002700_MERLWYB","我只是在考慮可能的方法，
 即使這種方法可行，我們也不會不顧人質的死活發動強攻。
 我們聚集到這裡，正是因為需要共同商討對策。"
-8,"TEXT_VOICEMAN_05505_002710_RAUBAHN","沒錯，正是這種時候我們才需要傾力合作。
+8,"TEXT_VOICEMAN_05505_002710_RAUBAHN","沒錯，正是這種時候我們才需要全力合作。
 不分國家，不分種族，盡我們所有人的力量化解這次危機。
 畢竟我們的敵人喪心病狂到企圖讓末日降臨。"
 9,"TEXT_VOICEMAN_05505_002720_SAHAGINPRIEST","天使與帝國聯起了手，
@@ -159,7 +159,7 @@ int32,str,str
 你們來了艾奧傑亞這麼久，
 竟然連這點事都沒想明白？"
 71,"TEXT_VOICEMAN_05505_Q2_000_001_NONE_VOICE","要說什麼？"
-72,"TEXT_VOICEMAN_05505_A2_000_001_NONE_VOICE","那也不能說明作壁上觀是正義"
+72,"TEXT_VOICEMAN_05505_A2_000_001_NONE_VOICE","那也不能說明隔岸觀火是正義"
 73,"TEXT_VOICEMAN_05505_A2_000_002_NONE_VOICE","阿爾菲諾和阿莉塞也有自己的信念"
 74,"TEXT_VOICEMAN_05505_A2_000_003_NONE_VOICE","為了拯救世界，我們需要你們的力量"
 75,"TEXT_VOICEMAN_05505_003310_FOURCHENAULT","甚至還要讓別人替你們說話，
@@ -207,7 +207,7 @@ int32,str,str
 而且你始終是為了自己期望的未來而戰。"
 96,"TEXT_VOICEMAN_05505_Q3_000_001_NONE_VOICE","要說什麼？"
 97,"TEXT_VOICEMAN_05505_A3_000_001_NONE_VOICE","我們背負了很多人的心願"
-98,"TEXT_VOICEMAN_05505_A3_000_002_NONE_VOICE","我們要與命中註定的敵人做個了斷"
+98,"TEXT_VOICEMAN_05505_A3_000_002_NONE_VOICE","我們要與命中注定的敵人做個了斷"
 99,"TEXT_VOICEMAN_05505_A3_000_003_NONE_VOICE","冒險還未結束"
 100,"TEXT_VOICEMAN_05505_003510_ARENVALD","你也一樣，
 一如既往為自己堅信的未來而戰就好。"
@@ -326,7 +326,7 @@ int32,str,str
 161,"TEXT_VOICEMAN_05505_004070_GRAHATIA","還有地脈中的乙太濃度也明顯降低了，
 絕對不是自然現象導致的。"
 162,"TEXT_VOICEMAN_05505_004080_URIANGER","你們回來了。
-龍堡那邊是什麼情況？"
+德拉瓦尼亞那邊是什麼情況？"
 163,"TEXT_VOICEMAN_05505_004090_ALPHINAUD","我們在多個地點進行了探測，
 發現越是接近末日塔，乙太濃度下降得就越厲害，
 也就是說……"

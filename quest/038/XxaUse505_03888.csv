@@ -96,7 +96,7 @@ int32,str,str
 總是麻煩你了，真是不好意思，
 請你趕快去北薩納蘭的青磷精煉所吧。"
 67,"TEXT_XXAUSE505_03888_ALPHINAUD_000_051","水晶義勇隊的第四分隊正在那裡執行任務，
-你先去與威爾雷德會合，瞭解一下情況吧。"
+你先去與威爾雷德會合，了解一下情況吧。"
 68,"TEXT_XXAUSE505_03888_ALPHINAUD_000_052","我要回烏爾達哈的水晶義勇隊分部，
 和伊爾伯德隊長一起指揮一線部隊去了。
 前線的支援就交給你了。"
@@ -142,7 +142,7 @@ int32,str,str
 88,"TEXT_XXAUSE505_03888_EDELSTEIN_000_110","好久不見了，<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>！
 賢者行軍行動那會承蒙你照顧了。"
 89,"TEXT_XXAUSE505_03888_EDELSTEIN_000_111","關於現在的狀況……
-其實是艾瑪吉娜礦山公司的技師在精煉所內發現了可疑物品。"
+其實是艾瑪姬娜礦山公司的技師在精煉所內發現了可疑物品。"
 90,"TEXT_XXAUSE505_03888_EDELSTEIN_000_112","經由我們不滅隊工兵確認，
 可疑物品裡面裝有炸彈。
 而且其引爆裝置是帝國製造的。"

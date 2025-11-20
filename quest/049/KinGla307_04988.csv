@@ -27,7 +27,7 @@ int32,str,str
 21,"TEXT_KINGLA307_04988_SEQ_21",""
 22,"TEXT_KINGLA307_04988_SEQ_22",""
 23,"TEXT_KINGLA307_04988_SEQ_23",""
-24,"TEXT_KINGLA307_04988_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))><WARNING: unknown macro code ('chsCraftTodoMessage70')>製作<Sheet(ItemHQ,43912,0)/><Else/>將<Sheet(ItemHQ,43912,0)/>交給謝榮加</If>"
+24,"TEXT_KINGLA307_04988_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 珠串萬貨街交易：製作<Sheet(ItemHQ,43912,0)/><Else/>將<Sheet(ItemHQ,43912,0)/>交給謝榮加</If>"
 25,"TEXT_KINGLA307_04988_TODO_01","和謝榮加對話"
 26,"TEXT_KINGLA307_04988_TODO_02",""
 27,"TEXT_KINGLA307_04988_TODO_03",""
@@ -120,15 +120,15 @@ int32,str,str
 77,"TEXT_KINGLA307_04988_Q1_000_000","要說什麼？"
 78,"TEXT_KINGLA307_04988_A1_000_001","為我們做的……？"
 79,"TEXT_KINGLA307_04988_A1_000_002","真體貼，謝謝你"
-80,"TEXT_KINGLA307_04988_XEEROLJA_000_110","等我們喝過後，再給其他人也嘗一嘗。
+80,"TEXT_KINGLA307_04988_XEEROLJA_000_110","等我們喝過後，再給其他人也嚐一嚐。
 我還打算把它當做本店的招牌出售。"
 81,"TEXT_KINGLA307_04988_XEEROLJA_000_111","其實我一直在迷茫，
 沒能成為咒術醫，選擇這份工作真的對嗎……
 家人明明那麼期待我成為一名咒術醫，我卻無能為力。"
 82,"TEXT_KINGLA307_04988_XEEROLJA_000_112","但如今我已經想通了，
-通過這些美味的飲品，我可以讓大家收穫健康和快樂。
+透過這些美味的飲品，我可以讓大家收穫健康和快樂。
 這就是我夢寐以求、引以為傲的工作。"
-83,"TEXT_KINGLA307_04988_XEEROLJA_000_113","即便不能使用魔法，我也可以通過這家店舖治癒大家。
+83,"TEXT_KINGLA307_04988_XEEROLJA_000_113","即便不能使用魔法，我也可以透過這家店舖治癒大家。
 多虧有你們幫忙，我終於實現了自己的夢想！"
 84,"TEXT_KINGLA307_04988_XEEROLJA_000_114","我發自內心地感謝你們……
 謝謝你們，我的夥伴們。"
@@ -143,12 +143,12 @@ int32,str,str
 是不是呀，我的朋友？"
 89,"TEXT_KINGLA307_04988_HALNARUK_000_119","不是 才沒有！
 才不是 朋友呢！
-莫布一直 冷麵無私 工作！"
+莫布一直 冷面無私 工作！"
 90,"TEXT_KINGLA307_04988_HALNARUK_000_130","哼哧……哼哧……
 試飲會 很開心！
 謝榮加 吵架 也是新手！"
 91,"TEXT_KINGLA307_04988_XEEROLJA_000_140","試飲會大獲成功！
-也有不少人通過試飲會了解了飲品的功效……
+也有不少人透過試飲會瞭解了飲品的功效……
 今後一定會有更多客人來光顧果汁店吧。"
 92,"TEXT_KINGLA307_04988_HALNARUK_000_141","在圖萊尤拉 四處宣傳
 謝榮加鮮榨果藝 健康果汁 效果拔群！"

@@ -29,7 +29,7 @@ int32,str,str
 19,"TEXT_CMNDEFLINKSHELL_00006_MAIN_TALK_001","哎呀，找我有什麼事啊？"
 20,"TEXT_CMNDEFLINKSHELL_00006_MAINMENU_Q1_000_1","有什麼事？"
 21,"TEXT_CMNDEFLINKSHELL_00006_MAINMENU_A1_000_1","什麼是通訊貝"
-22,"TEXT_CMNDEFLINKSHELL_00006_MAINMENU_A2_000_1","瞭解有關通訊貝的詳情"
+22,"TEXT_CMNDEFLINKSHELL_00006_MAINMENU_A2_000_1","了解有關通訊貝的詳情"
 23,"TEXT_CMNDEFLINKSHELL_00006_MAINMENU_A3_000_1","想要辦理通訊貝的手續"
 24,"TEXT_CMNDEFLINKSHELL_00006_MAINMENU_A4_000_1","沒什麼特別的事"
 25,"TEXT_CMNDEFLINKSHELL_00006_GUIDEMENU_TALK_001","你想要了解什麼呢？"
@@ -75,9 +75,9 @@ int32,str,str
 54,"TEXT_CMNDEFLINKSHELL_00006_ADD_GUIDE_002_SYS","必須擁有「管理員」或「隊長」的許可權
 才可以邀請其他人加入通訊貝。"
 55,"TEXT_CMNDEFLINKSHELL_00006_ADD_GUIDE_003_SYS","選中想要邀請的玩家角色，
-在次級指令中點選「發送加入目前通訊貝的邀請」，
+在子選單中點選「發送加入目前通訊貝的邀請」，
 便可以進行邀請。"
-56,"TEXT_CMNDEFLINKSHELL_00006_ADD_GUIDE_004_SYS","次級指令中可顯示出全部目前擁有的可加入通訊貝。"
+56,"TEXT_CMNDEFLINKSHELL_00006_ADD_GUIDE_004_SYS","子選單中可顯示出全部目前擁有的可加入通訊貝。"
 57,"TEXT_CMNDEFLINKSHELL_00006_ADD_GUIDE_005","在對方接受邀請後，
 將會正式加入到你的通訊貝中。"
 58,"TEXT_CMNDEFLINKSHELL_00006_ENTER_GUIDE_001","如果你想要加入通訊貝，
@@ -96,7 +96,7 @@ int32,str,str
 選擇想要參與的通訊貝，
 這樣就可以在通訊貝中發言了。"
 64,"TEXT_CMNDEFLINKSHELL_00006_CHAT_GUIDE_003_SYS","也可以從通訊貝列表中選擇想要發言的通訊貝，
-點選次級指令中的「在此通訊貝中發言」來進行發言。"
+點選子選單中的「在此通訊貝中發言」來進行發言。"
 65,"TEXT_CMNDEFLINKSHELL_00006_LEADER_GUIDE_001","建立通訊貝的人會成為「管理員」，
 擁有邀請、刪除成員的權利。"
 66,"TEXT_CMNDEFLINKSHELL_00006_LEADER_GUIDE_002","另外，「管理員」可以選擇自己通訊貝中的成員，
@@ -105,7 +105,7 @@ int32,str,str
 可以說是「管理員」的助手。"
 68,"TEXT_CMNDEFLINKSHELL_00006_LEAVE_GUIDE_001","可以隨時退出通訊貝。"
 69,"TEXT_CMNDEFLINKSHELL_00006_LEAVE_GUIDE_002_SYS","從通訊貝列表中選擇想要退出的通訊貝，
-點選次級指令中的「退出」，
+點選子選單中的「退出」，
 就可以退出通訊貝。"
 70,"TEXT_CMNDEFLINKSHELL_00006_LEAVE_GUIDE_003_SYS","如果想要退出自己擔任「管理員」的通訊貝，
 則需要提前將「管理員」的許可權轉讓給其他成員。"
@@ -118,7 +118,7 @@ int32,str,str
 可以來找我們發放負責人。
 我們會將解散的通知發給其他成員。"
 74,"TEXT_CMNDEFLINKSHELL_00006_MAKE_PROCEDURE_OK_000_1","你想要建立通訊貝啊？
-那隻要註冊下通訊貝的名稱就可以了，
+那只要註冊下通訊貝的名稱就可以了，
 可以寫在這裡嗎？"
 75,"TEXT_CMNDEFLINKSHELL_00006_MAKE_PROCEDURE_NG_000_1","你已經加入了8個通訊貝，
 不能再建立新的通訊貝了。

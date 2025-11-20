@@ -69,8 +69,8 @@ int32,str,str,Image,Action,Pet,bit&01,bit&02,bit&04
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>火屬性持續傷害
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 召喚者使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“內力迸發”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>時發動",786,801,3,True,False,False
-32,"日光的擁抱","恢復目標的體力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢復力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250",786,802,6,True,False,False
-33,"日光的低語","持續恢復自身與周圍隊員的體力
+32,"日光的擁抱","恢復目標的HP　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢復力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250",786,802,6,True,False,False
+33,"日光的低語","持續恢復自身與周圍隊員的HP
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢復力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>21秒
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“協助戰鬥”狀態下在接到命令之前不會發動該技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",786,803,6,True,False,False
 34,"異想的盟光","一定時間內自身與周圍隊員的魔法防禦力提高20%
@@ -79,7 +79,7 @@ int32,str,str,Image,Action,Pet,bit&01,bit&02,bit&04
 35,"異想的幻光","一定時間內自身與周圍隊員發動治療魔法的治療量提高10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“協助戰鬥”狀態下在接到命令之前不會發動該技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",786,805,6,True,False,False
-36,"月光的擁抱","恢復目標的體力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢復力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250",786,806,7,True,False,False
+36,"月光的擁抱","恢復目標的HP　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢復力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250",786,806,7,True,False,False
 37,"月光的沉默","令目標陷入沉默狀態　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1秒
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“協助戰鬥”狀態下在接到命令之前不會發動該技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",786,807,7,True,False,False
 38,"異想的柔光","解除周圍隊員身上部分弱化效果中的一種

@@ -170,7 +170,7 @@ int32,str,str
 73,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_00491_ALLAGAN_000_180","(-異國的劇作家的錄音-)在東洲奧薩德次大陸延夏的西南方有一片廣闊的沙漠地帶。
 那裡現在被稱作達瑪斯卡沙漠，而曾經統治著那片沙漠的，
 則是達瑪斯卡王國。"
-74,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_00491_ALLAGAN_000_181","(-異國的劇作家的錄音-)30年前因加雷馬帝國而滅亡的博納甘王朝，
+74,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_00491_ALLAGAN_000_181","(-異國的劇作家的錄音-)30年前因加雷馬帝國而滅亡的巴拿干王朝，
 在之前約千年時間內，都曾保持著獨立，
 而其王都拉巴納斯塔據說是從更遙遠的過去已經就存在了。"
 75,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_00491_ALLAGAN_000_182","(-異國的劇作家的錄音-)曾被人稱為沙漠中的藍色寶石的拉巴納斯塔，
@@ -193,7 +193,7 @@ int32,str,str
 81,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_00491_ALLAGAN_000_220","(-異國的劇作家的錄音-)你是指在黃金港遇到的那個吟遊詩人嗎？
 總覺得那個人給人的感覺有些奇怪呢。
 比起詩人更像是承辦人……"
-82,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_00491_ALLAGAN_000_221","(-異國的劇作家的錄音-)吟遊詩人是將聽到的故事通過詩歌傳唱的人，
+82,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_00491_ALLAGAN_000_221","(-異國的劇作家的錄音-)吟遊詩人是將聽到的故事透過詩歌傳唱的人，
 不過那位異國的詩人卻是親自給予冒險者試鍊，
 收穫冒險者通過試鍊後歷經磨礪的靈魂，以此再進行創作……"
 83,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_00491_ALLAGAN_000_222","(-異國的劇作家的錄音-)他散發的獨特氣場宛如世界的造物主一般。
@@ -267,7 +267,7 @@ int32,str,str
 我們的蜜月給了我這個機會。"
 116,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_ALLAGAN_000_153","(-傑諾米的錄音-)那時候雖然拉巴納斯塔在帝國的佔領下，
 但並沒有被戰火波及。
-是一個十分美麗的砂漠之都。"
+是一個十分美麗的沙漠之都。"
 117,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_ALLAGAN_000_154","(-傑諾米的錄音-)項鍊是我覺得十分適合她，從一個帝國的旅行商人那裡買到的。
 倒是沒有問商人項鍊的來歷。"
 118,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_ALLAGAN_000_155","(-傑諾米的錄音-)現在想想，那項鍊有可能是達瑪斯卡王室代代傳承之物。
@@ -278,11 +278,11 @@ int32,str,str
 121,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_A30_000_000","關於佔領達瑪斯卡"
 122,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_A30_000_001","關於達瑪斯卡起義"
 123,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_A30_000_010","返回"
-124,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_ALLAGAN_000_300","(-異國的劇作家的錄音-)加雷馬帝國進攻達瑪斯卡王國並將其納為行省
+124,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_ALLAGAN_000_300","(-異國的劇作家的錄音-)加雷馬帝國進攻達瑪斯卡王國並將其納為屬州
 已經是30年前的事了。
 按時間算是佔領多瑪的5年前，鎮壓阿拉米格的10年前。"
 125,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_ALLAGAN_000_301","(-異國的劇作家的錄音-)指揮入侵作戰的是人稱「漆黑閃電」的
-諾亞·范·伽布拉斯軍團長率領的第四軍團。
+諾亞·范·加布藍斯軍團長率領的第四軍團。
 達瑪斯卡王國進行了大約半年的激烈抵抗。"
 126,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_ALLAGAN_000_302","(-異國的劇作家的錄音-)聽說在守護王都拉巴納斯塔的最後一道壁壘「那爾比納城塞」，
 有約7萬之眾的達瑪斯卡軍人戰死，
@@ -292,7 +292,7 @@ int32,str,str
 導致了達瑪斯卡王向帝國投降。"
 128,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_ALLAGAN_000_304","(-異國的劇作家的錄音-)投降後不久達瑪斯卡王就病死了，
 雖然從自殺到他是被暗殺的傳言都有，
-但可以肯定的是，擁有千年歷史的博納甘王朝就此斷絕。"
+但可以肯定的是，擁有千年歷史的巴拿干王朝就此斷絕。"
 129,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_ALLAGAN_000_320","(-異國的劇作家的錄音-)與阿拉米格和多瑪被帝國佔領時相同，
 達瑪斯卡在這20年間也發起過數次起義。"
 130,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_ALLAGAN_000_321","(-異國的劇作家的錄音-)每次起義發生時都會遭到帝國慘無人道的鎮壓，

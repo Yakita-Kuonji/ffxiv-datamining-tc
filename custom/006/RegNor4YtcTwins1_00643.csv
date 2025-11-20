@@ -24,9 +24,9 @@ int32,str,str
 13,"TEXT_REGNOR4YTCTWINS1_00643_ANOGG_000_009","你拿到的<Sheet(EventItem,2002972,0)/>
 與沒能量了的「鑰匙」……
 如何將二者結合起來……"
-14,"TEXT_REGNOR4YTCTWINS1_00643_ANOGG_000_010","要想解決這個問題，還需要一些時間。
+14,"TEXT_REGNOR4YTCTWINS1_00643_ANOGG_000_010","若想解決這個問題，還需要一些時間。
 但這並不是解決不了的問題！
-你就放心等我的好訊息吧。"
+你就放心等我的好消息吧。"
 15,"TEXT_REGNOR4YTCTWINS1_00643_KONOGG_000_050","你好啊，有什麼事嗎？"
 16,"TEXT_REGNOR4YTCTWINS1_00643_Q2_000_000","想了解什麼？"
 17,"TEXT_REGNOR4YTCTWINS1_00643_A2_000_001","關於阿諾古"
@@ -50,5 +50,5 @@ int32,str,str
 28,"TEXT_REGNOR4YTCTWINS1_00643_KONOGG_000_058","這些東西應該是使用了未知的技術……
 想要解開謎團，還需要很長時間。"
 29,"TEXT_REGNOR4YTCTWINS1_00643_KONOGG_000_059","不過，我在非常努力認真地進行解析，
-肯定能解開謎團，你就安心等我的好訊息吧！"
+肯定能解開謎團，你就安心等我的好消息吧！"
 30,"TEXT_REGNOR4YTCTWINS1_00643_KONOGG_000_500","把想法傳達給對方還真是困難呢……"

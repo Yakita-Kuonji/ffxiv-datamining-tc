@@ -28,7 +28,7 @@ int32,str,str
 24,"TEXT_LUCKME111_03640_TODO_00","和扎莫圖對話"
 25,"TEXT_LUCKME111_03640_TODO_01","和阿莉塞對話"
 26,"TEXT_LUCKME111_03640_TODO_02","將<Sheet(EventItem,2002611,0)/>交給瑪格努斯"
-27,"TEXT_LUCKME111_03640_TODO_03","將<Sheet(EventItem,2002611,0)/>交給勒昂瑯"
+27,"TEXT_LUCKME111_03640_TODO_03","將<Sheet(EventItem,2002611,0)/>交給勒昂羅"
 28,"TEXT_LUCKME111_03640_TODO_04","將<Sheet(EventItem,2002611,0)/>交給凱·希爾"
 29,"TEXT_LUCKME111_03640_TODO_05","和阿莉塞對話"
 30,"TEXT_LUCKME111_03640_TODO_06",""
@@ -173,7 +173,7 @@ int32,str,str
 我們也會盡自己最大努力的！"
 102,"TEXT_LUCKME111_03640_RHONRON_000_142","為此，保持充沛的活力很重要。
 旅行者……要不要也來點白蚯蚓？"
-103,"TEXT_LUCKME111_03640_JOURNEYSHEADNURSE_000_143","勒、勒昂瑯先生，這個就等到……
+103,"TEXT_LUCKME111_03640_JOURNEYSHEADNURSE_000_143","勒、勒昂羅先生，這個就等到……
 之後慶祝戰爭勝利的時候再吃吧？"
 104,"TEXT_LUCKME111_03640_JOURNEYSHEADNURSE_000_144","<Highlight>ObjectParameter(1)</Highlight>，好久不見了。
 我是上路客店的負責人。"
@@ -185,8 +185,8 @@ int32,str,str
 107,"TEXT_LUCKME111_03640_JOURNEYSHEADNURSE_000_147","我們大家都非常想來，
 但因為店裡必須有人留守，所以只好留下了幾個負責人，
 不過能來的人都已經在這裡了！"
-108,"TEXT_LUCKME111_03640_RHONRON_000_148","勒昂瑯也想見暗之戰士！
-為了見到暗之戰士，勒昂瑯會好好工作的！"
+108,"TEXT_LUCKME111_03640_RHONRON_000_148","勒昂羅也想見暗之戰士！
+為了見到暗之戰士，勒昂羅會好好工作的！"
 109,"TEXT_LUCKME111_03640_ALPHINAUD_000_150","這邊已經沒問題了吧。
 大家看起來都很高興啊。"
 110,"TEXT_LUCKME111_03640_ALISAIE_000_160","謝謝你把工具發給了大家，

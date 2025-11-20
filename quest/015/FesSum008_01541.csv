@@ -65,7 +65,7 @@ int32,str,str
 51,"TEXT_FESSUM008_01541_MAYARUMOYARU_000_010","你知道<Sheet(BNpcName,　2910,0)/>的用法嗎？
 聽好了，我這就教給你。"
 52,"TEXT_FESSUM008_01541_SYSTEM_000_011","調查會場裡的<Sheet(BNpcName,　2910,0)/>後，
-在特殊快捷鍵會出現專用技能「砲擊」。"
+在特殊快速鍵會出現專用技能「砲擊」。"
 53,"TEXT_FESSUM008_01541_SYSTEM_000_012","使用砲擊，選定要攻擊的區域，
 然後試著擊中<Sheet(BNpcName,　2982,0)/>和<Sheet(BNpcName,　2909,0)/>吧。"
 54,"TEXT_FESSUM008_01541_MAYARUMOYARU_000_030","恭喜你完成了任務！備受好評，這都是多虧了你。

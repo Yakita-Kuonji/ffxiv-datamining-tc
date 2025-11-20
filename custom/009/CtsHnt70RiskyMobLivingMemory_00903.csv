@@ -16,7 +16,7 @@ int32,str,str
 8,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_005","關於S級怪物：天氣預言家——天氣預報機器人"
 9,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_006",""
 10,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_007","取消"
-11,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_010","我們忘斷軍是通過遠端操控機器兵來調查憶想之地的。
+11,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_010","我們忘斷軍是透過遠端操控機器兵來調查憶想之地的。
 這比親自前往那裡要安全得多，但也並不是毫無缺點。"
 12,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_011","駭入機器兵需要投入大量時間和精力，
 機器兵本身也很顯眼。好多魔物都喜歡跟在後面動手動腳。
@@ -55,7 +55,7 @@ int32,str,str
 憶想之地中存在一個名為天氣預報機器人的自控機器。"
 25,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_051","不過這個名字有些誤導。
 它的功能並不是預報天氣，
-而是通過干涉四周的環境乙太控制天氣。"
+而是透過干涉四周的環境乙太控制天氣。"
 26,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_052","雖然它是如此被設計的，但它現在出現了故障，產生了自我意識。
 如果不加以控制，很可能會引發天災級別的災害。
 為了保障設施安全，必須儘早破壞它。"

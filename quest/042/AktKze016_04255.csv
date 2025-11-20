@@ -60,7 +60,7 @@ int32,str,str
 能請你幫幫我嗎？！"
 51,"TEXT_AKTKZE016_04255_MOPINGWAY_000_003","得救了！
 需要檢查的就是那種有三個球連在一起的裝置，
-我們管它叫<Sheet(EObj,2012601,0)/>。"
+我們叫它為<Sheet(EObj,2012601,0)/>。"
 52,"TEXT_AKTKZE016_04255_MOPINGWAY_000_004","<Highlight>ObjectParameter(1)</Highlight>,
 麻煩你檢查北面的<Sheet(EObj,2012601,0)/>，
 結束之後我們再在這裡會合。"

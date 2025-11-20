@@ -63,7 +63,7 @@ int32,str,str
 51,"TEXT_JOBBRD700_02894_VORSAILE_000_010","<If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><Else/><Highlight>ObjectParameter(1)</Highlight></If><Else/><Highlight>ObjectParameter(1)</Highlight></If>、吉德洛，
 統合司令部經過協商，已經得出了結論。"
 52,"TEXT_JOBBRD700_02894_VORSAILE_000_011","……對不起，
-雙蛇黨堅決不接受敵人的要求，
+雙蛇黨堅絕不接受敵人的要求，
 並決定立即殲滅努爾瓦爾及其同黨。"
 53,"TEXT_JOBBRD700_02894_GUYDELOT_000_012","等、等一下！！
 連要求釋放人質的談判都沒有嗎？這種決定是什麼意思？！"

@@ -54,7 +54,7 @@ int32,str,str
 47,"TEXT_KINGZF201_05160_TODO_23",""
 48,"TEXT_KINGZF201_05160_NAKENTE_000_000","哎，出去也不帶個狩獵者，
 夏勞那傢伙沒問題吧……"
-49,"TEXT_KINGZF201_05160_NAKENTE_000_001","哎呀，這位<If(PlayerParameter(4))>小姐<Else/>小哥</If>，你是之前跟著斯菲因大人
+49,"TEXT_KINGZF201_05160_NAKENTE_000_001","哎呀，這位<If(PlayerParameter(4))>小姐<Else/>小哥</If>，你是之前跟著斯菲茵大人
 一起參觀過尤派光暈農地的那個人吧？
 記得還幫忙擊退了魔物。"
 50,"TEXT_KINGZF201_05160_NAKENTE_000_002","不好意思，可以請你幫個忙嗎？
@@ -113,7 +113,7 @@ int32,str,str
 大嬸我實在是於心不忍啊。"
 72,"TEXT_KINGZF201_05160_NAKENTE_000_033","對了，<Highlight>ObjectParameter(1)</Highlight>，
 可以請你協助夏勞進行調查嗎？"
-73,"TEXT_KINGZF201_05160_NAKENTE_000_034","來自外面的你，並不瞭解這裡的一些既定規則。
+73,"TEXT_KINGZF201_05160_NAKENTE_000_034","來自外面的你，並不了解這裡的一些既定規則。
 也正因為這樣，你或許才能注意到我們平時很難注意到的問題。"
 74,"TEXT_KINGZF201_05160_SHALOACI_000_035","的確，不同角度的不同觀點對我們很有幫助……
 如果你願意幫忙的話，我也會很開心的。"

@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_BANSAH202_01391_SEQ_00","諾布養育場的荷烏想要削減珊瑚尖槍的戰力。"
-1,"TEXT_BANSAH202_01391_SEQ_01","接受了荷烏的委託，討伐珊瑚尖槍飼養的水龍蜥。在薩普砂產卵地討伐2隻<Sheet(BNpcName,2527,0)/>，並對被引出來的<Sheet(BNpcName,2727,0)/>使用<Sheet(EventItem,2001271,0)/>後將其討伐。"
+1,"TEXT_BANSAH202_01391_SEQ_01","接受了荷烏的委託，討伐珊瑚尖槍飼養的水龍蜥。在薩普沙產卵地討伐2隻<Sheet(BNpcName,2527,0)/>，並對被引出來的<Sheet(BNpcName,2727,0)/>使用<Sheet(EventItem,2001271,0)/>後將其討伐。"
 2,"TEXT_BANSAH202_01391_SEQ_02","成功討伐了<Sheet(BNpcName,2527,0)/>和<Sheet(BNpcName,2727,0)/>。向諾布養育場的荷烏報告。"
 3,"TEXT_BANSAH202_01391_SEQ_03","向荷烏報告了成功討伐產卵地水龍蜥一事。珊瑚尖槍的戰力因為失去了重要的軍用獸而受到了不小的打擊，荷烏感到很高興。下次有機會再協助他削減珊瑚尖槍的戰力。"
 4,"TEXT_BANSAH202_01391_SEQ_04","空欄"
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_BANSAH202_01391_SEQ_21","空欄"
 22,"TEXT_BANSAH202_01391_SEQ_22","空欄"
 23,"TEXT_BANSAH202_01391_SEQ_23",""
-24,"TEXT_BANSAH202_01391_TODO_00","在薩普砂產卵地討伐2隻<Sheet(BNpcName,2527,0)/>
+24,"TEXT_BANSAH202_01391_TODO_00","在薩普沙產卵地討伐2隻<Sheet(BNpcName,2527,0)/>
 對被引出來的<Sheet(BNpcName,2727,0)/>使用<Sheet(EventItem,2001271,0)/>後將其討伐"
 25,"TEXT_BANSAH202_01391_TODO_01","向荷烏報告"
 26,"TEXT_BANSAH202_01391_TODO_02","空欄"
@@ -52,14 +52,14 @@ int32,str,str
 47,"TEXT_BANSAH202_01391_TODO_23",""
 48,"TEXT_BANSAH202_01391_HOUU_000_000","呼嘶……我想要削減珊瑚尖槍的戰力……
 想請你去討伐他們的軍用獸……水龍蜥……"
-49,"TEXT_BANSAH202_01391_HOUU_000_001","你先在薩普砂產卵地討伐年輕健壯的<Sheet(BNpcName,2527,0)/>。"
+49,"TEXT_BANSAH202_01391_HOUU_000_001","你先在薩普沙產卵地討伐年輕健壯的<Sheet(BNpcName,2527,0)/>。"
 50,"TEXT_BANSAH202_01391_HOUU_000_002","呼嘶……那樣的話，
 生養它們的<Sheet(BNpcName,2727,0)/>肯定會因為憤怒而現身……
 那傢伙是專門用來生育的……我們的真正目的就是它，呼嘶。"
-51,"TEXT_BANSAH202_01391_HOUU_000_003","但是成年的水龍蜥面板很堅硬……
+51,"TEXT_BANSAH202_01391_HOUU_000_003","但是成年的水龍蜥皮膚很堅硬……
 你先對<Sheet(BNpcName,2727,0)/>使用這個<Sheet(EventItem,2001271,0)/>，
 攻擊會更有效……呼嘶……"
-52,"TEXT_BANSAH202_01391_HOUU_000_010","呼嘶……你先在薩普砂產卵地討伐年輕健壯的<Sheet(BNpcName,2527,0)/>。"
+52,"TEXT_BANSAH202_01391_HOUU_000_010","呼嘶……你先在薩普沙產卵地討伐年輕健壯的<Sheet(BNpcName,2527,0)/>。"
 53,"TEXT_BANSAH202_01391_HOUU_000_011","等<Sheet(BNpcName,2727,0)/>現身後，
 就對它使用<Sheet(EventItem,2001271,0)/>並打倒它……
 呼嘶……拜託你了……"

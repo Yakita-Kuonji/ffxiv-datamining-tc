@@ -23,7 +23,7 @@ int32,str,str
 不過十四人委員會倒是能夠預測出災難的下一個發生地點。<UIForeground>01</UIForeground>"
 9,"TEXT_VOICEMAN_06002_000100_WATCHEROFMOON","<UIForeground>F20223</UIForeground>在亞伊太利斯上，存在著好幾種乙太流。<UIForeground>01</UIForeground>"
 10,"TEXT_VOICEMAN_06002_000110_WATCHEROFMOON","<UIForeground>F20223</UIForeground>在大地中奔走的地脈，
-在海洋中迴圈的水脈。<UIForeground>01</UIForeground>"
+在海洋中循環的水脈。<UIForeground>01</UIForeground>"
 11,"TEXT_VOICEMAN_06002_000120_WATCHEROFMOON","<UIForeground>F20223</UIForeground>在空氣中流動的風脈。<UIForeground>01</UIForeground>"
 12,"TEXT_VOICEMAN_06002_000130_WATCHEROFMOON","<UIForeground>F20223</UIForeground>以及在最外側，將這個月球也包含在內的天脈。<UIForeground>01</UIForeground>"
 13,"TEXT_VOICEMAN_06002_000140_YSHTOLA","天脈……我還是第一次聽說這個詞。"
@@ -35,11 +35,11 @@ int32,str,str
 17,"TEXT_VOICEMAN_06002_000180_WATCHEROFMOON","<UIForeground>F20223</UIForeground>十四人委員會注意到，
 災難通常都發生在天脈稀薄的地方。<UIForeground>01</UIForeground>"
 18,"TEXT_VOICEMAN_06002_000190_WATCHEROFMOON","<UIForeground>F20223</UIForeground>雖然不知道災難發生的根本原因，
-但他們發現星球正在從天脈迴圈不暢的地方開始逐漸枯萎。<UIForeground>01</UIForeground>"
+但他們發現星球正在從天脈循環不暢的地方開始逐漸枯萎。<UIForeground>01</UIForeground>"
 19,"TEXT_VOICEMAN_06002_000200_URIANGER","所以你們才創造出了擁有暗之力……
 也就是活性之力的佐狄亞克。"
 20,"TEXT_VOICEMAN_06002_000210_URIANGER","如此一來不但可以增強整個星球的乙太流動，
-甚至還能通過它來進行控制。
+甚至還能透過它來進行控制。
 簡直就是重新塑造了行星之理。"
 21,"TEXT_VOICEMAN_06002_000220_WATCHEROFMOON","<UIForeground>F20223</UIForeground>沒錯。
 被創造出來的佐狄亞克和預測的一樣，
@@ -161,7 +161,7 @@ int32,str,str
 我們會將盡可能多的生命和物資送到月球。"
 85,"TEXT_VOICEMAN_06002_000830_LIVINGWAY","然後帶大家前往可以移居的星球。"
 86,"TEXT_VOICEMAN_06002_000840_LIVINGWAY","雖說各個星球之間的距離十分遙遠，
-但通過我們對月球多年的改造和整備，
+但透過我們對月球多年的改造和整備，
 如今它已經搭載了空間跳躍裝置。"
 87,"TEXT_VOICEMAN_06002_000850_LIVINGWAY","只要使用這個，我們很快就可以到達目的地。"
 88,"TEXT_VOICEMAN_06002_000860_YSHTOLA","你們好厲害……
@@ -206,7 +206,7 @@ int32,str,str
 110,"TEXT_VOICEMAN_06002_001080_LIVINGWAY","這是幫手們最早送來的資料！
 上面記載著關於現代人類的內容，
 後面的空白頁是用來讓我們記錄學到的新知識的。"
-111,"TEXT_VOICEMAN_06002_001090_LIVINGWAY","我們對人類的所有瞭解，
+111,"TEXT_VOICEMAN_06002_001090_LIVINGWAY","我們對人類的所有了解，
 全都在這本書上……"
 112,"TEXT_VOICEMAN_06002_001100_LIVINGWAY","啊！
 我還以為這本書是為了方便我們閱讀才做成這樣！
@@ -227,7 +227,7 @@ int32,str,str
 轉移地點將自動變更……啊！"
 121,"TEXT_VOICEMAN_06002_001190_URIANGER","那麼，你們想對我說什麼？"
 122,"TEXT_VOICEMAN_06002_001200_LIVINGWAY","其實我並不想問……
-但這是個嚴肅的問題，我有責任瞭解清楚。"
+但這是個嚴肅的問題，我有責任了解清楚。"
 123,"TEXT_VOICEMAN_06002_001210_LIVINGWAY","我們創造的環境，
 實際上並不能滿足人類，對嗎？
 請你實話實說……"
@@ -355,7 +355,7 @@ int32,str,str
 187,"TEXT_VOICEMAN_06002_001810_LIVINGWAY","名字？
 你是指我們的現代語名字嗎？"
 188,"TEXT_VOICEMAN_06002_001820_URIANGER","是的，名字是非常重要的東西。
-它們包含著對自己的祝福和期冀。"
+它們包含著對自己的祝福和期望。"
 189,"TEXT_VOICEMAN_06002_001830_URIANGER","你們也是為了讓我們感到親近，
 才選擇了這樣的名字吧。"
 190,"TEXT_VOICEMAN_06002_001840_URIANGER","這份對亞伊太利斯居民的真誠是毋庸置疑的。"
@@ -373,7 +373,7 @@ int32,str,str
 197,"TEXT_VOICEMAN_06002_001910_LIVINGWAY","那些做得不夠好的地方，
 我們一定會改正的！"
 198,"TEXT_VOICEMAN_06002_001920_URIANGER","不，你們已經做得很好了。
-真正的問題在於你們還不夠瞭解人類。"
+真正的問題在於你們還不夠了解人類。"
 199,"TEXT_VOICEMAN_06002_001930_URIANGER","就拿你們的名字來說明吧。
 歌鳴威，你的名字並不是單純地指代按照節奏發出聲音。"
 200,"TEXT_VOICEMAN_06002_001940_URIANGER","在地面上有著無數的歌曲。
@@ -407,14 +407,14 @@ int32,str,str
 212,"TEXT_VOICEMAN_06002_002060_LIVINGWAY","我……不是很明白。"
 213,"TEXT_VOICEMAN_06002_002070_URIANGER","我也還在學習摸索，試圖找到自己的答案。
 不過請放心，在這段時間內，
-我會盡我所能讓你們更加瞭解我們。"
+我會盡我所能讓你們更加了解我們。"
 214,"TEXT_VOICEMAN_06002_002080_URIANGER","給你這個。"
 215,"TEXT_VOICEMAN_06002_002090_URIANGER","這是墨水，和亞伊太利斯有著一樣的顏色。
 雖然是臨時做出來的，但品質應該沒問題。"
 216,"TEXT_VOICEMAN_06002_002100_URIANGER","即便沒有我的謊言做引導，
 人類也一定能決定自己要走的路。"
 217,"TEXT_VOICEMAN_06002_002110_URIANGER","所以，我希望你們在那之前能耐心地等待。"
-218,"TEXT_VOICEMAN_06002_002120_URIANGER","在不斷瞭解人類，不斷用藍色墨水續寫那本書的這段時間裡，
+218,"TEXT_VOICEMAN_06002_002120_URIANGER","在不斷了解人類，不斷用藍色墨水續寫那本書的這段時間裡，
 或許你們就能明白該怎麼與人類相處，
 以及該如何改造月球了。"
 219,"TEXT_VOICEMAN_06002_002130_URIANGER","更重要的是，
@@ -437,7 +437,7 @@ int32,str,str
 你是怎麼得到它的？<UIForeground>01</UIForeground>"
 228,"TEXT_VOICEMAN_06002_002220_WATCHEROFMOON","<UIForeground>F20223</UIForeground>原來如此，果然是維涅斯會出說的話。<UIForeground>01</UIForeground>"
 229,"TEXT_VOICEMAN_06002_002230_WATCHEROFMOON","<UIForeground>F20223</UIForeground>那麼，只要繼續跟隨這朵花的指引，
-說不定你們就能瞭解到連我們也不曾知曉的她的真意。<UIForeground>01</UIForeground>"
+說不定你們就能了解到連我們也不曾知曉的她的真意。<UIForeground>01</UIForeground>"
 230,"TEXT_VOICEMAN_06002_002240_WATCHEROFMOON","<UIForeground>F20223</UIForeground>另外，希望你們能記住，
 在我們那個時代，這種花被稱為“厄爾庇斯”。<UIForeground>01</UIForeground>"
 231,"TEXT_VOICEMAN_06002_002250_LIVINGWAY","那個……都怪我們太著急了，
@@ -482,8 +482,8 @@ int32,str,str
 接下來由你來說吧，萊韋耶勒爾議員。"
 253,"TEXT_VOICEMAN_06002_002470_FOURCHENAULT","好的。"
 254,"TEXT_VOICEMAN_06002_002480_FOURCHENAULT","270年前，
-我們的祖先在龍堡內陸低地對星海進行過探索和研究。"
-255,"TEXT_VOICEMAN_06002_002490_FOURCHENAULT","我相信在場的各位或多或少都對這段歷史有所瞭解，
+我們的祖先在德拉瓦尼亞河谷地對星海進行過探索和研究。"
+255,"TEXT_VOICEMAN_06002_002490_FOURCHENAULT","我相信在場的各位或多或少都對這段歷史有所了解，
 但真正的研究成果，其實被議會隱瞞了下來。"
 256,"TEXT_VOICEMAN_06002_002500_FOURCHENAULT","他們在探索星海的過程中，
 成功接觸到了星球的意志——海德林。"
@@ -506,7 +506,7 @@ int32,str,str
 264,"TEXT_VOICEMAN_06002_002580_BARNIER","因此，我們即將展開新的“大撤退”，
 離開這顆星球。"
 265,"TEXT_VOICEMAN_06002_002590_BARNIER","主導本計畫的，就是這為富爾什諾議員。
-他已經在當年龍堡內陸低地大撤退時證明過自身的能力了。"
+他已經在當年德拉瓦尼亞河谷地大撤退時證明過自身的能力了。"
 266,"TEXT_VOICEMAN_06002_002600_FOURCHENAULT","各位擁有知識的朋友，我聰明的同胞們。
 即將發生的這場空前危機，會讓世界陷入前所未有的混亂當中。"
 267,"TEXT_VOICEMAN_06002_002610_FOURCHENAULT","正因如此，
@@ -539,7 +539,7 @@ int32,str,str
 請帶著希望逃離的人安全撤離吧。"
 284,"TEXT_VOICEMAN_06002_002750_ALPHINAUD","您應該認識尤里安傑吧，他留在了月球上。
 如果出現了什麼問題，
-可以通過他去和月球的船員協調。"
+可以透過他去和月球的船員協調。"
 285,"TEXT_VOICEMAN_06002_002760_FOURCHENAULT","那你們，有什麼打算？"
 286,"TEXT_VOICEMAN_06002_002770_ALPHINAUD","我們在各地旅行，接觸到了各式各樣的人與文化。"
 287,"TEXT_VOICEMAN_06002_002780_ALPHINAUD","不論哪裡，都保留了很多時間與思想的沉澱。
@@ -753,7 +753,7 @@ int32,str,str
 395,"TEXT_VOICEMAN_06002_003790_ALAMHIGANCITIZENA","這樣啊……
 那我就放心了。"
 396,"TEXT_VOICEMAN_06002_003800_ALAMHIGANCITIZENA","那裡還有不少投奔帝國的阿拉米格人呢……
-我可沒法歡迎他們回來。"
+我可無法歡迎他們回來。"
 397,"TEXT_VOICEMAN_06002_003810_ALAMHIGANCITIZENB","是啊……
 不過我聽說阿拉加納好像在準備什麼，
 可能會先集中在那邊吧……"

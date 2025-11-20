@@ -39,7 +39,7 @@ int32,str,str
 根據匹配到的成員的進度不同，
 寶箱的出現數量及報酬數量也可能會發生變化。"
 8,"職業構成","通過匹配參加最新的零式大型任務時組成的隊伍沒有重複職業。
-　·進攻職業會按照“近戰”“遠端物理”“遠端魔法”“無指定”的分配組成。
+　·進攻職業會按照“近戰”“遠程物理”“遠程魔法”“無指定”的分配組成。
 
 不過，根據“目的”的設置，在“無指定”一項中也可以有重複職業。
 　·目的選擇“完成任務”時：職業不可重複
@@ -58,10 +58,10 @@ int32,str,str
 即使進度有所不同的隊員也可以一同挑戰任務。
 　·比隊長進度落後的隊員，進度會被更新到與隊長相同。
 　·比隊長進度靠前的隊員，進度不會被更新。"
-10,"任務搜索器","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務搜索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是供<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>不同玩家<UIGlow>01</UIGlow><UIForeground>01</UIForeground>組成小隊
+10,"任務搜尋器","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務搜尋器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是供<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>不同玩家<UIGlow>01</UIGlow><UIForeground>01</UIForeground>組成小隊
 一起挑戰迷宮等任務的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>便利功能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 訪問進入點，選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>與其他玩家一同進入<UIGlow>01</UIGlow><UIForeground>01</UIForeground>後，
-將會打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務搜索器視窗<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
+將會打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務搜尋器視窗<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
 11,"申請參加任務","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>勾選想要挑戰的迷宮名稱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，然後<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按下參加按鈕<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
 系統就會自動地將參加相同任務的玩家組成小隊。
 這個過程被稱為<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>匹配<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
@@ -69,20 +69,20 @@ int32,str,str
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※最多只能同時申請參加5個任務。
 
 ※帶有鎖頭圖案的任務表示當前狀態沒有完全符合參加條件，無法申請參加。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-12,"申請的預約狀況","開始申請之後，目的清單中會出現搜索器的圖示，可以隨時查看<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>預約狀況<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+12,"申請的預約狀況","開始申請之後，目的清單中會出現搜尋器的圖示，可以隨時查看<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>預約狀況<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 預約狀況視窗中會顯示當前的隊伍情況和伺服器預約情況。"
-13,"出發確認窗口","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>匹配完成<UIGlow>01</UIGlow><UIForeground>01</UIForeground>時會有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>聲音提示，並快顯視窗<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+13,"出發確認視窗","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>匹配完成<UIGlow>01</UIGlow><UIForeground>01</UIForeground>時會有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>聲音提示，並彈出視窗<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按下出發按鈕<UIGlow>01</UIGlow><UIForeground>01</UIForeground>就可以進行挑戰了！
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>若沒有在限制時間內出發，將會取消參加，需要重新進行選擇。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 14,"可以挑戰的迷宮","隨著你的冒險不斷推進，可以挑戰的迷宮數量也會不斷增加。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>當前不可使用劇情輔助器的迷宮及任務<UIGlow>01</UIGlow><UIForeground>01</UIForeground>請多<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>利用任務搜索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>參與挑戰！
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>當前不可使用劇情輔助器的迷宮及任務<UIGlow>01</UIGlow><UIForeground>01</UIForeground>請多<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>利用任務搜尋器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>參與挑戰！
 
 此外成功挑戰過的迷宮也可以重複進行挑戰。
-可以從<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>快捷指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務情報<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能表選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務搜索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+可以從<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>設定選單<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務情報<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能表選擇<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任務搜尋器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>劇情輔助器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>再次進行挑戰。"
-15,"探索特殊迷宮的方法","和專用的非玩家角色對話，或者選擇快捷指令“任務情報”內的
+15,"探索特殊迷宮的方法","和專用的非玩家角色對話，或者選擇設定選單“任務情報”內的
 “<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特殊迷宮探索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>”打開專用的視窗，
 進入特殊迷宮探索任務。
 
@@ -103,7 +103,7 @@ int32,str,str
 以方便冒險者通過任意職業構成探索迷宮。
 
 無論是防護職業還是進攻職業，
-都可以使用<UIForeground>0F</UIForeground>特殊的治療和復活<UIForeground>01</UIForeground>來擔任治療職業的職責，
+都可以使用<UIForeground>0F</UIForeground>特殊的療傷和復活<UIForeground>01</UIForeground>來擔任治療職業的職責，
 當然，其他的職業同樣也準備了不同的<UIForeground>0F</UIForeground>特殊技能<UIForeground>01</UIForeground>。
 
 探索時可以使用2種不同的多變技能。
@@ -139,7 +139,7 @@ int32,str,str
 21,"關於隊員介紹","用於顯示各隊員肖像的專用視窗。在迷宮、討伐殲滅戰等任務開始時會自動顯示。任務開始時顯示的專用視窗無法變更大小與顯示位置。
 
 任務開始時顯示的專用視窗可以通過角色設置或從詳細設定變更為非顯示。"
-22,"打開隊員介紹視窗的方法","任務中玩家可以從快捷指令的任務情報，選擇任務搜索器打開任務功能表。通過任務內功能標籤頁的“顯示隊員介紹”按鈕打開隊員介紹視窗。
+22,"打開隊員介紹視窗的方法","任務中玩家可以從設定選單的任務情報，選擇任務搜尋器打開任務功能表。通過任務內功能標籤頁的“顯示隊員介紹”按鈕打開隊員介紹視窗。
 
 此外任務開始時顯示的隊員介紹，也會以通知的形式顯示，玩家也可以通過該通知打開隊員介紹視窗。"
 23,"關於詳細設置","打開任務功能表選擇“顯示隊員介紹”按鈕，可以從彈出的視窗中進行以下的設置：

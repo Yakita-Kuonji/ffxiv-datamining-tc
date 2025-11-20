@@ -156,7 +156,7 @@ int32,str,str
 102,"TEXT_BANLOP001_04681_DREAMINGWAY_000_060","你回來了啊！
 你去跟他們聊過了嗎？"
 103,"TEXT_BANLOP001_04681_DREAMINGWAY_000_061","他們當中有些人的情況相當不妙，
-要想讓他們打起精神來，你覺得我們該做些什麼好呢？"
+若想讓他們打起精神來，你覺得我們該做些什麼好呢？"
 104,"TEXT_BANLOP001_04681_Q2_000_000","如何作答？"
 105,"TEXT_BANLOP001_04681_A2_000_001","我們來幫他們找到夢想吧！"
 106,"TEXT_BANLOP001_04681_A2_000_002","將你的夢想告訴他們如何？"
@@ -177,7 +177,7 @@ int32,str,str
 然後建設一處場所，供他們展示為夢想所做的努力。"
 116,"TEXT_BANLOP001_04681_DREAMINGWAY_000_071","看到同伴為了夢想而打拼的身影，
 也許自身就能萌發出同樣的興趣或是找到新的夢想？！"
-117,"TEXT_BANLOP001_04681_DREAMINGWAY_000_072","但問題是要想建設這類場所，
+117,"TEXT_BANLOP001_04681_DREAMINGWAY_000_072","但問題是若想建設這類場所，
 必須向生命威申請許可。"
 118,"TEXT_BANLOP001_04681_DREAMINGWAY_000_073","從這裡往上走應該就能找到她，
 <Highlight>ObjectParameter(1)</Highlight>，你能跟我一起走一趟嗎？"
@@ -204,7 +204,7 @@ int32,str,str
 130,"TEXT_BANLOP001_04681_LIVINGWAY_000_089","這位是發財威。
 他十分關注有關經濟活動的事情，
 夢想是發行自己的貨幣。"
-131,"TEXT_BANLOP001_04681_LIVINGWAY_000_090","要想得到眾多同伴的協助，就需要奉上相對的報酬……
+131,"TEXT_BANLOP001_04681_LIVINGWAY_000_090","若想得到眾多同伴的協助，就需要奉上相對的報酬……
 在這方面，他應該能夠幫到你們！"
 132,"TEXT_BANLOP001_04681_LIVINGWAY_000_091",""
 133,"TEXT_BANLOP001_04681_COININGWAY_000_091","呵呵……終於輪到我發光發熱的時候了嗎。
@@ -229,7 +229,7 @@ int32,str,str
 之後說不定會遇到我們難以解決的問題……"
 142,"TEXT_BANLOP001_04681_MANAGINGWAY_100_097","嗯哼！"
 143,"TEXT_BANLOP001_04681_MANAGINGWAY_110_097","我也想求你幫忙。
-之後要想建設用於展示夢想的場所，
+之後若想建設用於展示夢想的場所，
 必須有擅長製作的工匠！"
 144,"TEXT_BANLOP001_04681_MANAGINGWAY_120_097","我早就聽聞<Highlight>ObjectParameter(1)</Highlight>大人是一名手藝高超的工匠。
 能請你在這方面也幫幫忙嗎？"
@@ -253,7 +253,7 @@ int32,str,str
 157,"TEXT_BANLOP001_04681_LIVINGWAY_000_104",""
 158,"TEXT_BANLOP001_04681_DREAMINGWAY_000_105","謝謝你！"
 159,"TEXT_BANLOP001_04681_DREAMINGWAY_000_106","那我們快去那個房間看看吧！"
-160,"TEXT_BANLOP001_04681_LIVINGWAY_000_107","要是那孩子通過你們的活動，
+160,"TEXT_BANLOP001_04681_LIVINGWAY_000_107","要是那孩子透過你們的活動，
 願意回到這裡就好了……"
 161,"TEXT_BANLOP001_04681_MANAGINGWAY_000_108","今後要在這裡發揮我的特長嗎……
 嗯，的確是一件很值得做的事情！"
@@ -267,7 +267,7 @@ int32,str,str
 166,"TEXT_BANLOP001_04681_MANAGINGWAY_000_122","嗯哼！"
 167,"TEXT_BANLOP001_04681_MANAGINGWAY_000_123","首先在開始行動前，
 我們應該明確一下場地的設計，
-這樣就不會做無謂的返工。"
+這樣就不會無意義的重做。"
 168,"TEXT_BANLOP001_04681_DREAMINGWAY_000_124","有、有道理哦……
 那我先來說一下，我喜歡音樂，
 所以想建造一個能讓大家享受音樂的舞臺！"
@@ -289,9 +289,9 @@ int32,str,str
 180,"TEXT_BANLOP001_04681_MANAGINGWAY_100_134",""
 181,"TEXT_BANLOP001_04681_MANAGINGWAY_110_134","謝謝！
 那就讓我詳細地說明一下！"
-182,"TEXT_BANLOP001_04681_MANAGINGWAY_000_135","我想請<Highlight>ObjectParameter(1)</Highlight>大人制作用在<Sheet(Item,38843,0)/>上的特殊金具。"
-183,"TEXT_BANLOP001_04681_MANAGINGWAY_000_136","我想請<Highlight>ObjectParameter(1)</Highlight>大人制作用在<Sheet(Item,38843,0)/>上的衝擊吸收材料。"
-184,"TEXT_BANLOP001_04681_MANAGINGWAY_000_137","我想請<Highlight>ObjectParameter(1)</Highlight>大人制作用在<Sheet(Item,38843,0)/>上的特殊塗料。"
+182,"TEXT_BANLOP001_04681_MANAGINGWAY_000_135","我想請<Highlight>ObjectParameter(1)</Highlight>大人製作用在<Sheet(Item,38843,0)/>上的特殊金具。"
+183,"TEXT_BANLOP001_04681_MANAGINGWAY_000_136","我想請<Highlight>ObjectParameter(1)</Highlight>大人製作用在<Sheet(Item,38843,0)/>上的衝擊吸收材料。"
+184,"TEXT_BANLOP001_04681_MANAGINGWAY_000_137","我想請<Highlight>ObjectParameter(1)</Highlight>大人製作用在<Sheet(Item,38843,0)/>上的特殊塗料。"
 185,"TEXT_BANLOP001_04681_MANAGINGWAY_000_138","我已經提前準備好了製作用的素材，
 請你隨意使用。"
 186,"TEXT_BANLOP001_04681_MANAGINGWAY_000_139","素材由這個夢明協助機負責管理，
@@ -331,7 +331,7 @@ int32,str,str
 一起躍動起來的空間！"
 205,"TEXT_BANLOP001_04681_MANAGINGWAY_000_164","不過話說回來，
 沒想到初次為自己建造的設施是這樣的……"
-206,"TEXT_BANLOP001_04681_COININGWAY_000_165","這邊的購物臺可以通過我的夢想——專屬的胡蘿蔔幣
+206,"TEXT_BANLOP001_04681_COININGWAY_000_165","這邊的購物臺可以透過我的夢想——專屬的胡蘿蔔幣
 享受購物的樂趣哦！"
 207,"TEXT_BANLOP001_04681_MANAGINGWAY_000_166","這、這個滑梯也是商品嗎？！
 真有人會專門來買它嗎……"
@@ -369,8 +369,8 @@ int32,str,str
 一定能夠助力其他人找到自己的夢想！"
 221,"TEXT_BANLOP001_04681_DREAMINGWAY_000_180","為此少不了<Highlight>ObjectParameter(1)</Highlight>的力量！
 今後也請你跟我們一起努力吧！"
-222,"TEXT_BANLOP001_04681_TALKINGWAY_000_181","(-？？？？-)自顧自地瞎起什麼勁呢，簡直像傻瓜一樣……
-事到如今還有什麼可折騰的……"
+222,"TEXT_BANLOP001_04681_TALKINGWAY_000_181","(-？？？？-)在那邊一頭熱的亂搞什麼，簡直像傻瓜一樣……
+事到如今還有什麼好瞎忙的……"
 223,"TEXT_BANLOP001_04681_SYSTEM_000_182","夢明工作室開張了，
 音樂臺和購物臺建設完成！"
 224,"TEXT_BANLOP001_04681_SYSTEM_100_182","為了讓更多的兔兔族找到夢想，

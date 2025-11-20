@@ -120,7 +120,7 @@ int32,str,str
 就把它帶到這裡來！"
 76,"TEXT_LUCKZD102_03428_TONATIUH_000_090","嗯？剛才的<If(PlayerParameter(4))>姐姐<Else/>哥哥</If>。
 問我看沒看到仙子豬……是那個飛在天上的豬嗎？"
-77,"TEXT_LUCKZD102_03428_TONATIUH_000_091","它在這邊飛來著……
+77,"TEXT_LUCKZD102_03428_TONATIUH_000_091","它在這邊飛著……
 我看它很可口就吃掉了！"
 78,"TEXT_LUCKZD102_03428_TONATIUH_000_092","……咦，莫非那隻豬是不可以吃的嗎？"
 79,"TEXT_LUCKZD102_03428_TONATIUH_000_093","欸！！

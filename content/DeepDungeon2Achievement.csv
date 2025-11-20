@@ -17,8 +17,8 @@ int32,str,str
 ……我可等著你了哦，英雄閣下。"
 5,"TEXT_DEEPDUNGEON2ACHIEVEMENT_DD2FORMERLEADER_000_030","厲害、厲害啊。
 看來你到達天之御柱的頂層了啊。
-像老朽這樣沒能成為英雄的半吊子，真是沒法跟你比啊。"
-6,"TEXT_DEEPDUNGEON2ACHIEVEMENT_DD2FORMERLEADER_000_031","你就趁著這股勢頭，把所有的真正英雄之證集齊後，
+像老朽這樣沒能成為英雄的半吊子，真是無法跟你比啊。"
+6,"TEXT_DEEPDUNGEON2ACHIEVEMENT_DD2FORMERLEADER_000_031","你就趁著這股氣勢，把所有的真正英雄之證集齊後，
 給老朽我看看吧。
 我等著你哦，英雄閣下！"
 7,"TEXT_DEEPDUNGEON2ACHIEVEMENT_SYSTEM_000_032","將<Sheet(Item,23177,0)/>交給海盜眾的資材負責人，
@@ -33,7 +33,7 @@ int32,str,str
 你放心，比起之前所等待的時間，
 這點程度的等待根本算不上什麼。"
 11,"TEXT_DEEPDUNGEON2ACHIEVEMENT_SYSTEM_000_042","和年邁的海盜對話，
-要想獲得成就和特別的道具，
+若想獲得成就和特別的道具，
 需要背包保留1格以上的空位。"
 12,"TEXT_DEEPDUNGEON2ACHIEVEMENT_DD2FORMERLEADER_000_050","哦哦，你得到全部的真正英雄之證了啊！
 你真是、真是、幹得太好了……
@@ -48,7 +48,7 @@ int32,str,str
 感謝你啊，真正的英雄閣下。
 請你收下這個吧。"
 16,"TEXT_DEEPDUNGEON2ACHIEVEMENT_DD2FORMERLEADER_000_060","……嗯，你行李太多了吧？
-現在的狀態沒法拿走寶貝。
+現在的狀態無法拿走寶貝。
 等你整理完行李再來找我吧。"
 17,"TEXT_DEEPDUNGEON2ACHIEVEMENT_DD2FORMERLEADER_000_070","根據只在歷代的首領之間口耳相傳的傳說中所說，
 「典膳驅鬼」的主角典膳也曾經挑戰過天之御柱的試鍊。"

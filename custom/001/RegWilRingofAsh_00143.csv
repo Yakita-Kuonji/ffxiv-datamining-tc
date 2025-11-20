@@ -20,7 +20,7 @@ int32,str,str
 召集繼承了高傲部族精神的同伴，建造了這個村落。"
 10,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_022","我們的目的只有一個，那就是追求獨一無二的強大！
 我們根本不會將那些依賴火神的懦夫放在眼裡！"
-11,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_050","哦，這不是<Highlight>ObjectParameter(1)</Highlight>麼！
+11,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_050","哦，這不是<Highlight>ObjectParameter(1)</Highlight>嗎！
 怎麼了，你有什麼事嗎？"
 12,"TEXT_REGWILRINGOFASH_00143_Q2_000_000","想了解什麼？"
 13,"TEXT_REGWILRINGOFASH_00143_A2_000_001","最近怎麼樣？"
@@ -43,7 +43,7 @@ int32,str,str
 召集繼承了高傲部族精神的同伴，建造了這個村落。"
 23,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_112","我們的目的只有一個，那就是追求獨一無二的強大！
 我們根本不會將那些依賴火神的懦夫放在眼裡！"
-24,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_150","哦，這不是<Highlight>ObjectParameter(1)</Highlight>麼！
+24,"TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_150","哦，這不是<Highlight>ObjectParameter(1)</Highlight>嗎！
 歡迎，你有什麼事嗎？"
 25,"TEXT_REGWILRINGOFASH_00143_Q3_000_000","想了解什麼？"
 26,"TEXT_REGWILRINGOFASH_00143_A3_000_001","最近怎麼樣？"

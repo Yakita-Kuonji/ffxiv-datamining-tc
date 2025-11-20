@@ -112,7 +112,7 @@ int32,str,str
 70,"TEXT_LUCKYA002_03596_Q1_000_000","如何作答？"
 71,"TEXT_LUCKYA002_03596_A1_000_001","人變成魔物了"
 72,"TEXT_LUCKYA002_03596_A1_000_002","魔物出逃，一片混亂"
-73,"TEXT_LUCKYA002_03596_A1_000_003","沒想到拉哈佈雷亞居然是研究者"
+73,"TEXT_LUCKYA002_03596_A1_000_003","沒想到拉哈布雷亞居然是研究者"
 74,"TEXT_LUCKYA002_03596_A1_000_004","沒有值得報告的事情"
 75,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_061","<UIForeground>F20223</UIForeground>那個應該不是變身魔法，
 很可能是現在正在研究的新創造魔法的研究成果。<UIForeground>01</UIForeground>"
@@ -131,7 +131,7 @@ int32,str,str
 我們的確是捕捉到了一隻樣本……
 難道是它的強大超出了我們的想像？<UIForeground>01</UIForeground>"
 81,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_067","<UIForeground>F20223</UIForeground>不過就算是這樣，他們都是優秀的研究者。
-而且現任的拉哈佈雷亞大人也在場，
+而且現任的拉哈布雷亞大人也在場，
 事態會馬上得到控制的吧。<UIForeground>01</UIForeground>"
 82,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_068","<UIForeground>F20223</UIForeground>像你這樣的小孩子就不用擔心了。
 只不過你因此無法跟研究者聊上幾句，實在有些遺憾。
@@ -139,8 +139,8 @@ int32,str,str
 83,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_069","<UIForeground>F20223</UIForeground>你還有其他要詢問的事情嗎？
 只要是我能回答的問題，我都會為你解答。<UIForeground>01</UIForeground>"
 84,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_070","<UIForeground>F20223</UIForeground>嗯，這是當然的。
-拉哈佈雷亞大人是擅長創造幻想生物的著名研究者。<UIForeground>01</UIForeground>"
-85,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_071","<UIForeground>F20223</UIForeground>他管理的拉哈佈雷亞院，
+拉哈布雷亞大人是擅長創造幻想生物的著名研究者。<UIForeground>01</UIForeground>"
+85,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_071","<UIForeground>F20223</UIForeground>他管理的拉哈布雷亞院，
 對你來說想必是最有收穫的地方吧？
 那裡應該有很多用於創造的參考資料等引人注目的東西。<UIForeground>01</UIForeground>"
 86,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_072","<UIForeground>F20223</UIForeground>你還有其他要詢問的事情嗎？

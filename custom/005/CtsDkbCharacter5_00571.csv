@@ -38,7 +38,7 @@ int32,str,str
 我準備開始調查有沒有被其他疾病折磨的患者了。"
 18,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_106","如果還有其他食療能治癒的疾病的話，
 我覺得應該還要拜託你幫忙，
-請再稍等一陣吧……"
+請再稍等一下吧……"
 19,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_170","水生資源部的貢獻等級提高了！
 弗里斯利克認為你是水生資源部改革的理解者！"
 20,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_130","<Highlight>ObjectParameter(1)</Highlight>，
@@ -97,7 +97,7 @@ int32,str,str
 41,"TEXT_CTSDKBCHARACTER5_00571_PATIENTMAN00571_000_235","能止住想吃奇怪東西的衝動，
 濕疹的症狀也減輕了。
 真是太感謝你了，漁師。"
-42,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_236","哪裡哪裏，我只是做了我該做的事……
+42,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_236","哪裡哪裡，我只是做了我該做的事……
 這都要感謝古書中記載的知識……"
 43,"TEXT_CTSDKBCHARACTER5_00571_SPAGYRICSHEALER00571_000_237","弗里斯利克已經在
 圖書館員和醫師之間傳開了。
@@ -213,14 +213,14 @@ int32,str,str
 弗里斯利克認為你是水生資源部改革的支援者！"
 88,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_400","此外，可以領取中庸工藝館交易的劇情任務了。
 和弗里斯利克對話即可接受任務。"
-89,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_420","<Highlight>ObjectParameter(1)</Highlight>，有好訊息！
+89,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_420","<Highlight>ObjectParameter(1)</Highlight>，有好消息！
 羅布認識的那位女性的疾病，
 我找到治療辦法了！"
 90,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_425","漁師的等級達到78級以上時，
 可以從中庸工藝館的弗里斯利克那裡領取下一個交納委託品的任務。"
 91,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_450","羅布曾說她
 眼白變成了黃色，
-還頭昏得厲害來著吧。"
+還頭昏得厲害的說。"
 92,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_451","得了黃疸的原因暫時還不清楚，
 雖然文獻很少，不好調查……
 但有圖書館員在協助我，所以調查正有序進行！"
@@ -263,7 +263,7 @@ int32,str,str
 107,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_535","欸！水晶病？！
 這可糟糕了！"
 108,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_536","<Highlight>ObjectParameter(1)</Highlight>，
-你不知道水晶病麼？！"
+你不知道水晶病嗎？！"
 109,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_537","所謂水晶病，是水晶都特有的原因不明的疾病。
 患者會感覺渾身乏力，手腳遲鈍……
 嚴重時甚至會危及生命！"
@@ -294,7 +294,7 @@ int32,str,str
 可以從中庸工藝館的弗里斯利克那裡領取任務。"
 120,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_560","（★未使用／削除予定★）"
 121,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_570","嘿，你來玩啦？
-托你的福，水生資源部現在可熱鬧了！
+托你的福，水生資源部現在非常熱鬧！
 大家同心協力，開始在各個地區捕魚了！"
 122,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_575","<Highlight>ObjectParameter(1)</Highlight>，你能一次又一次
 讓水晶都的人們臉上綻放笑容……

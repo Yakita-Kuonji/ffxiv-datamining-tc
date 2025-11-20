@@ -34,7 +34,7 @@ int32,str,str
 法丹尼爾這個男人的絕望之深更是可怕……"
 14,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_008","不……只靠想像去描述這份心境，
 未免太過自以為是了。
-真相只有你才瞭解。"
+真相只有你才了解。"
 15,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_009","總之現在唯有懷揣著對古人的悼念，
 將他們的思緒編織進詩歌中，
 這也是他們曾經活在這個世上的證據……"
@@ -128,7 +128,7 @@ int32,str,str
 58,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_061","在不存在死亡的虛無界中互相吞噬的妖異，
 還有身負失傳封印妖異之術的半妖異……
 真是令人興趣盎然。"
-59,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_062","如果那個在異世界的天空中翱翔的巴爾巴莉希婭
+59,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_062","如果那個在異世界的天空中翱翔的巴爾巴莉希亞
 將天龍的乙太完全吞食的話……
 不知道她的靈魂又會散發怎樣的光輝呢？"
 60,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_063","呵呵，聽了你的故事，我又有了新的靈感。
@@ -179,8 +179,8 @@ int32,str,str
 它身邊總是跟著一個像陸行鳥一樣的可愛的小傢伙，
 看起來一點威脅都沒有。"
 80,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_085","原來如此。
-歐米茄是通過戰鬥來實現自我強化的兵器。
-在現代甦醒後，它曾在次元狹縫中進行了檢測實驗。"
+歐米茄是透過戰鬥來實現自我強化的兵器。
+在現代甦醒後，它曾在時空狹縫中進行了檢測實驗。"
 81,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_086","目的是為了弄清楚它不理解的未知之力——「心」的力量。"
 82,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_087","而阿爾法是歐米茄為了檢測而創造出的個體之一。"
 83,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_088","「『心』是什麼？」，還真是個不好回答的問題……"
@@ -193,9 +193,9 @@ int32,str,str
 87,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_092","呵呵，我只是想到有這種可能性。"
 88,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_093","不過對於詩人來說，將這種可能性化為詩篇，
 也是興趣所在。"
-89,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_094","如果當時次元狹縫的檢測再持續一些時間，
+89,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_094","如果當時時空狹縫的檢測再持續一些時間，
 歐米茄是否能得到它想要的「答案」呢？
-讓我們來一同暢想吧。"
+讓我們來一同構想吧。"
 90,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_095","歐米茄，沉眠於加爾提諾的冰冷兵器……"
 91,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_096","它在不久前甦醒，開始捕捉在
 黑衣森林和基拉巴尼亞邊區交界一帶被召喚出的神龍，
@@ -239,7 +239,7 @@ int32,str,str
 108,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_124","「暗神的殘渣吞噬了異界之龍，古老的英雄因此重現世間。
 它將打破世界的壁壘，從而實現歸鄉的夙願。」"
 109,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_125","「黑衣的半妖吸收了異界之光，神聖的騎士得以驅散黑暗。
-她將打破自己的命運，從而化身光明的零點。」"
+她將打破自己的命運，從而化身光明的起點。」"
 110,"TEXT_CTSOPN60WANDERINGMINSTREL_00728_WANDERINGMINSTREL_000_126","高貝扎企圖入侵原初世界，是為了讓變成妖異的人們
 重歸生命的循環。零否決了高貝扎的計劃，
 也就擔起了尋找其他救贖方法的使命。"

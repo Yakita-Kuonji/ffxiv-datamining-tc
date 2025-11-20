@@ -95,7 +95,7 @@ int32,str,str
 66,"TEXT_CLSGLA200_00263_WYMOND_000_103","……這戒指上的蠍紋，是某個集團的標誌。
 他們叫做鉗蠍幫。"
 67,"TEXT_CLSGLA200_00263_WYMOND_000_104","他們是在烏爾達哈的黑道上混的犯罪集團……
-據說他們還與砂蠍眾和銅刃團有來往……
+據說他們還與沙蠍眾和銅刃團有來往……
 哎呀，為我自身著想，不能再往下說了！"
 68,"TEXT_CLSGLA200_00263_WYMOND_000_105","總之，不要引火燒身。
 你最好忘了我剛才和你說的……
@@ -112,7 +112,7 @@ int32,str,str
 74,"TEXT_CLSGLA200_00263_MYLLA_000_140","什麼？！襲擊市集？！"
 75,"TEXT_CLSGLA200_00263_MYLLA_000_150","實際上，行會會員在貧民區獲得了有力情報，
 據說盜賊團計畫在近期進行大規模的搶劫行動。
-不知盜賊團和襲擊會員的犯人有沒有聯繫……"
+不知盜賊團和襲擊會員的犯人有沒有連繫……"
 76,"TEXT_CLSGLA200_00263_MYLLA_000_151","空"
 77,"TEXT_CLSGLA200_00263_MYLLA_000_152","他們的目標恐怕是……白銀市集。
 烏爾達哈的上級對那市集疏於管理，
@@ -256,7 +256,7 @@ int32,str,str
 163,"TEXT_CLSGLA200_00263_SCENE00020_INSTANCE_BATTLE_YESNO_NO","否"
 164,"TEXT_CLSGLA200_00263_QIB_TODO001","打倒鉗蠍幫盜賊團！"
 165,"TEXT_CLSGLA200_00263_MYLLA_BATTLETALK_001","人數太多了！不要勉強，逐一擊破！"
-166,"TEXT_CLSGLA200_00263_MYLLA_BATTLETALK_002","敵人中有會使用治癒魔法的嗎……真棘手……"
+166,"TEXT_CLSGLA200_00263_MYLLA_BATTLETALK_002","敵人中有會使用治療魔法的嗎……真棘手……"
 167,"TEXT_CLSGLA200_00263_MYLLA_BATTLETALK_002_2","<Highlight>ObjectParameter(1)</Highlight>，用你的盾制住幻術士！"
 168,"TEXT_CLSGLA200_00263_MYLLA_BATTLETALK_003","還有咒術士嗎！小心火焰系的高級魔法！"
 169,"TEXT_CLSGLA200_00263_MYLLA_BATTLETALK_004","咳，魔力撐不住了！要趕快分出勝負！"

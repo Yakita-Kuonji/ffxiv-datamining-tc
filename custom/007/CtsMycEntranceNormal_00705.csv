@@ -15,7 +15,7 @@ int32,str,str
 11,"TEXT_CTSMYCENTRANCENORMAL_00705_A3_000_001","詢問有關<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>"
 12,"TEXT_CTSMYCENTRANCENORMAL_00705_A3_000_005","取消"
 13,"TEXT_CTSMYCENTRANCENORMAL_00705_SERAOUSH_000_000","要確認自己取得的戰果嗎？
-你在戰場取得的戰果已經通過司令部軍官
+你在戰場取得的戰果已經透過司令部軍官
 傳達給所有士兵了！"
 14,"TEXT_CTSMYCENTRANCENORMAL_00705_SYSTEM_000_001","你目前的義軍等級為<Value>IntegerParameter(1)</Value>，
 獲得的戰果為<Value>IntegerParameter(2)</Value>。"

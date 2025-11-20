@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_REGSEAPVPCOLOSSEUM_00102_BERKOEYA_000_001","蛆蟲們！膽子不小，竟敢來到這裡。
-你到餓狼們的牢獄「狼獄水上競技場」有事的話，
+你到餓狼們的牢獄「狼獄水上鬥技場」有事的話，
 那至少要用能蓋過產卵期碧企鵝叫聲的音量來和我說話！"
 1,"TEXT_REGSEAPVPCOLOSSEUM_00102_BERKOEYA_000_002","然後，你們這些不知天高地厚、
 想要登到高處的蛆蟲們就盡情戰鬥！互毆！
@@ -13,7 +13,7 @@ int32,str,str
 3,"TEXT_REGSEAPVPCOLOSSEUM_00102_BERKOEYA_000_004","來吧，從現在開始磨尖你的獠牙和利爪！
 我會不厭其煩地為你講解盛宴的詳情！"
 4,"TEXT_REGSEAPVPCOLOSSEUM_00102_Q1_000_1","想了解什麼？"
-5,"TEXT_REGSEAPVPCOLOSSEUM_00102_A1_000_1","什麼是「狼獄水上競技場」？"
+5,"TEXT_REGSEAPVPCOLOSSEUM_00102_A1_000_1","什麼是「狼獄水上鬥技場」？"
 6,"TEXT_REGSEAPVPCOLOSSEUM_00102_A1_000_2","（★未使用／削除予定★）"
 7,"TEXT_REGSEAPVPCOLOSSEUM_00102_A1_000_3","關於群狼盛宴"
 8,"TEXT_REGSEAPVPCOLOSSEUM_00102_A1_000_4","關於報酬"
@@ -41,10 +41,10 @@ int32,str,str
 30,"TEXT_REGSEAPVPCOLOSSEUM_00102_BERKOEYA_000_010","這裡是黑渦團設立的練兵設施！
 同盟軍的兵將在此進行模擬戰來達到共同訓練的目的！
 這裡是將你培養成一匹餓狼的監獄！"
-31,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_000_11","冒險者可以在狼獄水上競技場體驗與玩家之間的對戰。"
+31,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_000_11","冒險者可以在狼獄水上鬥技場體驗與玩家之間的對戰。"
 32,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_000_12","（★未使用／削除予定★）"
 33,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_100_12","目前正在舉行以「群狼盛宴」為規則的對戰。"
-34,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_000_13","可以從任務搜尋器參加狼獄水上競技場的對戰。"
+34,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_000_13","可以從任務搜尋器參加狼獄水上鬥技場的對戰。"
 35,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_000_14","（★未使用／削除予定★）"
 36,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_000_15","（★未使用／削除予定★）"
 37,"TEXT_REGSEAPVPCOLOSSEUM_00102_BERKOEYA_000_020","（★未使用／削除予定★）"
@@ -89,7 +89,7 @@ int32,str,str
 58,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_200_038","當參賽者持有的戰章超過100枚時，
 參賽者會被附加「戰章過重」狀態。
 反之戰章低於100枚時會獲得「戰章減輕」狀態。"
-59,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_200_039","在戰章過重狀態下，所受傷害會有所提高。
+59,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_200_039","在戰章過重狀態下，所受傷害會有所提升。
 在戰章減輕狀態下，所受傷害會有所減輕。"
 60,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_200_040","身負的戰章與初始100枚的差距越大，
 則相對應狀態的效果越強。"
@@ -123,11 +123,11 @@ int32,str,str
 73,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_000_072","該數值會因參加「段位賽」而變動，
 當贏得比賽時會增加，失敗則會減少。"
 74,"TEXT_REGSEAPVPCOLOSSEUM_00102_BERKOEYA_000_080","頂級餓狼會得到頂級肥肉！
-不過，要想吃下這肥肉，當然也要費一番工夫！"
+不過，若想吃下這肥肉，當然也要費一番工夫！"
 75,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_000_081","段位是參加者實力的等級，
 由段位積分的數值決定。
 段位越高，賽季結束時可獲得的報酬價值就越高。"
-76,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_000_082","要想提升段位，不僅要提高段位積分，
+76,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_000_082","若想提升段位，不僅要提高段位積分，
 還需要在升格戰中獲得勝利。"
 77,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_000_083","另外，當段位積分下降至各段位規定數值以下時，
 會被降級至低段位。"
@@ -137,7 +137,7 @@ int32,str,str
 段位積分超過一定數值後即可參加。"
 80,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_000_092","升格戰分為5局，取得3局以上的勝利後即可晉級。"
 81,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_000_093","在升格戰舉行期間，段位賽會被視為升格戰。
-通過任務搜尋器參加群狼盛宴（段位賽），
+透過任務搜尋器參加群狼盛宴（段位賽），
 取得更高的段位！"
 82,"TEXT_REGSEAPVPCOLOSSEUM_00102_BERKOEYA_000_100","不管是怎樣的狂歡都有結束的時候！
 來吧，成為宣告宴會終焉的王者吧！"
@@ -156,7 +156,7 @@ int32,str,str
 89,"TEXT_REGSEAPVPCOLOSSEUM_00102_BERKOEYA_000_110","勝者為王，敗者為寇！
 戰鬥吧，蛆蟲們！將敵人打倒，展現你作為勝者的價值！
 失敗者頂多就是一坨陸行鳥糞便！"
-90,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_000_31","參加狼獄水上競技場的戰鬥可以得到「PvP經驗」和「狼印戰績」。
+90,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_000_31","參加狼獄水上鬥技場的戰鬥可以得到「PvP經驗」和「狼印戰績」。
 獲得量會隨勝負結果不同而不同。"
 91,"TEXT_REGSEAPVPCOLOSSEUM_00102_SYSTEM_050_31","另外，作為參加獎勵，
 在戰鬥結束後可以獲得經驗值和亞拉戈神典石。"

@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_BANSAH301_01400_SEQ_00","諾布養育場的塞烏有事情想要委託給冒險者。"
-1,"TEXT_BANSAH301_01400_SEQ_01","塞烏委託冒險者去薩普砂產卵地打倒珊瑚尖槍的3名幹部。討伐<Sheet(BNpcName,1827,0)/>後<Sheet(BNpcName,2734,0)/>就會出現，討伐<Sheet(BNpcName,1828,0)/>後<Sheet(BNpcName,2735,0)/>就會出現，討伐<Sheet(BNpcName,1830,0)/>後<Sheet(BNpcName,2736,0)/>就會出現，等他們出現後就將其討伐。"
+1,"TEXT_BANSAH301_01400_SEQ_01","塞烏委託冒險者去薩普沙產卵地打倒珊瑚尖槍的3名幹部。討伐<Sheet(BNpcName,1827,0)/>後<Sheet(BNpcName,2734,0)/>就會出現，討伐<Sheet(BNpcName,1828,0)/>後<Sheet(BNpcName,2735,0)/>就會出現，討伐<Sheet(BNpcName,1830,0)/>後<Sheet(BNpcName,2736,0)/>就會出現，等他們出現後就將其討伐。"
 2,"TEXT_BANSAH301_01400_SEQ_02","成功討伐了珊瑚尖槍的幹部們。向諾布養育場的塞烏報告。"
 3,"TEXT_BANSAH301_01400_SEQ_03","向塞烏報告完畢。冒險者討伐了這些幹部，能暫時防止珊瑚尖槍和黑渦團全面開戰。塞烏說珊瑚尖槍總是妄動干戈，實在是太過短視。如果這些幹部們再次想領兵開戰，就繼續用冒險者的力量來阻止他們。"
 4,"TEXT_BANSAH301_01400_SEQ_04","空欄"
@@ -25,11 +25,11 @@ int32,str,str
 21,"TEXT_BANSAH301_01400_SEQ_21","空欄"
 22,"TEXT_BANSAH301_01400_SEQ_22","空欄"
 23,"TEXT_BANSAH301_01400_SEQ_23",""
-24,"TEXT_BANSAH301_01400_TODO_00","在薩普砂產卵地討伐<Sheet(BNpcName,1827,0)/>
+24,"TEXT_BANSAH301_01400_TODO_00","在薩普沙產卵地討伐<Sheet(BNpcName,1827,0)/>
 引出<Sheet(BNpcName,2734,0)/>後將其討伐"
-25,"TEXT_BANSAH301_01400_TODO_01","在薩普砂產卵地討伐<Sheet(BNpcName,1828,0)/>
+25,"TEXT_BANSAH301_01400_TODO_01","在薩普沙產卵地討伐<Sheet(BNpcName,1828,0)/>
 引出<Sheet(BNpcName,2735,0)/>後將其討伐"
-26,"TEXT_BANSAH301_01400_TODO_02","在薩普砂產卵地討伐<Sheet(BNpcName,1830,0)/>
+26,"TEXT_BANSAH301_01400_TODO_02","在薩普沙產卵地討伐<Sheet(BNpcName,1830,0)/>
 引出<Sheet(BNpcName,2736,0)/>後將其討伐"
 27,"TEXT_BANSAH301_01400_TODO_03","向塞烏報告"
 28,"TEXT_BANSAH301_01400_TODO_04","空欄"
@@ -57,7 +57,7 @@ int32,str,str
 這樣下去可就要和黑渦團全面開戰了。"
 49,"TEXT_BANSAH301_01400_SEWW_000_001","呼嘶……這可是我們全族的生存危機！
 拜託了，請去打倒主導這件事的3名幹部。"
-50,"TEXT_BANSAH301_01400_SEWW_000_002","你在薩普砂產卵地打倒<Sheet(BNpcName,1827,0)/>、
+50,"TEXT_BANSAH301_01400_SEWW_000_002","你在薩普沙產卵地打倒<Sheet(BNpcName,1827,0)/>、
 <Sheet(BNpcName,1828,0)/>還有<Sheet(BNpcName,1830,0)/>的話，
 那些幹部就一定會出來復仇的！"
 51,"TEXT_BANSAH301_01400_BALLOON_000_010","呼嘶，我不會饒過你！"
@@ -71,5 +71,5 @@ int32,str,str
 這些傢伙明明一雙魚眼，卻鼠目寸光。
 根本不考慮種族全體，這樣的傢伙死不足惜。"
 59,"TEXT_BANSAH301_01400_SEWW_000_021","呼嘶，不知他們何時又會捲土重來。
-我們必須多加註意！
+我們必須多加注意！
 這次非常感謝你！呼嘶！"

@@ -23,7 +23,7 @@ int32,str,str
 驅使它們 針對 敵方的 「核心」 進行破壞——！"
 16,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_015","在烈羽爭鋒中，最多48名參加者，
 將被分為「獵隼」與「渡鴉」兩陣營互相對抗。"
-17,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_016","各陣營可以通過破壞掉設定在敵方據點內的「核心」,
+17,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_016","各陣營可以透過破壞掉設定在敵方據點內的「核心」,
 從而取得對戰的勝利。"
 18,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_017","若在規定時間內，雙方的核心都沒有被破壞的情況下，
 則對對方的核心與守護核心的被稱為「防禦塔」的設施
@@ -48,8 +48,8 @@ int32,str,str
 能成功 佔領 「動力發生器」 的話
 「青磷水」 就會不斷 累積到 己方 陣營中！"
 28,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_095","動力發生器只在戰場的中央部分設定了一處。
-參戰者可以通過接觸，對其進行「佔領」。"
-29,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_096","通過佔領動力發生器，可以使自身所屬陣營的所有成員，
+參戰者可以透過接觸，對其進行「佔領」。"
+29,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_096","透過佔領動力發生器，可以使自身所屬陣營的所有成員，
 進入青磷水持續增加的狀態。"
 30,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_097","我方陣營各小隊的青磷水持續增加的話，
 機動兵器的運用也會更加便捷。
@@ -78,7 +78,7 @@ int32,str,str
 41,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_135","想要搭乘機動兵器，需要使用青磷水。
 各小隊最大可以累積到100青磷水。"
 42,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_136","青磷水可以從配置在戰場上各處的配置點取得，
-或是通過佔領動力發生器，或破壞敵方的自走人偶，
+或是透過佔領動力發生器，或破壞敵方的自走人偶，
 也可以取得青磷水。"
 43,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_137","青磷水是以小隊為單位所共有的，
 因此在搭乘機動兵器前，請先積極和小隊成員進行商討吧。"

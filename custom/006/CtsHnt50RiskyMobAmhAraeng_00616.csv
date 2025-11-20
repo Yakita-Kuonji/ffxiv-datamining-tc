@@ -16,10 +16,10 @@ int32,str,str
 8,"TEXT_CTSHNT50RISKYMOBAMHARAENG_00616_A1_000_006","取消"
 9,"TEXT_CTSHNT50RISKYMOBAMHARAENG_00616_HALINE_000_050","熱衷釣魚的人總是喜歡做出一些奇怪的嘗試。
 曾經就有那麼一個人嘗試在避暑勝地馬利卡大井釣魚。"
-10,"TEXT_CTSHNT50RISKYMOBAMHARAENG_00616_HALINE_000_051","他選用了從沙漠捕捉的砂蟲幼蟲作為魚餌，
-結果在掛餌時不慎被砂蟲從手中逃走了。"
+10,"TEXT_CTSHNT50RISKYMOBAMHARAENG_00616_HALINE_000_051","他選用了從沙漠捕捉的沙蟲幼蟲作為魚餌，
+結果在掛餌時不慎被沙蟲從手中逃走了。"
 11,"TEXT_CTSHNT50RISKYMOBAMHARAENG_00616_HALINE_000_052","過了一段時間，馬利卡大井出現了一條「龍」，
-正是當時逃走的砂蟲魚餌，它通過吞噬井中的魚群變得巨大無比，
+正是當時逃走的沙蟲魚餌，它透過吞噬井中的魚群變得巨大無比，
 還爬到了地面上來。這就是「大井巨蟲」的由來了。"
 12,"TEXT_CTSHNT50RISKYMOBAMHARAENG_00616_HALINE_000_100","故事發生在努貝依舊礦山還沒被廢棄的時候。
 當時很多人都在幽暗的礦道中看到了小孩子的鬼魂。"
@@ -41,7 +41,7 @@ int32,str,str
 這隻馬利克巨人掌搞不好還是出生在光之氾濫前呢。"
 19,"TEXT_CTSHNT50RISKYMOBAMHARAENG_00616_HALINE_000_153","（★未使用／削除予定★）"
 20,"TEXT_CTSHNT50RISKYMOBAMHARAENG_00616_HALINE_000_200","光之氾濫導致了很多信仰斷絕，
-但也有一部分通過人們的口耳相傳繼承了下來。
+但也有一部分透過人們的口耳相傳繼承了下來。
 惡魔休格爾的故事就是一個例子。"
 21,"TEXT_CTSHNT50RISKYMOBAMHARAENG_00616_HALINE_000_201","每當有壞孩子不聽話時，
 大人們總會嚇唬孩子說
@@ -53,7 +53,7 @@ int32,str,str
 它慘遭植物寄生後變得對其他生物的死亡異常敏感起來。"
 25,"TEXT_CTSHNT50RISKYMOBAMHARAENG_00616_HALINE_000_251","因為生物死亡時飛散的乙太正是寄生植物最喜歡的養分。"
 26,"TEXT_CTSHNT50RISKYMOBAMHARAENG_00616_HALINE_000_252","想狩獵這個怪物的話，
-得通過表演盛大的死亡先將它吸引出來才行。"
+得透過表演盛大的死亡先將它吸引出來才行。"
 27,"TEXT_CTSHNT50RISKYMOBAMHARAENG_00616_HALINE_000_253","不過表演死亡時距離不能離它太遠，而且最好伴隨著爆炸聲，
 否則它可能察覺不到。
 具體怎麼操作我就沒什麼頭緒了。"

@@ -2,8 +2,8 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ405_01823_SEQ_00","莫古利之家的莫古西在瑟瑟發抖。"
-1,"TEXT_HEAVNZ405_01823_SEQ_01","莫古西很懼怕通往贖罪天廊途中的<Sheet(BNpcName,3620,0)/>。在翻雲霧海的人王遺跡討伐3隻<Sheet(BNpcName,3620,0)/>。"
-2,"TEXT_HEAVNZ405_01823_SEQ_02","討伐了<Sheet(BNpcName,3620,0)/>。向翻雲霧海贖罪天廊的莫古萌報告。"
+1,"TEXT_HEAVNZ405_01823_SEQ_01","莫古西很懼怕通往贖罪天廊途中的<Sheet(BNpcName,3620,0)/>。在德拉瓦尼亞雲海的人王遺跡討伐3隻<Sheet(BNpcName,3620,0)/>。"
+2,"TEXT_HEAVNZ405_01823_SEQ_02","討伐了<Sheet(BNpcName,3620,0)/>。向德拉瓦尼亞雲海贖罪天廊的莫古萌報告。"
 3,"TEXT_HEAVNZ405_01823_SEQ_03","向莫古萌報告了討伐<Sheet(BNpcName,3620,0)/>一事。經常被<Sheet(BNpcName,3620,0)/>追趕的莫古萌總算可以放心了。"
 4,"TEXT_HEAVNZ405_01823_SEQ_04","空"
 5,"TEXT_HEAVNZ405_01823_SEQ_05","空"

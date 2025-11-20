@@ -148,7 +148,7 @@ int32,str,str
 但你們不是有事要告訴<If(PlayerParameter(4))>她<Else/>他</If>嗎？"
 88,"TEXT_FESHLW501_03169_CHEERFULGHOST03169_000_041","呵呵！
 <If(PlayerParameter(4))>小姐<Else/>先生</If>你那副吃驚的表情，真是太有意思了！
-對了對了……我們要找你說什麼來著？"
+對了對了……我們要找你說什麼呢？"
 89,"TEXT_FESHLW501_03169_GLOOMYGHOST03169_000_042","……哎。
 不是要揭露那些傢伙們的企圖嗎？
 居然在我們的宅邸裡舉行化妝舞會，真是煩死了。"

@@ -29,7 +29,7 @@ int32,str,str
 23,"TEXT_KINGLA107_04974_SEQ_23",""
 24,"TEXT_KINGLA107_04974_TODO_00","和布涅瓦族宮廷祭司對話"
 25,"TEXT_KINGLA107_04974_TODO_01","和拉爾·索吉對話"
-26,"TEXT_KINGLA107_04974_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))><WARNING: unknown macro code ('chsCraftTodoMessage70')>製作<Sheet(ItemHQ,43908,0)/><Else/>將<Sheet(ItemHQ,43908,0)/>交給拉爾·索吉</If>"
+26,"TEXT_KINGLA107_04974_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 珠串萬貨街交易：製作<Sheet(ItemHQ,43908,0)/><Else/>將<Sheet(ItemHQ,43908,0)/>交給拉爾·索吉</If>"
 27,"TEXT_KINGLA107_04974_TODO_03","和拉爾·索吉對話"
 28,"TEXT_KINGLA107_04974_TODO_04",""
 29,"TEXT_KINGLA107_04974_TODO_05",""
@@ -94,14 +94,14 @@ int32,str,str
 66,"TEXT_KINGLA107_04974_RRALSOJ_000_042","我賭上我的工匠之魂，一定會令您滿意的。"
 67,"TEXT_KINGLA107_04974_BOONEWAPRIEST04973_100_042","感謝你答應得如此爽快。
 那我就把以前技師製作的圖紙副本交給你們作為參考吧。"
-68,"TEXT_KINGLA107_04974_BOONEWAPRIEST04973_110_042","不過這終究不過是為古魯加加陛下定製的特製品。
+68,"TEXT_KINGLA107_04974_BOONEWAPRIEST04973_110_042","不過這終究不過是為古魯加加陛下訂製的特製品。
 我希望你們可以製作出與新的聯王相配的東西。"
 69,"TEXT_KINGLA107_04974_RRALSOJ_120_042","嗯，包在我們身上吧。"
 70,"TEXT_KINGLA107_04974_RRALSOJ_000_043","那我們回店裡一趟，討論一下具體怎麼做吧。"
 71,"TEXT_KINGLA107_04974_BOONEWAPRIEST04973_000_050","上回的香爐做得十分出色。
 再加上你這位烏克·拉瑪特大人的朋友幫助，
 想必這回也會做出相當棒的作品。"
-72,"TEXT_KINGLA107_04974_PAPAWNI_000_055","要想聚集陽光，就需要在形狀上下功夫……
+72,"TEXT_KINGLA107_04974_PAPAWNI_000_055","若想聚集陽光，就需要在形狀上下功夫……
 當然為了提高反射率，還需要打磨鏡面，台座的強度也需要注意。
 既然是王宮用的，裝飾也不可或缺……"
 73,"TEXT_KINGLA107_04974_RRALSOJ_000_060","從祭司閣下那裡拿到的圖紙上面的圖案畫得十分精巧。
@@ -136,7 +136,7 @@ int32,str,str
 你稍微等一會可以嗎？"
 86,"TEXT_KINGLA107_04974_BOONEWAPRIEST04973_000_100","拉爾·索吉五金店的各位，你們終於來了。
 這就是我們委託的東西嗎？"
-87,"TEXT_KINGLA107_04974_RRALSOJ_000_101","嗯，在<Highlight>ObjectParameter(1)</Highlight>的協助下，由我們三個人制作出了這對採火器。
+87,"TEXT_KINGLA107_04974_RRALSOJ_000_101","嗯，在<Highlight>ObjectParameter(1)</Highlight>的協助下，由我們三個人製作出了這對採火器。
 相信它們一定會很適合新的聯王大人。"
 88,"TEXT_KINGLA107_04974_BOONEWAPRIEST04973_000_102","哦，這面沒有半點瑕疵的鏡面確實美麗！
 真是很符合新聯王陛下。"

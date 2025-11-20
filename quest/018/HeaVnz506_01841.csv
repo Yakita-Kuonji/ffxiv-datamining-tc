@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ506_01841_SEQ_00","贖罪天廊的莫古萌無法平靜下來。"
-1,"TEXT_HEAVNZ506_01841_SEQ_01","莫古萌委託冒險者奪取<Sheet(EventItem,2001680,0)/>。前往翻雲霧海的天極白堊宮前面廣場上<Sheet(BNpcName,4282,0)/>的巢。"
+1,"TEXT_HEAVNZ506_01841_SEQ_01","莫古萌委託冒險者奪取<Sheet(EventItem,2001680,0)/>。前往德拉瓦尼亞雲海的天極白堊宮前面廣場上<Sheet(BNpcName,4282,0)/>的巢。"
 2,"TEXT_HEAVNZ506_01841_SEQ_02","接近巢時，<Sheet(BNpcName,4282,0)/>襲擊了過來。擊退阻礙，取得<Sheet(EventItem,2001680,0)/>。"
 3,"TEXT_HEAVNZ506_01841_SEQ_03","得到了<Sheet(EventItem,2001680,0)/>。將<Sheet(EventItem,2001680,0)/>交給贖罪天廊的莫古萌。"
 4,"TEXT_HEAVNZ506_01841_SEQ_04","將<Sheet(EventItem,2001680,0)/>交給了莫古萌。莫古萌無法容忍邪龍手下的龍族在聖龍的領域裡胡作非為，並決定將<Sheet(EventItem,2001680,0)/>還給<Sheet(BNpcName,4282,0)/>進行說教。"
@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_HEAVNZ506_01841_TODO_23","空"
 48,"TEXT_HEAVNZ506_01841_MOGMONT_000_000","天極白堊宮前的廣場被邪龍大人手下的龍族侵佔了，
 這可真傷腦筋咕波！
-決不能這樣放著不管咕波！"
+絕不能這樣放著不管咕波！"
 49,"TEXT_HEAVNZ506_01841_MOGMONT_000_001","<Sheet(BNpcName,4282,0)/>在廣場上築了巢，
 希望你能去將它的<Sheet(EventItem,2001680,0)/>搶過來咕波！"
 50,"TEXT_HEAVNZ506_01841_MOGMONT_000_010","<Sheet(BNpcName,4282,0)/>在廣場上築了巢，

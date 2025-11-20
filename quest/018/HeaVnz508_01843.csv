@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ508_01843_SEQ_00","贖罪天廊的莫古格在瑟瑟發抖。"
-1,"TEXT_HEAVNZ508_01843_SEQ_01","和莫古格進行了交談。據說<Sheet(BNpcName,3628,0)/>的數量在不斷增加。在翻雲霧海的四臂廣場討伐4隻<Sheet(BNpcName,3628,0)/>。"
+1,"TEXT_HEAVNZ508_01843_SEQ_01","和莫古格進行了交談。據說<Sheet(BNpcName,3628,0)/>的數量在不斷增加。在德拉瓦尼亞雲海的四臂廣場討伐4隻<Sheet(BNpcName,3628,0)/>。"
 2,"TEXT_HEAVNZ508_01843_SEQ_02","討伐了<Sheet(BNpcName,3628,0)/>。向贖罪天廊的莫古格報告。"
 3,"TEXT_HEAVNZ508_01843_SEQ_03","向莫古格報告完畢。莫古格很害怕渾身殺氣的邪龍眷屬們。"
 4,"TEXT_HEAVNZ508_01843_SEQ_04","空"

@@ -74,13 +74,13 @@ int32,str,str
 56,"TEXT_JOBSCH580_01675_SURITOCARITO_000_008","很遺憾，似乎確實如此。
 所以我想借助現代的知識。
 不知在何處可以借閱到研究妖異的書籍？"
-57,"TEXT_JOBSCH580_01675_ALKAZOLKA_000_009","砂漠城邦烏爾達哈的前身是古代魔道士所興建的貝拉哈迪亞，
+57,"TEXT_JOBSCH580_01675_ALKAZOLKA_000_009","沙漠城邦烏爾達哈的前身是古代魔道士所興建的貝拉哈迪亞，
 從以前起就非常盛行魔法和妖異的研究。
 如果去咒術士行會看看，或許會找到什麼資料……"
 58,"TEXT_JOBSCH580_01675_SURITOCARITO_000_010","哦？繼承了瑪哈魔法的城邦嗎……
 這樣的話，保有資料的可能性應該很高。
 如何，<Highlight>ObjectParameter(1)</Highlight>，你願意跑一趟嗎？"
-59,"TEXT_JOBSCH580_01675_ALKAZOLKA_000_011","好嘞，那麼<Highlight>ObjectParameter(1)</Highlight>，
+59,"TEXT_JOBSCH580_01675_ALKAZOLKA_000_011","好的，那麼<Highlight>ObjectParameter(1)</Highlight>，
 你就去請教一下咒術士行會的雅雅凱導師吧。
 她是我朋友，同時跟我一樣也是一名古書愛好者。"
 60,"TEXT_JOBSCH580_01675_ALKAZOLKA_000_012","其實我本該陪你一起去的，

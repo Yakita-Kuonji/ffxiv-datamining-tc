@@ -57,12 +57,12 @@ int32,byte,str,ContentGaugeColor,bit&01,str,int16,sbyte,byte,int16,sbyte,byte,in
 53,0,"邪龍之影的支配率",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
 54,1,"",0,True,"",600,1,0,900,1,0,0
 55,0,"法夫尼爾的魔力",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-56,0,"菲尼克司的魔力",1,True,"ContentGaugeMax_negative",50,1,3,80,1,2,0
+56,0,"菲尼克斯的魔力",1,True,"ContentGaugeMax_negative",50,1,3,80,1,2,0
 57,0,"維涅斯的乙太",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
 58,0,"蓋烏斯的劍氣",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
 59,0,"幻龍米德加爾特的乙太",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
 60,0,"斯卡米留尼的魔力",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-61,0,"拉哈佈雷亞的魔力",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
+61,0,"拉哈布雷亞的魔力",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
 62,0,"尼德霍格的魔力",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
 63,0,"飽食度",2,False,"",30,1,3,50,1,1,0
 64,0,"外層魔法障壁的耐久度",2,False,"",30,1,3,70,1,1,0

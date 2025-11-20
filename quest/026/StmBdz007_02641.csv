@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_STMBDZ007_02641_TODO_23",""
 48,"TEXT_STMBDZ007_02641_MAELSTROM02641_000_000","是<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If><Else/></If><Else/></If>啊。
 請你協助我們的追擊任務，追擊逃亡中的帝國兵。"
-49,"TEXT_STMBDZ007_02641_MAELSTROM02641_000_001","我們在巴艾薩長城的戰鬥中捕獲了3名帝國兵俘虜，
+49,"TEXT_STMBDZ007_02641_MAELSTROM02641_000_001","我們在巴埃薩長城的戰鬥中捕獲了3名帝國兵俘虜，
 俘虜趁著衛兵交接班的間隙從牢房裡逃走了。
 萬幸的是，搜尋隊很快發現狀況並查明了他們的去向。"
 50,"TEXT_STMBDZ007_02641_MAELSTROM02641_000_002","而且，我們這邊的動向還沒有被他們發覺，
@@ -64,7 +64,7 @@ int32,str,str
 53,"TEXT_STMBDZ007_02641_MAELSTROM02641_000_010","……抱歉，得救了。"
 54,"TEXT_STMBDZ007_02641_MAELSTROM02641_000_011","偵察兵發來的聯絡說是沒有被發現，
 結果完全就是被伏擊了。"
-55,"TEXT_STMBDZ007_02641_MAELSTROM02641_000_012","這事追根究底都是衛兵交接班時的失誤，
+55,"TEXT_STMBDZ007_02641_MAELSTROM02641_000_012","這件事追根究底都是衛兵交接班時的失誤，
 才導致他們能趁機逃走……
 看來和他國組織的合作並不是很順利的樣子啊。"
 56,"TEXT_STMBDZ007_02641_MAELSTROM02641_000_013","不好意思……這不是該對救了我的冒險者你抱怨的。

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_REGDRA2MOGZIN_00360_MOGZIN_000_000","咕波啵！
+0,"TEXT_REGDRA2MOGZIN_00360_MOGZIN_000_000","咕波波！
 老師，找莫古有什麼事嗎咕波？"
 1,"TEXT_REGDRA2MOGZIN_00360_Q1_000_000","想了解什麼？"
 2,"TEXT_REGDRA2MOGZIN_00360_A1_000_001","你是做什麼的？"
@@ -46,8 +46,8 @@ int32,str,str
 20,"TEXT_REGDRA2MOGZIN_00360_MOGZIN_000_122","那個時候根本沒想到能修復得這麼漂亮咕波。
 這多虧了老大和老師的指導咕波！
 莫古們會做到最後的，今後也請多多指教咕波！"
-21,"TEXT_REGDRA2MOGZIN_00360_MOGZIN_000_150","庫——啵啵！更換了工具的新生莫古京咕波！
-老師找正在勁頭上的莫古有什麼事嗎咕波？"
+21,"TEXT_REGDRA2MOGZIN_00360_MOGZIN_000_150","咕——波波！更換了工具的新生莫古京咕波！
+老師找正在充滿幹勁的莫古有什麼事嗎咕波？"
 22,"TEXT_REGDRA2MOGZIN_00360_Q5_000_000","想了解什麼？"
 23,"TEXT_REGDRA2MOGZIN_00360_A5_000_001","你是做什麼的？"
 24,"TEXT_REGDRA2MOGZIN_00360_A5_000_002","這裡是什麼地方？"

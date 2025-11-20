@@ -109,7 +109,7 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1064,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
 1065,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
 2000,"庫爾札斯",10,255,50,0,12,False,True,True,True,True,True,True,True,True
-2001,"龍堡",10,255,50,0,11,False,True,True,True,True,True,True,True,True
+2001,"德拉瓦尼亞",10,255,50,0,11,False,True,True,True,True,True,True,True,True
 2002,"阿巴拉提亞",10,255,50,0,10,False,True,True,True,True,True,True,True,True
 2003,"基拉巴尼亞",10,255,60,0,9,False,True,True,True,True,True,True,True,True
 2004,"奧薩德",10,255,60,0,8,False,True,True,True,True,True,True,True,True

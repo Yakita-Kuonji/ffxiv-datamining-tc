@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_COMLIM001_01104_TODO_23","空"
 48,"TEXT_COMLIM001_01104_RASHAHTRHIKI_000_000","哎呀，<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If>。
 你作為黑渦團的一員做出了諸多貢獻，真是了不起！"
-49,"TEXT_COMLIM001_01104_RASHAHTRHIKI_000_001","你的力量對今後黑渦團的發展來說是必不可少的，不過……"
+49,"TEXT_COMLIM001_01104_RASHAHTRHIKI_000_001","你的力量對今後黑渦團的發展來說是不可或缺的，不過……"
 50,"TEXT_COMLIM001_01104_RASHAHTRHIKI_000_002","我們更加期待你能做出突破以往的表現！
 也希望你能將自己的實力提升到一個更高的層次。"
 51,"TEXT_COMLIM001_01104_RASHAHTRHIKI_000_003","因此，我想要給你介紹一個地方。
@@ -78,4 +78,4 @@ int32,str,str
 不，成為一匹猙獰凶猛的餓狼吧！"
 59,"TEXT_COMLIM001_01104_BERKOEYA_000_014","你如果不想變成別人嘴下的肉，
 就去跟外面的負責人交流一下吧……
-可以從中瞭解到很多關於水晶衝突的基本情況！"
+可以從中了解到很多關於水晶衝突的基本情況！"

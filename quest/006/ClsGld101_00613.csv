@@ -54,7 +54,7 @@ int32,str,str
 48,"TEXT_CLSGLD101_00613_SERENDIPITY_000_1","啊，對不起，你的傷不要緊吧？！
 ……什麼啊，原來是<Highlight>ObjectParameter(1)</Highlight>，
 不要嚇我啊。"
-49,"TEXT_CLSGLD101_00613_SERENDIPITY_000_2","因為涅吉對採掘師帶來的材料質量極度不滿，
+49,"TEXT_CLSGLD101_00613_SERENDIPITY_000_2","因為涅吉對採掘師帶來的材料品質極度不滿，
 一生氣就大鬧起來了！
 剛剛這裡可是一片狼藉，整一個鬼哭狼嚎的群架現場……"
 50,"TEXT_CLSGLD101_00613_SERENDIPITY_000_3","嗯……對了！
@@ -102,7 +102,7 @@ int32,str,str
 主要負責團內小賣鋪的管理和後勤工作。
 今後也請多多指教……"
 67,"TEXT_CLSGLD101_00613_SERENDIPITY_000_20","你回來啦，看來挺順利的吧？
-以後就照著這個勢頭繼續金工吧！"
+以後就照著這個氣勢繼續金工吧！"
 68,"TEXT_CLSGLD101_00613_SERENDIPITY_000_21","你的才能被涅吉所認可，充分發揮這一點的話，
 說不定將來會有印著<Highlight>ObjectParameter(1)</Highlight>名字的品牌在社交界流行呢！"
 69,"TEXT_CLSGLD101_00613_SERENDIPITY_000_22","如果你想要尋找有利於磨練技藝的工作，

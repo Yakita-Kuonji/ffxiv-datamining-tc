@@ -84,7 +84,7 @@ int32,str,str
 可以溫暖他的手，讓他打起精神！"
 66,"TEXT_LUCKHZ104_04003_PEYRAQUILE_000_033","而且對我們來說，製作也不是很複雜。"
 67,"TEXT_LUCKHZ104_04003_JULCHIEZAIN_000_034","就這麼決定了！
-那<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>，跟我一起去瑪律塞盧瓦叔叔那裡吧！
+那<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>，跟我一起去馬爾塞盧瓦叔叔那裡吧！
 我想要點毛線回來。"
 68,"TEXT_LUCKHZ104_04003_LYCELLE_000_035","那我去問問收養人什麼時候過來。"
 69,"TEXT_LUCKHZ104_04003_PEYRAQUILE_000_040","我會準備好工具等著你們回來！"
@@ -94,11 +94,11 @@ int32,str,str
 真是少見啊，
 沒想到你會跟孤兒院的孩子在一起。"
 73,"TEXT_LUCKHZ104_04003_JULCHIEZAIN_000_050","<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>，聽我說！
-這位瑪律塞盧瓦叔叔很厲害哦！"
+這位馬爾塞盧瓦叔叔很厲害哦！"
 74,"TEXT_LUCKHZ104_04003_JULCHIEZAIN_000_051","雖然看起來有點可怕，
 不過他其實很溫柔，是位手很巧的龍叔叔！
 我鼓起勇氣跟他聊了聊，成為了好朋友！"
-75,"TEXT_LUCKHZ104_04003_JULCHIEZAIN_000_052","瑪律塞盧瓦叔叔！
+75,"TEXT_LUCKHZ104_04003_JULCHIEZAIN_000_052","馬爾塞盧瓦叔叔！
 今天我是來請你分一些毛線給我的。
 我想給離開孤兒院的朋友送點禮物。"
 76,"TEXT_LUCKHZ104_04003_MARCELLOIX_000_053","真高興又能見到你。
@@ -111,11 +111,11 @@ int32,str,str
 <If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>好厲害！"
 79,"TEXT_LUCKHZ104_04003_MARCELLOIX_000_056","英雄閣下真是不會區別對待任何人啊。
 趕快把<Sheet(EventItem,2003051,0)/>送過去吧，孩子們還在等著。"
-80,"TEXT_LUCKHZ104_04003_JULCHIEZAIN_000_057","瑪律塞盧瓦叔叔，謝謝了！
+80,"TEXT_LUCKHZ104_04003_JULCHIEZAIN_000_057","馬爾塞盧瓦叔叔，謝謝了！
 再見！"
 81,"TEXT_LUCKHZ104_04003_MARCELLOIX_000_060","英雄閣下，羅蘭莓田的孩子們還在等著你，
 請你把<Sheet(EventItem,2003051,0)/>送過去吧。"
-82,"TEXT_LUCKHZ104_04003_JULCHIEZAIN_000_065","沒想到<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>和瑪律塞盧瓦叔叔居然認識！"
+82,"TEXT_LUCKHZ104_04003_JULCHIEZAIN_000_065","沒想到<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>和馬爾塞盧瓦叔叔居然認識！"
 83,"TEXT_LUCKHZ104_04003_PEYRAQUILE_000_070","<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>拿到毛線了嗎？
 其他的素材已經準備齊了！"
 84,"TEXT_LUCKHZ104_04003_PEYRAQUILE_000_071","謝謝！

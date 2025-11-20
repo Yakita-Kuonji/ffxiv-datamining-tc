@@ -128,7 +128,7 @@ int32,str,str
 想不到真的把庫加塔幹掉了。
 我現在滿腦子裡都是讚賞你的詞彙。"
 87,"TEXT_CLSEXC300_00319_WYRNZOEN_000_70","<Highlight>ObjectParameter(1)</Highlight>，你真的做得很好。
-能鍛鍊到這個地步真是令人驚歎。"
+能鍛鍊到這個地步真是令人驚嘆。"
 88,"TEXT_CLSEXC300_00319_WYRNZOEN_000_71","作為行會會長，我現在要把我壓箱底的本領傳授給你。
 它的名字叫「戰慄」！"
 89,"TEXT_CLSEXC300_00319_WYRNZOEN_000_72","使用這個技能令自己亢奮起來，
@@ -147,10 +147,10 @@ int32,str,str
 95,"TEXT_CLSEXC300_00319_BROENBHAR_BATTLETALK_01","這些黑豺就交給我吧！
 你專心對付庫加塔！"
 96,"TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_11","小心，敵人有點不太一樣了！"
-97,"TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_03","這是……治癒魔法的效果被降低了！"
+97,"TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_03","這是……治療魔法的效果被降低了！"
 98,"TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_04","居然能使用這種能力！
 難怪受傷的人傷勢恢復緩慢！"
-99,"TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_05","糟了，治癒魔法的效果跟不上了！"
+99,"TEXT_CLSEXC300_00319_SOLKWYB_BATTLETALK_05","糟了，治療魔法的效果跟不上了！"
 100,"TEXT_CLSEXC300_00319_BROENBHAR_BATTLETALK_02","可惡，真是沒完沒了！
 <Highlight>ObjectParameter(1)</Highlight>，盡快做個了結吧！"
 101,"TEXT_CLSEXC300_00319_BROENBHAR_BATTLETALK_DEAD","<Highlight>ObjectParameter(1)</Highlight>，接下來就拜託了……"

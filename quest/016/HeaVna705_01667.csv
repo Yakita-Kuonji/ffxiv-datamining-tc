@@ -54,7 +54,7 @@ int32,str,str
 因遭遇入侵者所造成的損害本導航概不負責，敬請注意。"
 49,"TEXT_HEAVNA705_01667_GUIDANCESYSTEM_000_001","那麼，前往下一個傳送裝置……
 德爾塔管區是這次視察的重點，
-建議諸位儘量維持生命徵象。"
+建議諸位儘量維持生命跡象。"
 50,"TEXT_HEAVNA705_01667_GUIDANCESYSTEM_100_001","預計入侵者人數眾多，為大規模部隊。
 請謹慎前進避免與其正面接觸。"
 51,"TEXT_HEAVNA705_01667_YSHTOLA_000_005","從敵兵佩戴的徽章來看，
@@ -67,7 +67,7 @@ int32,str,str
 55,"TEXT_HEAVNA705_01667_ESTINIEN_000_004","（未使用/預計刪除）"
 56,"TEXT_HEAVNA705_01667_ESTINIEN_000_010","等一下……情況有些不對。
 怎麼會有這麼多帝國兵……"
-57,"TEXT_HEAVNA705_01667_GUIDANCESYSTEM_000_020","嗶嗶……看來您依然維持著生命徵象，
+57,"TEXT_HEAVNA705_01667_GUIDANCESYSTEM_000_020","嗶嗶……看來您依然維持著生命跡象，
 本導航確實有些吃驚。"
 58,"TEXT_HEAVNA705_01667_GUIDANCESYSTEM_000_021","嗶嗶……確認<Highlight>ObjectParameter(1)</Highlight>有被追蹤的跡象……
 為確保魔科學研究所的視察可以繼續進行，
@@ -87,5 +87,5 @@ int32,str,str
 <Highlight>ObjectParameter(1)</Highlight>，軍團長交給你了！"
 67,"TEXT_HEAVNA705_01667_QIB_BATTLETALK_BOSS_009","剛剛好……航空支援！"
 68,"TEXT_HEAVNA705_01667_QIB_BATTLETALK_ALPHINAUD_050","就讓我使出殺手鐧吧！
-……來吧，卡邦庫爾·黑曜石！"
+……來吧，卡邦庫爾 黑曜石！"
 69,"TEXT_HEAVNA705_01667_QIB_BATTLETALK_ALPHINAUD_100","怎麼會……在這種地方……"

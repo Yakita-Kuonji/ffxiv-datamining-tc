@@ -60,7 +60,7 @@ int32,str,str
 徒手去拿的話會很危險，請先使用<Sheet(EventItem,2003338,0)/>再去回收。"
 51,"TEXT_AKTKZG003_04278_ZEUXIS_000_005","怪樹的果實表面遍佈著特殊消化液。
 徒手去拿的話會很危險，請先使用<Sheet(EventItem,2003338,0)/>再去回收。"
-52,"TEXT_AKTKZG003_04278_SYSTEM_000_009","面板上塗滿了<Sheet(EventItem,2003338,0)/>……"
+52,"TEXT_AKTKZG003_04278_SYSTEM_000_009","皮膚上塗滿了<Sheet(EventItem,2003338,0)/>……"
 53,"TEXT_AKTKZG003_04278_SYSTEM_000_010","<Sheet(EventItem,2003337,0)/>的周圍躺滿了創造生物……
 雖然還有氣息，不過一副精疲力盡的樣子。"
 54,"TEXT_AKTKZG003_04278_ZEUXIS_000_020","回收到<Sheet(EventItem,2003337,0)/>了嗎？"

@@ -20,5 +20,5 @@ int32,str
 16,"獲得力 <Value>IntegerParameter(1)</Value>以下"
 17,"鑑別力 <Value>IntegerParameter(1)</Value><If(IntegerParameter(2))>以上<Else/>以下</If>"
 18,"<Sheet(Status,IntegerParameter(1),0)/>狀態"
-19,"採集力上限 <Value>IntegerParameter(1)</Value>以上"
+19,"GP上限 <Value>IntegerParameter(1)</Value>以上"
 20,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>裝備時<Else/>未裝備時</If>"

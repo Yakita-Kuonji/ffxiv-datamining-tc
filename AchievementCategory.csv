@@ -10,7 +10,7 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 6,"尋寶",1,True,False,6
 7,"整體",2,True,False,1
 8,"排名",2,True,True,2
-9,"競技場",2,True,False,3
+9,"鬥技場",2,True,False,3
 10,"紛爭前線",2,True,False,4
 11,"烈羽爭鋒",2,True,False,5
 12,"整體",3,True,False,1
@@ -38,7 +38,7 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 34,"漁師",5,True,False,12
 35,"整體",8,True,False,1
 36,"理符任務",8,True,False,4
-37,"蠻族任務",8,True,False,5
+37,"友好部族",8,True,False,5
 38,"季節活動",8,True,True,99
 39,"探索筆記",11,True,False,1
 40,"拉諾西亞",11,True,False,2
@@ -47,7 +47,7 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 43,"庫爾札斯",11,True,False,5
 44,"摩杜納",11,True,False,6
 45,"阿巴拉提亞",11,True,False,7
-46,"龍堡",11,True,False,8
+46,"德拉瓦尼亞",11,True,False,8
 47,"基拉巴尼亞",11,True,False,9
 48,"奧薩德",11,True,False,10
 49,"副本任務",11,True,False,100

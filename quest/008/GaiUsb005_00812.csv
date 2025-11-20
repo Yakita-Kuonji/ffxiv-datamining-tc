@@ -1,11 +1,11 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_GAIUSB005_00812_SEQ_00","太陽海岸的維斯凱特想讓冒險者在正式工作前先練練手。"
+0,"TEXT_GAIUSB005_00812_SEQ_00","太陽海岸的維斯凱特想讓冒險者在正式工作前先練習一下。"
 1,"TEXT_GAIUSB005_00812_SEQ_01","在接受格格魯玖的委託之前，需要去打倒<Sheet(BNpcName,1976,0)/>。將<Sheet(EventItem,2000636,0)/>設置在<Sheet(EObj,2002035,0)/>。"
 2,"TEXT_GAIUSB005_00812_SEQ_02","在<Sheet(EObj,2002639,0)/>等待並打倒<Sheet(BNpcName,1976,0)/>。獲取<Sheet(EventItem,2000637,0)/>。"
 3,"TEXT_GAIUSB005_00812_SEQ_03","打倒<Sheet(BNpcName,1976,0)/>，獲得了<Sheet(EventItem,2000637,0)/>。將其交給太陽海岸的維斯凱特。"
-4,"TEXT_GAIUSB005_00812_SEQ_04","維斯凱特瞭解到了冒險者的力量並非虛假。準備開始執行格格魯玖的委託。"
+4,"TEXT_GAIUSB005_00812_SEQ_04","維斯凱特了解到了冒險者的力量並非虛假。準備開始執行格格魯玖的委託。"
 5,"TEXT_GAIUSB005_00812_SEQ_05",""
 6,"TEXT_GAIUSB005_00812_SEQ_06",""
 7,"TEXT_GAIUSB005_00812_SEQ_07",""
@@ -50,7 +50,7 @@ int32,str,str
 46,"TEXT_GAIUSB005_00812_TODO_22",""
 47,"TEXT_GAIUSB005_00812_TODO_23",""
 48,"TEXT_GAIUSB005_00812_WHEISKAET_000_000","格格魯玖老爺委託的內容並不簡單。
-在正式執行之前你先來練練手吧。"
+在正式執行之前你先來練習一下吧。"
 49,"TEXT_GAIUSB005_00812_WHEISKAET_000_001","最近從西邊順流而來的<Sheet(BNpcName,1976,0)/>吃掉了很多海邊的魚，
 老爺很在意這件事。"
 50,"TEXT_GAIUSB005_00812_WHEISKAET_000_002","你把這<Sheet(EventItem,2000636,0)/>佈置在海岸上，
@@ -62,6 +62,6 @@ int32,str,str
 54,"TEXT_GAIUSB005_00812_WHEISKAET_000_025","……好的。
 這樣我知道你的「力量」並非虛假了。"
 55,"TEXT_GAIUSB005_00812_WHEISKAET_000_026","那麼我就把格格魯玖老爺的委託告訴你。
-和剛才那簡單的工作可是不同級別的。
+和剛才那簡單的工作可是不同等級的。
 ……你可不要因為害怕而逃走哦？"
 56,"TEXT_GAIUSB005_00812_POP_MESSAGE_000","察覺到了敵人的氣息！"

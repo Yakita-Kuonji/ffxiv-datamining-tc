@@ -112,7 +112,7 @@ int32,str,str
 看來你見到總部長了。"
 77,"TEXT_SUBCTS606_04816_MARGRAT_000_051","我也把東西帶回來了。
 這是給你的謝禮，請拿好！"
-78,"TEXT_SUBCTS606_04816_MARGRAT_000_052","這是面向拾穗人的工作服，顏色可是我專門定製的。"
+78,"TEXT_SUBCTS606_04816_MARGRAT_000_052","這是面向拾穗人的工作服，顏色可是我專門訂製的。"
 79,"TEXT_SUBCTS606_04816_MARGRAT_000_053","起初我還在煩惱要送你什麼東西，
 但既然是送給我的拾穗人朋友，那果然還是這個最好。
 這可是我託人專門準備的。"
@@ -134,7 +134,7 @@ int32,str,str
 88,"TEXT_SUBCTS606_04816_RESEARCHERVOICEA04816_000_306","(-十分驚慌的聲音-)你們聽見剛才的廣播了嗎？！"
 89,"TEXT_SUBCTS606_04816_RESEARCHERVOICEB04816_000_307","(-充滿熱情的聲音-)當然聽見了！
 我這次一定要見到<Highlight>ObjectParameter(1)</Highlight>！"
-90,"TEXT_SUBCTS606_04816_RESEARCHERVOICEC04816_000_308","(-焦急的聲音-)得趕快過去……我記得特徵是……"
+90,"TEXT_SUBCTS606_04816_RESEARCHERVOICEC04816_000_308","(-著急的聲音-)得趕快過去……我記得特徵是……"
 91,"TEXT_SUBCTS606_04816_RESEARCHERVOICED04816_000_309","(-充滿活力的聲音-)特徵是藍色的拾穗人工作服！"
 92,"TEXT_SUBCTS606_04816_RESEARCHERVOICED04816_000_310","(-充滿活力的聲音-)啊，我看到了，在那邊！"
 93,"TEXT_SUBCTS606_04816_ADVANCEDRESEARCHER04816_000_311","你就是<Highlight>ObjectParameter(1)</Highlight>吧？"

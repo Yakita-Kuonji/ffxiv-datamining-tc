@@ -2,8 +2,8 @@
 #,,
 int32,str,str
 0,"TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_000_001","哈哈，店還沒開呢<If(PlayerParameter(4))>妹子<Else/>兄弟</If>！"
-1,"TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_001_001","哈哈，現在還沒法做生意呢<If(PlayerParameter(4))>妹子<Else/>兄弟</If>！
-訂的貨全不到，這店簡直沒法開了！"
+1,"TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_001_001","哈哈，現在還無法做生意呢<If(PlayerParameter(4))>妹子<Else/>兄弟</If>！
+訂的貨全不到，這店簡直無法開了！"
 2,"TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_001_002","需要將「漆黑反叛者主線任務」推進到特定的階段
 才能開始與目前地區的廣域交易商進行交易。"
 3,"TEXT_CMNFATSHOP1N4TOWN_00584_SYSTEM_001_012","需要使雷克蘭德、珂露西亞島、安穆·艾蘭、伊爾美格、

@@ -6,7 +6,7 @@ int32,str,str
 1,"TEXT_BANNAM005_03101_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整（限定職業）任務，
 　需要與接受任務時的職業相同才可繼續進行任務。
 
-和魚信進行了交談。在光風院霽月的提議下，魚信決定再次舉辦奇異祭禮。為了瞭解有關奇異祭禮的知識，在龍堡內陸低地的瑪托雅的洞穴的<Sheet(EObj,2009488,0)/>使用<Sheet(EventItem,2002474,0)/>，將魚信放出來。"
+和魚信進行了交談。在光風院霽月的提議下，魚信決定再次舉辦奇異祭禮。為了瞭解有關奇異祭禮的知識，在德拉瓦尼亞河谷地，瑪托雅的洞穴的<Sheet(EObj,2009488,0)/>使用<Sheet(EventItem,2002474,0)/>，將魚信放出來。"
 2,"TEXT_BANNAM005_03101_SEQ_02","在<Sheet(EObj,2009488,0)/>使用了<Sheet(EventItem,2002474,0)/>，將魚信放了出來。從瑪托雅那裡拿到了記載著有關奇異祭禮知識的書籍。在朵洛衣樓的<Sheet(EObj,2009488,0)/>使用<Sheet(EventItem,2002474,0)/>，將魚信放出來。"
 3,"TEXT_BANNAM005_03101_SEQ_03","在<Sheet(EObj,2009488,0)/>使用了<Sheet(EventItem,2002474,0)/>，將魚信放了出來。圍繞書籍，魚信和光風院霽月產生了爭執，在書籍差點被扔進火堆裡的時候，魚信挺身而出保護了書籍。魚信突發奇想說要舉辦名為柳條人奇祭的奇異祭禮。和朵洛衣樓的魚信談談。"
 4,"TEXT_BANNAM005_03101_SEQ_04","和魚信進行了交談。準備好魚信需要的舉辦柳條人奇祭的東西，將東西交給朵洛衣樓的魚麗。"
@@ -29,7 +29,7 @@ int32,str,str
 21,"TEXT_BANNAM005_03101_SEQ_21",""
 22,"TEXT_BANNAM005_03101_SEQ_22",""
 23,"TEXT_BANNAM005_03101_SEQ_23",""
-24,"TEXT_BANNAM005_03101_TODO_00","在龍堡內陸低地的瑪托雅的洞穴的<Sheet(EObj,2009488,0)/>使用<Sheet(EventItem,2002474,0)/>"
+24,"TEXT_BANNAM005_03101_TODO_00","在德拉瓦尼亞河谷地，瑪托雅的洞穴的<Sheet(EObj,2009488,0)/>使用<Sheet(EventItem,2002474,0)/>"
 25,"TEXT_BANNAM005_03101_TODO_01","在朵洛衣樓的<Sheet(EObj,2009488,0)/>使用<Sheet(EventItem,2002474,0)/>"
 26,"TEXT_BANNAM005_03101_TODO_02","和魚信對話"
 27,"TEXT_BANNAM005_03101_TODO_03","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給魚麗</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給魚麗</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給魚麗</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給魚麗</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給魚麗</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給魚麗</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給魚麗</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給魚麗</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在模兒衣樓東邊的石場採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給魚麗</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在模兒衣樓東邊草場採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給魚麗</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在涅木卡勒河釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給魚麗</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
@@ -63,7 +63,7 @@ int32,str,str
 51,"TEXT_BANNAM005_03101_GYOSHIN_000_004","……你、你真多疑啊噗！
 但是正如你所說，老子確實還在做先祖大人的預言夢噗……"
 52,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_005","算了，無所謂了。
-反正我的目的是通過大鯰大祭讓所有的鯰魚精都受到文明開化。
+反正我的目的是透過大鯰大祭讓所有的鯰魚精都受到文明開化。
 所以呢，我已經考慮過下一個祭禮的內容了。"
 53,"TEXT_BANNAM005_03101_GYOSHIN_000_006","不愧是光風院霽……
 為什麼老子感覺這種展開不會有好事發生呢噗。"
@@ -87,20 +87,20 @@ int32,str,str
 有他們幫忙的話，就能將不為人所知的奇異祭禮知識拿回來了！"
 61,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_014","我想先問一下，你有沒有薩雷安人的熟人啊？
 最好是對儀式或者魔法比較懂的、高齡的賢者……"
-62,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_015","你說你認識龍堡內陸低地的隱者——瑪托雅老師？
+62,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_015","你說你認識德拉瓦尼亞河谷地的隱者——瑪托雅老師？
 太好了，我們一定要向這位老師學習學習才對！"
 63,"TEXT_BANNAM005_03101_GYOSHIN_000_016","至少聽起來這位老師要比魚粉可靠得多噗。
 老子決定了，老子要去艾奧傑亞學習奇異祭禮的知識噗！"
-64,"TEXT_BANNAM005_03101_GYOSHIN_000_017","……不好意思，能麻煩<If(PlayerParameter(4))>小姐<Else/>小哥</If>這回也將老子放進揹包裡嗎噗？
+64,"TEXT_BANNAM005_03101_GYOSHIN_000_017","……不好意思，能麻煩<If(PlayerParameter(4))>小姐<Else/>小哥</If>這回也將老子放進背包裡嗎噗？
 老子希望你能帶老子去找瑪托雅老師噗！"
 65,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_020","（★未使用／削除予定★）"
 66,"TEXT_BANNAM005_03101_GYOREI_000_025","魚信就拜託給你了噗。"
-67,"TEXT_BANNAM005_03101_MATOYA_000_030","那個沉甸甸的揹包裡面裝的是什麼啊……"
+67,"TEXT_BANNAM005_03101_MATOYA_000_030","那個沉甸甸的背包裡面裝的是什麼啊……"
 68,"TEXT_BANNAM005_03101_GYOSHIN_000_040","噗噗噗……終於到了嗎噗？"
 69,"TEXT_BANNAM005_03101_GYOSHIN_000_041","哎呀哎呀、瑪托雅老師……
-您這面板多麼水潤濕滑，多麼有光澤啊，
+您這皮膚多麼水潤濕滑，多麼有光澤啊，
 老子一見面就感到很親切呢噗！"
-70,"TEXT_BANNAM005_03101_MATOYA_000_042","哼……我的面板皺巴巴的又幹燥，真是抱歉了你了呢。"
+70,"TEXT_BANNAM005_03101_MATOYA_000_042","哼……我的皮膚皺巴巴的又乾燥，真是抱歉呢。"
 71,"TEXT_BANNAM005_03101_GYOSHIN_000_043","莫、莫、莫、莫非……
 這邊這位才是瑪托雅老師嗎噗……"
 72,"TEXT_BANNAM005_03101_GYOSHIN_000_044","真是對不起噗！
@@ -114,10 +114,10 @@ int32,str,str
 只是新奇的祭禮的話，你想找到多少就有多少。"
 76,"TEXT_BANNAM005_03101_MATOYA_000_048","不過要是想從祭禮中獲得能夠消除走向滅亡命運的咒術之力，
 可不是普通的儀式就能達成的。"
-77,"TEXT_BANNAM005_03101_MATOYA_000_049","要想避免滅亡的命運，
+77,"TEXT_BANNAM005_03101_MATOYA_000_049","若想避免滅亡的命運，
 那就只能再現禁忌的奇異祭禮了，因為過於邪惡而被封禁，
-埋葬於歷史隱秘中的暗黑儀式……"
-78,"TEXT_BANNAM005_03101_GYOSHIN_000_050","邪惡……隱秘……暗黑……禁忌……
+埋葬於歷史隱密中的暗黑儀式……"
+78,"TEXT_BANNAM005_03101_GYOSHIN_000_050","邪惡……隱密……暗黑……禁忌……
 沒有比這個更吊人胃口的了噗！"
 79,"TEXT_BANNAM005_03101_MATOYA_000_051","聽到這裡居然還不放棄，
 看來你已經想清楚了。"
@@ -133,15 +133,15 @@ int32,str,str
 謝……謝……啦噗哈！"
 85,"TEXT_BANNAM005_03101_MATOYA_000_057","怎麼了，喝茶喝醉了嗎？
 真是條讓人沒轍的鯰魚啊。"
-86,"TEXT_BANNAM005_03101_MATOYA_000_058","你快點把這條醉醺醺的鯰魚裝進揹包裡拿回去吧。"
-87,"TEXT_BANNAM005_03101_MATOYA_000_060","居然陪著鯰魚舉辦祭禮一起折騰……
+86,"TEXT_BANNAM005_03101_MATOYA_000_058","你快點把這條醉醺醺的鯰魚裝進背包裡拿回去吧。"
+87,"TEXT_BANNAM005_03101_MATOYA_000_060","居然陪著鯰魚舉辦祭禮一起胡鬧……
 算了，這樣也不錯。
 比起跟蠻神啊、龍啊什麼的拚死作戰，舉辦祭禮要安穩多了。"
 88,"TEXT_BANNAM005_03101_GYOREI_000_070","歡迎回來噗！
 話說沒看見魚信啊，
 他在哪裡噗？"
 89,"TEXT_BANNAM005_03101_GYOSHIN_000_071","嗚噗噗噗噗噗……
-不僅喝茶喝醉了，還在狹窄的揹包裡被來回晃悠，
+不僅喝茶喝醉了，還在狹窄的背包裡被來回晃悠，
 老子感覺好像把各種不該吐出來的東西都吐出來了噗。"
 90,"TEXT_BANNAM005_03101_GYOSHIN_000_072","總、總之……
 老子們請瑪托雅老師幫忙，
@@ -168,7 +168,7 @@ int32,str,str
 102,"TEXT_BANNAM005_03101_GYOSHIN_000_084","柳條人奇祭……
 將牲畜或者是人關進牢籠一樣的巨大人偶裡活生生地燒死，
 是一種獻祭活祭的儀式噗！"
-103,"TEXT_BANNAM005_03101_GYOSHIN_000_085","要想避開鯰魚精族滅亡的命運，只有這個……
+103,"TEXT_BANNAM005_03101_GYOSHIN_000_085","若想避開鯰魚精族滅亡的命運，只有這個……
 只有舉行這個儀式了噗！"
 104,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_086","魚信的心裡好像點燃了什麼不祥的火焰。
 這、這裡還是不要反抗他比較好……"
@@ -257,10 +257,10 @@ int32,str,str
 就這樣在不為人知的情況下，避免了原本7年後會發生的悲劇！
 今後只要持續舉辦祭禮，鯰魚精族的未來一定是充滿光明的！"
 146,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_136","哼……
-我是一點都沒弄明白這個奇異祭禮到底有什麼意義……
+我是一點都沒搞清楚這個奇異祭禮到底有什麼意義……
 不過，這就是所謂的文明……對吧？"
 147,"TEXT_BANNAM005_03101_SYSTEM_000_137","與鯰魚精族「大鯰大祭執行委員會」之間的關係程度到達了「誓約」。
-冒險者通過協助他們舉辦禁斷的奇異祭禮，與鯰魚精們達成了誓約！"
+冒險者透過協助他們舉辦禁斷的奇異祭禮，與鯰魚精們達成了誓約！"
 148,"TEXT_BANNAM005_03101_SYSTEM_100_137","今後可以在朵洛衣樓的光風院霽月處，
 接受新的友好部族日常任務。"
 149,"TEXT_BANNAM005_03101_SYSTEM_110_137","同時，作為獎勵，

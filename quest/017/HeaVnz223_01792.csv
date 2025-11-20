@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ223_01792_SEQ_00","自由腦巢穴的講故事正在煩惱。"
-1,"TEXT_HEAVNZ223_01792_SEQ_01","講故事拜託冒險者收集<Sheet(EventItem,2001616,0)/>。前往龍堡參天高地的荒郊野外，取得3束<Sheet(EObj,2005619,0)/>。"
+1,"TEXT_HEAVNZ223_01792_SEQ_01","講故事拜託冒險者收集<Sheet(EventItem,2001616,0)/>。前往德拉瓦尼亞山麓地的荒郊野外，取得3束<Sheet(EObj,2005619,0)/>。"
 2,"TEXT_HEAVNZ223_01792_SEQ_02","獲得了<Sheet(EventItem,2001616,0)/>。將<Sheet(EventItem,2001616,0)/>交給自由腦巢穴的講故事。"
 3,"TEXT_HEAVNZ223_01792_SEQ_03","將<Sheet(EventItem,2001616,0)/>交給了講故事。自由腦巢穴之所以沒受到龍族襲擊，是因為<Sheet(EventItem,2001616,0)/>點燃散發出的香味會讓龍族避而遠之。"
 4,"TEXT_HEAVNZ223_01792_SEQ_04","空"

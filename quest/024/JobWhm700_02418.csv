@@ -137,7 +137,7 @@ int32,str,str
 87,"TEXT_JOBWHM700_02418_ESUMIYAN_100_057","<Highlight>ObjectParameter(1)</Highlight>……
 珊琪能撐到現在，
 都是多虧了你。"
-88,"TEXT_JOBWHM700_02418_ESUMIYAN_000_058","不過，命中註定的事……是絕對的……
+88,"TEXT_JOBWHM700_02418_ESUMIYAN_000_058","不過，命中注定的事……是絕對的……
 就算是幻術，也改變不了命運……"
 89,"TEXT_JOBWHM700_02418_ESUMIYAN_100_058","但多虧了你，
 珊琪才能把心情傳達給嘉蒂……"
@@ -190,7 +190,7 @@ int32,str,str
 這麼下去，嘉蒂會有生命危險！"
 120,"TEXT_JOBWHM700_02418_ESUMIYAN_BATTLETALK_12","嘉蒂的生命由我來維持。
 <Highlight>ObjectParameter(1)</Highlight>，快打倒妖異！"
-121,"TEXT_JOBWHM700_02418_ESUMIYAN_BATTLETALK_13","命中註定的事不能怪罪任何人！
+121,"TEXT_JOBWHM700_02418_ESUMIYAN_BATTLETALK_13","命中注定的事不能怪罪任何人！
 這都是莫須有的罪名，快發現啊……"
 122,"TEXT_JOBWHM700_02418_ESUMIYAN_BATTLETALK_06","嘉蒂，忘記你媽媽最後和你說的話了？"
 123,"TEXT_JOBWHM700_02418_GATTY_BATTLETALK_02","媽媽……最後……說的話？"

@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNZ013_01738_SEQ_00","雲頂營地的卡里博一邊管理農田，一邊在尋找有空閒的人。"
+0,"TEXT_HEAVNZ013_01738_SEQ_00","雲頂營地的卡里博一邊管理農田，一邊在尋找空閒的人。"
 1,"TEXT_HEAVNZ013_01738_SEQ_01","卡里博拜託冒險者討伐<Sheet(BNpcName,3495,0)/>並取回腿肉。前往阿巴拉提亞雲海的雲頂營地，打倒<Sheet(BNpcName,3495,0)/>，獲得3個<Sheet(EventItem,2001597,0)/>。"
 2,"TEXT_HEAVNZ013_01738_SEQ_02","獲得了<Sheet(EventItem,2001597,0)/>。將<Sheet(EventItem,2001597,0)/>交給雲頂營地的卡里博。"
 3,"TEXT_HEAVNZ013_01738_SEQ_03","將<Sheet(EventItem,2001597,0)/>交給了卡里博。只吃配發的醃肉沒辦法滿足的他，決定好好嚐嚐鮮美的<Sheet(EventItem,2001597,0)/>。"

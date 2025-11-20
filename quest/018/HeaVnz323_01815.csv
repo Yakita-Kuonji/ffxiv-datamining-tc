@@ -2,11 +2,11 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ323_01815_SEQ_00","卡爾·米克想知道媽媽託它去做什麼。"
-1,"TEXT_HEAVNZ323_01815_SEQ_01","剛把要去狩獵食物的事情告訴卡爾·米克，它就又獨自去了南邊。在龍堡參天高地的寬慰河尋找卡爾·米克。"
+1,"TEXT_HEAVNZ323_01815_SEQ_01","剛把要去狩獵食物的事情告訴卡爾·米克，它就又獨自去了南邊。在德拉瓦尼亞山麓地的寬慰河尋找卡爾·米克。"
 2,"TEXT_HEAVNZ323_01815_SEQ_02","找到了卡爾·米克。想要狩獵，需要準備誘餌來吸引獵物。討伐寬慰河的<Sheet(BNpcName,3570,0)/>，獲取<Sheet(EventItem,2001752,0)/>。"
 3,"TEXT_HEAVNZ323_01815_SEQ_03","獲得了<Sheet(EventItem,2001752,0)/>。將<Sheet(EventItem,2001752,0)/>放在寬慰河的<Sheet(EObj,2006029,0)/>，打倒出現的獵物，為卡爾·米克獲取食物。"
 4,"TEXT_HEAVNZ323_01815_SEQ_04","獲得了<Sheet(EventItem,2001753,0)/>。向寬慰河的卡爾·米克報告。"
-5,"TEXT_HEAVNZ323_01815_SEQ_05","向卡爾·米克報告完畢。先一步回到龍堡參天高地的不潔三塔，將<Sheet(EventItem,2001753,0)/>交給格林坎比。"
+5,"TEXT_HEAVNZ323_01815_SEQ_05","向卡爾·米克報告完畢。先一步回到德拉瓦尼亞山麓地的不潔三塔，將<Sheet(EventItem,2001753,0)/>交給格林坎比。"
 6,"TEXT_HEAVNZ323_01815_SEQ_06","將<Sheet(EventItem,2001753,0)/>交給了格林坎比。得知自己的孩子與冒險者成為了朋友，格林坎比十分高興，並感謝了冒險者。"
 7,"TEXT_HEAVNZ323_01815_SEQ_07","無"
 8,"TEXT_HEAVNZ323_01815_SEQ_08","無"
@@ -57,7 +57,7 @@ int32,str,str
 50,"TEXT_HEAVNZ323_01815_KALMYHK_000_010","<Highlight>ObjectParameter(1)</Highlight>，我想起一個嚴重的問題，
 我從來沒有自己狩獵過……
 我以前都是當媽媽的助手……欸嘿。"
-51,"TEXT_HEAVNZ323_01815_KALMYHK_000_011","媽媽以前都是怎麼做的來著……
+51,"TEXT_HEAVNZ323_01815_KALMYHK_000_011","媽媽以前都是怎麼做的呀……
 首先把誘餌放在地上，然後等獵物上鉤！
 <Highlight>ObjectParameter(1)</Highlight>，你快去找誘餌放在這岩石上！"
 52,"TEXT_HEAVNZ323_01815_KALMYHK_000_012","我記得媽媽是用河裡的<Sheet(BNpcName,3570,0)/>的肉做誘餌！

@@ -95,7 +95,7 @@ int32,str,str
 69,"TEXT_CLSLNC006_00439_FOULQUES_000_0004","我以前住在城市中，在行會中練習槍術。
 可那時生活貧困，於是有一次，
 我和行會中的槍術士們一起去偷東西……"
-70,"TEXT_CLSLNC006_00439_FOULQUES_000_0005","但是，偷東西這事立刻就被人發現了。
+70,"TEXT_CLSLNC006_00439_FOULQUES_000_0005","但是，偷東西這件事立刻就被人發現了。
 我為自己的所作所為感到羞恥，於是自首了。
 而他們卻……"
 71,"TEXT_CLSLNC006_00439_FOULQUES_000_0006","那時，我明白了。
@@ -122,7 +122,7 @@ int32,str,str
 ……歡迎回來。"
 83,"TEXT_CLSLNC006_00439_YWAIN_000_41","<Highlight>ObjectParameter(1)</Highlight>。
 你以勇氣打敗了蠻勇的槍術士。
-我已經瞭解你的實力了。"
+我已經了解你的實力了。"
 84,"TEXT_CLSLNC006_00439_YWAIN_000_42","我讚揚你的勇氣，
 以槍術士行會會長伊維因之名，
 傳授你槍術士行會的秘技「猛槍」。"
@@ -139,7 +139,7 @@ int32,str,str
 因為你已經領悟了真正的「勇氣」，
 能夠發揮出槍術的真正實力了。"
 89,"TEXT_CLSLNC006_00439_YWAIN_000_47","去吧，去用你的「勇氣」之槍開拓屬於你的世界吧！"
-90,"TEXT_CLSLNC006_00439_QIB_TODO_001","打倒森疾龍！"
+90,"TEXT_CLSLNC006_00439_QIB_TODO_001","打倒林德布魯姆！"
 91,"TEXT_CLSLNC006_00439_QIB_TODO_002","打倒雲水槍富爾克！"
 92,"TEXT_CLSLNC006_00439_INSTANCE_BATTLE_YESNO_TITLE","要開始「勇氣的證明」的戰鬥嗎？"
 93,"TEXT_CLSLNC006_00439_INSTANCE_BATTLE_YESNO_YES","是"

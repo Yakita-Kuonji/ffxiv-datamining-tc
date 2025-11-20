@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB205_00836_SEQ_00","太陽海岸的管家佩·艾巴羅，有事想要委託給冒險者。"
-1,"TEXT_GAIUSB205_00836_SEQ_01","佩·艾巴羅的家主格格魯玖，堅稱這一帶近來的地震誘因都是<Sheet(BNpcName,1313,0)/>。討伐6隻<Sheet(BNpcName,1313,0)/>。"
+1,"TEXT_GAIUSB205_00836_SEQ_01","佩·艾巴羅的家主格格魯玖，堅稱這一帶最近的地震誘因都是<Sheet(BNpcName,1313,0)/>。討伐6隻<Sheet(BNpcName,1313,0)/>。"
 2,"TEXT_GAIUSB205_00836_SEQ_02","成功討伐了<Sheet(BNpcName,1313,0)/>。向太陽海岸的佩·艾巴羅報告。"
 3,"TEXT_GAIUSB205_00836_SEQ_03","佩·艾巴羅對冒險者表達了謝意。實際上，也有傳聞說地震的誘因不是<Sheet(BNpcName,1313,0)/>，而是蠻神泰坦……"
 4,"TEXT_GAIUSB205_00836_SEQ_04","無"

@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_AKTKZI017_04332_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-小薩雷安的杰薩米看起來非常著急。"
+小薩雷安的傑薩米看起來非常著急。"
 1,"TEXT_AKTKZI017_04332_SEQ_01",""
 2,"TEXT_AKTKZI017_04332_SEQ_02",""
 3,"TEXT_AKTKZI017_04332_SEQ_03",""
@@ -28,7 +28,7 @@ int32,str,str
 23,"TEXT_AKTKZI017_04332_SEQ_23",""
 24,"TEXT_AKTKZI017_04332_TODO_00","在<Sheet(EObj,2012778,0)/>所在處張望
 打敗<Sheet(BNpcName,10948,0)/> 使用<Sheet(EventItem,2003270,0)/>"
-25,"TEXT_AKTKZI017_04332_TODO_01","將<Sheet(EventItem,2003271,0)/>交給杰薩米"
+25,"TEXT_AKTKZI017_04332_TODO_01","將<Sheet(EventItem,2003271,0)/>交給傑薩米"
 26,"TEXT_AKTKZI017_04332_TODO_02",""
 27,"TEXT_AKTKZI017_04332_TODO_03",""
 28,"TEXT_AKTKZI017_04332_TODO_04",""

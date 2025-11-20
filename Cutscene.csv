@@ -2961,7 +2961,7 @@ int32,str,byte,byte,bit&01,int32,int32,int32,int32,uint16,bit&02
 2957,"ex4/vvdnnm/vvdnnm00130/vvdnnm00130",1,1,True,0,0,0,0,0,False
 2958,"ex4/aktkmi/aktkmi10415/aktkmi10415",1,1,True,0,0,0,0,0,False
 2959,"ffxiv/cntemj/cntemj06210/cntemj06210",1,1,True,0,0,0,0,0,False
-2960,"ex4/trehnt/trehnt0a030/trehnt0a030",1,1,True,0,0,0,0,0,False
+2960,"",0,0,False,0,0,0,0,0,False
 2961,"ex4/chrhdy/chrhdy10110/chrhdy10110",1,1,True,0,0,0,0,0,False
 2962,"ex4/aktkmz/aktkmz10110/aktkmz10110",1,1,True,0,0,0,0,0,False
 2963,"ex4/aktkmz/aktkmz10120/aktkmz10120",1,1,True,0,0,0,0,0,False

@@ -38,7 +38,7 @@ int32,str,str
 17,"TEXT_VOICEMAN_02500_000180_LUCIA","不，龍嘯並非是發出聲音。
 龍族和我們不同，不需要用到聲音，
 而是直接在精神上進行交流。"
-18,"TEXT_VOICEMAN_02500_000190_LUCIA","要想得知是否真的有龍嘯發出，
+18,"TEXT_VOICEMAN_02500_000190_LUCIA","若想得知是否真的有龍嘯發出，
 就必須去確認幻龍米德加爾特的情況……"
 19,"TEXT_VOICEMAN_02500_000200_LUCIA","我們想委託您去對密約之塔進行調查，
 確認幻龍米德加爾特的生死。"
@@ -56,7 +56,7 @@ int32,str,str
 幻體敗給你倒也不足為奇。"
 27,"TEXT_VOICEMAN_02500_200020_MIDGARDSORMR","那麼也就是說，是海德林指引你來見我的。
 你來這裡所為何事？"
-28,"TEXT_VOICEMAN_02500_200030_MIDGARDSORMR","沒錯，點燃北天之星的，確是我龍族的咆哮。
+28,"TEXT_VOICEMAN_02500_200030_MIDGARDSORMR","沒錯，點燃北天之星的，確實是我龍族的咆哮。
 同時，這也是我們開始進軍的標誌。"
 29,"TEXT_VOICEMAN_02500_200040_MIDGARDSORMR","龍族的目標是伊修加爾德。
 那裡的人類忘記了畏懼，犯下了罪行。"
@@ -97,7 +97,7 @@ int32,str,str
 用你自己的力量來掙脫我的枷鎖吧。"
 45,"TEXT_VOICEMAN_02500_200200_MIDGARDSORMR","你的力量也許會對人類做出審判，終結這場戰爭。
 這是你作為特異之人而被賦予的試煉。"
-46,"TEXT_VOICEMAN_02500_200210_MIDGARDSORMR","飄蕩此地的乙太，總有一天會令我的身體再次復蘇。"
+46,"TEXT_VOICEMAN_02500_200210_MIDGARDSORMR","飄蕩此地的乙太，總有一天會令我的身體再次復甦。"
 47,"TEXT_VOICEMAN_02500_200220_MIDGARDSORMR","我希望復活之時，能夠看到你完成試煉，
 以及人類繼承光之意志。"
 48,"TEXT_VOICEMAN_02500_200230_MIDGARDSORMR","但這並非容易之事。
@@ -211,7 +211,7 @@ int32,str,str
 99,"TEXT_VOICEMAN_02500_400400_MOENBRYDA","哈哈，不過聽起來不錯嘛，就按你說的去幹！
 我們出手也能早點把事情解決了！"
 100,"TEXT_VOICEMAN_02500_400410_MOENBRYDA","無影每時每刻都有可能出現，
-在邊上看著你們把戰鬥打完，那我可等不及。"
+在旁邊看著你們把戰鬥打完，那我可等不及。"
 101,"TEXT_VOICEMAN_02500_400420_URIANGER","萬事要小心啊……
 你從小就是這魯莽個性。"
 102,"TEXT_VOICEMAN_02500_400430_MINFILIA","嗯，穆恩布瑞達說得對。
@@ -220,7 +220,7 @@ int32,str,str
 桑克瑞德和帕帕力莫也去幫忙。"
 104,"TEXT_VOICEMAN_02500_400450_MINFILIA","穆恩布瑞達和伊達、雅·修朵拉一同行動。
 你們先去勘察場地，做好準備。
-以便在牽制作戰結束後立刻進行實驗。"
+以便在牽製作戰結束後立刻進行實驗。"
 105,"TEXT_VOICEMAN_02500_400460_URIANGER","那麼這段時間我就繼續驗證白聖石的性能吧。"
 106,"TEXT_VOICEMAN_02500_400470_MINFILIA","好的，就拜託您了。
 那麼大家各自準備出發吧。
@@ -259,8 +259,8 @@ int32,str,str
 122,"TEXT_VOICEMAN_02500_500160_NABRIALES","<UIForeground>F20223</UIForeground>我還是和能聽懂的人談談吧。
 擁有超越之力的光之戰士，我們終於見面了，
 我名為那布里亞勒斯，如你所見是無影的一員。<UIForeground>01</UIForeground>"
-123,"TEXT_VOICEMAN_02500_500170_NABRIALES","<UIForeground>F20223</UIForeground>不過你還真是能折騰。
-我好不容易配合拉哈佈雷亞，將神靈降臨在人身上，
+123,"TEXT_VOICEMAN_02500_500170_NABRIALES","<UIForeground>F20223</UIForeground>真是的太佩服你了。
+我好不容易配合拉哈布雷亞，將神靈降臨在人身上，
 你卻那麼簡單輕鬆地幹掉了。<UIForeground>01</UIForeground>"
 124,"TEXT_VOICEMAN_02500_500180_MOENBRYDA","呀啊啊啊啊！"
 125,"TEXT_VOICEMAN_02500_500190_MOENBRYDA","什麼？！"
@@ -278,7 +278,7 @@ int32,str,str
 132,"TEXT_VOICEMAN_02500_500260_NABRIALES","<UIForeground>F20223</UIForeground>不、等等，這可是個好機會啊。
 趁現在去把“那把杖”搞到手，我的地位就能夠更上一步了！<UIForeground>01</UIForeground>"
 133,"TEXT_VOICEMAN_02500_500270_NABRIALES","<UIForeground>F20223</UIForeground>接下來我就會成為佐狄亞克大人的左右手……
-從此白袍混蛋和拉哈佈雷亞也不敢再對我說什麼了！<UIForeground>01</UIForeground>"
+從此白袍混蛋和拉哈布雷亞也不敢再對我說什麼了！<UIForeground>01</UIForeground>"
 134,"TEXT_VOICEMAN_02500_500280_MOENBRYDA","消失了？
 這到底是怎麼回事？"
 135,"TEXT_VOICEMAN_02500_500290_MOENBRYDA","那布里亞勒斯……
@@ -298,7 +298,7 @@ int32,str,str
 這可真是要笑死人了。<UIForeground>01</UIForeground>"
 143,"TEXT_VOICEMAN_02500_600050_NABRIALES","<UIForeground>F20223</UIForeground>因為有人受到了光之加護，你們才能安然活到現在的。
 不然這小小據點怎麼可能攔得住我們。<UIForeground>01</UIForeground>"
-144,"TEXT_VOICEMAN_02500_600060_NABRIALES","<UIForeground>F20223</UIForeground>白袍和拉哈佈雷亞那樣的原種倒還好，
+144,"TEXT_VOICEMAN_02500_600060_NABRIALES","<UIForeground>F20223</UIForeground>白袍和拉哈布雷亞那樣的原種倒還好，
 而像我們這樣的轉生種就沒那麼容易衝破光之加護了。<UIForeground>01</UIForeground>"
 145,"TEXT_VOICEMAN_02500_600070_NABRIALES","<UIForeground>F20223</UIForeground>……當然，看來這種狀況也到此為止了。
 我和他們不同，沒那麼好的耐心。
@@ -313,7 +313,7 @@ int32,str,str
 151,"TEXT_VOICEMAN_02500_600130_MINFILIA","你為什麼要搶走這把杖？
 這只是個遺物罷了，
 對你們根本沒有價值！"
-152,"TEXT_VOICEMAN_02500_600140_NABRIALES","<UIForeground>F20223</UIForeground>你怎麼淨問些愚蠢的問題？
+152,"TEXT_VOICEMAN_02500_600140_NABRIALES","<UIForeground>F20223</UIForeground>你怎麼老問些愚蠢的問題？
 你到底都調查了些什麼啊？<UIForeground>01</UIForeground>"
 153,"TEXT_VOICEMAN_02500_600150_NABRIALES","<UIForeground>F20223</UIForeground>天命杖……
 準確地說，這把杖裡的石板，
@@ -323,7 +323,7 @@ int32,str,str
 155,"TEXT_VOICEMAN_02500_600170_NABRIALES","<UIForeground>F20223</UIForeground>那老頭子不用水晶也能成功召喚十二神降臨，
 你就沒動過腦子好好想想為什麼嗎？<UIForeground>01</UIForeground>"
 156,"TEXT_VOICEMAN_02500_600180_NABRIALES","<UIForeground>F20223</UIForeground>召喚不只需要祈禱，還需要乙太的能量。
-這可是連小毛孩都懂的吧？<UIForeground>01</UIForeground>"
+這可是連小朋友都懂的吧？<UIForeground>01</UIForeground>"
 157,"TEXT_VOICEMAN_02500_600190_MINFILIA","……多虧了你的教導，現在我就清楚了。
 那麼，這把杖就更不能交給你了！"
 158,"TEXT_VOICEMAN_02500_600200_NABRIALES","<UIForeground>F20223</UIForeground>真是聽不進人勸啊……
@@ -351,7 +351,7 @@ int32,str,str
 169,"TEXT_VOICEMAN_02500_700090_MINFILIA","趁現在！
 快用天命杖聚集周圍的乙太！"
 170,"TEXT_VOICEMAN_02500_700100_MINFILIA","回想一下！
-你以前斬斷拉哈佈雷亞的光之刃！"
+你以前斬斷拉哈布雷亞的光之刃！"
 171,"TEXT_VOICEMAN_02500_700110_MINFILIA","怎麼會？！
 海德林的加護被封印，所以光之力也被削減了嗎？！"
 172,"TEXT_VOICEMAN_02500_700120_MOENBRYDA","這東西也已經啟動了……
@@ -430,7 +430,7 @@ int32,str,str
 209,"TEXT_VOICEMAN_02500_800250_URIANGER","我很希望她在艾奧傑亞期間能夠有所領悟……
 可惜現在已無法實現了……"
 210,"TEXT_VOICEMAN_02500_800260_URIANGER","這麼說……她已經領悟到了路易索瓦恩師的想法？
-因此才決意自我犧牲？"
+因此才決定自我犧牲？"
 211,"TEXT_VOICEMAN_02500_800270_URIANGER","她已經從困惑中獲得解脫了……
 我相信她會在另一個世界獲得安寧……"
 212,"TEXT_VOICEMAN_02500_800280_URIANGER","穆恩布瑞達……
@@ -562,7 +562,7 @@ int32,str,str
 279,"TEXT_VOICEMAN_02500_F00030_NANAMOULNAMO","我準備在這次慶功會上宣佈結束王家的統治……請您原諒我……"
 280,"TEXT_VOICEMAN_02500_G00010_NANAMOULNAMO","抱歉，也讓你費了很多心吧。"
 281,"TEXT_VOICEMAN_02500_G00020_LADYINWAITING2","不，這都是陛下決定的事情。
-您還能關心我這樣的下人，我已經感激不盡了。"
+您還會關心我這樣的下人，我已經感激不盡了。"
 282,"TEXT_VOICEMAN_02500_G00030_LADYINWAITING2","……我這就去將英雄帶到這裡。"
 283,"TEXT_VOICEMAN_02500_G00040_NANAMOULNAMO","交給你了。"
 284,"TEXT_VOICEMAN_02500_H00010_KANESENNA","也就是說，艾默里克閣下是最近才上任的？"
@@ -587,7 +587,7 @@ int32,str,str
 希望能夠儘早解決吧。"
 295,"TEXT_VOICEMAN_02500_H00120_ALPHINAUD","我能夠理解各國首領的想法。
 但是，我要用我自己的想法引領艾奧傑亞。"
-296,"TEXT_VOICEMAN_02500_H00130_ALPHINAUD","倒是我們的大英雄去哪兒了？
+296,"TEXT_VOICEMAN_02500_H00130_ALPHINAUD","倒是我們的大英雄去哪裡了？
 怎麼都見不到人呢？"
 297,"TEXT_VOICEMAN_02500_H00140_MINFILIA","好像到流沙屋找莫莫蒂去了。
 如果沒什麼麻煩事情，應該快回來了吧。"
@@ -633,7 +633,7 @@ int32,str,str
 323,"TEXT_VOICEMAN_02500_K00110_NANAMOULNAMO","謝謝你答應我的請求。
 ……這我就放心了。"
 324,"TEXT_VOICEMAN_02500_K00120_NANAMOULNAMO","還記得在大霸王樹下第一次遇見你，
-仿佛就在昨日。
+彷彿就在昨日。
 ……以後就有勞我們的大英雄了。"
 325,"TEXT_VOICEMAN_02500_K00130_NANAMOULNAMO","以後就有勞我們的大英雄了。"
 326,"TEXT_VOICEMAN_02500_K00140_TELEDJIADELEDJI","娜、娜娜莫陛下？！"
@@ -740,7 +740,7 @@ int32,str,str
 388,"TEXT_VOICEMAN_02500_Q00010_TELEDJIADELEDJI","王黨派根本就沒有保衛國家的資格！
 烏爾達哈應該交給我們共和派來管理。
 以後的事也不用你操心了，頂多讓你去為陛下準備國葬吧。"
-389,"TEXT_VOICEMAN_02500_Q00020_TELEDJIADELEDJI","不管是陛下還是你，真能給我們添事……"
+389,"TEXT_VOICEMAN_02500_Q00020_TELEDJIADELEDJI","不管是陛下還是你，真能給我們添麻煩……"
 390,"TEXT_VOICEMAN_02500_Q00030_RAUBAHN","原來是你……"
 391,"TEXT_VOICEMAN_02500_Q00040_TELEDJIADELEDJI","……你在說什麼？"
 392,"TEXT_VOICEMAN_02500_Q00050_RAUBAHN","暗殺娜娜莫陛下的就是你吧！泰勒吉·阿代勒吉！"
@@ -754,7 +754,7 @@ int32,str,str
 396,"TEXT_VOICEMAN_02500_Q00090_TELEDJIADELEDJI","……什麼！"
 397,"TEXT_VOICEMAN_02500_Q00100_LOLORITO","勞班，你要造反嗎？！
 在宮廷內拔出兵刃已經是重罪了，
-竟然還斬殺了砂蠍眾的成員！"
+竟然還斬殺了沙蠍眾的成員！"
 398,"TEXT_VOICEMAN_02500_Q00110_LOLORITO","……難不成，你是拂曉的同謀？！"
 399,"TEXT_VOICEMAN_02500_Q00120_RAUBAHN","羅羅力特！你這混蛋！你也是同伴嗎！！"
 400,"TEXT_VOICEMAN_02500_Q00130_RAUBAHN","啊啊啊啊啊！！"
@@ -779,10 +779,10 @@ int32,str,str
 414,"TEXT_VOICEMAN_02500_Q00260_RAUBAHN","伊爾伯德！！！！！"
 415,"TEXT_VOICEMAN_02500_Q00270_ILBERD","哼！"
 416,"TEXT_VOICEMAN_02500_Q00280_RAUBAHN","你們絕對不可能暗殺娜娜莫陛下。
-……這事必然有幕後黑手。"
+……這件事必然有幕後黑手。"
 417,"TEXT_VOICEMAN_02500_Q00290_RAUBAHN","快逃……
 你們要逃走，查出真相，向世人證明自己的清白！"
-418,"TEXT_VOICEMAN_02500_Q00300_RAUBAHN","這事只能靠你們了。
+418,"TEXT_VOICEMAN_02500_Q00300_RAUBAHN","這件事只能靠你們了。
 ……快走！"
 419,"TEXT_VOICEMAN_02500_Q00310_RAUBAHN","嗚哦哦哦！"
 420,"TEXT_VOICEMAN_02500_Q00320_THANCRED","你們都沒事吧！"
@@ -869,7 +869,7 @@ int32,str,str
 465,"TEXT_VOICEMAN_02500_S00150_THANCRED","敵人數量還真是多啊……
 還沒好嗎，雅·修朵拉！"
 466,"TEXT_VOICEMAN_02500_S00160_YSHTOLA","……讓你久等了！"
-467,"TEXT_VOICEMAN_02500_S00170_YSHTOLA","……對不起了，雅·蜜特拉。"
+467,"TEXT_VOICEMAN_02500_S00170_YSHTOLA","……對不起了，雅·蜜朵拉。"
 468,"TEXT_VOICEMAN_02500_S00180_THANCRED","別了，敏菲利亞……"
 469,"TEXT_VOICEMAN_02500_T00010_MINFILIA","剛才是海德林的聲音？"
 470,"TEXT_VOICEMAN_02500_T00020_MINFILIA","難道？！"
@@ -999,5 +999,5 @@ int32,str,str
 535,"TEXT_VOICEMAN_02500_Y00020_LOLORITO","……可惡。"
 536,"TEXT_VOICEMAN_02500_Z00010_MIDGARDSORMR","前面便是伊修加爾德……
 充滿我們龍族怨念的污穢之地……"
-537,"TEXT_VOICEMAN_02500_Z00020_MIDGARDSORMR","人類啊，真是本性難改……
+537,"TEXT_VOICEMAN_02500_Z00020_MIDGARDSORMR","人類啊，真是本性難移……
 你不這麼認為嗎？海德林的使徒啊。"

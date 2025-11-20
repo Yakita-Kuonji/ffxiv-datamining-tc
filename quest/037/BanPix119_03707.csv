@@ -67,7 +67,7 @@ int32,str,str
 53,"TEXT_BANPIX119_03707_PICKFLOWERPIXIE_000_011","你說烏因·尼伊在擔心我？
 真是小題大作，如果「那個」真的出現了，
 只要把這個護身符扔出去就可以了。"
-54,"TEXT_BANPIX119_03707_PICKFLOWERPIXIE_000_012","這麼擔心我的話，你就幫忙監視一下週圍吧？
+54,"TEXT_BANPIX119_03707_PICKFLOWERPIXIE_000_012","這麼擔心我的話，你就幫忙監視一下周圍吧？
 要是有什麼東西靠近了，把這個「護身仙子豬」扔過去，
 就可以趕走靠近的東西了，那就拜託你啦！"
 55,"TEXT_BANPIX119_03707_SYSTEM_000_013","開始保護採花的仙子。
@@ -75,7 +75,7 @@ int32,str,str
 點選<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>滑鼠左鍵<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>鍵/<CommandIcon(8)/>鍵</If>扔出護身仙子豬！"
 56,"TEXT_BANPIX119_03707_PICKFLOWERPIXIE_000_014","呀——！"
 57,"TEXT_BANPIX119_03707_PICKFLOWERPIXIE_000_015","(-另一位採花的仙子-)奇怪……我的朋友應該就在這裡採花啊……
-算了，不管他了，我自己采就足夠了！
+算了，不管他了，我自己採就足夠了！
 加油吧！"
 58,"TEXT_BANPIX119_03707_PICKFLOWERPIXIE_100_015","呼……我採了好多花呢！
 謝謝你幫忙監視周圍。

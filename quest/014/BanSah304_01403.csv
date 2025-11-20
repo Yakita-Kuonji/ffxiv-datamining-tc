@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_BANSAH304_01403_SEQ_00","諾布養育場的塞烏有事情想要委託給冒險者。"
-1,"TEXT_BANSAH304_01403_SEQ_01","塞烏委託冒險者去燒掉珊瑚尖槍掠奪來的物資，阻礙他們的活動。前往薩普砂產卵地的隱秘港，用<Sheet(EventItem,2001270,0)/>燒掉4堆<Sheet(EObj,2003856,0)/>，並討伐發起襲擊的<Sheet(BNpcName,2680,0)/>和<Sheet(BNpcName,2681,0)/>。"
+1,"TEXT_BANSAH304_01403_SEQ_01","塞烏委託冒險者去燒掉珊瑚尖槍掠奪來的物資，阻礙他們的活動。前往薩普沙產卵地的隱密港，用<Sheet(EventItem,2001270,0)/>燒掉4堆<Sheet(EObj,2003856,0)/>，並討伐發起襲擊的<Sheet(BNpcName,2680,0)/>和<Sheet(BNpcName,2681,0)/>。"
 2,"TEXT_BANSAH304_01403_SEQ_02","燒掉了<Sheet(EObj,2003856,0)/>，並討伐了發起攻擊的珊瑚尖槍一夥。向諾布養育場的塞烏報告。"
 3,"TEXT_BANSAH304_01403_SEQ_03","向塞烏報告了燒掉<Sheet(EObj,2003856,0)/>一事。珊瑚尖槍好像對掠奪行為相當樂在其中。今後也繼續對他們進行妨礙。"
 4,"TEXT_BANSAH304_01403_SEQ_04","空欄"
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_BANSAH304_01403_SEQ_21","空欄"
 22,"TEXT_BANSAH304_01403_SEQ_22","空欄"
 23,"TEXT_BANSAH304_01403_SEQ_23",""
-24,"TEXT_BANSAH304_01403_TODO_00","用<Sheet(EventItem,2001270,0)/>燒掉隱秘港的<Sheet(EObj,2003856,0)/>
+24,"TEXT_BANSAH304_01403_TODO_00","用<Sheet(EventItem,2001270,0)/>燒掉隱密港的<Sheet(EObj,2003856,0)/>
 珊瑚尖槍出現的話就將他們討伐"
 25,"TEXT_BANSAH304_01403_TODO_01","向塞烏報告"
 26,"TEXT_BANSAH304_01403_TODO_02","空欄"
@@ -50,7 +50,7 @@ int32,str,str
 45,"TEXT_BANSAH304_01403_TODO_21","空欄"
 46,"TEXT_BANSAH304_01403_TODO_22","空欄"
 47,"TEXT_BANSAH304_01403_TODO_23",""
-48,"TEXT_BANSAH304_01403_SEWW_000_000","呼嘶……薩普砂產卵地的港口那裡，
+48,"TEXT_BANSAH304_01403_SEWW_000_000","呼嘶……薩普沙產卵地的港口那裡，
 好像堆積了很多珊瑚尖槍從商船掠奪來的物資。"
 49,"TEXT_BANSAH304_01403_SEWW_000_001","呼嘶……在被他們用來作惡之前，
 用<Sheet(EventItem,2001270,0)/>燒掉<Sheet(EObj,2003856,0)/>！"

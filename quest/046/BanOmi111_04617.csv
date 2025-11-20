@@ -5,7 +5,7 @@ int32,str,str
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
 A4調查平臺的斯提格瑪四想要委託冒險者幫忙調查。"
-1,"TEXT_BANOMI111_04617_SEQ_01","將委託物品交給通用型歐米克隆"
+1,"TEXT_BANOMI111_04617_SEQ_01","將委託物品交給通用型奧密克戎"
 2,"TEXT_BANOMI111_04617_SEQ_02","向斯提格瑪四報告"
 3,"TEXT_BANOMI111_04617_SEQ_03",""
 4,"TEXT_BANOMI111_04617_SEQ_04",""
@@ -28,7 +28,7 @@ A4調查平臺的斯提格瑪四想要委託冒險者幫忙調查。"
 21,"TEXT_BANOMI111_04617_SEQ_21",""
 22,"TEXT_BANOMI111_04617_SEQ_22",""
 23,"TEXT_BANOMI111_04617_SEQ_23",""
-24,"TEXT_BANOMI111_04617_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土海洋區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給通用型歐米克隆</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土海洋區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給通用型歐米克隆</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土海洋區釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給通用型歐米克隆</If><Else/></If></If></If>"
+24,"TEXT_BANOMI111_04617_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土海洋區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給通用型奧密克戎</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土海洋區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給通用型奧密克戎</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土海洋區釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給通用型奧密克戎</If><Else/></If></If></If>"
 25,"TEXT_BANOMI111_04617_TODO_01","向斯提格瑪四報告"
 26,"TEXT_BANOMI111_04617_TODO_02",""
 27,"TEXT_BANOMI111_04617_TODO_03",""
@@ -58,11 +58,11 @@ A4調查平臺的斯提格瑪四想要委託冒險者幫忙調查。"
 目前正在試驗用於養殖的飼料。
 因此想請同盟者幫忙籌備素材。"
 50,"TEXT_BANOMI111_04617_STIGMA4_000_002","請前往至福樂土海洋區獲取<Sheet(Item,38287,0)/>。
-完成後交給歐米克隆基地的通用型歐米克隆。"
+完成後交給奧密克戎基地的通用型奧密克戎。"
 51,"TEXT_BANOMI111_04617_STIGMA4_000_003","請前往至福樂土海洋區獲取<Sheet(Item,38311,0)/>。
-完成後交給歐米克隆基地的通用型歐米克隆。"
+完成後交給奧密克戎基地的通用型奧密克戎。"
 52,"TEXT_BANOMI111_04617_STIGMA4_000_004","請前往至福樂土海洋區獲取<Sheet(Item,38335,0)/>。
-完成後交給歐米克隆基地的通用型歐米克隆。
+完成後交給奧密克戎基地的通用型奧密克戎。
 另外釣餌推薦使用<Sheet(Item,36588,0)/>。"
 53,"TEXT_BANOMI111_04617_STIGMA4_000_005",""
 54,"TEXT_BANOMI111_04617_STIGMA4_000_006",""
@@ -74,7 +74,7 @@ A4調查平臺的斯提格瑪四想要委託冒險者幫忙調查。"
 58,"TEXT_BANOMI111_04617_OMICRON04617_000_012","沙沙、沙沙沙……掃瞄完成，品質優良……
 嗶，沙沙沙……已向斯提格瑪四報告完成。
 請前往A4調查平臺領取報酬。"
-59,"TEXT_BANOMI111_04617_STIGMA4_000_020","已收到來自通用型歐米克隆的通訊報告。
+59,"TEXT_BANOMI111_04617_STIGMA4_000_020","已收到來自通用型奧密克戎的通訊報告。
 對同盟者的協助給予高度評價。"
 60,"TEXT_BANOMI111_04617_STIGMA4_000_021","一旦養殖成功，
 便可以為更多顧客提供海鮮菜餚，

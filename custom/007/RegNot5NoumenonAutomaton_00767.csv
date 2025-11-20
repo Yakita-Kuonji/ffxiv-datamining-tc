@@ -49,7 +49,7 @@ int32,str,str
 24,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_SYSTEM_000_208","推薦的書中
 記錄有關於「宇宙真理」的基礎內容。"
 25,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKTWO_000_211","(-«從議會的角度看城市的變遷»-)薩雷安從建國以來一直都是
-通過市民議會來決定各種重要事項及政策。
+透過市民議會來決定各種重要事項及政策。
 全體市民可任意參加該議會。"
 26,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKTWO_000_212","(-«從議會的角度看城市的變遷»-)可是隨著人口增長，參會人數也越來越多。
 出現了議論時間過長、政策難定等弊病。"
@@ -64,10 +64,10 @@ int32,str,str
 30,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKTHREE_000_221","(-«聚集知識之人»-)薩雷安的建國始祖紐恩克雷夫……
 他在第六靈災中目睹了人類之間野蠻的鬥爭，
 於是在北洋建造村落時如此說道："
-31,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKTHREE_000_222","(-«聚集知識之人»-)「要遠離鬥爭，通過知識和理性尋求進步。」"
+31,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKTHREE_000_222","(-«聚集知識之人»-)「要遠離鬥爭，透過知識和理性尋求進步。」"
 32,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKTHREE_000_223","(-«聚集知識之人»-)薩雷安人民將他的話謹記於心，
 一直以成為聚集知識之人為己任。"
-33,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKTHREE_000_224","(-«聚集知識之人»-)如此彙集的大量知識
+33,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKTHREE_000_224","(-«聚集知識之人»-)如此匯集的大量知識
 使薩雷安成為獨一無二的國家，
 用知識代替武力治國理政。"
 34,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKTHREE_000_225","(-«聚集知識之人»-)舉例來說，精通經濟學的人可以叱咤商界，
@@ -99,7 +99,7 @@ int32,str,str
 記錄有關於「健康的秘訣」的基礎內容。"
 46,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKFIVE_000_241","(-«簡單易懂的薩雷安建國史»-)很久很久以前，
 在北洋的某座島上有一位名叫紐恩克雷夫的魯加族壯漢。"
-47,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKFIVE_000_242","(-«簡單易懂的薩雷安建國史»-)他通過占星術得知艾奧傑亞的大地即將被可怕的大洪水淹沒。"
+47,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKFIVE_000_242","(-«簡單易懂的薩雷安建國史»-)他透過占星術得知艾奧傑亞的大地即將被可怕的大洪水淹沒。"
 48,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKFIVE_000_243","(-«簡單易懂的薩雷安建國史»-)於是他建造了巨大的船隻，
 帶領船員前往了艾奧傑亞。"
 49,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKFIVE_000_244","(-«簡單易懂的薩雷安建國史»-)大洪水襲來，將人們衝到海上。
@@ -116,7 +116,7 @@ int32,str,str
 最終成為我們如今的薩雷安。"
 54,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_SYSTEM_000_250","推薦的書中
 記錄有關於「薩雷安的建國歷史」的基礎內容。"
-55,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKSIX_000_261","(-«舊路漫遊：殖民城市篇»-)龍堡內陸低地、砂利亞克河的河畔
+55,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKSIX_000_261","(-«舊路漫遊：殖民城市篇»-)德拉瓦尼亞河谷地、沙利亞克河的河畔
 存在著薩雷安曾經的殖民城市。"
 56,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKSIX_000_262","(-«舊路漫遊：殖民城市篇»-)其起源可以追溯至第六星曆1311年，
 在當地建設的星海觀測基地。"
@@ -140,7 +140,7 @@ int32,str,str
 64,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKSEVEN_000_281","(-«禁止栽培植物規定（第34次修改）»-)總則：
 在薩雷安國內及由其管理的土地當中
 未經許可禁止栽培以下植物："
-65,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_SYSTEM_000_282","打開了「香錦草」的專案……"
+65,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_SYSTEM_000_282","打開了「香錦草」的項目……"
 66,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKSEVEN_000_283","(-«禁止栽培植物規定（第34次修改）»-)根據自然生命院的研究報告顯示，
 以下植物被指定為新的禁止栽培植物：
 香錦草"
@@ -157,7 +157,7 @@ int32,str,str
 記錄有關於「香錦草」的學術內容。"
 71,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKEIGHT_100_291","(-«美味的蔬菜食譜»-)你是否聽說過圖拉爾大陸這個地方？
 也就是在三大洲這邊被人們俗稱為新大陸的遙遠西方之地。"
-72,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKEIGHT_000_291","(-«美味的蔬菜食譜»-)現如今像是理所當然一樣
+72,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKEIGHT_000_291","(-«美味的蔬菜食譜»-)現在像是理所當然一樣
 位列在餐桌上的新薯、食人魔南瓜、寶石番茄等蔬菜
 也是從那片大陸引進過來的。"
 73,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKEIGHT_000_292","(-«美味的蔬菜食譜»-)第六星曆1498年……
@@ -174,7 +174,7 @@ int32,str,str
 77,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKEIGHT_000_296","(-«美味的蔬菜食譜»-)除了當地的蔬菜以外，他還帶回了眾多的知識。
 從塞滿煮豆子的捲餅食譜再到各類數不盡的傳說……
 就連街角巷弄熱議的那個黃金鄉之名也是他的功績。"
-78,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKEIGHT_000_297","(-«美味的蔬菜食譜»-)若不是對柯坦拉姆的一生有所瞭解的人，
+78,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKEIGHT_000_297","(-«美味的蔬菜食譜»-)若不是對柯坦拉姆的一生有所了解的人，
 或許圖拉爾大陸只不過是一個十分遙遠的地名罷了……
 但那裡到底有著怎樣的飲食文化，實在令筆者興趣盎然。"
 79,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_SYSTEM_000_298","推薦的書中
@@ -187,12 +187,12 @@ int32,str,str
 來為各位讀者介紹這類新種生物。"
 82,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKNINE_000_303","(-«圖拉爾大陸博物志»-)「羊駝」
 棲息在險峻連峰的百獸綱四腳獸。
-在山岳地帶，大多被人們作為家畜飼養。"
+在山岳地帶，大多被人們作為牲畜飼養。"
 83,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKNINE_000_304","(-«圖拉爾大陸博物志»-)它純白色的毛可以用於製作織物，
 除此之外由於其身強體健，也被人們用來騎乘或搬運物品。"
 84,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKNINE_000_305","(-«圖拉爾大陸博物志»-)「犀蜴」
 棲息在密林地帶的甲鱗綱四腳獸。
-雖然生性凶猛，但卻被輝鱗族馴化成為了家畜。"
+雖然生性凶猛，但卻被輝鱗族馴化成為了牲畜。"
 85,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKNINE_000_306","(-«圖拉爾大陸博物志»-)它不僅能用來騎乘或搬運貨物，
 活用其體型形成的衝擊力以及頭上的大角，
 在攻城戰中也能作為兵器使用。"
@@ -232,7 +232,7 @@ int32,str,str
 此地正如其名，受到從地下滲出的青磷水的影響，
 整片山谷呈現出群青色，讓人不禁感嘆此景之美。"
 100,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKELEVEN_000_325","(-«青魔法概論»-)最終筆者習得了此術，
-併成功地將魔物的魔法化為己用。
+並成功地將魔物的魔法化為己用。
 由此，筆者將這種嶄新的魔法體系命名為青魔法。"
 101,"TEXT_REGNOT5NOUMENONAUTOMATON_00767_BOOKELEVEN_000_326","(-«青魔法概論»-)想必各位讀者也察覺到了，
 對於瓦拉其族來說藍色就是他們心目中最為神聖的顏色！

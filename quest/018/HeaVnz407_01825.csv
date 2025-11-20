@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ407_01825_SEQ_00","贖罪天廊的莫古索恩對人類的遺跡非常感興趣。"
-1,"TEXT_HEAVNZ407_01825_SEQ_01","莫古索恩落下了<Sheet(EventItem,2001633,0)/>。在翻雲霧海的四臂廣場回收3個<Sheet(EventItem,2001633,0)/>。"
+1,"TEXT_HEAVNZ407_01825_SEQ_01","莫古索恩落下了<Sheet(EventItem,2001633,0)/>。在德拉瓦尼亞雲海的四臂廣場回收3個<Sheet(EventItem,2001633,0)/>。"
 2,"TEXT_HEAVNZ407_01825_SEQ_02","回收了<Sheet(EventItem,2001633,0)/>。將<Sheet(EventItem,2001633,0)/>交給贖罪天廊的莫古索恩。"
 3,"TEXT_HEAVNZ407_01825_SEQ_03","將<Sheet(EventItem,2001633,0)/>交給了莫古索恩。莫古索恩喜歡收集人類遺跡裡的稀有物品，卻沒想到這次居然見到了真正的人類。"
 4,"TEXT_HEAVNZ407_01825_SEQ_04","空"

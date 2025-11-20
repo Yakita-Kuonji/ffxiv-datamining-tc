@@ -40,10 +40,10 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 真是做得太棒了。
 那就收下追加的報酬吧。"
 5,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡為冒險者們發行行會理符任務。
-任務內容基本是黑衣森林各地發來的委託工作。","這裡是發行行會理符的視窗，會為冒險者介紹各種工作。
+任務內容基本是黑衣森林各地發來的委託工作。","這裡是發行行會理符的窗口，會為冒險者介紹各種工作。
 你看起來是一個新人冒險者啊。
 <Unknown17/>如果你有<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆的介紹，
-那麼我們會很樂意交給你一些工作的。","0","這裡是發行行會理符的視窗，會為冒險者介紹各種工作。
+那麼我們會很樂意交給你一些工作的。","0","這裡是發行行會理符的窗口，會為冒險者介紹各種工作。
 你看起來是一個新人冒險者啊。
 <Unknown17/>如果你有<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆的介紹，
 那麼我們會很樂意交給你一些工作的。","你是來領取任務報酬的？
@@ -79,10 +79,10 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 ","喲，這位同志！
 這裡會為有實力的冒險者發行行會理符任務。
 <Unknown17/>不過你的實力得得到<Switch(IntegerParameter(1))><Case(1)>茶·莫克莉大姐</Case><Case(2)>貢特朗大哥</Case><Case(3)>尤斯塔斯大哥</Case></Switch>的認可才行，
-不然可沒法交給你任務啊。","那就拜託給你了！","喲，這位同志！
+不然可無法交給你任務啊。","那就拜託給你了！","喲，這位同志！
 這裡會為有實力的冒險者發行行會理符任務。
 <Unknown17/>不過你得有能力輕鬆打倒這附近的魔物才行，
-不然可沒法交給你任務啊。","很好很好，看來你完成任務了啊。
+不然可無法交給你任務啊。","很好很好，看來你完成任務了啊。
 這下子委託人也能心滿意足了。
 久等了，這是你的報酬。","0","0","你連懸賞魔物都打倒了啊？挺有本事的啊！
 再多追加些報酬給你！恭喜你了！"
@@ -173,7 +173,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 
 不過，你得有行會總管<Switch(IntegerParameter(1))><Case(1)>巴德龍先生</Case><Case(2)>繆恩女士</Case><Case(3)>莫莫蒂女士</Case></Switch>的介紹才行。
 因為我們想要把任務交給值得信賴的人去做。","祈禱你能夠順利完成任務。
-願戰神哈羅妮保佑你……","我是冒險者行會的人。
+願戰爭神哈羅妮保佑你……","我是冒險者行會的人。
 負責發行白雲崖前哨附近的行會理符。
 
 不過，我還不能把行會理符發放給你。
@@ -230,7 +230,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 <Unknown17/>畢竟這些事得交給信得過、並有相應實力的人去做。
 你就繼續努力吧……","這樣，你已經完成了任務啊……
 那麼就把報酬給你吧。
-這是委託人對你的感謝……","0","0","哦，不僅完成了任務，還打倒了懸賞魔物麼……
+這是委託人對你的感謝……","0","0","哦，不僅完成了任務，還打倒了懸賞魔物嗎……
 那得多給你一些報酬才行。
 你做得真是不錯……"
 21,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我們將太陽海岸周邊的委託作為行會理符發放給冒險者。
@@ -303,14 +303,14 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 但軍銜至少要在士官以上……","0"
 28,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我是不滅隊的琪琪麗鬥曹長！
 在此發行軍隊理符任務！","有執行過行會理符任務的經驗是很好……
-不過需要和不滅作戰總部取得交涉才行。","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，願水晶給予你指引！","有執行過行會理符任務的經驗是很好……
-不過需要和不滅作戰總部取得交涉才行。","確認任務已完成！
+不過需要和不滅隊作戰總部取得交涉才行。","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，願水晶給予你指引！","有執行過行會理符任務的經驗是很好……
+不過需要和不滅隊作戰總部取得交涉才行。","確認任務已完成！
 按照規定，付你相應軍票！","我在此發行不滅隊的軍隊理符！
 請你在加入任意大國防聯軍之後再來領取任務！","0","0"
 29,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我是不滅隊的布露·海靈鬥曹長！
 在此發行軍隊理符任務！","有執行過行會理符任務的經驗是很好……
-不過需要和不滅作戰總部取得交涉才行。","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，願水晶給予你指引！","有執行過行會理符任務的經驗是很好……
-不過需要和不滅作戰總部取得交涉才行。","確認任務已完成！
+不過需要和不滅隊作戰總部取得交涉才行。","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，願水晶給予你指引！","有執行過行會理符任務的經驗是很好……
+不過需要和不滅隊作戰總部取得交涉才行。","確認任務已完成！
 按照規定，付你相應軍票！","我在此發行不滅隊的軍隊理符！
 請你在加入任意大國防聯軍之後再來領取任務！","能勝任此任務是很好……
 不過軍銜至少要在士官以上才可以領取……","0"
@@ -341,12 +341,12 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 加入任意大國防聯軍後才可領取任務！","摩杜納地區的任務都比較棘手！
 所以軍銜至少要在士官長以上才可以領取！","0"
 33,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我們基於總騎士長的提案在這裡發行神殿騎士團理符。","有一定能力並且值得信賴的人才可以從這裡領取理符任務……","我在這等你平安歸來。
-願戰神哈羅妮保佑你！
+願戰爭神哈羅妮保佑你！
 ","有一定能力並且值得信賴的人才可以從這裡領取理符任務……","你的任務完成了！
 感謝你對皇都做出的貢獻，這是你的報酬。","0","0","你竟然解決了懸賞魔物？
 這可得給你加算報酬才行。"
 34,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"為了擴大冒險者行會的活動範圍，
-我們按照總部的指示在這裡開設了黃金港視窗。
+我們按照總部的指示在這裡開設了黃金港窗口。
 歡迎有意的冒險者前來幫忙！","有沒有身具工匠技藝的冒險者啊……","手頭的委託做得還順利嗎？
 我相信你一定沒問題的……是吧？","有沒有身具工匠技藝的冒險者啊……","很好，你已經完成了委託。
 久等了，這是給你的報酬！","0","0","0"

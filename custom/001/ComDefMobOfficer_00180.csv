@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_000","「狩獵任務告示板」上公佈的待討伐怪物全都是十分危險的。
 只有有實力的兵將才能接受任務。"
 1,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_001","辛苦了。
-你可以隨時找我瞭解有關「狩獵任務」的詳細說明。"
+你可以隨時找我了解有關「狩獵任務」的詳細說明。"
 2,"TEXT_COMDEFMOBOFFICER_00180_Q1_000_000","想了解什麼？"
 3,"TEXT_COMDEFMOBOFFICER_00180_A1_000_001","關於怪物通緝令"
 4,"TEXT_COMDEFMOBOFFICER_00180_A1_100_002","關於危險標的怪物"
@@ -36,7 +36,7 @@ int32,str,str
 但如果是作為「危險標的怪物通緝令」的通緝對象，
 在持有通緝令的狀態下進行討伐的話可以得到報酬。"
 18,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_026","另外，各地域的村落中會有十分了解危險標的怪物的「怪物獵人」。
-在挑戰之前可以找怪物獵人瞭解資訊。"
+在挑戰之前可以找怪物獵人了解資訊。"
 19,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_025","這是「狩獵任務告示板」上張貼的一種通緝令。
 以危險且臭名昭彰的「怪物」為通緝對象。"
 20,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_100_030","從狩獵任務告示板上獲取的「危險標的怪物通緝令」

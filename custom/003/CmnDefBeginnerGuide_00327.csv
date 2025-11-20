@@ -14,11 +14,11 @@ int32,str,str
 同為冒險者，他們一定會給予你必要的幫助的。
 如果有機會還可以和他們一起踏上冒險旅程。"
 5,"TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_004","借助指導者的力量，豐富自己的冒險經驗。
-如果你想更深入地瞭解，就再來找我！"
+如果你想更深入地了解，就再來找我！"
 6,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_005","「新人」狀態適用於剛剛開始在艾奧傑亞冒險的玩家。"
 7,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_006","在這艾奧傑亞中有許多冒險者，
 其中負責幫助新人冒險者的老練玩家被稱為「指導者」。"
-8,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_007","通過與「指導者」組隊，
+8,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_007","透過與「指導者」組隊，
 「新人」可以獲得特殊的經驗值加成。"
 9,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_008","另外，還可以利用新人頻道這一特殊聊天頻道向指導者提問，
 或是與其他新人進行交流。"
@@ -130,10 +130,10 @@ int32,str,str
 63,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_121","新人與指導者，以及間隔了一段時間重新展開冒險的回歸者
 可以利用專用的新人頻道進行交談。"
 64,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_122","指導者可以隨意參加或退出新人頻道。
-新人和回歸者可以通過指導者的邀請加入新人頻道。"
+新人和回歸者可以透過指導者的邀請加入新人頻道。"
 65,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_123","指導者可以選中未加入新人頻道的對象，
-在次級指令中對其進行邀請。"
-66,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_100_123","可以通過點選訊息欄下方的小樹苗圖示，
+在子選單中對其進行邀請。"
+66,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_100_123","可以透過點選訊息欄下方的小樹苗圖示，
 打開「新人頻道參加名單」，選擇退出新人頻道。"
 67,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_124","新人頻道是提問、交流心得的地方，
 請遵守文明禮儀，積極發言。"
@@ -158,7 +158,7 @@ int32,str,str
 75,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_100_142","此外，只有「戰鬥指導者」能夠使用「<Sheet(ContentRoulette,9,0)/>」。"
 76,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_143","可以使用文字指令「<UIForeground>F20222</UIForeground>/加入新人頻道 開<UIForeground>01</UIForeground>」和
 「<UIForeground>F20222</UIForeground>/加入新人頻道 關<UIForeground>01</UIForeground>」來設定是否自動加入新人頻道。"
-77,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_144","另外，也可以通過點選訊息欄下方的小樹苗圖示，
+77,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_144","另外，也可以透過點選訊息欄下方的小樹苗圖示，
 打開「新人頻道參加名單」，選擇參加或退出新人頻道。"
 78,"TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_150","想要成為指導者，
 不僅要擁有豐富的冒險經驗與知識，
@@ -207,14 +207,14 @@ int32,str,str
 便可以參加「<Sheet(ContentRoulette,9,0)/>」。"
 99,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_175","可以使用文字指令「<UIForeground>F20222</UIForeground>/加入新人頻道 開<UIForeground>01</UIForeground>」和
 「<UIForeground>F20222</UIForeground>/加入新人頻道 關<UIForeground>01</UIForeground>」來設定是否自動加入新人頻道。"
-100,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_176","另外，也可以通過點選訊息欄下方的小樹苗圖示，
+100,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_176","另外，也可以透過點選訊息欄下方的小樹苗圖示，
 打開「新人頻道參加名單」，選擇參加或退出新人頻道。"
 101,"TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_250","成為指導者的冒險者需要定期來重新接受資格認證。
 畢竟對於指導者的能力要求，總是日新月異地不斷變化。"
 102,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_251","指導者的認證條件會定期進行更新。
 在認證條件變更時，將會設有指導者資格更新期。"
 103,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_252","在認證條件變更前獲得了認證的指導者
-可以在更新期內通過冒險者指導教官再次進行認證，
+可以在更新期內透過冒險者指導教官再次進行認證，
 認證後便可繼續擁有指導者資格。"
 104,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_253","此外，如果不重新進行指導者認證，
 將會在更新期結束後失去指導者資格，
@@ -251,7 +251,7 @@ int32,str,str
 118,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_302","狀態為「回歸者」的玩家的名字旁，
 會顯示「<Gui(95)/>」的標誌。"
 119,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_303","回歸者和新人被賦予同樣的效果，
-可以通過指導者加入新人頻道，
+可以透過指導者加入新人頻道，
 或享受經驗值加成。"
 120,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_304","另外，「回歸者」的線上狀態在設定後
 遊戲時間超過72個小時（地球時間）會自動解除。"

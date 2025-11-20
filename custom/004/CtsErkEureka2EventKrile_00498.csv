@@ -31,7 +31,7 @@ int32,str,str
 只不過，我想告訴你們的情報中
 有一點是比較值得在意的。"
 13,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_EJIKATSUNJIKA_000_033","總部塔的魔法障壁從內部受到了負荷。
-雖然從遠距離進行的測定，
+雖然從遠距離進行的測量，
 精度不是很高，但應該是沒錯的。"
 14,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_KRILE_000_034","也就是說，那個障壁與其說是對付外敵的防禦手段，
 更像是用來鎮壓內部某種「東西」的……
@@ -140,10 +140,10 @@ int32,str,str
 明顯是有什麼人從外部進行過干涉，
 我發現了內含的乙太被抽出過的痕跡。"
 56,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_Q2_000_000","要說什麼？"
-57,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_A2_000_001","是神秘男子乾的？"
+57,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_A2_000_001","是神秘男子做的？"
 58,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_A2_000_002","……"
 59,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_KRILE_000_180","我覺得很有可能。
-只不過現在沒有證據，所以無法斷言就是……"
+只不過現在沒有證據，所以無法確定就是……"
 60,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_KRILE_000_190","抱歉，現在情報確實是太少了呢。
 到底是誰出於何種目的在做這種事呢，
 我也無法明確地作出判斷……"
@@ -162,7 +162,7 @@ int32,str,str
 就麻煩你前去調查，並回收魔素石了。"
 66,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_KRILE_000_260","歡迎回來！
 看來你……沒有受什麼重傷呢。
-太好了，我還有點擔心來著。"
+太好了，我還有點擔心的說。"
 67,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_KRILE_000_261","其實在你前往地脈結節點的這段期間，
 地脈的變化量突然減少了，
 反應也從魔素石變成了枯竭魔素石。"
@@ -177,7 +177,7 @@ int32,str,str
 爺爺……封印……善良的傳承者……鬥神……
 讓流向逆轉……"
 72,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_KRILE_000_271","嗯——抱歉，再給我點時間……
-現在有點暈頭轉向，沒法很好地整理情報……"
+現在有點暈頭轉向，無法很好地整理情報……"
 73,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_SYSTEM_000_272","想要推進下一階段的劇情，
 需要將元素等級提升到29級。"
 74,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_KRILE_000_280","……是不是讓你等太久了呀？
@@ -203,11 +203,11 @@ int32,str,str
 81,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_KRILE_000_311","既然這樣，我倒是想聽聽艾吉卡的見解……
 可是偏偏在需要他的時候，他卻總是不在啊！"
 82,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_KRILE_000_312","十分抱歉，麻煩你在探索的時候順便尋找一下艾吉卡好嗎？
-我想他應該是到牛魔盆景去調查了……"
+我想他應該是到米諾陶洛斯盆景去調查了……"
 83,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_KRILE_000_313","你要是找到他，就把事情給他說明一下。
 反正艾吉卡肯定會很得意地把他的高見講給你聽的。"
 84,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_KRILE_000_320","就算是順便啦，麻煩你在探索的時候尋找一下艾吉卡好嗎？
-我想他應該是到牛魔盆景去調查了……"
+我想他應該是到米諾陶洛斯盆景去調查了……"
 85,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_KRILE_000_370","探索辛苦你了！
 怎麼樣，找到艾吉卡了嗎？"
 86,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_KRILE_000_371","那個……原來如此，是原型乙太之光啊。

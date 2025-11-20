@@ -24,7 +24,7 @@ int32,str,str
 就讓我在此寫一首詩，獻給那逝去的女孩吧……"
 10,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_004","「慈母盼女睜開眼，請神顯靈許下願。
 美神治好女兒身，逝去之魂卻難還。」"
-11,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_005","「慈母想念女笑顏，祈求神靈來實現。
+11,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_005","「慈母想念女笑容，祈求神靈來實現。
 美神令母墜夢間，沉淪虛幻度餘年。」"
 12,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_006","……就是這種感覺吧。
 不知它是否喚醒了你心中悲傷的回憶。
@@ -46,7 +46,7 @@ int32,str,str
 19,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_024","「西海英雄受挑戰，齊聚東海來應戰。
 白劍高舉臨陣前，管你神佛一樣撼。」"
 20,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_025","如何，是不是把須佐之男的悍勇表現得淋漓盡致？
-我還通過自己的想像將其修飾了一番，
+我還透過自己的想像將其修飾了一番，
 你有時間的話可以再去回顧一下當時的激戰。"
 21,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_026","……啥？我改的有點太誇張了？
 沒事沒事，誇張點演出來觀眾才高興！"
@@ -55,7 +55,7 @@ int32,str,str
 24,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_031","神龍……被冠以「神」字為名的龍嗎……
 為阿拉米格捐軀的有志之士們臨終時的絕望化作了這一蠻神，
 他們渴望著能夠毀滅加雷馬帝國的強大力量……"
-25,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_032","但這份力量卻最終落入敵手，和那個只有通過性命相搏才能
+25,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_032","但這份力量卻最終落入敵手，和那個只有透過性命相搏才能
 理解他人的可悲男人——芝諾斯·耶·加爾烏斯一起，
 以最強敵人的身份阻擋了你收復阿拉米格的腳步。"
 26,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_033","「一男一心念救國，多年尋覓終得果。
@@ -77,7 +77,7 @@ int32,str,str
 無論你是知道些什麼還是什麼都不知道，
 第七靈災的真相都不是我應該去探究的。"
 34,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_043","哈哈，很意外？
-其實有時候不去觸及真相，而是去自由暢想，
+其實有時候不去觸及真相，而是去自由構想，
 反而更加能醞釀心中的詩意。"
 35,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_044","比如說，如果龍神巴哈姆特在不為人知的地方
 復活了的話會怎麼樣呢？
@@ -85,7 +85,7 @@ int32,str,str
 36,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_045","「破月而出的災禍之龍，為獲新生而沉眠地底。
 追尋真相的勇敢之士，與龍之使者不期邂逅。」"
 37,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_046","「光之戰士被星球指引，甘冒大風險入侵地底。
-獲知真相瞭解真源後，英勇行下屠龍壯舉矣。」"
+獲知真相了解真源後，英勇行下屠龍壯舉矣。」"
 38,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_047","曾經威脅到整個星球的恐怖龍神與無名英雄在暗中殊死搏鬥……
 這個題材在黃金港一定備受歡迎。"
 39,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_048","哈哈，比起沉悶的真相，人們總是更喜歡從幻想中尋找震撼。
@@ -144,7 +144,7 @@ int32,str,str
 只為復仇而活的夜露請到自己身上的蠻神嗎……"
 64,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_082","我倒是聽說過從前多瑪代理總督夜露的種種暴政、惡行，
 卻沒想到她有著如此悲傷的背景。
-只看歷史表面可真是沒法瞭解這些背後的東西。"
+只看歷史表面可真是無法了解這些背後的東西。"
 65,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_083","她未選擇重獲新生在多瑪做一個普通人，
 而是決定背負自己的罪孽片片凋零。
 ……那麼，請你聆聽吧，這就是我為她創作的哀傷短歌。"
@@ -154,7 +154,7 @@ int32,str,str
 67,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_084","「弦月懸夜空 潔白花朵綻月下 靜謐放芳華
 奈何幽怨噬人心 凋零墜入黃泉下」"
 68,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_085","她戴在頭上的月下美人，
-是一種註定只能綻放一夜就會凋零的哀傷之花……
+是一種注定只能綻放一夜就會凋零的哀傷之花……
 也許她是用它替代彼岸花為自己送行吧。"
 69,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_086","夜露的屢屢罪行確實無法被寬恕，
 但誰都不是天生就是惡人，
@@ -205,7 +205,7 @@ int32,str,str
 91,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_117","啊，所謂短歌就是遠東之國傳統的詩句。
 這是無地鼓座的人們教我的，
 我還不是很熟練，你聽了別笑我哦？"
-92,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_118","「縱魂已不凈 心中魂河仍長青 奔流未曾停
+92,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_118","「縱魂已不淨 心中魂河仍長青 奔流未曾停
 此身化鬼亦無畏 唯有誓言留我心」"
 93,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_119","世上雖然留存著有關青龍的傳說，
 但和其他四聖獸相比，其真實面目依然充滿謎團。"
@@ -220,11 +220,11 @@ int32,str,str
 97,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_123","要是你又經歷了什麼不可思議的事情，一定要告訴我。
 從今以後我也會繼續傳唱你的故事。"
 98,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_130","哦？你要跟我講述「亞歷山大」的事情嗎？
-它好像是龍堡內陸低地地區的一座機械城堡啊？"
+它好像是德拉瓦尼亞河谷地地區的一座機械城堡啊？"
 99,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_131","等等……在某個遙遠世界光輝高塔的最深處，
 我彷彿也朦朧地見過它的身影……那是夢境嗎？
 總之你講給我聽聽吧。"
-100,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_132","龍堡之地位於砂利亞克河的河畔，
+100,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_132","德拉瓦尼亞之地位於沙利亞克河的河畔，
 這對於黃金港的人們來說恐怕就如同時光的彼岸般遙遠吧。"
 101,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_133","但居住在草原的暮暉之民當中，
 有的部族好像也流傳著有關「金屬的巨人」的傳說……

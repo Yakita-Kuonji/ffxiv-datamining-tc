@@ -139,7 +139,7 @@ int32,str,str
 對了，<Highlight>ObjectParameter(1)</Highlight>閣下，你先留下。"
 89,"TEXT_STMBDA602_02528_CONRAD_000_227","我想要拜託你去找一下筆記上記的這3個人。
 雖然你現在應該是救人心切，
-不過這也關係到解放軍的將來，還望拜託了。"
+不過這也關係到解放軍的將來，還請拜託了。"
 90,"TEXT_STMBDA602_02528_CONRAD_000_228","我就在這裡等你，
 到時候再來找我就行。
 抱歉，麻煩你了。"
@@ -147,7 +147,7 @@ int32,str,str
 92,"TEXT_STMBDA602_02528_ALAMHIGAN02528_000_230","嗯……是<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If><Else/></If><Else/></If>啊！
 能夠見到艾奧傑亞首屈一指的猛將，
 真是我的榮幸！"
-93,"TEXT_STMBDA602_02528_ALAMHIGAN02528_000_231","我之前一直在烏爾達哈流民街生活來著。
+93,"TEXT_STMBDA602_02528_ALAMHIGAN02528_000_231","我之前一直在烏爾達哈流民街生活著。
 在聽說了你的事蹟之後，便志願加入了不滅隊。
 現在擔任支援解放軍的任務。"
 94,"TEXT_STMBDA602_02528_ALAMHIGAN02528_000_232","我聽說將要展開一場大型作戰，簡直正合我意！
@@ -178,7 +178,7 @@ int32,str,str
 不過除此之外，還有一個原因……"
 104,"TEXT_STMBDA602_02528_CONRAD_000_262","20年來，選擇拿起武器戰鬥，
 留在基拉巴尼亞的魯加族戰士……"
-105,"TEXT_STMBDA602_02528_CONRAD_000_263","曾一度逃亡到巴艾薩長城另一側，
+105,"TEXT_STMBDA602_02528_CONRAD_000_263","曾一度逃亡到巴埃薩長城另一側，
 最終選擇加入了大國防聯軍的士官……"
 106,"TEXT_STMBDA602_02528_CONRAD_000_264","雙親逃往小阿拉米格，
 自己則出生在薩納蘭的新一代阿拉米格年輕人……

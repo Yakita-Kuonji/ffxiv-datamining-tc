@@ -75,7 +75,7 @@ int32,str,str
 因為這次只是練習，所以你鑲嵌哪種都可以。"
 58,"TEXT_CLSGLD200_00615_SERENDIPITY_000_12","如果你對魔晶石有什麼疑問的話，
 可以去中薩納蘭的「狼煙丘」。
-那裡住著對魔晶石非常瞭解的工匠。"
+那裡住著對魔晶石非常了解的工匠。"
 59,"TEXT_CLSGLD200_00615_SERENDIPITY_000_13","那麼就請你在<Sheet(Item,2111,0)/>上鑲嵌一塊魔晶石吧。
 我等著你！"
 60,"TEXT_CLSGLD200_00615_SERENDIPITY_000_14","<Highlight>ObjectParameter(1)</Highlight>，怎麼樣？
@@ -86,7 +86,7 @@ int32,str,str
 62,"TEXT_CLSGLD200_00615_GIGI_000_16","……這是啥！相當不錯嘛！
 你這貨、是把頭蓋骨、敲破
 往腦漿裡、鑲了塊魔晶石嗎？！"
-63,"TEXT_CLSGLD200_00615_SERENDIPITY_000_17","涅吉，你淡定些！言辭太粗暴了！
+63,"TEXT_CLSGLD200_00615_SERENDIPITY_000_17","涅吉，你冷靜點！言辭太粗暴了！
 你、你不要介意啊！
 他這是在誇你呢！"
 64,"TEXT_CLSGLD200_00615_SERENDIPITY_000_18","看來你成功完成魔晶石的鑲嵌了。

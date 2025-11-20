@@ -32,7 +32,7 @@ int32,str,str
 26,"TEXT_KINGLA305_04986_TODO_02","和謝榮加對話"
 27,"TEXT_KINGLA305_04986_TODO_03","和哈雷納魯坷對話"
 28,"TEXT_KINGLA305_04986_TODO_04","再次和哈雷納魯坷對話"
-29,"TEXT_KINGLA305_04986_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))><WARNING: unknown macro code ('chsCraftTodoMessage70')>製作<Sheet(ItemHQ,43911,0)/><Else/>將<Sheet(ItemHQ,43911,0)/>交給謝榮加</If>"
+29,"TEXT_KINGLA305_04986_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 珠串萬貨街交易：製作<Sheet(ItemHQ,43911,0)/><Else/>將<Sheet(ItemHQ,43911,0)/>交給謝榮加</If>"
 30,"TEXT_KINGLA305_04986_TODO_06","和圖萊尤拉的謝榮加對話"
 31,"TEXT_KINGLA305_04986_TODO_07",""
 32,"TEXT_KINGLA305_04986_TODO_08",""
@@ -121,7 +121,7 @@ int32,str,str
 80,"TEXT_KINGLA305_04986_XEEROLJA_000_050","抱歉，我來遲了。
 <Highlight>ObjectParameter(1)</Highlight>，你那邊打聽到什麼了嗎？"
 81,"TEXT_KINGLA305_04986_XEEROLJA_000_051","原來這些人氣飲品的製作方法還有這樣的歷史，
-我雖然開果汁店，但並沒有瞭解這麼多，真是有趣。"
+我雖然開果汁店，但並沒有了解這麼多，真是有趣。"
 82,"TEXT_KINGLA305_04986_XEEROLJA_000_052","（★未使用／削除予定★）"
 83,"TEXT_KINGLA305_04986_XEEROLJA_000_053","但知道了這麼多，反而有點不知所措了。
 我們到底要做出什麼樣的果汁才能得到佩魯佩魯族的認可呢……"
@@ -156,9 +156,9 @@ int32,str,str
 之前說 力量不足 但謝榮加 很棒了！"
 100,"TEXT_KINGLA305_04986_XEEROLJA_000_084","……力量不足，並不是知識方面的事。"
 101,"TEXT_KINGLA305_04986_XEEROLJA_000_085","我們布涅瓦族大多天生擁有強大的魔力，使用魔法得心應手。
-但我卻是異類，魔力低下，根本沒法使用魔法。"
+但我卻是異類，魔力低下，根本無法使用魔法。"
 102,"TEXT_KINGLA305_04986_XEEROLJA_000_086","咒術醫的治療術由藥物與魔法組合而成。
-只擅長其中一種，是沒法成為咒術醫的……
+只擅長其中一種，是無法成為咒術醫的……
 就算我再怎麼不甘心，也沒有辦法。"
 103,"TEXT_KINGLA305_04986_XEEROLJA_000_088","知道我無法成為咒術醫後，
 家人眼中的期待也變成了失望……
@@ -232,7 +232,7 @@ int32,str,str
 我……不，我們製作的果汁確實對大家的健康有益，我很開心。
 這一點是無可辯駁的事實。"
 137,"TEXT_KINGLA305_04986_XEEROLJA_000_126","身為布涅瓦族卻魔力低下，我一直深感自己無用。
-這種情緒可能沒法一下子就消解……"
+這種情緒可能無法一下子就消解……"
 138,"TEXT_KINGLA305_04986_XEEROLJA_100_126","但是你們這樣鼓勵我，我不想辜負你們的用心。
 今後可以請你們繼續幫我嗎？"
 139,"TEXT_KINGLA305_04986_XEEROLJA_000_127","謝謝你們……
@@ -250,7 +250,7 @@ int32,str,str
 144,"TEXT_KINGLA305_04986_XEEROLJA_000_142","到時候免不了還要你幫忙，
 還請你務必出手相助。"
 145,"TEXT_KINGLA305_04986_XEEROLJA_000_143","我是謝榮加鮮榨果藝的店主。
-如今已經掃清了迷茫，該為客人們盡力了！"
+如今已經清理了迷茫，該為客人們盡力了！"
 146,"TEXT_KINGLA305_04986_SYSTEM_000_144","鍊金術師或烹調師的等級達到98級以上時，
 可以從珠串萬貨街的謝榮加那裡領取下一個任務。"
 147,"TEXT_KINGLA305_04986_SYSTEM_000_145","若要領取或繼續推進下一個任務，

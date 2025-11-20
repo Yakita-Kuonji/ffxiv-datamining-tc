@@ -33,7 +33,7 @@ int32,str,str
 23,"TEXT_FESHLW003_01165_SEQ_23","無"
 24,"TEXT_FESHLW003_01165_TODO_00","變裝後和鬼祟的旅行藝人對話"
 25,"TEXT_FESHLW003_01165_TODO_01","變裝後對新街的<Sheet(EObj,2002762,0)/>使用<Sheet(EventItem,2000048,0)/> 點燃燈火"
-26,"TEXT_FESHLW003_01165_TODO_02","變裝後對舊城區的<Sheet(EObj,2002762,0)/>使用<Sheet(EventItem,2000048,0)/> 點燃燈火"
+26,"TEXT_FESHLW003_01165_TODO_02","變裝後對舊街的<Sheet(EObj,2002762,0)/>使用<Sheet(EventItem,2000048,0)/> 點燃燈火"
 27,"TEXT_FESHLW003_01165_TODO_03","變裝後和團長對話"
 28,"TEXT_FESHLW003_01165_TODO_04","無"
 29,"TEXT_FESHLW003_01165_TODO_05","無"
@@ -72,7 +72,7 @@ int32,str,str
 53,"TEXT_FESHLW003_01165_IMPA_000_010","你想點燃燈籠嗎？
 那麼就拿好這個<Sheet(EventItem,2000048,0)/>。"
 54,"TEXT_FESHLW003_01165_IMPA_000_011","沒點燃的燈籠共有5個。
-披著亡靈的衣服，到處轉轉，慢慢找吧……嘻嘻！"
+披著亡靈的衣服，到處逛逛，慢慢找吧……嘻嘻！"
 55,"TEXT_FESHLW003_01165_IMPA_000_019","哎呀，你把<Sheet(Item,6108,0)/>脫掉了嗎？
 沒有變裝的人是不能來領<Sheet(EventItem,2000048,0)/>的哦。"
 56,"TEXT_FESHLW003_01165_IMPA_000_030","(-鬼祟的旅行藝人的聲音-)不行不行，告訴過你要變裝起來。

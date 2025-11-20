@@ -18,7 +18,7 @@ int32,str,str
 12,"TEXT_CMNDEFWEDDINGRECOVERY_00214_A2_100_035","想要取消典禮"
 13,"TEXT_CMNDEFWEDDINGRECOVERY_00214_A2_000_036","取消"
 14,"TEXT_CMNDEFWEDDINGRECOVERY_00214_DEACON00214_000_050","永結同心典禮是神聖的儀式，
-人們在十二神大聖堂通過交換戒指，宣誓結下永結同心的誓約……
+人們在十二神大聖堂透過交換戒指，宣誓結下永結同心的誓約……
 因此，二位新人互贈的戒指是不可或缺的。"
 15,"TEXT_CMNDEFWEDDINGRECOVERY_00214_DEACON00214_000_051","在舉辦典禮時，
 還請二位新人每人準備一枚戒指。
@@ -28,7 +28,7 @@ int32,str,str
 成品需要二位在加深兩人羈絆的同時，付出精力去完成。"
 17,"TEXT_CMNDEFWEDDINGRECOVERY_00214_DEACON00214_000_053","那麼我就來講解具體如何完成戒指的準備。
 首先需要各自製作、或是購買<Sheet(Item,8697,0)/>，
-然後交給金工匠進行加工……"
+然後交給金工師進行加工……"
 18,"TEXT_CMNDEFWEDDINGRECOVERY_00214_DEACON00214_000_054","另外，兩位新人還需要經歷一個小小的考驗。
 那就是二人一起奔赴艾奧傑亞各地進行巡禮，
 讓戒指接受眾神的祝福……"
@@ -120,7 +120,7 @@ int32,str,str
 但若能全員在開場時集合統一入場那就更好了。"
 52,"TEXT_CMNDEFWEDDINGRECOVERY_00214_SYSTEM_000_087","參加典禮的來賓，
 可以去聽艾圖瓦妮勒講解「來賓指南」，
-瞭解有關典禮的流程等。"
+了解有關典禮的流程等。"
 53,"TEXT_CMNDEFWEDDINGRECOVERY_00214_SYSTEM_000_088","此外，製作請帖次數是有限制的。
 不管是哪種方案，一人只能邀請40人，總計80人。"
 54,"TEXT_CMNDEFWEDDINGRECOVERY_00214_DEACON00214_000_090","那麼我來介紹一下典禮當天的流程……"
@@ -252,7 +252,7 @@ int32,str,str
 114,"TEXT_CMNDEFWEDDINGRECOVERY_00214_A8_100_206","是"
 115,"TEXT_CMNDEFWEDDINGRECOVERY_00214_A8_100_207","否"
 116,"TEXT_CMNDEFWEDDINGRECOVERY_00214_DEACON00214_000_210","那麼，返還的手續已經辦好了……
-願十二神喚回您的笑顏，再會。"
+願十二神喚回您的笑容，再會。"
 117,"TEXT_CMNDEFWEDDINGRECOVERY_00214_DEACON00214_000_220","十分抱歉……
 在典禮結束後的一段時間內是無法返還<Sheet(Item,8575,0)/>的。
 如果經過一段時間後您還沒有改變想法，請再過來找我。"
@@ -262,7 +262,7 @@ int32,str,str
 119,"TEXT_CMNDEFWEDDINGRECOVERY_00214_SYSTEM_000_222","無法繼續辦理返還<Sheet(Item,8575,0)/>的手續。
 原因可能為目前<Sheet(Item,8575,0)/>正處於裝備中，或存放在僱員處等。"
 120,"TEXT_CMNDEFWEDDINGRECOVERY_00214_DEACON00214_000_240","如果您因為重複獲取了誓言手鐲等原因，
-而無法繼續進行典禮儀式併為此苦惱……
+而無法繼續進行典禮儀式並為此苦惱……
 就將不需要的手鐲交給我吧，我會為您處理。"
 121,"TEXT_CMNDEFWEDDINGRECOVERY_00214_SYSTEM_100_240","當申請了2次以上永結同心的服務並無法處理掉多餘手鐲時，
 可以利用此處的誓言手鐲的處理功能。"

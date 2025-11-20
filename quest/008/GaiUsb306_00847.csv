@@ -1,12 +1,12 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_GAIUSB306_00847_SEQ_00","斷絃亭的德雷斯特，想委託給冒險者一份工作。"
-1,"TEXT_GAIUSB306_00847_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整。建議放棄本任務，前往斷絃亭找德雷斯特重新領取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+0,"TEXT_GAIUSB306_00847_SEQ_00","斷弦亭的德雷斯特，想委託給冒險者一份工作。"
+1,"TEXT_GAIUSB306_00847_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整。建議放棄本任務，前往斷弦亭找德雷斯特重新領取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 ※接下來的主線任務可以在主線導覽中進行確認。在設定選單的系統中可以找到角色設定，打開角色設定後，在介面設定的介面選項中可以顯示或隱藏主線導覽。"
-2,"TEXT_GAIUSB306_00847_SEQ_02","獲得了<Sheet(EventItem,2000656,0)/>。將其交給斷絃亭的德雷斯特。"
-3,"TEXT_GAIUSB306_00847_SEQ_03","德雷斯特的故鄉是加雷馬帝國的行省之一，他是在那裡被徵兵的。他也是戰爭的受害者……"
+2,"TEXT_GAIUSB306_00847_SEQ_02","獲得了<Sheet(EventItem,2000656,0)/>。將其交給斷弦亭的德雷斯特。"
+3,"TEXT_GAIUSB306_00847_SEQ_03","德雷斯特的故鄉是加雷馬帝國的屬州之一，他是在那裡被徵兵的。他也是戰爭的受害者……"
 4,"TEXT_GAIUSB306_00847_SEQ_04","無"
 5,"TEXT_GAIUSB306_00847_SEQ_05","無"
 6,"TEXT_GAIUSB306_00847_SEQ_06","無"
@@ -28,9 +28,9 @@ int32,str,str
 22,"TEXT_GAIUSB306_00847_SEQ_22","無"
 23,"TEXT_GAIUSB306_00847_SEQ_23","無"
 24,"TEXT_GAIUSB306_00847_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整 建議放棄本任務
-前往斷絃亭找德雷斯特重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+前往斷弦亭找德雷斯特重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 25,"TEXT_GAIUSB306_00847_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整 建議放棄本任務
-前往斷絃亭找德雷斯特重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+前往斷弦亭找德雷斯特重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSB306_00847_TODO_02","無"
 27,"TEXT_GAIUSB306_00847_TODO_03","無"
 28,"TEXT_GAIUSB306_00847_TODO_04","無"
@@ -58,7 +58,7 @@ int32,str,str
 總有一天我要回去見他們……所以我才逃跑了……"
 49,"TEXT_GAIUSB306_00847_DREST_000_001","你能把<Sheet(EventItem,2000656,0)/>……
 拿來嗎……我想要賺錢……
-若想回故鄉……回達爾馬斯卡的話，我需要旅費……"
+若想回故鄉……回達瑪斯卡的話，我需要旅費……"
 50,"TEXT_GAIUSB306_00847_DUMMY_000_010","討伐4隻叢林夸爾並獲得<Sheet(EventItem,2000656,0)/>"
 51,"TEXT_GAIUSB306_00847_DREST_000_020","……你拿來……毛皮了嗎？
 這是我……活下去的希望……"
@@ -69,7 +69,7 @@ int32,str,str
 那場撤退戰猶如惡夢一般……不，那根本就是一場惡夢。
 飲泥漿、吃昆蟲……只有我一個人活了下來。"
 54,"TEXT_GAIUSB306_00847_DREST_000_033","這到底是為了什麼？！我並不是純粹的帝國市民！
-我的故鄉達爾馬斯卡只是帝國的行省之一！
+我的故鄉達瑪斯卡只是帝國的屬州之一！
 我對艾奧傑亞沒有半點仇恨……"
 55,"TEXT_GAIUSB306_00847_DREST_000_034","無冤無仇的雙方在一起廝殺……
 如果這就是戰爭的話！那這個世界真是瘋狂了……"

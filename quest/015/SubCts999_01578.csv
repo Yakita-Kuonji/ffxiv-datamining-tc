@@ -18,13 +18,13 @@ int32,str,str
 4,"TEXT_SUBCTS999_01578_SEQ_04","將<Sheet(Item,8697,0)/>交給了傑麥姆。刻上刻印的戒指變化成為了<Sheet(EventItem,2001353,0)/>。讓十二神大聖堂的企劃人克拉麗貝爾查看戒指，詢問接下來的流程。
 
 ※不需要以2人小隊的狀態進行。"
-5,"TEXT_SUBCTS999_01578_SEQ_05","讓克拉麗貝爾查看了<Sheet(EventItem,2001353,0)/>。據她所說，接下來需要效仿為祈求安寧而巡禮的做法，向十二神秘石獻上祈禱，讓戒指接受眾神的祝福。首先朝拜黑衣森林的秘石。前往格里達尼亞舊城區的豐饒神祭壇，向<Sheet(EObj,2004588,0)/>獻上祈禱；前往南部林區的恬靜路營地西北邊，向<Sheet(EObj,2004589,0)/>獻上祈禱；同樣在南部林區的無限城古堡西邊，向<Sheet(EObj,2004590,0)/>獻上祈禱。
+5,"TEXT_SUBCTS999_01578_SEQ_05","讓克拉麗貝爾查看了<Sheet(EventItem,2001353,0)/>。據她所說，接下來需要效仿為祈求安寧而巡禮的做法，向十二神秘石獻上祈禱，讓戒指接受眾神的祝福。首先朝拜黑衣森林的秘石。前往格里達尼亞舊街的豐饒神祭壇，向<Sheet(EObj,2004588,0)/>獻上祈禱；前往南部林區的恬靜路營地西北邊，向<Sheet(EObj,2004589,0)/>獻上祈禱；同樣在南部林區的無限城古堡西邊，向<Sheet(EObj,2004590,0)/>獻上祈禱。
 
 ※雙方組成2人小隊並同時裝備誓言手鐲，對秘石做情感動作「祈禱」。"
 6,"TEXT_SUBCTS999_01578_SEQ_06","向秘石獻上了祈禱，接受了3位神靈的祝福。接下來朝拜拉諾西亞的秘石。前往利姆薩·羅敏薩上層甲板的錨場，向<Sheet(EObj,2004591,0)/>獻上祈禱；前往拉諾西亞低地的莫拉比造船廠南邊，向<Sheet(EObj,2004592,0)/>獻上祈禱；前往拉諾西亞外地的地靈軍試掘地南邊，向<Sheet(EObj,2004593,0)/>獻上祈禱。
 
 ※雙方組成2人小隊並同時裝備誓言手鐲，對秘石做情感動作「祈禱」。"
-7,"TEXT_SUBCTS999_01578_SEQ_07","向秘石獻上了祈禱，目前已經接受了6位神靈的祝福。接下來朝拜薩納蘭的秘石。前往烏爾達哈現世迴廊的阿達內斯聖櫃堂，向<Sheet(EObj,2004594,0)/>獻上祈禱；前往南薩納蘭的小阿拉米格，向<Sheet(EObj,2004595,0)/>獻上祈禱；前往東薩納蘭的最終祈禱紀念地，向<Sheet(EObj,2004596,0)/>獻上祈禱。
+7,"TEXT_SUBCTS999_01578_SEQ_07","向秘石獻上了祈禱，目前已經接受了6位神靈的祝福。接下來朝拜薩納蘭的秘石。前往烏爾達哈現世回廊的阿達內斯聖櫃堂，向<Sheet(EObj,2004594,0)/>獻上祈禱；前往南薩納蘭的小阿拉米格，向<Sheet(EObj,2004595,0)/>獻上祈禱；前往東薩納蘭的最終祈禱紀念地，向<Sheet(EObj,2004596,0)/>獻上祈禱。
 
 ※雙方組成2人小隊並同時裝備誓言手鐲，對秘石做情感動作「祈禱」。"
 8,"TEXT_SUBCTS999_01578_SEQ_08","向秘石獻上了祈禱，目前已經接受了9位神靈的祝福。接下來朝拜庫爾札斯中央高地的秘石。前往戰神眼，向<Sheet(EObj,2004597,0)/>獻上祈禱；前往鋼衛塔西北邊，向<Sheet(EObj,2004598,0)/>獻上祈禱。
@@ -95,7 +95,7 @@ int32,str,str
 48,"TEXT_SUBCTS999_01578_CLARIBEL_000_000","歡迎您，<Highlight>ObjectParameter(1)</Highlight>！
 我叫克拉麗貝爾，是「永結同心典禮」的企劃人，
 會為您的典禮貢獻一份綿薄之力。"
-49,"TEXT_SUBCTS999_01578_CLARIBEL_000_001","我的職責就是讓命中註定的二人走到一起。
+49,"TEXT_SUBCTS999_01578_CLARIBEL_000_001","我的職責就是讓命中注定的二人走到一起。
 宣誓要相伴終生的伴侶會在眾神和親友的見證下舉行永結同心典禮。
 你們是想要舉行這個典禮嗎？"
 50,"TEXT_SUBCTS999_01578_SYSTEM_000_002","本任務為「永結同心」的相關任務。"
@@ -223,7 +223,7 @@ int32,str,str
 103,"TEXT_SUBCTS999_01578_SYSTEM_000_065","學會了情感動作「深情擁抱」！"
 104,"TEXT_SUBCTS999_01578_SYSTEM_000_067","開放了新髮型。
 開放美容師功能後即可打造新的髮型。"
-105,"TEXT_SUBCTS999_01578_SYSTEM_050_067","不過硌獅族與維埃拉族暫時無法選擇相應的髮型。
+105,"TEXT_SUBCTS999_01578_SYSTEM_050_067","不過硌獅族與維艾拉族暫時無法選擇相應的髮型。
 預定之後會進行更新。"
 106,"TEXT_SUBCTS999_01578_SYSTEM_100_067","另外如果想將從典禮商人處領取的燕尾禮服換成典禮紗裙，
 或者想將典禮紗裙換成燕尾禮服的話，
@@ -273,11 +273,11 @@ int32,str,str
 123,"TEXT_SUBCTS999_01578_JEMIME_000_140","讓你久等了，
 <Sheet(Item,8697,0)/>已經加工好了。"
 124,"TEXT_SUBCTS999_01578_JEMIME_000_141","這十二神之名的刻印精美非常，
-連加工的工匠都讚歎不已呢！
+連加工的工匠都讚嘆不已呢！
 你是怎麼得到的這枚戒指呢？"
 125,"TEXT_SUBCTS999_01578_Q2_000_142","<Sheet(Item,8697,0)/>是怎麼得到的？"
 126,"TEXT_SUBCTS999_01578_A2_000_143","自己製作的"
-127,"TEXT_SUBCTS999_01578_A2_000_144","拜託熟人制作的"
+127,"TEXT_SUBCTS999_01578_A2_000_144","拜託熟人製作的"
 128,"TEXT_SUBCTS999_01578_A2_000_145","存錢買的"
 129,"TEXT_SUBCTS999_01578_A2_000_146","這是個秘密"
 130,"TEXT_SUBCTS999_01578_JEMIME_000_150","簡直太浪漫了！
@@ -329,7 +329,7 @@ int32,str,str
 漸漸地建立了深厚的感情，且堅定不可動搖！"
 149,"TEXT_SUBCTS999_01578_CLARIBEL_000_209","要說巡禮聖地、向眾神祈禱的那兩個人最後怎麼樣啊……
 呵呵……等你們二位結束這段旅程後再告訴你們！"
-150,"TEXT_SUBCTS999_01578_CLARIBEL_000_210","現如今，人們也像是在效仿這段佳話似的，
+150,"TEXT_SUBCTS999_01578_CLARIBEL_000_210","現在，人們也像是在效仿這段佳話似的，
 開始自發朝拜這十二神秘石。
 或許是這跨越時空的情景再現，發生得如奇蹟般偶然……"
 151,"TEXT_SUBCTS999_01578_CLARIBEL_000_211","大聖堂的主教們認為，
@@ -362,7 +362,7 @@ int32,str,str
 寄宿了微弱的光芒！"
 163,"TEXT_SUBCTS999_01578_CLARIBEL_000_370","看來您的巡禮進展得很順利嘛！
 按照地圖上的標記來看，接下來的目的地是拉諾西亞的3塊秘石！"
-164,"TEXT_SUBCTS999_01578_SYSTEM_000_380","<Sheet(EventItem,2001353,0)/>獲得了海之女神莉姆蓮的祝福，
+164,"TEXT_SUBCTS999_01578_SYSTEM_000_380","<Sheet(EventItem,2001353,0)/>獲得了海之女神利姆萊茵的祝福，
 寄宿了神奇的光芒！"
 165,"TEXT_SUBCTS999_01578_SYSTEM_000_400","<Sheet(EventItem,2001353,0)/>獲得了行星神妮美雅的祝福，
 寄宿了神奇的光芒！"
@@ -380,14 +380,14 @@ int32,str,str
 171,"TEXT_SUBCTS999_01578_CLARIBEL_000_490","還差一點就要完成巡禮了呢！
 下一個目的地，就是庫爾札斯中央高地了。
 請您照著地圖尋找吧！"
-172,"TEXT_SUBCTS999_01578_SYSTEM_000_500","<Sheet(EventItem,2001353,0)/>獲得了戰神哈羅妮的祝福，
+172,"TEXT_SUBCTS999_01578_SYSTEM_000_500","<Sheet(EventItem,2001353,0)/>獲得了戰爭神哈羅妮的祝福，
 寄宿了耀眼的光芒！"
 173,"TEXT_SUBCTS999_01578_SYSTEM_000_520","<Sheet(EventItem,2001353,0)/>獲得了月亮神梅茵菲娜的祝福，
 寄宿了耀眼的光芒！"
 174,"TEXT_SUBCTS999_01578_CLARIBEL_000_530","好了……下面就剩下最後一塊秘石了！
 最後的巡禮地點就是摩杜納。
 等您巡禮結束後，還請來告訴我一下！"
-175,"TEXT_SUBCTS999_01578_SYSTEM_000_540","<Sheet(EventItem,2001353,0)/>獲得了河川神砂利亞克的祝福，
+175,"TEXT_SUBCTS999_01578_SYSTEM_000_540","<Sheet(EventItem,2001353,0)/>獲得了河川神沙利亞克的祝福，
 寄宿了溫暖的光芒！
 戒指變化成為了<Sheet(EventItem,2001473,0)/>！"
 176,"TEXT_SUBCTS999_01578_SYSTEM_000_900","選中秘石，做情感動作「祈禱」，
@@ -421,7 +421,7 @@ int32,str,str
 「人類之子是理應滅亡的，無法獲得亙古不變的感情。」"
 189,"TEXT_SUBCTS999_01578_CLARIBEL_000_586","但是，即使得不到想要的答案，兩人也依然繼續著旅程。
 手牽著手，相互支援，漸漸地，他們的感情越來越深……
-終於，兩人來到了第十二個聖地——知識神砂利亞克的聖地。"
+終於，兩人來到了第十二個聖地——知識神沙利亞克的聖地。"
 190,"TEXT_SUBCTS999_01578_CLARIBEL_000_587","而這時，他們的心中響起了嚴謹的神之聲。說：
 「答案不在我這裡……
 但你們本身就是『答案』。」"
@@ -497,7 +497,7 @@ int32,str,str
 將開始受理「下一個星期<Switch(TopLevelParameter(220))><Case(1)>日</Case><Case(2)>一</Case><Case(3)>二</Case><Case(4)>三</Case><Case(5)>四</Case><Case(6)>五</Case><Case(7)>六</Case></Switch><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點後的一週內」的預約。"
 226,"TEXT_SUBCTS999_01578_SYSTEM_100_724","因此，從預約開始到永結同心典禮的舉辦，
 最長會需要2周（地球時間）的時間。
-需要在此期間內，完成邀請友人蔘加典禮等事宜。"
+需要在此期間內，完成邀請友人參加典禮等事宜。"
 227,"TEXT_SUBCTS999_01578_SYSTEM_100_725","預約成功後，
 久遠聖堂將在你選擇的時間被包場2小時（地球時間）。
 若有其他人選擇了與你同樣的時間，將只受理先預約到的一方。"
@@ -514,7 +514,7 @@ int32,str,str
 232,"TEXT_SUBCTS999_01578_SYSTEM_101_729","此外，維護期間不能舉辦典禮。
 維護訊息請參見官方網站。"
 233,"TEXT_SUBCTS999_01578_SYSTEM_100_730","另外，可以詢問企劃人克拉麗貝爾附近的聖堂助祭，
-瞭解典禮開始前的各種詳細訊息。"
+了解典禮開始前的各種詳細訊息。"
 234,"TEXT_SUBCTS999_01578_SYSTEM_100_731","聖堂助祭會講解有關請帖的使用方法、
 更改時間（重新預約）和典禮方案的變更等。
 建議前去查看。"
@@ -641,7 +641,7 @@ int32,str,str
 299,"TEXT_SUBCTS999_01578_SYSTEM_200_950","目前，你和伴侶選擇的典禮方案不一致。
 請在典禮開始前決定採用哪個方案。"
 300,"TEXT_SUBCTS999_01578_SYSTEM_200_951","目前，典禮方案中<If(GreaterThanOrEqualTo(IntegerParameter(1),2))>有多個項目不一致。<Else/>的項目裡，
-<If(Equal(IntegerParameter(2),1))>地毯顏色<Else/></If><If(Equal(IntegerParameter(2),2))>花飾顏色<Else/></If><If(Equal(IntegerParameter(2),3))>典禮樣式<Else/></If><If(Equal(IntegerParameter(2),4))>入場方式<Else/></If><If(Equal(IntegerParameter(2),5))>退場方式<Else/></If><If(Equal(IntegerParameter(2),6))>入場前的音樂<Else/></If><If(Equal(IntegerParameter(2),7))>暢談時的音<Else/></If><If(Equal(IntegerParameter(2),8))>花束<Else/></If><If(Equal(IntegerParameter(2),9))><Sheet(Addon,1525,0)/><Else/></If><If(Equal(IntegerParameter(2),10))><Sheet(Addon,1530,0)/><Else/></If>的設定不一致。</If>"
+<If(Equal(IntegerParameter(2),1))>地毯顏色<Else/></If><If(Equal(IntegerParameter(2),2))>花飾顏色<Else/></If><If(Equal(IntegerParameter(2),3))>典禮樣式<Else/></If><If(Equal(IntegerParameter(2),4))>入場方式<Else/></If><If(Equal(IntegerParameter(2),5))>退場方式<Else/></If><If(Equal(IntegerParameter(2),6))>入場前的音樂<Else/></If><If(Equal(IntegerParameter(2),7))>暢談時的音樂<Else/></If><If(Equal(IntegerParameter(2),8))>花束<Else/></If><If(Equal(IntegerParameter(2),9))><Sheet(Addon,1525,0)/><Else/></If><If(Equal(IntegerParameter(2),10))><Sheet(Addon,1530,0)/><Else/></If>的設定不一致。</If>"
 301,"TEXT_SUBCTS999_01578_CLARIBEL_000_800","真是場美輪美奐的典禮！
 再次由衷地祝福你們。"
 302,"TEXT_SUBCTS999_01578_CLARIBEL_000_801","你們二位通過了重重考驗，

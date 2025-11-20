@@ -6,14 +6,14 @@ int32,str,str
 2,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_002","活用便利的巨集管理"
 3,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_003","標記目標"
 4,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_004","與同伴分擔職能"
-5,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_005","瞭解玩家用語"
+5,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_005","了解玩家用語"
 6,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_006","取消"
 7,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_GUIDENOTE00340_000_010","(-新人幻術士的筆記-)你好！在艾奧傑亞冒險的朋友！
 我為了你總結了很多從教官那裡學不到的小竅門，
 掌握這些竅門後可以巧加利用！"
-8,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_011","想要發動技能，除了在快捷鍵裡點選設定的圖示，
+8,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_011","想要發動技能，除了在快速鍵裡點選設定的圖示，
 還可以利用聊天輸入欄進行發動。
-比如，輸入「<UIForeground>F20222</UIForeground>/技能 治療<UIForeground>01</UIForeground>」便可發動治療。"
+比如，輸入「<UIForeground>F20222</UIForeground>/技能 療傷<UIForeground>01</UIForeground>」便可發動療傷。"
 9,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_012","除此之外，還可以指定技能的對象。
 在技能名後輸入「<UIForeground>F20222</UIForeground><me><UIForeground>01</UIForeground>」，技能的對象就是自己，
 輸入「<UIForeground>F20222</UIForeground><t><UIForeground>01</UIForeground>」，對象就是目前選中目標。"
@@ -35,9 +35,9 @@ int32,str,str
 <UIForeground>F20222</UIForeground>/最近敵人
 /轉向目標<UIForeground>01</UIForeground>"
 17,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_025","「邊使用技能，邊用小隊頻道告知隊友」
-<UIForeground>F20222</UIForeground>/隊 對<t>進行治療！
-/技能 治療 <t><UIForeground>01</UIForeground>"
-18,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_026","像這樣，可以通過巨集來簡單準確執行多個動作。
+<UIForeground>F20222</UIForeground>/隊 對<t>進行療傷！
+/技能 療傷 <t><UIForeground>01</UIForeground>"
+18,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_026","像這樣，可以透過巨集來簡單準確執行多個動作。
 多動一些腦筋就能製作出十分方便的巨集管理，請多加利用。"
 19,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_GUIDENOTE00340_000_030","(-流浪的拉拉菲爾族的筆記-)組隊戰鬥的時候，同伴間的交流十分重要。
 不過有時候光靠嘴上說是不夠的，
@@ -60,11 +60,11 @@ int32,str,str
 分別為防護職業、治療職業和進攻職業。
 在組隊時，職能起到至關重要的作用，要將其記牢。"
 27,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_042","【防護職業】指劍術士、斧術士等職業，
-其體力、防禦力都高於其他職業，十分耐打，
-可通過提高仇恨將敵人的攻擊都集中在自己身上，以此保護同伴。"
+其HP、防禦力都高於其他職業，十分耐打，
+可透過提高仇恨將敵人的攻擊都集中在自己身上，以此保護同伴。"
 28,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_043","【治療職業】指幻術士等職業，
 擁有強大的恢復技能，
-可為隊員恢復體力，拯救隊員不被打倒。"
+可為隊員恢復HP，拯救隊員不被打倒。"
 29,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_044","【進攻職業】指格鬥士、槍術士、弓術士、雙劍士、咒術士、巴術士
 等職業，擁有較強的進攻本領，承擔著給予敵人傷害的任務。
 不過也同時容易集中仇恨，所以要注意避免引起敵人的攻擊。"

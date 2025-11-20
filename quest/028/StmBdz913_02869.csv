@@ -56,10 +56,10 @@ int32,str,str
 有沒有見過我女兒……
 你去問的話，他們也會樂於回答吧……"
 50,"TEXT_STMBDZ913_02869_ELDERLYPRIVATE02869_000_002","我女兒頭髮是金色，眼睛是栗色……
-因為任務前往了巴艾薩長城。
+因為任務前往了巴埃薩長城。
 拜託……拜託了，請找到我女兒！"
 51,"TEXT_STMBDZ913_02869_ELDERLYPRIVATE02869_000_003","我女兒頭髮是金色，眼睛是栗色……
-因為任務前往了巴艾薩長城。
+因為任務前往了巴埃薩長城。
 拜託……拜託了，請找到我女兒！"
 52,"TEXT_STMBDZ913_02869_SWETHRYKBROOKSTONE_000_010","這不是<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If><Else/></If><Else/></If>嗎？
 怎麼了？找我有什麼事？"
@@ -93,7 +93,7 @@ int32,str,str
 ……其實，他要找的女兒並不是失蹤，
 而是已經去世了。"
 64,"TEXT_STMBDZ913_02869_TWINADDERSONSTELOT02869_000_032","之後調查時發現，她被鐵面公卿的演講打動了心，
-參加了襲擊巴艾薩長城的計畫，
+參加了襲擊巴埃薩長城的計畫，
 並在那裡失去了性命。"
 65,"TEXT_STMBDZ913_02869_TWINADDERSONSTELOT02869_000_033","我們帶著回收的遺物，前往神拳痕尋找遺屬時，
 遇到了她的父親並確定了她的身份。"

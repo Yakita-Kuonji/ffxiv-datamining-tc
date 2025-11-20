@@ -5,8 +5,8 @@ int32,str,str
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
 A4調查平臺的斯提格瑪四想要冒險者幫忙籌備素材。"
-1,"TEXT_BANOMI124_04630_SEQ_01","和至福樂土遊樂區的調理研究型歐米克隆對話"
-2,"TEXT_BANOMI124_04630_SEQ_02","將委託物品交給調理研究型歐米克隆"
+1,"TEXT_BANOMI124_04630_SEQ_01","和至福樂土遊樂區的調理研究型奧密克戎對話"
+2,"TEXT_BANOMI124_04630_SEQ_02","將委託物品交給調理研究型奧密克戎"
 3,"TEXT_BANOMI124_04630_SEQ_03","向斯提格瑪四報告"
 4,"TEXT_BANOMI124_04630_SEQ_04",""
 5,"TEXT_BANOMI124_04630_SEQ_05",""
@@ -28,8 +28,8 @@ A4調查平臺的斯提格瑪四想要冒險者幫忙籌備素材。"
 21,"TEXT_BANOMI124_04630_SEQ_21",""
 22,"TEXT_BANOMI124_04630_SEQ_22",""
 23,"TEXT_BANOMI124_04630_SEQ_23",""
-24,"TEXT_BANOMI124_04630_TODO_00","和至福樂土遊樂區的調理研究型歐米克隆對話"
-25,"TEXT_BANOMI124_04630_TODO_01","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採掘<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給調理研究型歐米克隆</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給調理研究型歐米克隆</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給調理研究型歐米克隆</If><Else/></If></If></If>"
+24,"TEXT_BANOMI124_04630_TODO_00","和至福樂土遊樂區的調理研究型奧密克戎對話"
+25,"TEXT_BANOMI124_04630_TODO_01","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採掘<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給調理研究型奧密克戎</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區採集<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給調理研究型奧密克戎</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在至福樂土遊樂區釣<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給調理研究型奧密克戎</If><Else/></If></If></If>"
 26,"TEXT_BANOMI124_04630_TODO_02","向斯提格瑪四報告"
 27,"TEXT_BANOMI124_04630_TODO_03",""
 28,"TEXT_BANOMI124_04630_TODO_04",""
@@ -56,7 +56,7 @@ A4調查平臺的斯提格瑪四想要冒險者幫忙籌備素材。"
 本機想利用至福樂土當地的食材，
 重現龍族在故鄉捕食的生物的味道。"
 49,"TEXT_BANOMI124_04630_STIGMA4_000_001","因此本機想向同盟者<Highlight>ObjectParameter(1)</Highlight>尋求幫助。
-請前往至福樂土遊樂區和調理研究型歐米克隆會合，
+請前往至福樂土遊樂區和調理研究型奧密克戎會合，
 在確認完具體內容之後，儘快完成任務。"
 50,"TEXT_BANOMI124_04630_DELIVERER04630_000_010","沙沙沙……確認為同盟者<Highlight>ObjectParameter(1)</Highlight>……
 是關於重現龍族喜歡的味道的任務對吧？
@@ -80,11 +80,11 @@ A4調查平臺的斯提格瑪四想要冒險者幫忙籌備素材。"
 感謝你此次的協助。
 請從斯提格瑪四那裡領取報酬。"
 59,"TEXT_BANOMI124_04630_DELIVERER04630_000_022",""
-60,"TEXT_BANOMI124_04630_STIGMA4_000_030","本機已從調理研究型歐米克隆那裡收到了報告。
+60,"TEXT_BANOMI124_04630_STIGMA4_000_030","本機已從調理研究型奧密克戎那裡收到了報告。
 對同盟者<Highlight>ObjectParameter(1)</Highlight>的協助給予高度評價。"
 61,"TEXT_BANOMI124_04630_STIGMA4_000_031","雖然想要獲得來自龍星的食材很難，
-但通過巧妙的烹飪手法，在味道和口感上還是可以儘量還原的。
+但透過巧妙的烹飪手法，在味道和口感上還是可以儘量還原的。
 本機目前正在研究最佳的烹飪方法。"
 62,"TEXT_BANOMI124_04630_STIGMA4_000_032","不過即使找到了最佳的烹飪方法，還是會有問題。
-龍族身形巨大，要想讓它們吃飽，食材的需求量自然也很大。
+龍族身形巨大，若想讓它們吃飽，食材的需求量自然也很大。
 因此本機判斷，養殖技術的研究也勢在必行……"
